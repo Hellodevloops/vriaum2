@@ -1,183 +1,137 @@
 @extends('layouts.app')
 @section('content')
 
-        <!-- CONTENT START -->
-        <div class="page-content">
+        <!--page header section start-->
+        <section class="page-header position-relative overflow-hidden ptb-120 bg-dark" style="background: url('assets/img/page-header-bg.svg')no-repeat bottom left">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-12">
+                        <h1 class="display-5 fw-bold">Contact Us</h1>
+                        <p class="lead">We're here to listen and provide tailored solutions that meet your unique business needs</p>
+                    </div>
+                </div>
+                <div class="bg-circle rounded-circle circle-shape-3 position-absolute bg-dark-light right-5"></div>
+            </div>
+        </section>
+        <!--page header section end-->
 
-            <!-- INNER PAGE BANNER -->
-            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(images/banner/1.jpg);">
-                <div class="overlay-main site-bg-white opacity-01"></div>
-                <div class="container">
-                    <div class="wt-bnr-inr-entry">
-                        <div class="banner-title-outer">
-                            <div class="banner-title-name">
-                                <h2 class="wt-title">Contact Us</h2>
+        <!--contact us promo section start-->
+        <section class="contact-promo ptb-120">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
+                        <div class="contact-us-promo p-5 bg-white rounded-custom custom-shadow text-center d-flex flex-column h-100">
+                            <span class="fas fa-comment fa-3x text-primary"></span>
+                            <div class="contact-promo-info mb-4">
+                                <h5>Chat with us</h5>
+                                <p>Chat with Us Live for Real-time Assistance <strong>Monday to Friday</strong> from
+                                    <strong>9am to 6pm .</strong>
+                                </p>
                             </div>
+                            <a href="mailto:info@vriaum.com" class="btn btn-primary mt-auto">Chat with us</a>
                         </div>
-                        <!-- BREADCRUMB ROW -->                            
-                        
-                            <div>
-                                <ul class="wt-breadcrumb breadcrumb-style-2">
-                                    <li><a href="index.html">Home</a></li>
-                                    <li>Contact Us</li>
-                                </ul>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
+                        <div class="contact-us-promo p-5 bg-white rounded-custom custom-shadow text-center d-flex flex-column h-100">
+                            <span class="fas fa-envelope fa-3x text-primary"></span>
+                            <div class="contact-promo-info mb-4">
+                                <h5>Email Us</h5>
+                                <p>Simple drop us an email at <strong>info@vriaum.com</strong>
+                                    and you'll receive a reply within 24 hours</p>
                             </div>
-                        
-                        <!-- BREADCRUMB ROW END -->                        
+                            <a href="mailto:info@vriaum.com" class="btn btn-primary mt-auto">Email Us</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
+                        <div class="contact-us-promo p-5 bg-white rounded-custom custom-shadow text-center d-flex flex-column h-100">
+                            <span class="fas fa-phone fa-3x text-primary"></span>
+                            <div class="contact-promo-info mb-4">
+                                <h5>Give us a call</h5>
+                                <p>Give us a ring.Our Experts are standing by <strong>monday to friday</strong> from
+                                    <strong>9am to 6pm.</strong>
+                                </p>
+                            </div>
+                            <a href="tel:+1 646-479-5816" class="btn btn-primary mt-auto">+1 646-479-5816</a>
+                        </div>
                     </div>
                 </div>
             </div>
-            <!-- INNER PAGE BANNER END -->
-           
-            <!-- CONTACT FORM -->
-            <div class="section-full twm-contact-one">   
-                <div class="section-content">
-                    <div class="container">
-                            
-                        <!-- CONTACT FORM-->
-                        <div class="contact-one-inner">
+        </section>
+        <!--contact us promo section end-->
+
+        <!--contact us form start-->
+        <section class="contact-us-form pt-60 pb-120" style="background: url('assets/img/shape/contact-us-bg.svg')no-repeat center bottom">
+            <div class="container">
+                <div class="row justify-content-lg-between align-items-center">
+                    <div class="col-lg-6 col-md-8">
+                        <div class="section-heading">
+                            <h2>Talk to Our Team</h2>
+                            <p>Get in touch with our experts to explore innovative solutions that drive growth and efficiency.</p>
+                        </div>
+                        @if (session('success'))
+                        <div class="alert alert-success">
+                            {{ session('success') }}
+                        </div>
+                    @endif
+                    
+                    @if (session('error'))
+                        <div class="alert alert-danger">
+                            {{ session('error') }}
+                        </div>
+                    @endif
+                        <form class="cons-contact-form" method="POST" action="{{ route('contact.store') }}">
+                            @csrf
                             <div class="row">
-
-                                <div class="col-lg-6 col-md-12">
-                                    <div class="contact-form-outer">
-
-                                        <!-- TITLE START-->
-                                        <div class="section-head left wt-small-separator-outer">
-                                            <h2 class="wt-title">Send Us a Message</h2>
-                                            <p>We value your feedback, inquiries, and partnership opportunities. Please use the form below to reach out to us, and we will get back to you as soon as possible. </p>
-                                        </div>
-                                        @if (session('success'))
-    <div class="alert alert-success">
-        {{ session('success') }}
-    </div>
-@endif
-
-@if (session('error'))
-    <div class="alert alert-danger">
-        {{ session('error') }}
-    </div>
-@endif
-                                        <!-- TITLE END--> 
-                                        <form class="cons-contact-form" method="POST" action="{{ route('contact.store') }}">
-                                            @csrf
-                                            <div class="row">
-
-                                                <div class="col-lg-6 col-md-6">
-                                                    <div class="form-group mb-3">
-                                                        <input type="text" name="name" class="form-control" value="{{ old('name') }}" placeholder="Name">
-                                                        @error('name')
-                                                            <div class="alert alert-danger">{{ $message }}</div>
-                                                        @enderror
-                                                     </div>
-                                                </div>
-                                                
-                                                <div class="col-lg-6 col-md-6">
-                                                    <div class="form-group mb-3">
-                                                        <input type="email" name="email" class="form-control" value="{{ old('email') }}" placeholder="Email">
-                                                        @error('email')
-                                                            <div class="alert alert-danger">{{ $message }}</div>
-                                                        @enderror
-                                                    </div>
-                                                </div>
-                                                
-                                                <div class="col-lg-6 col-md-6">
-                                                    <div class="form-group mb-3">
-                                                        <input type="tel"  name="phone" class="form-control" value="{{ old('phone') }}" placeholder="Phone">
-                                                        @error('phone')
-                                                            <div class="alert alert-danger">{{ $message }}</div>
-                                                        @enderror
-                                                        <style>
-                                                            input::-webkit-outer-spin-button,
-                                                            input::-webkit-inner-spin-button {
-                                                              display: none;
-                                                            }
-                                                            input[type=number] { -moz-appearance: textfield;}
-                                                          </style>
-                                                    </div>
-                                                </div>
-                                                
-                                                <div class="col-lg-6 col-md-6">
-                                                    <div class="form-group mb-3">
-                                                        <input type="text" name="subject" class="form-control" value="{{ old('subject') }}" placeholder="Subject">
-                                                        @error('subject')
-                                                            <div class="alert alert-danger">{{ $message }}</div>
-                                                        @enderror
-                                            </div>
-                                                </div>
-                                                
-                                                <div class="col-lg-12">
-                                                    <div class="form-group mb-3">
-                                                        <textarea name="message" class="form-control" placeholder="Message">{{ old('message') }}</textarea>
-                                                @error('message')
-                                                    <div class="alert alert-danger">{{ $message }}</div>
-                                                @enderror
-                                                    </div>
-                                                </div>
-                                                
-                                                <div class="col-md-12">
-                                                    <button type="submit" class="site-button">Submit Now</button>
-                                                </div>
-                                                
-                                            </div>
-                                        </form>
-                                        
-                                    </div>
-                                </div> 
-
-                                <div class="col-lg-6 col-md-12">
-                                    <div class="contact-info-wrap">
-
-                                        <div class="contact-info">
-                                            <div class="contact-info-section">  
-                                                    
-                                                    <div class="c-info-column">
-                                                        <div class="c-info-icon"><i class=" fas fa-map-marker-alt"></i></div>
-                                                        <a href="https://www.google.com/maps?q=TMS LLC
-                                                        8 Campus Drive, Parsippany-Troy Hills, New Jersey 07054, United States">
-                                                            <p><span>Corporate Headquarters:</span>TMS LLC
-                                                                8 Campus Drive, Parsippany-Troy Hills, New Jersey 07054, United States </p>
-                                                          </a>
-                                                        
-                                                    </div>  
-
-                                                    <div class="c-info-column">
-                                                        <div class="c-info-icon custome-size"><i class="fas fa-mobile-alt"></i></div>
-                                                        <h3 class="twm-title">Feel free to contact us</h3>
-                                                        <p><a href="tel:201-254-7297">201-254-7297</a></p>
-                                                        <!-- <p><a href="tel:+216-761-8331">+2 900 234 3219</a></p> -->
-                                                    </div>
-
-                                                    <div class="c-info-column">
-                                                        <div class="c-info-icon"><i class="fas fa-envelope"></i></div>
-                                                        <h3 class="twm-title">Support</h3>
-                                                        <p><a href="mailto:info@linktms.com">info@linktms.com</a></p>
-                                                        
-                                                       
-                                                    </div>
-                                            
-                                            </div>
-                                        </div>
-
+                                <div class="col-sm-6">
+                                    <label for="firstName" class="mb-1">First name <span
+                                            class="text-danger">*</span></label>
+                                    <div class="input-group mb-3">
+                                        <input type="text" class="form-control" name="name" value="{{ old('name') }}"  id="firstName" required placeholder="First name" aria-label="First name">
+                                        @error('name')
+                                        <div class="alert alert-danger">{{ $message }}</div>
+                                        @enderror
                                     </div>
                                 </div>
-
+                                <div class="col-sm-6 ">
+                                    <label for="lastName" class="mb-1">Last name</label>
+                                    <div class="input-group mb-3">
+                                        <input type="text" name="subject" class="form-control" value="{{ old('subject') }}" placeholder="Last name" aria-label="Last name">
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <label for="phone" class="mb-1">Phone <span class="text-danger">*</span></label>
+                                    <div class="input-group mb-3">
+                                        <input type="tel"  name="phone" class="form-control" value="{{ old('phone') }}" required placeholder="Phone" aria-label="Phone">
+                                        @error('phone')
+                                        <div class="alert alert-danger">{{ $message }}</div>
+                                    @enderror
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <label for="email" class="mb-1">Email<span class="text-danger">*</span></label>
+                                    <div class="input-group mb-3">
+                                        <input type="email" name="email" class="form-control" value="{{ old('email') }}" required placeholder="Email" aria-label="Email">
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <label for="yourMessage" class="mb-1">Message <span class="text-danger">*</span></label>
+                                    <div class="input-group mb-3">
+                                        <textarea name="message" class="form-control" placeholder="Message">{{ old('message') }}</textarea>
+                                    </div>
+                                </div>
                             </div>
+                            <button type="submit" class="btn btn-primary mt-4">Get in Touch</button>
+                        </form>
+                    </div>
+                    <div class="col-lg-5 col-md-10">
+                        <div class="contact-us-img">
+                            <img src="assets/img/contact-us-img-2.svg" alt="contact us" class="img-fluid">
                         </div>
-                        
-                    </div>
-                    
-                </div>
-            </div>
-            <!-- <div class="gmap-outline">
-                <div class="google-map">
-                    <div style="width: 100%">
-                        <iframe height="460" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3304.8534521658976!2d-118.2533646842856!3d34.073270780600225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c6fd9829c6f3%3A0x6ecd11bcf4b0c23a!2s1363%20Sunset%20Blvd%2C%20Los%20Angeles%2C%20CA%2090026%2C%20USA!5e0!3m2!1sen!2sin!4v1620815366832!5m2!1sen!2sin"></iframe>
                     </div>
                 </div>
             </div>
-       -->
+        </section>
+        <!--contact us form end-->
 
-        </div>
-        <!-- CONTENT END -->
 
    @endsection

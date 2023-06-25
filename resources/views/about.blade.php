@@ -1,709 +1,606 @@
 @extends('layouts.app')
 @section('content')
 
+        <!--our story section start-->
+        <section class="our-story-section pt-120 pb-120" style="background: url('assets/img/shape/dot-dot-wave-shape.svg')no-repeat left bottom">
             <div class="container">
-                <div class="h-page-6-getjobs-wrap">
-                    <div class="row mt-5">
-
-                        <div class="col-lg-7 col-md-12 hide-in-mobile">
-                            <div class="h-page-6-getjobs-left">
-
-                                <div class="twm-media">
-
-                                   
-                                    <div class=""><img src="{{ asset('images/boy-large.png')}}"alt=""></div>
-                                    <div class="twm-media-bg-circle2"></div>
-                                    <div class="twm-media-bg-circle3">
-                                        <div class="rotate-center">
-                                            <span class="ring1"></span>
-                                            <span class="ring2"></span>
-
-                                            <span class="ring3"></span>
-                                        </div>
-                                    </div>
-                                </div>
-
-
-                            </div>
-                        </div>
-
-                        <div class="col-lg-5 col-md-12">
-                            <div class="h-page-6-getjobs-right">
-                                <!-- TITLE START-->
-                                <div class="section-head left wt-small-separator-outer">
-                                    <div class="wt-small-separator site-text-primary">
-                                        <div> </div>
-                                    </div>
-                                    <h2 class="wt-title"><span class="site-text-primary" style="text-align: center;">Technology Management
-                                            Solutions<span> </h2>usiness with
-                                                <div style="font-size: 17px;">  <p >Technology Management Solutions (TMS) is a digital product engineering company;
-                                                    we help our clients design and build innovative products and solutions for
-                                                    modern digital experience. Working with our clients at various stages from
-                                                    conception to commercialization of software products.
-            
-                                                </p>
-
-                                                <p> We partner in providing technical and non-technical expertise. Our engagement
-                                                    models are designed to accelerate the process to shorten the product development
-                                                    life cycle.Headquartered in New Jersey, we operate onsite and offshore centers to cater to clients across industries, including Financial Services, Retail, Medical, Entertainment, Manufacturing, and Automotive. Our deep industry knowledge and global presence enable us to deliver high-quality solutions that drive business growth and surpass customer expectations.
-
-                                                    Choose TMS as your trusted digital product engineering partner and embark on a journey of innovation and success. <a href="contact" class="site-text-orange">Contact us</a> today to discuss how we can transform your ideas into reality.
-                                                </p>
-                                            </div>
-
-                                   
-                                    
-
-                                </div>
-                                <!-- TITLE END-->
-                                <!-- <div class="twm-read-more">
-                                <a href="about-1.html" class="site-button">Know More About Us</a>
-                            </div>                -->
-
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-            <!-- intro end -->
-
-<!-- Our product RPE START -->
-{{-- <div class="section-full p-t30 p-b90 site-bg-white twm-companies-wrap twm-companies-wrap-h-page-7 pos-relative">
-<div class="twm-companies-wrap-bg-block2"></div>
-
-<div class="section-head center wt-small-separator-outer content-white">
-    <div class="wt-small-separator site-text-primary">
-        <div>Our Product</div>
-    </div>
-    <h2 class="wt-title">"Resume Parser Engine"</h2>
-</div> --}}
-
-<!-- Our product RPE END -->
-            <!-- HOW IT WORK SECTION START -->
-            {{-- <div class="section-full p-t120 p-b90 site-bg-white twm-how-it-work-area2">
-
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-5 col-md-12">
-                            <!-- TITLE START-->
-                            <div class="section-head left wt-small-separator-outer">
-                                <div class="wt-small-separator site-text-primary">
-                                    <div>How It Works:</div>
-                                </div>
-                                <h2 class="wt-title">Resume Parser System</h2>
-                                <h3 class="wt-title">Follow our steps we will help you.</h3>
-
-                            </div>
-                            <ul class="description-list">
-                                <li>
-                                    <i class="feather-check"></i>
-                                    You Shall Have All Candidate Data In One Place
+                <div class="row justify-content-between">
+                    <div class="col-lg-5 col-md-12 order-lg-1">
+                        <div class="section-heading sticky-sidebar">
+                            <h4 class="h5 text-primary">Crafting Future-Focused Solutions</h4>
+                            <h2>About Us</h2>
+                            <p>
+                                VriAum Technologies LLC is passionate about leveraging technology to drive innovation
+                                and empower businesses to thrive in the digital age. With a deep understanding of the
+                                ever-evolving software landscape and a team of highly skilled professionals, we are
+                                dedicated to delivering cutting-edge solutions that meet our clients' unique needs.
+                            </p>
+                            <p>
+                                Vriaum software solutions span across a wide range of domains, including enterprise
+                                applications, web and mobile development, internet of things and more. Whether our
+                                clients require a simple mobile app or a complex
+                                enterprise system, we have the expertise to deliver scalable, secure, and user-friendly
+                                software solutions that align with their unique requirements
+                            </p>
+                            <ul class="list-unstyled d-flex flex-wrap list-two-col mt-4 mb-4">
+                                <li class="py-1">
+                                    <i class="fas fa-check-circle me-2 text-primary"></i>
+                                    Discovery
                                 </li>
-                                <li>
-                                    <i class="feather-check"></i>
-                                    Maintains A Standard Format
+                                <li class="py-1">
+                                    <i class="fas fa-check-circle me-2 text-primary"></i>
+                                    Planning
                                 </li>
-                                <li>
-                                    <i class="feather-check"></i>
-                                    Efficient Data Entry & Reduced Margin Of Error
+                                <li class="py-1">
+                                    <i class="fas fa-check-circle me-2 text-primary"></i>Event
+                                    Execute
                                 </li>
-                                <li>
-                                    <i class="feather-check"></i>
-                                    Saves You Time
+                                <li class="py-1">
+                                    <i class="fas fa-check-circle me-2 text-primary"></i>
+                                    Deliver
                                 </li>
                             </ul>
-                            <!-- TITLE END-->
                         </div>
-                        <div class="col-lg-7 col-md-12">
-                            <div class="twm-w-process-steps-2-wrap">
-                                <div class="row">
-                                    <div class="col-xl-6 col-lg-6 col-md-6">
-                                        <div class="twm-w-process-steps-2">
-                                            <div class="twm-w-pro-top bg-clr-sky-light bg-sky-light-shadow">
-                                                <span class="twm-large-number text-clr-sky">01</span>
-                                                <div class="twm-media">
-                                                    <span><img src="{{('images/work-process/icon1.png')}}" alt="icon1"></span>
-                                                </div>
-                                                <h4 class="twm-title">Register<br>Your Account</h4>
-                                                <!-- <p>You need to create an account to find the best and preferred job.</p> -->
-                                            </div>
-
-                                        </div>
-                                    </div>
-
-                                    <div class="col-xl-6 col-lg-6 col-md-6">
-                                        <div class="twm-w-process-steps-2">
-                                            <div class="twm-w-pro-top bg-clr-yellow-light bg-yellow-light-shadow">
-                                                <span class="twm-large-number text-clr-yellow">02</span>
-                                                <div class="twm-media">
-                                                    <span><img src="{{('images/work-process/icon4.png')}}" alt="icon1"></span>
-                                                </div>
-                                                <h4 class="twm-title">Import<br>
-                                                    Data Files</h4>
-                                                <!-- <p>You need to create an account to find the best and preferred job.</p> -->
-                                            </div>
-
-                                        </div>
-                                    </div>
-
-                                    <div class="col-xl-6 col-lg-6 col-md-6">
-                                        <div class="twm-w-process-steps-2">
-                                            <div class="twm-w-pro-top bg-clr-pink-light bg-pink-light-shadow">
-                                                <span class="twm-large-number text-clr-pink">03</span>
-                                                <div class="twm-media">
-                                                    <span><img src="{{('images/work-process/icon3.png')}}" alt="icon1"></span>
-                                                </div>
-                                                <h4 class="twm-title">Extract<br>Your Data </h4>
-                                                <!-- <p>You need to create an account to find the best and preferred job.</p> -->
-                                            </div>
-
-                                        </div>
-                                    </div>
-
-                                    <div class="col-xl-6 col-lg-6 col-md-6">
-                                        <div class="twm-w-process-steps-2">
-                                            <div class="twm-w-pro-top bg-clr-green-light bg-clr-light-shadow">
-                                                <span class="twm-large-number text-clr-green">04</span>
-                                                <div class="twm-media">
-                                                    <span><img src="{{('images/work-process/icon3.png')}}" alt="icon1"></span>
-                                                </div>
-                                                <h4 class="twm-title">Get<br>Structure Resumes</h4>
-                                                <!-- <p>You need to create an account to find the best and preferred job.</p> -->
-                                            </div>
-
-                                        </div>
-                                    </div>
-
+                    </div>
+                    <div class="col-lg-6 col-md-12 order-lg-0">
+                        <div class="story-grid-wrapper position-relative mt-5">
+                            <!--animated shape start-->
+                            <ul class="position-absolute animate-element parallax-element shape-service d-none d-lg-block">
+                                <li class="layer" data-depth="0.02">
+                                    <img src="assets/img/color-shape/image-2.svg" alt="shape" class="img-fluid position-absolute color-shape-2 z-5">
+                                </li>
+                                <li class="layer" data-depth="0.03">
+                                    <img src="assets/img/color-shape/feature-3.svg" alt="shape" class="img-fluid position-absolute color-shape-3">
+                                </li>
+                            </ul>
+                            <!--animated shape end-->
+                            <div class="story-grid rounded-custom bg-dark overflow-hidden position-relative">
+                                <div class="story-item bg-light-subtle border">
+                                    <h3 class="display-5 fw-bold mb-1 text-success">550K+</h3>
+                                    <h6 class="mb-0">Active Users</h6>
+                                </div>
+                                <div class="story-item bg-white border">
+                                    <h3 class="display-5 fw-bold mb-1 text-primary">250+</h3>
+                                    <h6 class="mb-0">Team Members</h6>
+                                </div>
+                                <div class="story-item bg-white border">
+                                    <h3 class="display-5 fw-bold mb-1 text-dark">$20M+</h3>
+                                    <h6 class="mb-0">Revenue Per/Year</h6>
+                                </div>
+                                <div class="story-item bg-light-subtle border">
+                                    <h3 class="display-5 fw-bold mb-1 text-warning">8 Years</h3>
+                                    <h6 class="mb-0">In Business</h6>
+                                </div>
+                                <div class="story-item bg-light-subtle border">
+                                    <h3 class="display-5 fw-bold mb-1 text-danger">425+</h3>
+                                    <h6 class="mb-0">Clients Worldwide</h6>
+                                </div>
+                                <div class="story-item bg-white border">
+                                    <h3 class="display-5 fw-bold mb-1 text-primary">855+</h3>
+                                    <h6 class="mb-0">Projects Completed</h6>
                                 </div>
                             </div>
                         </div>
                     </div>
-
-
-
-                    <div class="twm-how-it-work-section">
-
-                    </div>
-                </div>
-
-            </div> --}}
-            <!-- HOW IT WORK SECTION END -->
-
-            <!-- EXPLORE NEW LIFE START -->
-            {{-- <div class="section-full p-t120 p-b120 twm-explore-area bg-cover" style="background-image: url{{('images/background/bg-1jpg')}};">
-                <div class="container">
-
-                    <div class="section-content">
-                        <div class="row">
-
-                            <div class="col-lg-4 col-md-12">
-                                <div class="twm-explore-media-wrap">
-                                    <div class="twm-media">
-                                        <img src="{{('images/gir-large.png')}}" alt="">
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-8 col-md-12">
-                                <div class="twm-explore-content-outer">
-                                    <div class="twm-explore-content">
-
-                                        <div class="twm-l-line-1"></div>
-                                        <div class="twm-l-line-2"></div>
-
-                                        <div class="twm-r-circle-1"></div>
-                                        <div class="twm-r-circle-2"></div>
-
-                                        <div class="twm-title-small">Explore New Technologies</div>
-                                        <div class="twm-title-large">
-                                            <h2> Be a part of Revolution. </h2>
-                                            <H3>Get your free Resume Parser Demo Today!</H3>
-                                            <!-- <p>Gknkx</p> -->
-                                        </div>
-                                        <div class="twm-upload-file">
-                                            <button type="button" class="site-button">Upload Your Resume Here <i
-                                                    class="feather-upload"></i></button>
-                                        </div>
-
-
-                                    </div>
-                                    <div class="twm-bold-circle-right"></div>
-                                    <div class="twm-bold-circle-left"></div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-                </div>
-            </div> --}}
-            <!-- EXPLORE NEW LIFE END -->
-
-            <!-- Jobs Category START -->
-            <div class="section-full p-t20 p-b90 site-bg-white job-categories-home-5-wrap twm-bdr-bottom-1">
-                <div class="container">
-
-                    <!-- TITLE START-->
-                    <div class="section-head center wt-small-separator-outer">
-                        <div class="wt-small-separator site-text-primary">
-                            <div>Services We Provide</div>
-                        </div>
-                        <h4 class="wt-title hide-in-mobile" style="font-size:40px; font-weight: 300;">Find the worth of your demand under one-roof.</h4>
-                    </div>
-                    <!-- TITLE END-->
-
-                </div>
-
-                <div class="section-content twm-jobs-grid-h5-section-outer hide-in-mobile">
-                    <div class="twm-jobs-grid-h5-section overlay-wraper"
-                        style="background-image: url{{ asset('images/home-5/cate-bg.jpg')}};">
-                        <div class="overlay-main site-bg-primary opacity-09"></div>
-
-                        <div class="swiper-container category-5-slider">
-                            <div class="swiper-wrapper">
-
-
-
-                             
-                                 <!--4-->
-                                 <div class="swiper-slide">
-                                      <a href="{{ route ('software')}}">
-                                    <div class="job-categories-home-5">
-                                        <div class="twm-media cat-bg-clr-4">
-                                            <div class="flaticon-dashboard"></div>
-                                        </div>
-                                        <div class="twm-content">
-                                            <a href="{{ route ('software')}}">Software Applications</a>
-                                            <div class="twm-jobs-available"></div>
-
-                                        </div>
-                                    </div>
-                                </a>
-                                </div>
-
-                                      <!--10-->
-                                      <div class="swiper-slide">
-                                          <a href="{{ route ('iot')}}">
-                                        <div class="job-categories-home-5">
-                                            <div class="twm-media cat-bg-clr-2">
-                                                <div class="flaticon-coding"></div>
-                                            </div>
-                                            <div class="twm-content">
-                                                <a href="{{ route ('iot')}}">IOT <br>Integration</a>
-                                                <div class="twm-jobs-available"></div>
-    
-                                            </div>
-                                        </div>
-                                    </a>
-                                    </div>
-
-                                <!--3-->
-                                {{-- <div class="swiper-slide">
-                                      <a href="{{ route ('software')}}">
-                                    <div class="job-categories-home-5">
-                                        <div class="twm-media cat-bg-clr-2">
-                                            <div class="flaticon-bars"></div>
-                                        </div>
-                                        <div class="twm-content">
-                                            <a href="{{ route ('software')}}">Data Warehouse and engineering</a>
-                                            <div class="twm-jobs-available"></div>
-
-                                        </div>
-                                    </div>
-                                </a>
-                                </div>  --}}
-                                   <!--2-->
-                                   <div class="swiper-slide">
-                                      <a href="{{ route ('staffing')}}">
-                                    <div class="job-categories-home-5">
-                                        <div class="twm-media cat-bg-clr-3">
-                                            <div class="flaticon-customer-support"></div>
-                                        </div>
-                                        <div class="twm-content">
-                                            <a href="{{ route ('staffing')}}">Staffing <br> Services</a>
-                                            <div class="twm-jobs-available"></div>
-
-                                        </div>
-                                    </div>
-                                </a>
-                                </div>
-
-                               
-
-
-
-
-                                <!--7-->
-                                <div class="swiper-slide">
-                                      <a href="{{ route ('ai_ml')}}">
-                                <div class="job-categories-home-5">
-                                    <div class="twm-media cat-bg-clr-2">
-                                        <div class="flaticon-user"></div>
-                                    </div>                                   
-                                    <div class="twm-content">
-                                        <a href="{{ route ('ai_ml')}}">AI and ML Advancement</a>
-                                        <div class="twm-jobs-available"></div>
-                                        
-                                    </div>                               
-                                </div>
-                            </a>
-                              </div>
-
-                                <!--8-->
-                                <div class="swiper-slide">
-                                      <a href="{{ route ('di_bi')}}">
-                                    <div class="job-categories-home-5">
-                                        <div class="twm-media cat-bg-clr-4">
-                                            <div class="flaticon-repair"></div>
-                                        </div>
-                                        <div class="twm-content">
-                                            <a href="{{ route ('di_bi')}}">BI & Data Intelligence </a>
-                                            <div class="twm-jobs-available"></div>
-
-                                        </div>
-                                    </div>
-                                </a>
-                                </div>
-                                <!-- Add Pagination -->
-                                {{-- <div class="swiper-button-prev"></div>
-                                <div class="swiper-button-next"></div> --}}
-                            </div>
-
-                        </div>
-                    </div>
-
-                </div>
-                <!-- job categories and Recruiters END -->
-
-                {{-- services view inmobile strat --}}
-                <div class="section-full p-t30 p-b30 site-bg-gray twm-job-categories-area2 hide-in-desktop">
-                    <!-- TITLE START-->
-                    <!-- <div class="section-head center wt-small-separator-outer">
-                        <div class="wt-small-separator site-text-primary">
-                           <div>Jobs by Categories</div>                                
-                        </div>
-                        <h2 class="wt-title">Choose Your Desire Category</h2>
-                    </div>                   -->
-                    <!-- TITLE END--> 
-                    
-                    <div class="container">
-    
-                        <div class="twm-job-categories-section-2">
-                           
-                            <div class="job-categories-style1 m-b30">
-                                <div class="row">
-                                
-                                    <!-- COLUMNS 1 --> 
-                                    <div class="col-lg-4 col-md-5">
-                                      
-                                        <a href="{{ route ('staffing')}}">
-                                        <div class="job-categories-block-2 m-b30">
-                                            <div class="twm-media">
-                                              <div><img src="{{ asset('images/servicesimg/S.permanent.png')}}" alt=""></div>
-                                            </div>                                   
-                                            <div class="twm-content">
-                                                <div class="twm-jobs-available"><h3 class="site-text-primary mt-2">Staffing Management </h3></div>
-                                              
-                                                {{-- <a href=""><p>Help find career employees for technology and business requirements that match the skills required and organizational values.</p></a> --}}
-                                            </div>                             
-                                        </div>
-                                    </a>
-                                    </div>
-    
-                                    <div class="col-lg-4 col-md-5">
-                                         <a href="{{ route ('iot')}}">
-                                        <div class="job-categories-block-2 m-b30">
-                                            <div class="twm-media">
-                                              <div><img src="{{ asset('images/servicesimg/iot2.png')}}" alt=""></div>
-                                            </div>                                   
-                                            <div class="twm-content">
-                                                <div class="twm-jobs-available"><h3 class="site-text-primary mt-2">IOT Integration</h3></div>
-                                              
-                                                {{-- <a href=""><p>Help find career employees for technology and business requirements that match the skills required and organizational values.</p></a> --}}
-                                            </div>                               
-                                        </div></a>
-                                    </div>
-
-                                    <div class="col-lg-4 col-md-5">
-                                         <a href="{{ route ('ai_ml')}}">
-                                        <div class="job-categories-block-2 m-b30">
-                                            <div class="twm-media">
-                                              <div><img src="{{ asset('images/servicesimg/ai2.png')}}" alt=""></div>
-                                            </div>                                   
-                                            <div class="twm-content">
-                                                <div class="twm-jobs-available"><h3 class="site-text-primary mt-2">Artificial intelligence and Machine Learning  </h3></div>
-                                              
-                                                {{-- <a href=""><p>Help find career employees for technology and business requirements that match the skills required and organizational values.</p></a> --}}
-                                            </div>                               
-                                        </div></a>
-                                    </div>
-
-                                    <div class="col-lg-4 col-md-5">
-                                         <a href="{{ route ('di_bi')}}">
-                                        <div class="job-categories-block-2 m-b30">
-                                            <div class="twm-media">
-                                              <div><img src="{{ asset('images/servicesimg/BI.png')}}" alt=""></div>
-                                            </div>                                   
-                                            <div class="twm-content">
-                                                <div class="twm-jobs-available"><h3 class="site-text-primary mt-2">Data & Business Intelligence</h3></div>
-                                              
-                                                {{-- <a href=""><p>Help find career employees for technology and business requirements that match the skills required and organizational values.</p></a> --}}
-                                            </div>                               
-                                        </div></a>
-                                    </div>
-
-                                    <div class="col-lg-4 col-md-5">
-                                         <a href="{{ route ('dw_eng')}}">
-                                        <div class="job-categories-block-2 m-b30">
-                                            <div class="twm-media">
-                                              <div><img src="{{ asset('images/servicesimg/dw3.png')}}" alt=""></div>
-                                            </div>                                   
-                                            <div class="twm-content">
-                                                <div class="twm-jobs-available"><h3 class="site-text-primary mt-2">Data Warehouse & Intelligence</h3></div>
-                                              
-                                                {{-- <a href=""><p>Help find career employees for technology and business requirements that match the skills required and organizational values.</p></a> --}}
-                                            </div>                               
-                                        </div></a>
-                                    </div>
-
-                                    <div class="col-lg-4 col-md-5">
-                                         <a href="{{ route ('software')}}">
-                                        <div class="job-categories-block-2 m-b30">
-                                            <div class="twm-media">
-                                              <div><img src="{{ asset('images/servicesimg/API.png')}}" alt=""></div>
-                                            </div>                                   
-                                            <div class="twm-content">
-                                                <div class="twm-jobs-available"><h3 class="site-text-primary mt-2">Software Application Development</h3></div>
-                                              
-                                                {{-- <a href=""><p>Help find career employees for technology and business requirements that match the skills required and organizational values.</p></a> --}}
-                                            </div>                               
-                                        </div></a>
-                                    </div>
-                                    
-                                    
-                                                                       
-    
-                                </div>
-                            </div>
-    
-                            <!-- <div class="text-center job-categories-btn">
-                                <a href="job-list.html" class=" site-button">All Categories</a>
-                            </div> -->
-    
-                        </div>
-    
-                    </div>
-    
-                </div>
-                {{-- services view in desktop ends --}}
-
-                <!-- TOP COMPANIES START -->
-                <div class="section-full p-t120 p-b90 site-bg-white twm-companies-wrap twm-companies-wrap-h-page-7 pos-relative"
-                    style="margin-top: 180px;">
-                    <div class="twm-companies-wrap-bg-block2"></div>
-                    <!-- TITLE START-->
-                    <div class="section-head center wt-small-separator-outer content-white">
-                        <div class="wt-small-separator site-text-primary">
-                            <div>Top Companies</div>
-                        </div>
-                        <h2 class="wt-title">Get hired in top companies</h2>
-                    </div>
-                    <!-- TITLE END-->
-
-                    <div class="container  block-background-white">
-                        <div class="twm-companies-h-page-7">
-                            <div class="section-content">
-                                <div class="owl-carousel home-client-carousel3 owl-btn-vertical-center">
-
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                                <a href=""><img src="{{ asset('images/client-logo/alight.png')}}"
-                                                        alt=""></a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                                <a href=""><img src="{{ asset('images/client-logo/conduent.png')}}"
-                                                        alt=""></a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                                <a href=""><img src="{{ asset('images/client-logo/dtcc.png')}}"
-                                                        alt=""></a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                                <a href=""><img src="{{ asset('images/client-logo/Ebix.png')}}"
-                                                        alt=""></a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                                <a href=""><img src="{{ asset('images/client-logo/mastercard.png')}}"
-                                                        alt=""></a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                                <a href=""><img src="{{ asset('images/client-logo/scholastic.png')}}"
-                                                        alt=""></a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                                <a href=""><img src="{{ asset('images/client-logo/synchrony.png')}}"
-                                                        alt=""></a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                 
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                                <a href=""><img src="{{ asset('images/client-logo/uzio.png')}}"
-                                                        alt=""></a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="twm-company-approch2-outer">
-                                <div class="twm-company-approch2">
-                                    <div class="row">
-
-                                        <!--block 1-->
-                                        <div class="col-lg-4 col-md-4">
-                                            <div class="counter-outer-two">
-                                                <div class="icon-content">
-                                                    <div class="tw-count-number site-text-primary">
-                                                        <span class="counter">5</span>M+
-                                                    </div>
-                                                    <p class="icon-content-info">Million daily active users</p>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <!--block 2-->
-                                        <div class="col-lg-4 col-md-4">
-                                            <div class="counter-outer-two">
-                                                <div class="icon-content">
-                                                    <div class="tw-count-number site-text-primary">
-                                                        <span class="counter">9</span>K+
-                                                    </div>
-                                                    <p class="icon-content-info">Open job positions</p>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <!--block 3-->
-                                        <div class="col-lg-4 col-md-4">
-                                            <div class="counter-outer-two">
-                                                <div class="icon-content">
-                                                    <div class="tw-count-number site-text-primary">
-                                                        <span class="counter">2</span>M+
-                                                    </div>
-                                                    <p class="icon-content-info">Million stories shared</p>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-                <!-- TOP COMPANIES END -->
-
-
-            </div>
-            <!-- Jobs Category end-->
-            
-            <!-- Newsletter Subscriber SECTION START -->
-            <div class="section-full p-t60 site-bg-white twm-new-sub-section-wrap site-bg-cover"
-                style="background-image: url{{ asset('images/dotted-map.png')}};">
-
-                <div class="container">
-
-                    <div class="section-content">
-                        <div class="row">
-                            <div class="col-lg-3 col-md-12">
-                                <div class="twm-nl-map-media-wrap hide-in-mobile">
-                                    <div class="twm-nl-map-pointer">
-                                        <div class="twm-nl-map-pic nw-pic1 bounce">
-                                            <img src="{{ asset('images/nl-pic/pic1.jpg')}}" alt="#">
-                                        </div>
-                                        <div class="twm-nl-map-pic nw-pic2 bounce2">
-                                            <img src="{{ asset('images/nl-pic/pic2.jpg')}}" alt="#">
-                                        </div>
-                                        <div class="twm-nl-map-pic nw-pic3 bounce">
-                                            <img src="{{ asset('images/nl-pic/pic3.jpg')}}" alt="#">
-                                        </div>
-                                        <div class="twm-nl-map-pic nw-pic4 bounce2">
-                                            <img src="{{ asset('images/nl-pic/pic4.jpg')}}" alt="#">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-12">
-                                <div class="twm-sub-2-section site-bg-cover"
-                                    style="background-image: url{{ asset('images/nwl-bg.png')}};">
-                                    <h3 class="twm-sub-title"></h3>
-                                    <div class="twm-sub-discription">Get the latest technologies to manage and enhance
-                                        your work with us. Unlock exclusive updates, insider insights, and exciting opportunities.</div>
-                                    <form>
-                                        <div class="form-group">
-                                            <input name="news-letter" class="form-control"
-                                                placeholder="Enter Your Email Address" type="text">
-                                        </div>
-                                        <button class="site-button twm-sub-btn white">Submit Here</button>
-                                    </form>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-12">
-                                <div class="twm-nl-map-media-wrap hide-in-mobile">
-                                    <div class="twm-nl-map-pointer">
-                                        <div class="twm-nl-map-pic nw-pic5 bounce">
-                                            <img src="{{ asset('images/nl-pic/pic5.jpg')}}" alt="#">
-                                        </div>
-                                        <div class="twm-nl-map-pic nw-pic6 bounce2">
-                                            <img src="{{ asset('images/nl-pic/pic6.jpg')}}" alt="#">
-                                        </div>
-                                        <div class="twm-nl-map-pic nw-pic7 bounce">
-                                            <img src="{{ asset('images/nl-pic/pic7.jpg')}}" alt="#">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
                 </div>
             </div>
-            <!-- Newsletter Subscriber TABLE SECTION END -->
+        </section>
+        <!--our story section end-->
+
+        <!--feature section two start-->
+        <section class="feature-section-two pt-120 "
+        style="background: url('assets/img/hero-9-img.png')no-repeat center center;">
+        <div class="container">
+            <div class="row align-items-center justify-content-between">
+                <div class="col-lg-5 col-md-12">
+                    <div class="section-heading" data-aos="fade-up">
+                        <h4 class="h5 text-primary">Our Features</h4>
+                        <h2>Solutions for Your Business Needs</h2>
+                        <p>VriAum Technologies LLC deep industry expertise, cost-effective delivery methodology,
+                            highly skilled engineers and professionals, focus on quality standards, and flexibility
+                            in meeting your specific business requirements effectively eliminate risk and provide
+                            the foundation for our shared success.</p>
+                        <ul class="list-unstyled mt-5">
+                            <li class="d-flex align-items-start mb-4">
+                                <div class="icon-box bg-primary rounded me-4">
+                                    <i class="fas fa-bezier-curve text-white"></i>
+                                </div>
+                                <div class="icon-content">
+                                    <h3 class="h5">CUSTOMIZED SOLUTIONS</h3>
+                                    <p>Unique requirements
+                                    </p>
+                                </div>
+                            </li>
+                            <li class="d-flex align-items-start mb-4">
+                                <div class="icon-box bg-danger rounded me-4">
+                                    <i class="fas fa-check text-white" aria-hidden="true"></i>
+                                </div>
+                                <div class="icon-content">
+                                    <h3 class="h5">QUALITY ASSURANCE</h3>
+                                    <p>Quality standards
+                                    </p>
+                                </div>
+                            </li>
+                            <li class="d-flex align-items-start mb-4">
+                                <div class="icon-box bg-success rounded me-4">
+                                    <i class="fas fa-clock text-white"></i>
+                                </div>
+                                <div class="icon-content">
+                                    <h3 class="h5">TIMELY DELIVERY</h3>
+                                    <p>Projects Within Timelines
+                                    </p>
+                                </div>
+                            </li>
+                            <li class="d-flex align-items-start mb-4">
+                                <div class="icon-box bg-info rounded me-4">
+                                    <i class="fas fa-envelope-open text-white"></i>
+                                </div>
+                                <div class="icon-content">
+                                    <h3 class="h5">END TO END SUPPORT</h3>
+                                    <p>Ensure smooth operations
+                                    </p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-7">
+                    <div class="feature-img-wrap position-relative d-flex flex-column align-items-end">
+                        <ul class="img-overlay-list list-unstyled position-absolute">
+                            <li class="d-flex align-items-center bg-white rounded shadow-sm p-3" data-aos="fade-up"
+                                data-aos-delay="50">
+                                <i class="fas fa-check bg-primary text-white rounded-circle"></i>
+                                <h6 class="mb-0">Software Development</h6>
+                            </li>
+                            <li class="d-flex align-items-center bg-white rounded shadow-sm p-3" data-aos="fade-up"
+                                data-aos-delay="100">
+                                <i class="fas fa-check bg-primary text-white rounded-circle"></i>
+                                <h6 class="mb-0">App Development</h6>
+                            </li>
+                            <li class="d-flex align-items-center bg-white rounded shadow-sm p-3" data-aos="fade-up"
+                            data-aos-delay="100">
+                            <i class="fas fa-check bg-primary text-white rounded-circle"></i>
+                            <h6 class="mb-0">Recruitment</h6>
+                        </li>
+                            <li class="d-flex align-items-center bg-white rounded shadow-sm p-3" data-aos="fade-up"
+                                data-aos-delay="150">
+                                <i class="fas fa-check bg-primary text-white rounded-circle"></i>
+                                <h6 class="mb-0">IOT</h6>
+                            </li>
+                        </ul>
+                        <img src="assets/img/feature-img3.jpg" alt="feature image" class="img-fluid rounded-custom"
+                            data-aos="fade-up">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        <!--feature section two end-->
+
+        <!--team section start-->
+        <section id="our-team" class="team-section ptb-120">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="section-heading text-center">
+                            <h5 class="h6 text-primary">Our Team</h5>
+                            <h2>The People Behind Quiety</h2>
+                            <p>Intrinsicly strategize cutting-edge before interoperable applications incubate extensive
+                                expertise through integrated intellectual capital. </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-6">
+                        <div class="team-single-wrap mb-5">
+                            <div class="team-img rounded-custom">
+                                <img src="assets/img/team/team-1.jpg" alt="team" class="img-fluid position-relative">
+                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="team-info mt-4 text-center">
+                                <h5 class="h6 mb-1">John Sullivan</h5>
+                                <p class="text-muted small mb-0">Front End Developer</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="team-single-wrap mb-5">
+                            <div class="team-img rounded-custom">
+                                <img src="assets/img/team/team-2.jpg" alt="team" class="img-fluid position-relative">
+                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="team-info mt-4 text-center">
+                                <h5 class="h6 mb-1">John Sullivan</h5>
+                                <p class="text-muted small mb-0">Front End Developer</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="team-single-wrap mb-5">
+                            <div class="team-img rounded-custom">
+                                <img src="assets/img/team/team-3.jpg" alt="team" class="img-fluid position-relative">
+                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="team-info mt-4 text-center">
+                                <h5 class="h6 mb-1">John Sullivan</h5>
+                                <p class="text-muted small mb-0">Front End Developer</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="team-single-wrap mb-5">
+                            <div class="team-img rounded-custom">
+                                <img src="assets/img/team/team-4.jpg" alt="team" class="img-fluid position-relative">
+                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="team-info mt-4 text-center">
+                                <h5 class="h6 mb-1">John Sullivan</h5>
+                                <p class="text-muted small mb-0">Front End Developer</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="team-single-wrap mb-5">
+                            <div class="team-img rounded-custom">
+                                <img src="assets/img/team/team-5.jpg" alt="team" class="img-fluid position-relative">
+                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="team-info mt-4 text-center">
+                                <h5 class="h6 mb-1">John Sullivan</h5>
+                                <p class="text-muted small mb-0">Front End Developer</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="team-single-wrap mb-5">
+                            <div class="team-img rounded-custom">
+                                <img src="assets/img/team/team-6.jpg" alt="team" class="img-fluid position-relative">
+                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="team-info mt-4 text-center">
+                                <h5 class="h6 mb-1">John Sullivan</h5>
+                                <p class="text-muted small mb-0">Front End Developer</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="team-single-wrap mb-5">
+                            <div class="team-img rounded-custom">
+                                <img src="assets/img/team/team-7.jpg" alt="team" class="img-fluid position-relative">
+                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="team-info mt-4 text-center">
+                                <h5 class="h6 mb-1">John Sullivan</h5>
+                                <p class="text-muted small mb-0">Front End Developer</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="team-single-wrap mb-5">
+                            <div class="team-img rounded-custom">
+                                <img src="assets/img/team/team-8.jpg" alt="team" class="img-fluid position-relative">
+                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="team-info mt-4 text-center">
+                                <h5 class="h6 mb-1">John Sullivan</h5>
+                                <p class="text-muted small mb-0">Front End Developer</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--team section end-->
+
+        <!--testimonial section start-->
+        <section class="testimonial-section ptb-120 ">
+            <div class="container">
+                <div class="row justify-content-center align-content-center">
+                    <div class="col-md-10 col-lg-6">
+                        <div class="section-heading text-center">
+                            <h4 class="h5 text-primary">Testimonial</h4>
+                            <h2>What They Say About Us</h2>
+                            <p>Uniquely promote adaptive quality vectors rather than stand-alone e-markets pontificate alternative architectures with accurate schemas.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="position-relative w-100">
+                            <div class="swiper testimonialSwiper">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <div class="border border-2 p-5 rounded-custom position-relative">
+                                            <img src="assets/img/testimonial/quotes-dot.svg" alt="quotes" width="100" class="img-fluid position-absolute left-0 top-0 z--1 p-3">
+                                            <div class="d-flex mb-32 align-items-center">
+                                                <img src="assets/img/testimonial/1.jpg" class="img-fluid me-3 rounded" width="60" alt="user">
+                                                <div class="author-info">
+                                                    <h6 class="mb-0">Mr.Rupan Oberoi</h6>
+                                                    <small>Founder and CEO at Amaara Herbs</small>
+                                                </div>
+                                            </div>
+                                            <blockquote>
+                                                <h6>The Best Template You Got to Have it!</h6>
+                                                Globally network long-term high-impact schemas vis-a-vis distinctive e-commerce
+                                                cross-media infrastructures rather than ethical
+                                            </blockquote>
+                                            <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                            </ul>
+                                            <img src="assets/img/testimonial/quotes.svg" alt="quotes" class="position-absolute right-0 bottom-0 z--1 pe-4 pb-4">
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="border border-2 p-5 rounded-custom position-relative">
+                                            <img src="assets/img/testimonial/quotes-dot.svg" alt="quotes" width="100" class="img-fluid position-absolute left-0 top-0 z--1 p-3">
+                                            <div class="d-flex mb-32 align-items-center">
+                                                <img src="assets/img/testimonial/3.jpg" class="img-fluid me-3 rounded" width="60" alt="user">
+                                                <div class="author-info">
+                                                    <h6 class="mb-0">Oberoi R.</h6>
+                                                    <small>CEO at Herbs</small>
+                                                </div>
+                                            </div>
+                                            <blockquote>
+                                                <h6>Embarrassed by the First Version.</h6>
+                                                Dynamically create innovative core competencies with effective best
+                                                practices promote innovative infrastructures.
+                                            </blockquote>
+                                            <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                            </ul>
+                                            <img src="assets/img/testimonial/quotes.svg" alt="quotes" class="position-absolute right-0 bottom-0 z--1 pe-4 pb-4">
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="border border-2 p-5 rounded-custom position-relative">
+                                            <img src="assets/img/testimonial/quotes-dot.svg" alt="quotes" width="100" class="img-fluid position-absolute left-0 top-0 z--1 p-3">
+                                            <div class="d-flex mb-32 align-items-center">
+                                                <img src="assets/img/testimonial/2.jpg" class="img-fluid me-3 rounded" width="60" alt="user">
+                                                <div class="author-info">
+                                                    <h6 class="mb-0">Mr.Rupan Oberoi</h6>
+                                                    <small>Founder and CEO</small>
+                                                </div>
+                                            </div>
+                                            <blockquote>
+                                                <h6>Amazing Quiety template!</h6>
+                                                Appropriately negotiate interactive niches rather than parallel strategic theme
+                                                incubate premium total linkage areas.
+                                            </blockquote>
+                                            <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                            </ul>
+                                            <img src="assets/img/testimonial/quotes.svg" alt="quotes" class="position-absolute right-0 bottom-0 z--1 pe-4 pb-4">
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="border border-2 p-5 rounded-custom position-relative">
+                                            <img src="assets/img/testimonial/quotes-dot.svg" alt="quotes" width="100" class="img-fluid position-absolute left-0 top-0 z--1 p-3">
+                                            <div class="d-flex mb-32 align-items-center">
+                                                <img src="assets/img/testimonial/4.jpg" class="img-fluid me-3 rounded" width="60" alt="user">
+                                                <div class="author-info">
+                                                    <h6 class="mb-0">Joan Dho</h6>
+                                                    <small>Founder and CTO</small>
+                                                </div>
+                                            </div>
+                                            <blockquote>
+                                                <h6>Best Template for SAAS Company!</h6>
+                                                Dynamically create innovative core competencies with effective best
+                                                practices promote innovative infrastructures.
+                                            </blockquote>
+                                            <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                            </ul>
+                                            <img src="assets/img/testimonial/quotes.svg" alt="quotes" class="position-absolute right-0 bottom-0 z--1 pe-4 pb-4">
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="border border-2 p-5 rounded-custom position-relative">
+                                            <img src="assets/img/testimonial/quotes-dot.svg" alt="quotes" width="100" class="img-fluid position-absolute left-0 top-0 z--1 p-3">
+                                            <div class="d-flex mb-32 align-items-center">
+                                                <img src="assets/img/testimonial/5.jpg" class="img-fluid me-3 rounded" width="60" alt="user">
+                                                <div class="author-info">
+                                                    <h6 class="mb-0">Ranu Mondal</h6>
+                                                    <small>Lead Developer</small>
+                                                </div>
+                                            </div>
+                                            <blockquote>
+                                                <h6>It is undeniably good!</h6>
+                                                Rapidiously supply client-centric e-markets and maintainable processes
+                                                progressively engineer
+                                            </blockquote>
+                                            <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                            </ul>
+                                            <img src="assets/img/testimonial/quotes.svg" alt="quotes" class="position-absolute right-0 bottom-0 z--1 pe-4 pb-4">
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="swiper-nav-control">
+                                <span class="swiper-button-next"></span>
+                                <span class="swiper-button-prev"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> <!--testimonial section end-->
+
+        <!--our location address start-->
+        <section class="office-address-section ptb-120">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="section-heading text-center">
+                            <h4 class="h5 text-primary">Our Office</h4>
+                            <h2>Located Around the World</h2>
+                            <p>Dynamically technically sound technologies with parallel task convergence quality vectors
+                                through excellent relationships. </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 mt-4 mt-lg-0 mt-xl-0">
+                        <div class="rounded-custom border d-block office-address overflow-hidden z-2" style="background: url('assets/img/office-img-1.jpg')no-repeat center center / cover">
+                            <div class="office-content text-center p-4">
+                                <span class="office-overlay"></span>
+                                <div class="office-info">
+                                    <h5>Singapore</h5>
+                                    <address>
+                                        4636 Bombardier Way <br> Sr,Worthington, <br>California(CA), 94102
+                                    </address>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mt-4 mt-lg-0 mt-xl-0">
+                        <div class="rounded-custom border d-block office-address overflow-hidden z-2" style="background: url('assets/img/office-img-2.jpg')no-repeat center center / cover">
+                            <div class="office-content text-center p-4">
+                                <span class="office-overlay"></span>
+                                <div class="office-info">
+                                    <h5>Los Angeles</h5>
+                                    <address>
+                                        794 Mcallister <br> St. Oak Harbor, <br>Washington(WA), 98277
+                                    </address>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mt-4 mt-lg-0 mt-xl-0">
+                        <div class="rounded-custom border d-block office-address overflow-hidden z-2" style="background: url('assets/img/office-img-3.jpg')no-repeat center center / cover">
+                            <div class="office-content text-center p-4">
+                                <span class="office-overlay"></span>
+                                <div class="office-info">
+                                    <h5>New York</h5>
+                                    <address>
+                                        4219 Snowbird Lane <br> St Carthage, <br>New York(NY), 13619
+                                    </address>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mt-4 mt-lg-0 mt-xl-0">
+                        <div class="rounded-custom border d-block office-address overflow-hidden z-2" style="background: url('assets/img/office-img-5.jpg')no-repeat center center / cover">
+                            <div class="office-content text-center p-4">
+                                <span class="office-overlay"></span>
+                                <div class="office-info">
+                                    <h5>Barlin City</h5>
+                                    <address>
+                                        Brandenburgische Straße <br> DE. Berlin Kreuzberg, <br>Berlin(CA), 10997
+                                    </address>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--our location address end-->
+
+        <!--cat subscribe start-->
+        <section class="cta-subscribe bg-dark text-white ptb-120 position-relative overflow-hidden">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8 col-md-10">
+                        <div class="subscribe-info-wrap text-center position-relative z-2">
+                            <div class="section-heading aos-init aos-animate" data-aos="fade-up">
+                                <h4 class="h5 text-warning">Get In Touch With Us</h4>
+                                <h2>Start Your Journey With Us</h2>
+                                <p>Get in touch with us today to discuss your software needs and embark on a journey of digital transformation.</p>
+                            </div>
+                            <div class="form-block-banner mw-60 m-auto mt-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="50">
+                                <a href="contact-us.html" class="btn btn-primary">Contact with Us</a>
+                                <!-- <a href="http://www.youtube.com/watch?v=hAP2QF--2Dg"
+                                    class="text-decoration-none popup-youtube d-inline-flex align-items-center watch-now-btn ms-lg-3 ms-md-3 mt-3 mt-lg-0">
+                                    <i class="fas fa-play"></i> Watch Demo </a> -->
+                            </div>
+                            <!-- <ul class="nav justify-content-center subscribe-feature-list mt-4" data-aos="fade-up"
+                                data-aos-delay="100">
+                                <li class="nav-item">
+                                    <span><i class="far fa-check-circle text-primary me-2"></i>Free 14-day trial</span>
+                                </li>
+                                <li class="nav-item">
+                                    <span><i class="far fa-check-circle text-primary me-2"></i>No credit card
+                                        required</span>
+                                </li>
+                                <li class="nav-item">
+                                    <span><i class="far fa-check-circle text-primary me-2"></i>Support 24/7</span>
+                                </li>
+                                <li class="nav-item">
+                                    <span><i class="far fa-check-circle text-primary me-2"></i>Cancel anytime</span>
+                                </li>
+                            </ul> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-circle rounded-circle circle-shape-3 position-absolute bg-dark-light left-5"></div>
+                <div class="bg-circle rounded-circle circle-shape-1 position-absolute bg-warning right-5"></div>
+            </div>
+        </section>
+        <!--cat subscribe end-->
+
             @endsection

@@ -5,7 +5,7 @@
         <div class="page-content">
 
             <!-- INNER PAGE BANNER -->
-            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url({{ asset('images/banner/1.jpg')}});">
+            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(images/banner/1.jpg);">
                 <div class="overlay-main site-bg-white opacity-01"></div>
                 <div class="container">
                     <div class="wt-bnr-inr-entry">
@@ -41,45 +41,76 @@
                                 <div class="col-lg-6 col-md-12">
                                     <div class="contact-form-outer">
 
-                                        <!-- TITLE START--> 
+                                        <!-- TITLE START-->
                                         <div class="section-head left wt-small-separator-outer">
-                                            <h2 class="wt-title">Need assistance or have a question?</h2>
-                                            <p>Don't hesitate to contact us. We're just a message away, ready to provide the support you require.</p>
+                                            <h2 class="wt-title">Send Us a Message</h2>
+                                            <p>We value your feedback, inquiries, and partnership opportunities. Please use the form below to reach out to us, and we will get back to you as soon as possible. </p>
                                         </div>
+                                        @if (session('success'))
+    <div class="alert alert-success">
+        {{ session('success') }}
+    </div>
+@endif
+
+@if (session('error'))
+    <div class="alert alert-danger">
+        {{ session('error') }}
+    </div>
+@endif
                                         <!-- TITLE END--> 
                                         <form class="cons-contact-form" method="POST" action="{{ route('contact.store') }}">
                                             @csrf
-
-                                        
                                             <div class="row">
 
                                                 <div class="col-lg-6 col-md-6">
                                                     <div class="form-group mb-3">
-                                                        <input name="name" type="text" required class="form-control" placeholder="Name">
+                                                        <input type="text" name="name" class="form-control" value="{{ old('name') }}" placeholder="Name">
+                                                        @error('name')
+                                                            <div class="alert alert-danger">{{ $message }}</div>
+                                                        @enderror
+                                                     </div>
+                                                </div>
+                                                
+                                                <div class="col-lg-6 col-md-6">
+                                                    <div class="form-group mb-3">
+                                                        <input type="email" name="email" class="form-control" value="{{ old('email') }}" placeholder="Email">
+                                                        @error('email')
+                                                            <div class="alert alert-danger">{{ $message }}</div>
+                                                        @enderror
                                                     </div>
                                                 </div>
                                                 
                                                 <div class="col-lg-6 col-md-6">
                                                     <div class="form-group mb-3">
-                                                    <input name="email" type="email" class="form-control" required placeholder="Email">
+                                                        <input type="tel"  name="phone" class="form-control" value="{{ old('phone') }}" placeholder="Phone">
+                                                        @error('phone')
+                                                            <div class="alert alert-danger">{{ $message }}</div>
+                                                        @enderror
+                                                        <style>
+                                                            input::-webkit-outer-spin-button,
+                                                            input::-webkit-inner-spin-button {
+                                                              display: none;
+                                                            }
+                                                            input[type=number] { -moz-appearance: textfield;}
+                                                          </style>
                                                     </div>
                                                 </div>
                                                 
                                                 <div class="col-lg-6 col-md-6">
                                                     <div class="form-group mb-3">
-                                                        <input name="phone" type="number" class="form-control" required placeholder="Phone">
-                                                    </div>
-                                                </div>
-                                                
-                                                <div class="col-lg-6 col-md-6">
-                                                    <div class="form-group mb-3">
-                                                        <input name="subject" type="text" class="form-control" required placeholder="Subject">
-                                                    </div>
+                                                        <input type="text" name="subject" class="form-control" value="{{ old('subject') }}" placeholder="Subject">
+                                                        @error('subject')
+                                                            <div class="alert alert-danger">{{ $message }}</div>
+                                                        @enderror
+                                            </div>
                                                 </div>
                                                 
                                                 <div class="col-lg-12">
                                                     <div class="form-group mb-3">
-                                                    <textarea name="message" class="form-control" rows="3" placeholder="Message"></textarea>
+                                                        <textarea name="message" class="form-control" placeholder="Message">{{ old('message') }}</textarea>
+                                                @error('message')
+                                                    <div class="alert alert-danger">{{ $message }}</div>
+                                                @enderror
                                                     </div>
                                                 </div>
                                                 
@@ -89,6 +120,7 @@
                                                 
                                             </div>
                                         </form>
+                                        
                                     </div>
                                 </div> 
 
@@ -100,8 +132,12 @@
                                                     
                                                     <div class="c-info-column">
                                                         <div class="c-info-icon"><i class=" fas fa-map-marker-alt"></i></div>
-                                                        <p><span>Corporate Headquarters:</span>TMS LLC
-                                                            8 Campus Drive, Parsippany-Troy Hills, New Jersey 07054, United States </p>
+                                                        <a href="https://www.google.com/maps?q=TMS LLC
+                                                        8 Campus Drive, Parsippany-Troy Hills, New Jersey 07054, United States">
+                                                            <p><span>Corporate Headquarters:</span>TMS LLC
+                                                                8 Campus Drive, Parsippany-Troy Hills, New Jersey 07054, United States </p>
+                                                          </a>
+                                                        
                                                     </div>  
 
                                                     <div class="c-info-column">
@@ -114,7 +150,8 @@
                                                     <div class="c-info-column">
                                                         <div class="c-info-icon"><i class="fas fa-envelope"></i></div>
                                                         <h3 class="twm-title">Support</h3>
-                                                        <p>info@linktms.com</p>
+                                                        <p><a href="mailto:info@linktms.com">info@linktms.com</a></p>
+                                                        
                                                        
                                                     </div>
                                             

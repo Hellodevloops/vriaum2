@@ -59,10 +59,10 @@
                     <div class="collapse navbar-collapse justify-content-center">
                         <ul class="nav col-12 col-md-auto justify-content-center main-menu text-black">
                             <li class="nav-item dropdown">
-                                <a class="nav-link" href="index.html" aria-expanded="false">Home</a>
+                                <a class="nav-link" href="{{route('home')}}" aria-expanded="false">Home</a>
 
                             </li>
-                            <li><a href="about.html" class="nav-link">About Us</a></li>
+                            <li><a href="{{route('about')}}" class="nav-link">About Us</a></li>
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                                     aria-expanded="false">Services</a>
@@ -103,8 +103,8 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href="services.html" class="nav-link">Career</a></li>
-                            <li><a href="services.html" class="nav-link">Contact Us</a></li>
+                            <li><a href="{{route('career')}}" class="nav-link">Career</a></li>
+                            <li><a href="{{route('contact.index')}}" class="nav-link">Contact Us</a></li>
 
 
 
@@ -695,12 +695,12 @@
                                     <div class="footer-single-col">
                                         <h3>Quick Links</h3>
                                         <ul class="list-unstyled footer-nav-list mb-lg-0">
-                                            <li><a href="about.html" class="text-decoration-none">About Us</a></li>
+                                            <li><a href="{{route('about')}}" class="text-decoration-none">About Us</a></li>
 
-                                            <li><a href="index.html" class="text-decoration-none">home</a></li>
-                                            <li><a href="contact.html" class="text-decoration-none">Career</a></li>
+                                            <li><a href="{{route('home')}}" class="text-decoration-none">home</a></li>
+                                            <li><a href="{{route('career')}}" class="text-decoration-none">Career</a></li>
 
-                                            <li><a href="contact.html" class="text-decoration-none">Contact</a></li>
+                                            <li><a href="{{route('contact.index')}}" class="text-decoration-none">Contact</a></li>
 
                                         </ul>
                                     </div>
