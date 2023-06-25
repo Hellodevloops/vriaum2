@@ -1,580 +1,772 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
+<html lang="en" data-bs-theme="light">
 
-	<!-- META -->
+<head>
+    <!--required meta tags-->
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="keywords" content="" />
-    <meta name="author" content="" />
-    <meta name="robots" content="" />    
-    <meta name="description" content="" />
-    
-    <!-- FAVICONS ICON -->
-    <link rel="icon" href="images/logo_tms.png" type="image/x-icon" />
-    <link rel="shortcut icon" type="image/x-icon" href="images/logo_tms.png" />
-    
-    <!-- PAGE TITLE HERE -->
-    <title>TMS | index</title>
-    
-    <!-- MOBILE SPECIFIC -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="stylesheet" type="text/css" href="{{ asset('css/bootstrap.min.css') }}"><!-- BOOTSTRAP STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('css/font-awesome.min.css') }}"><!-- FONTAWESOME STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('css/feather.css') }}"><!-- FEATHER ICON SHEET -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('css/owl.carousel.min.css') }}"><!-- OWL CAROUSEL STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('css/magnific-popup.min.css') }}"><!-- MAGNIFIC POPUP STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('css/lc_lightbox.css') }}"><!-- Lc light box popup -->     
-    <link rel="stylesheet" type="text/css" href="{{ asset('css/bootstrap-select.min.css') }}"><!-- BOOTSTRAP SLECT BOX STYLE SHEET  -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('css/dataTables.bootstrap5.min.css') }}"><!-- DATA table STYLE SHEET  -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('css/select.bootstrap5.min.css') }}"><!-- DASHBOARD select bootstrap  STYLE SHEET  -->     
-    <link rel="stylesheet" type="text/css" href="{{ asset('css/dropzone.css') }}"><!-- DROPZONE STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('css/scrollbar.css') }}"><!-- CUSTOM SCROLL BAR STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('css/datepicker.css') }}"><!-- DATEPICKER STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('css/flaticon.css') }}"> <!-- Flaticon -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('css/swiper-bundle.min.css') }}"><!-- Swiper Slider -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('css/style.css') }}"><!-- MAIN STYLE SHEET -->   
-<style>
-    .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
-<style>
-    @media (max-width: 767px) {
-        .hide-in-mobile {
-            display: none;
-        }
-    }
 
-    @media (min-width: 768px) {
-        .hide-in-desktop {
-            display: none;
-        }
-    }
-</style>
+    <!--meta-->
+    <meta name="description"
+        content="Quiety creative Saas, software technology, Saas agency & business Bootstrap 5 Html template. It is best and famous software company and Saas website template.">
+    <meta name="author" content="ThemeTags">
+
+    <!--favicon icon-->
+    <link rel="icon" href="assets/img/Vri_logo_preview.png" type="image/png" sizes="16x16">
+
+    <!--title-->
+    <title>Vriaum Technologies</title>
+
+    <!--build:css-->
+    <link rel="stylesheet" href="assets/css/main.css">
+    <!-- endbuild -->
+
+    <!--custom css start-->
+    <link rel="stylesheet" href="assets/css/custom.css">
+    <!--custom css end-->
 
 </head>
 
 <body>
 
-    <!-- LOADING AREA START ===== -->
-    <div class="loading-area">
-        <div class="loading-box"></div>
-        <div class="loading-pic">
-            <div class="wrapper">
-                <div class="cssload-loader"></div>
-            </div>
+    <!--preloader start-->
+    <div id="preloader" class="bg-light-subtle">
+        <div class="preloader-wrap">
+            <img src="assets/img/Vri_logo_preview.png" alt="logo" class="img-fluid preloader-icon">
+            <div class="loading-bar"></div>
         </div>
     </div>
-    <!-- LOADING AREA  END ====== -->
+    <!--preloader end-->
+    <!--main content wrapper start-->
+    <div class="main-wrapper">
+        <!--header section start-->
+        <!--header start-->
+        <header class="main-header position-absolute w-100">
+            <nav class="navbar navbar-expand-xl navbar-light sticky-header">
+                <div class="container d-flex align-items-center justify-content-lg-between position-relative">
+                    <a href="index.html" class="navbar-brand d-flex align-items-center mb-md-0 text-decoration-none">
+                        <img src="assets/img/Vri_logo.png" alt="logo" class="img-fluid logo-header logo-white" />
+                        <img src="assets/img/Vri_logo.png" alt="logo" class="img-fluid logo-header logo-color" />
+                    </a>
 
-	<div class="page-wraper">
+                    <a class="navbar-toggler position-absolute right-0 border-0" href="#offcanvasWithBackdrop"
+                        role="button">
+                        <i class="flaticon-menu" data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBackdrop"
+                            aria-controls="offcanvasWithBackdrop"></i>
+                    </a>
+                    <div class="clearfix"></div>
+                    <div class="collapse navbar-collapse justify-content-center">
+                        <ul class="nav col-12 col-md-auto justify-content-center main-menu text-black">
+                            <li class="nav-item dropdown">
+                                <a class="nav-link" href="index.html" aria-expanded="false">Home</a>
 
+                            </li>
+                            <li><a href="about.html" class="nav-link">About Us</a></li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                                    aria-expanded="false">Services</a>
+                                <div class="dropdown-menu border-0 rounded-custom shadow py-0 bg-white">
+                                    <div class="dropdown-grid rounded-custom width-full">
+                                        <div class="dropdown-grid-item bg-white radius-left-side">
+                                            <!-- <h6 class="drop-heading">Useful Links</h6> -->
+                                            <a href="about-us.html" class="dropdown-link px-0">
+                                                <span class="me-2">
+                                                    <i class="flaticon-fingerprint"></i>
+                                                </span>
+                                                <div class="drop-title">Software Development</div>
+                                            </a>
+                                            <a href="contact-us.html" class="dropdown-link px-0">
+                                                <span class="me-2">
+                                                    <i class="flaticon-phone-book"></i>
+                                                </span>
+                                                <div class="drop-title">IOT</div>
+                                            </a>
 
-  <!-- HEADER START -->
-  <header  class="site-header header-style-3 mobile-sider-drawer-menu">
+                                        </div>
+                                        <div class="dropdown-grid-item radius-right-side bg-light-subtle">
+                                            <!-- <h6 class="drop-heading">Utility Pages</h6> -->
+                                            <a href="style-guide.html" class="dropdown-link">
+                                                <span class="me-2">
+                                                    <i class="flaticon-web-programming"></i>
+                                                </span>
+                                                <div class="drop-title">App Development</div>
+                                            </a>
+                                            <a href="support.html" class="dropdown-link">
+                                                <span class="me-2">
+                                                    <i class="flaticon-headset"></i>
+                                                </span>
+                                                <div class="drop-title">Recruitment</div>
+                                            </a>
 
-    <div class="sticky-header main-bar-wraper  navbar-expand-lg">
-        <div class="main-bar">  
-                            
-            <div class="container-fluid clearfix"> 
-        
-                <div class="logo-header">
-                    <div class="logo-header-inner logo-header-one">
-                        <a href="/">
-                            <img src="{{ asset('images/logo_tms.png') }}" alt="">
-
-                        </a>
-                    </div>
-                </div>  
-                
-                <!-- NAV Toggle Button -->
-                <button id="mobile-side-drawer" data-target=".header-nav" data-toggle="collapse" type="button" class="navbar-toggler collapsed">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar icon-bar-first"></span>
-                    <span class="icon-bar icon-bar-two"></span>
-                    <span class="icon-bar icon-bar-three"></span>
-                </button> 
-
-                <!-- MAIN Vav -->
-                <div class="nav-animation header-nav navbar-collapse collapse d-flex justify-content-center">
-
-                    <ul class=" nav navbar-nav">
-                        <li class="has-child"><a href="{{ route('home') }}">Home</a>  </li>
-
-                        <li class="has-child"><a href="{{ route('about') }}">About Us</a> </li>
-                        <li class="has-child"><a href="#">Services</a>
-                        
-                            <ul class="sub-menu mt-3">
-                                <li><a href="{{ route('staffing') }}">Staffing Services</a></li>
-                                <li><a href="{{ route('iot') }}">IOT Integration</a></li> 
-                                <li><a href="{{ route('software') }}">Software Application</a></li>
-                                <li><a href="{{ route('ai_ml') }}">Artificial Intelligence and Machine Learning </a></li>
-                                <li><a href="{{ route('di_bi') }}">Data Intelligence & Business Intelligence</a></li>
-                                <li><a href="{{ route('dw_eng') }}">Data Warehouse & Engineering</a></li>
-                               
-                                
-                            </ul>  
-                                                                                          
-                        </li>
-                        {{-- <li><a href="{{ route('resume_parser') }}">Resume Parser</a></li> --}}
-                          <li><a href="{{ route('career') }}">Career</a></li>
-                                                        
-                       
-                    </ul>
-
-                    
-
-                </div>
-                
-                <!-- Header Right Section-->
-                <div class="extra-nav header-2-nav">
-                    <!-- <div class="extra-cell">
-                        <div class="header-search">
-                            <a href="#search" class="header-search-icon"><i class="feather-search"></i></a>
-                        </div>                                
-                    </div> -->
-                    <div class="extra-cell">
-                        <div class="header-nav-btn-section">
-                            <!-- <div class="twm-nav-btn-left">
-                                <a class="twm-nav-sign-up" data-bs-toggle="modal" href="#sign_up_popup" role="button">
-                                    <i class="feather-log-in"></i> Sign Up
-                                </a>
-                            </div> -->
-                            <div class="twm-nav-btn-right">
-                                <a href="{{ route('contact.index') }}" class="twm-nav-post-a-job mb-3"><i class="flaticon-telephone"></i>Contact Us</a>
-                              
-                            </div>
-                        </div>
-                    </div> 
-                        
-                </div>                            
-            
-                                            
-                
-            </div>    
-        
-        
-        </div>
-
-    </div>
-
-
-
-    
-     
-
-
-    
-</header>
-<!-- HEADER END -->
-
-@yield('content')
-
-        <!-- FOOTER START -->
-        <footer class="footer-light ftr-light-with-bg site-bg-cover" style="background-image: url(images/ftr-bg.jpg);">
-            <div class="container">
-
-                <!-- FOOTER BLOCKES START -->  
-                <div class="footer-top">
-                    <div class="row p-r10">
-
-                        <div class="col-lg-3 col-md-12 pb-5">
-                            
-                            <div class="widget widget_about">
-                                <div class="logo-footer clearfix">
-                                     <a href="/"><img src="{{ asset('images/logo_tms.png') }}" alt="" class="center"  style="justify-content:center;"></a>
-                                </div>
-                                <h3>Technology Management Solutions</h3>
-                               
-                                
-                             
-                            </div>                            
-                            
-                        </div> 
-
-                        <div class="col-lg-9 col-md-12">
-                            <div class="row">
-                               
-                             
-                            
-                                <div class="col-lg-3 col-md-6 col-sm-6">
-                                    <div class="widget widget_services ftr-list-center">
-                                        <h3 class="widget-title">Our Services</h3>
-                                        <ul>
-                                            <li><a href="{{ route('staffing') }}">Staffing Services</a></li>
-                                            <li><a href="{{ route('iot') }}">IOT Integration</a></li> 
-                                            <li><a href="{{ route('ai_ml') }}">AI and Ml</a></li>
-                                            <li><a href="{{ route('di_bi') }}">Data Intelligence & BI</a></li>
-                                            <li><a href="{{ route('dw_eng') }}">Data Warehouse & Engineering</a></li>
-                                            <li><a href="{{ route('software') }}">Software Application</a></li>
-                                                
-                                        </ul>
+                                        </div>
                                     </div>
                                 </div>
+                            </li>
+                            <li><a href="services.html" class="nav-link">Career</a></li>
+                            <li><a href="services.html" class="nav-link">Contact Us</a></li>
 
 
-                                <div class="col-lg-3 col-md-6 col-sm-6">  
-                                    <div class="widget widget_services ftr-list-center">
-                                        <h3 class="widget-title">Quick Links</h3>
-                                        <ul>
-                                            <li><a href="{{ route('home') }}">Home</a></li>
-                                            <li><a href="{{ route('about') }}">About Us</a></li>
-                                             <li><a href="{{ route('career') }}">Career</a></li>
-                                            <!-- <li><a href="blog.html">Blog</a></li> -->
-                        {{-- <li><a href="{{ route('resume_parser') }}">Resume Parser</a></li> --}}
 
-                                            {{-- <li><a href="{{ route('about') }}">Resume Parser</a></li> --}}
-                                            <!-- <li><a href="contact.html">Contact Us</a></li> -->
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-6">  
-                                    <div class="widget widget_services ftr-list-center">
-                                        <h3 class="widget-title">Our Address</h3>
-                                        <ul class="ftr-list">
-                                            <li><p><span>Corporate Headquarters</span><br> <a href="https://www.google.com/maps?q=TMS LLC 8 Campus Drive Parsippany-Troy Hills New Jersey 07054 United States">
-                                                    <p><strong class="site-text-primary">TMS LLC</strong><br>
-                                                        8 Campus Drive, Parsippany-Troy Hills, New Jersey 07054, United States </p>
-                                                  </a>                                                          </a>
-
-                                            </p></li>
-                                            <!-- <li><p><span>Email :</span> info@linktms.com</p></li>
-                                            <li><p><span>Call :</span>201-254-7297</p></li> -->
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 col-sm-6">  
-                                    <div class="widget widget_services ftr-list-center">
-                                        <h3 class="widget-title">Contact Us</h3>
-                                        <ul class="ftr-list">
-                                            <!-- <li><p><span>Corporate Headquarters:</span><br>TMS LLC
-                                                8 Campus Drive, Parsippany-Troy Hills,<br> New Jersey, United States<br> 07054</p></li> -->
-                                            <li><span><b> Email :</b></span><a href="mailto:info@linktms.com"><p>info@linktms.com</p></a></li>
-                                            <li><p><span><b>Call :</b></span><a href="tel:201-254-7297">201-254-7297</a></p></li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-                            </div>  
-
-                        </div> 
-
-                    </div>
-                </div>
-                <!-- FOOTER COPYRIGHT -->
-                <div class="footer-bottom">
-                
-                    <div class="footer-bottom-info">
-                        <div class="footer-copy-right">
-                            <span class="copyrights-text">Copyright . All Rights Reserved.</span>
-                        </div>
-                        <ul class="social-icons">
-                            <li><a href="javascript:void(0);" class="fab fa-facebook-f"></a></li>
-                            <li><a href="javascript:void(0);" class="fab fa-twitter"></a></li>
-                            <li><a href="javascript:void(0);" class="fab fa-instagram"></a></li>
-                            <li><a href="javascript:void(0);" class="fab fa-youtube"></a></li>
                         </ul>
                     </div>
-                    
-                </div>
 
-            </div>
-    
-        </footer>
-        <!-- FOOTER END -->
-
-        <!-- BUTTON TOP START -->
-		<button class="scroltop"><span class="fa fa-angle-up  relative" id="btn-vibrate"></span></button>
-
-        <!--Model Popup Section Start-->
-            <!--Signup popup -->
-            <div class="modal fade twm-sign-up" id="sign_up_popup" aria-hidden="true" aria-labelledby="sign_up_popupLabel" tabindex="-1">
-                <div class="modal-dialog modal-dialog-centered">
-                    <div class="modal-content">
-                        <form>
-
-                            <div class="modal-header">
-                                <h2 class="modal-title" id="sign_up_popupLabel">Sign Up</h2>
-                                <p>Sign Up and get access to all the features.</p>
-                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                            </div>
-
-                            <div class="modal-body">
-                                <div class="twm-tabs-style-2">
-                                    <ul class="nav nav-tabs" id="myTab" role="tablist">
-
-                                    <!--Signup Candidate-->  
-                                    <li class="nav-item" role="presentation">
-                                        <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#sign-candidate" type="button"><i class="fas fa-user-tie"></i>Candidate</button>
-                                    </li>
-                                    <!--Signup Employer-->
-                                    <li class="nav-item" role="presentation">
-                                        <button class="nav-link" data-bs-toggle="tab" data-bs-target="#sign-Employer" type="button"><i class="fas fa-building"></i>Employer</button>
-                                    </li>
-                                    
-                                    </ul>
-                                    <div class="tab-content" id="myTabContent">
-                                    <!--Signup Candidate Content-->  
-                                    <div class="tab-pane fade show active" id="sign-candidate">
-                                        <div class="row">
-
-                                            <div class="col-lg-12">
-                                                <div class="form-group mb-3">
-                                                    <input name="username" type="text" required="" class="form-control" placeholder="Usearname*">
-                                                </div>
-                                            </div>
-                                            
-                                            <div class="col-lg-12">
-                                                <div class="form-group mb-3">
-                                                    <input name="email" type="text" class="form-control" required="" placeholder="Password*">
-                                                </div>
-                                            </div>
-                                            
-                                            <div class="col-lg-12">
-                                                <div class="form-group mb-3">
-                                                    <input name="phone" type="text" class="form-control" required="" placeholder="Email*">
-                                                </div>
-                                            </div>
-            
-                                            <div class="col-lg-12">
-                                                <div class="form-group mb-3">
-                                                    <input name="phone" type="text" class="form-control" required="" placeholder="Phone*">
-                                                </div>
-                                            </div>
-                                            
-                                            <div class="col-lg-12">
-                                                <div class="form-group mb-3">
-                                                    <div class=" form-check">
-                                                        <input type="checkbox" class="form-check-input" id="agree1">
-                                                        <label class="form-check-label" for="agree1">I agree to the <a href="javascript:;">Terms and conditions</a></label>
-                                                        <p>Already registered?
-                                                            <button class="twm-backto-login" data-bs-target="#sign_up_popup2" data-bs-toggle="modal" data-bs-dismiss="modal">Log in here</button>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-12">
-                                                <button type="submit" class="site-button">Sign Up</button>
-                                            </div>
-                                            
-                                        </div>
-                                    </div>
-                                    <!--Signup Employer Content--> 
-                                    <div class="tab-pane fade" id="sign-Employer">
-                                        <div class="row">
-
-                                            <div class="col-lg-12">
-                                                <div class="form-group mb-3">
-                                                    <input name="username" type="text" required="" class="form-control" placeholder="Usearname*">
-                                                </div>
-                                            </div>
-                                            
-                                            <div class="col-lg-12">
-                                                <div class="form-group mb-3">
-                                                    <input name="email" type="text" class="form-control" required="" placeholder="Password*">
-                                                </div>
-                                            </div>
-                                            
-                                            <div class="col-lg-12">
-                                                <div class="form-group mb-3">
-                                                    <input name="phone" type="text" class="form-control" required="" placeholder="Email*">
-                                                </div>
-                                            </div>
-            
-                                            <div class="col-lg-12">
-                                                <div class="form-group mb-3">
-                                                    <input name="phone" type="text" class="form-control" required="" placeholder="Phone*">
-                                                </div>
-                                            </div>
-                                            
-                                            <div class="col-lg-12">
-                                                <div class="form-group mb-3">
-                                                    <div class=" form-check">
-                                                        <input type="checkbox" class="form-check-input" id="agree2">
-                                                        <label class="form-check-label" for="agree2">I agree to the <a href="javascript:;">Terms and conditions</a></label>
-                                                        <p>Already registered?
-                                                            <button class="twm-backto-login" data-bs-target="#sign_up_popup2" data-bs-toggle="modal" data-bs-dismiss="modal">Log in here</button>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-12">
-                                                <button type="submit" class="site-button">Sign Up</button>
-                                            </div>
-                                            
-                                        </div>
-                                    </div>
-                                    
-                                    </div>
-                                </div> 
-                            </div>
-
-                            <div class="modal-footer">
-                                <span class="modal-f-title">Login or Sign up with</span>
-                                <ul class="twm-modal-social">
-                                    <li><a href="javascript.html" class="facebook-clr"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="javascript.html" class="twitter-clr"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="javascript.html" class="linkedin-clr"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li><a href="javascript.html" class="google-clr"><i class="fab fa-google"></i></a></li>
-                                </ul>
-                            </div>
-
-                        </form>
+                    <div class="action-btns text-end me-5 me-lg-0 d-none d-md-block d-lg-block">
+                        <a href="javascript:void(0)" class="btn btn-link p-1 tt-theme-toggle m-3">
+                            <div class="tt-theme-light" data-bs-toggle="tooltip" data-bs-placement="left"
+                                data-bs-title="Light"><i class="flaticon-sun-1 fs-lg"></i></div>
+                            <div class="tt-theme-dark" data-bs-toggle="tooltip" data-bs-placement="left"
+                                data-bs-title="Dark"><i class="flaticon-moon-1 fs-lg"></i></div>
+                        </a>
+                        <a href="contact.html" class="btn btn-primary">Download Brochure</a>
                     </div>
                 </div>
-                
-            </div>
-            <!--Login popup -->
-            <div class="modal fade twm-sign-up" id="sign_up_popup2" aria-hidden="true" aria-labelledby="sign_up_popupLabel2" tabindex="-1">
-                <div class="modal-dialog modal-dialog-centered">
-                    <div class="modal-content">
-                    
-                        <form>
-                            <div class="modal-header">
-                                <h2 class="modal-title" id="sign_up_popupLabel2">Login</h2>
-                             
-                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                            </div>
-                            <div class="modal-body">
-                                <div class="twm-tabs-style-2">
-                                    <ul class="nav nav-tabs" id="myTab2" role="tablist">
-
-                                        <!--Login Candidate-->  
-                                        <li class="nav-item">
-                                            <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#login-candidate" type="button"><i class="fas fa-user-tie"></i>Candidate</button>
-                                        </li>
-                                        <!--Login Employer-->
-                                        <li class="nav-item">
-                                            <button class="nav-link" data-bs-toggle="tab" data-bs-target="#login-Employer" type="button"><i class="fas fa-building"></i>Employer</button>
-                                        </li>
-                                    
-                                    </ul>
-                                    
-                                    <div class="tab-content" id="myTab2Content">
-                                        <!--Login Candidate Content-->  
-                                        <div class="tab-pane fade show active" id="login-candidate">
-                                            <div class="row">
-
-                                                <div class="col-lg-12">
-                                                    <div class="form-group mb-3">
-                                                        <input name="username" type="text" required="" class="form-control" placeholder="Usearname*">
-                                                    </div>
-                                                </div>
-                                                
-                                                <div class="col-lg-12">
-                                                    <div class="form-group mb-3">
-                                                        <input name="email" type="text" class="form-control" required="" placeholder="Password*">
-                                                    </div>
-                                                </div>
-                                                
-                                                
-                                                <div class="col-lg-12">
-                                                    <div class="form-group mb-3">
-                                                        <div class=" form-check">
-                                                            <input type="checkbox" class="form-check-input" id="Password3">
-                                                            <label class="form-check-label rem-forgot" for="Password3">Remember me <a href="javascript:;">Forgot Password</a></label>
-                                                            
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-12">
-                                                    <button type="submit" class="site-button">Log in</button>
-                                                    <div class="mt-3 mb-3">Don't have an account ? 
-                                                        <button class="twm-backto-login" data-bs-target="#sign_up_popup" data-bs-toggle="modal" data-bs-dismiss="modal">Sign Up</button>
-                                                    </div>
-                                                </div>
-                                                
+            </nav>
+            <!--offcanvas menu start-->
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasWithBackdrop">
+                <div class="offcanvas-header d-flex align-items-center mt-4">
+                    <a href="index-2.html" class="d-flex align-items-center mb-md-0 text-decoration-none">
+                        <img src="assets/img/logo-color.png" alt="logo" class="img-fluid ps-2" />
+                    </a>
+                    <button type="button" class="close-btn text-danger" data-bs-dismiss="offcanvas" aria-label="Close">
+                        <i class="flaticon-cancel"></i>
+                    </button>
+                </div>
+                <div class="offcanvas-body">
+                    <ul class="nav col-12 col-md-auto justify-content-center main-menu">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                                aria-expanded="false">
+                                Home
+                            </a>
+                            <div
+                                class="dropdown-menu border-0 rounded-custom shadow py-0 bg-white homepage-list-wrapper">
+                                <div class="dropdown-grid rounded-custom width-full homepage-dropdown">
+                                    <div class="dropdown-grid-item bg-white radius-left-side">
+                                        <h6 class="drop-heading">Different Home</h6>
+                                        <a href="index-2.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold">1</span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Saas Company 1</div>
+                                                <p>It's for <strong>SaaS Software</strong> Company </p>
                                             </div>
-                                        </div>
-                                        <!--Login Employer Content--> 
-                                        <div class="tab-pane fade" id="login-Employer">
-                                            <div class="row">
-
-                                                <div class="col-lg-12">
-                                                    <div class="form-group mb-3">
-                                                        <input name="username" type="text" required="" class="form-control" placeholder="Usearname*">
-                                                    </div>
-                                                </div>
-                                                
-                                                <div class="col-lg-12">
-                                                    <div class="form-group mb-3">
-                                                        <input name="email" type="text" class="form-control" required="" placeholder="Password*">
-                                                    </div>
-                                                </div>
-                                                
-                                                
-                                                <div class="col-lg-12">
-                                                    <div class="form-group mb-3">
-                                                        <div class=" form-check">
-                                                            <input type="checkbox" class="form-check-input" id="Password4">
-                                                            <label class="form-check-label rem-forgot" for="Password4">Remember me <a href="javascript:;">Forgot Password</a></label>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                
-                                                <div class="col-md-12">
-                                                    <button type="submit" class="site-button">Log in</button>
-                                                    <div class="mt-3 mb-3">Don't have an account ? 
-                                                        <button class="twm-backto-login" data-bs-target="#sign_up_popup" data-bs-toggle="modal" data-bs-dismiss="modal">Sign Up</button>
-                                                    </div>
-                                                </div>
-                                                
+                                        </a>
+                                        <a href="index-3.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold">2</span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Saas Company 2</div>
+                                                <p>Modern <strong>Saas agency</strong>
+                                                </p>
                                             </div>
-                                        </div>
-                                    
+                                        </a>
+                                        <a href="index-4.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold">3</span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Desktop App</div>
+                                                <p>
+                                                    <strong>Web Software</strong> Company
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <a href="index-5.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold">4</span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">App Landing</div>
+                                                <p>App and <strong>Software</strong> Landing </p>
+                                            </div>
+                                        </a>
+                                        <a href="index-6.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold">5</span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Software Application</div>
+                                                <p>IT solutions and <strong>SaaS Application</strong>
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <a href="index-7.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold">6</span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Startup Agency</div>
+                                                <p>Different type of <strong>Agency</strong>&lrm; </p>
+                                            </div>
+                                        </a>
+                                        <a href="index-8.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold">7</span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Data Analysis</div>
+                                                <p>Software & <strong>Data Analysis</strong>&lrm; </p>
+                                            </div>
+                                        </a>
+                                        <a href="index-9.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold">8</span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">App Landing Two</div>
+                                                <p>Software & <strong>Data Analysis</strong>&lrm; </p>
+                                            </div>
+                                        </a>
                                     </div>
-                                </div> 
+                                    <div class="dropdown-grid-item bg-light-subtle">
+                                        <h6 class="drop-heading">Different Home</h6>
+                                        <a href="index-10.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold">9</span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">IT Solution</div>
+                                                <p>IT solutions and <strong>SaaS Application</strong>
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <a href="index-11.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold">10</span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Cyber Security</div>
+                                                <p>Cyber Security <strong>Landing Page</strong>
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <a href="index-12.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold"> 11 </span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Crypto Currency</div>
+                                                <p>
+                                                    <strong>Crypto Currency</strong> landing page
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <a href="index-13.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold"> 12 </span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Game Solutions</div>
+                                                <p>
+                                                    <strong>Game Server</strong> landing page
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <a href="index-14.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold"> 13 </span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Payment Gateway</div>
+                                                <p>
+                                                    <strong>Payment Gateway</strong> landing page
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <a href="index-15.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold"> 14 </span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Digital Marketing</div>
+                                                <p>
+                                                    <strong>Digital Marketing</strong> landing page
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <a href="index-16.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold"> 15 </span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Conference & Event</div>
+                                                <p>
+                                                    <strong>Conference & Event</strong> landing
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <a href="index-17.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold"> 16 </span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Quiety Insurance</div>
+                                                <p>
+                                                    <strong>Quiety Insurance</strong> landing
+                                                </p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="dropdown-grid-item bg-white">
+                                        <h6 class="drop-heading">Different Home</h6>
+                                        <a href="index-18.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold"> 17 </span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Sass Marketing</div>
+                                                <p>
+                                                    <strong>Sass Marketing</strong> landing
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <a href="index-19.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold"> 18 </span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">CRM Home</div>
+                                                <p>Customer Relationship</p>
+                                            </div>
+                                        </a>
+                                        <a href="index-20.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold"> 19 </span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Help Desk</div>
+                                                <p>Help Desk Home</p>
+                                            </div>
+                                        </a>
+                                        <a href="index-21.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold"> 20 </span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Digital Agency</div>
+                                                <p>Digital Agency Home</p>
+                                            </div>
+                                        </a>
+                                        <a href="index-22.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold"> 21 </span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Software Company</div>
+                                                <p>Software Company Home</p>
+                                            </div>
+                                        </a>
+                                        <a href="index-23.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold"> 22 </span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Creative Agency</div>
+                                                <p>
+                                                    <strong>Creative Agency</strong> landing
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <a href="index-24.html" class="dropdown-link">
+                                            <span class="demo-list bg-primary rounded text-white fw-bold"> 23 </span>
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Digital Marketing Agency</div>
+                                                <p>
+                                                    <strong>Digital Marketing </strong>Agency landing
+                                                </p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="modal-footer">
-                                <span class="modal-f-title">Login or Sign up with</span>
-                                <ul class="twm-modal-social">
-                                    <li><a href="#" class="facebook-clr"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#" class="twitter-clr"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#" class="linkedin-clr"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li><a href="#" class="google-clr"><i class="fab fa-google"></i></a></li>
-                                </ul>
+                        </li>
+                        <li><a href="services.html" class="nav-link">Services</a></li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                                aria-expanded="false">Resources</a>
+                            <div class="dropdown-menu border-0 rounded-custom shadow py-0 bg-white">
+                                <div class="dropdown-grid rounded-custom width-full-3">
+                                    <div class="dropdown-grid-item bg-white radius-left-side">
+                                        <h6 class="drop-heading">Reusable Section</h6>
+                                        <a href="header.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-menu"></i>
+                                            </span>
+                                            <div class="drop-title">Navigations</div>
+                                        </a>
+                                        <a href="hero-sections.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-layer"></i>
+                                            </span>
+                                            <div class="drop-title">Hero Sections</div>
+                                        </a>
+                                        <a href="testimonials.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-phone-book"></i>
+                                            </span>
+                                            <div class="drop-title">Testimonials</div>
+                                        </a>
+                                        <a href="call-to-action.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-flash"></i>
+                                            </span>
+                                            <div class="drop-title">Call to Action</div>
+                                        </a>
+                                        <a href="tab-style.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-settings"></i>
+                                            </span>
+                                            <div class="drop-title">Tab Style</div>
+                                        </a>
+                                        <a href="services-style.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-graduation-cap"></i>
+                                            </span>
+                                            <div class="drop-title">Services Style</div>
+                                        </a>
+                                        <a href="work-process.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-folder"></i>
+                                            </span>
+                                            <div class="drop-title">Work Process</div>
+                                        </a>
+                                    </div>
+                                    <div class="dropdown-grid-item bg-white">
+                                        <h6 class="drop-heading">Reusable Section</h6>
+                                        <a href="pricing-style.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-clipboard"></i>
+                                            </span>
+                                            <div class="drop-title">Pricing Style</div>
+                                        </a>
+                                        <a href="accordions.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-settings"></i>
+                                            </span>
+                                            <div class="drop-title">Accordions</div>
+                                        </a>
+                                        <a href="features.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-vector"></i>
+                                            </span>
+                                            <div class="drop-title">Features</div>
+                                        </a>
+                                        <a href="footers.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-link"></i>
+                                            </span>
+                                            <div class="drop-title">Footers</div>
+                                        </a>
+                                        <a href="team.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-avatar"></i>
+                                            </span>
+                                            <div class="drop-title">Our Team</div>
+                                        </a>
+                                        <a href="integration-style.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-paper-plane-1"></i>
+                                            </span>
+                                            <div class="drop-title">Integration Style</div>
+                                        </a>
+                                        <a href="blog-style.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-pen-tool"></i>
+                                            </span>
+                                            <div class="drop-title">Blog Style</div>
+                                        </a>
+                                    </div>
+                                    <div class="dropdown-grid-item last-item bg-light-subtle radius-right-side">
+                                        <a href="#">
+                                            <img src="assets/img/feature-img3.jpg" alt="add"
+                                                class="img-fluid rounded-custom" />
+                                        </a>
+                                    </div>
+                                </div>
                             </div>
-                        </form>
+                        </li>
+                        <li><a href="pricing.html" class="nav-link">Pricing</a></li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                                aria-expanded="false">Company</a>
+                            <div class="dropdown-menu border-0 rounded-custom shadow py-0 bg-white">
+                                <div class="dropdown-grid rounded-custom width-full">
+                                    <div class="dropdown-grid-item bg-white radius-left-side">
+                                        <h6 class="drop-heading">Useful Links</h6>
+                                        <a href="about-us.html" class="dropdown-link px-0">
+                                            <span class="me-2">
+                                                <i class="flaticon-fingerprint"></i>
+                                            </span>
+                                            <div class="drop-title">About Us</div>
+                                        </a>
+                                        <a href="contact-us.html" class="dropdown-link px-0">
+                                            <span class="me-2">
+                                                <i class="flaticon-phone-book"></i>
+                                            </span>
+                                            <div class="drop-title">Contact Us</div>
+                                        </a>
+                                        <a href="services.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-pie-chart"></i>
+                                            </span>
+                                            <div class="drop-title">Services</div>
+                                        </a>
+                                        <a href="service-single.html" class="dropdown-link px-0">
+                                            <span class="me-2">
+                                                <i class="flaticon-server-storage"></i>
+                                            </span>
+                                            <div class="drop-title">Services Single</div>
+                                        </a>
+                                        <a href="blog.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-clipboard"></i>
+                                            </span>
+                                            <div class="drop-title">Our Latest News</div>
+                                        </a>
+                                        <a href="blog-single.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-menu"></i>
+                                            </span>
+                                            <div class="drop-title">News Details</div>
+                                        </a>
+                                        <a href="career.html" class="dropdown-link px-0">
+                                            <span class="me-2">
+                                                <i class="flaticon-graduate"></i>
+                                            </span>
+                                            <div class="drop-title">Career</div>
+                                        </a>
+                                        <a href="career-single.html" class="dropdown-link px-0">
+                                            <span class="me-2">
+                                                <i class="flaticon-pen-tool"></i>
+                                            </span>
+                                            <div class="drop-title">Career Single</div>
+                                        </a>
+                                        <a href="integrations.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-paper-plane-1"></i>
+                                            </span>
+                                            <div class="drop-title">Integrations</div>
+                                        </a>
+                                        <a href="integration-single.html" class="dropdown-link px-0">
+                                            <span class="me-2">
+                                                <i class="flaticon-shopping-list"></i>
+                                            </span>
+                                            <div class="drop-title">Integration Single</div>
+                                        </a>
+                                    </div>
+                                    <div class="dropdown-grid-item radius-right-side bg-light-subtle">
+                                        <h6 class="drop-heading">Utility Pages</h6>
+                                        <a href="style-guide.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-web-programming"></i>
+                                            </span>
+                                            <div class="drop-title">Style Guide</div>
+                                        </a>
+                                        <a href="support.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-headset"></i>
+                                            </span>
+                                            <div class="drop-title">Help Center</div>
+                                        </a>
+                                        <a href="support-single.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-envelope"></i>
+                                            </span>
+                                            <div class="drop-title">Help Details</div>
+                                        </a>
+                                        <a href="team.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-avatar"></i>
+                                            </span>
+                                            <div class="drop-title">Our Team</div>
+                                        </a>
+                                        <a href="request-demo.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-vector"></i>
+                                            </span>
+                                            <div class="drop-title">Get In Touch</div>
+                                        </a>
+                                        <a href="login.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-download"></i>
+                                            </span>
+                                            <div class="drop-title">User Login</div>
+                                        </a>
+                                        <a href="register.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-logout"></i>
+                                            </span>
+                                            <div class="drop-title">User SignUp</div>
+                                        </a>
+                                        <a href="password-reset.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-garbage"></i>
+                                            </span>
+                                            <div class="drop-title">Recovery Account</div>
+                                        </a>
+                                        <a href="404.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-web-programming"></i>
+                                            </span>
+                                            <div class="drop-title">404 Page</div>
+                                        </a>
+                                        <a href="coming-soon.html" class="dropdown-link">
+                                            <span class="me-2">
+                                                <i class="flaticon-reload"></i>
+                                            </span>
+                                            <div class="drop-title">Coming Soon</div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    <div class="action-btns mt-4 ps-3">
+                        <a href="login.html" class="btn btn-outline-primary me-2">Sign In</a>
+                        <a href="request-demo.html" class="btn btn-primary">Get Started</a>
                     </div>
                 </div>
             </div>
-        <!--Model Popup Section End-->
+            <!--offcanvas menu end-->
+        </header>
+        <!--header end-->
+        <!--header section end-->
+        @yield('content')
+        
+        <!--footer section start-->
+        <footer class="footer-section">
+            <!--footer top start-->
+            <!--for light footer add .footer-light class and for dark footer add .bg-dark .text-white class-->
+            <div class="footer-top footer-light ptb-120 hero-it-solution hero-nine-bg ptb-120"
+                style="background: url('assets/img/hero-9-img.png')no-repeat center center">
+                <div class="container">
+                    <div class="row justify-content-between">
+                        <div class="col-md-8 col-lg-4 mb-md-4 mb-lg-0">
+                            <div class="footer-single-col">
+                                <div class="footer-single-col mb-4">
+                                    <a href="index.html">
+                                        <img src="assets/img/Vri_logo.png" alt="logo"
+                                            class="img-fluid logo-footer logo-white" style="width: 350px;" />
+                                        <img src="assets/img/Vri_logo.png" alt="logo"
+                                            class="img-fluid logo-footer logo-color" style="width: 320px;"  />
+                                    </a>
+                                </div>
+                                <p class="text text-black">Our latest news, articles, and resources, we will sent to
+                                    your inbox weekly. </p>
+
+                                <form class="newsletter-form position-relative d-block d-lg-flex d-md-flex">
+                                    <input type="text" class="input-newsletter form-control me-2"
+                                        placeholder="Enter your email" name="email" required="" autocomplete="off">
+                                    <input type="submit" value="Subscribe" data-wait="Please wait..."
+                                        class="btn btn-primary mt-3 mt-lg-0 mt-md-0">
+                                </form>
+                                <!-- <div class="ratting-wrap mt-4">
+                                    <h6 class="mb-0">10/10 Overall rating</h6>
+                                    <ul class="list-unstyled rating-list list-inline mb-0">
+                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                    </ul>
+                                </div> -->
+                            </div>
+                        </div>
+                        <div class="col-md-12 col-lg-7 mt-4 mt-md-0 mt-lg-0">
+                            <div class="row">
+                                <div class="col-md-4 col-lg-4 mt-4 mt-md-0 mt-lg-0">
+                                    <div class="footer-single-col">
+                                        <h3 class="text-center">Reach Us</h3><!-- Links -->
+                                        <ul class="list-unstyled list-py-1 mb-0">
+                                            <li class="d-flex mb-2">
+                                                <div class="d-flex ">
+                                                    <div class="flex-shrink-0">
+                                                        <button type="button" class="btn btn-sm btn-primary btn-icon"><i
+                                                                class="fas fa-map-marker-alt"></i></button>
+
+                                                    </div>
+
+                                                    <div class="flex-grow-1 ms-3">
+                                                        <a href="https://www.google.com/maps?q=A18 XYZ Street New York 53022 United States"
+                                                            class="text-black">A18 XYZ Street
+                                                            <br> New York 53022, <br> United States
+                                                        </a>
+                                                    </div>
+                                                </div>
+
+                                            </li>
+
+                                            <li class="d-flex mb-2">
+
+                                                <div class="d-flex ">
+                                                    <div class="flex-shrink-0">
+                                                        <button type="button" class="btn btn-sm btn-primary btn-icon"><i
+                                                                class="fas fa-envelope-open"></i></button>
+
+                                                    </div>
+
+                                                    <div class="flex-grow-1 ms-3 text-center">
+                                                        <a class=" text-black"
+                                                            href="mailto:info@vriaum.com">info@vriaum.com</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+
+                                            <li class="d-flex mb-2">
+
+                                                <div class="d-flex ">
+                                                    <div class="flex-shrink-0">
+                                                        <button type="button" class="btn btn-sm btn-primary btn-icon"><i
+                                                                class="fas fa-phone"></i></button>
+
+                                                    </div>
+
+                                                    <div class="flex-grow-1 ms-3 text-center">
+                                                        <a class=" text-black" href="tel:+155895548855">+1
+                                                            5589548855</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+
+                                        </ul>
+                                        <!-- End Links -->
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-lg-4 mt-4 mt-md-0 mt-lg-0">
+                                    <div class="footer-single-col">
+                                        <h3>Quick Links</h3>
+                                        <ul class="list-unstyled footer-nav-list mb-lg-0">
+                                            <li><a href="about.html" class="text-decoration-none">About Us</a></li>
+
+                                            <li><a href="index.html" class="text-decoration-none">home</a></li>
+                                            <li><a href="contact.html" class="text-decoration-none">Career</a></li>
+
+                                            <li><a href="contact.html" class="text-decoration-none">Contact</a></li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-lg-4 mt-4 mt-md-0 mt-lg-0">
+                                    <div class="footer-single-col">
+                                        <h3>Services</h3>
+                                        <ul class="list-unstyled footer-nav-list mb-lg-0">
+                                            <li><a href="contact-us.html" class="text-decoration-none">Web Devlopement</a></li>
+                                            <li><a href="support.html" class="text-decoration-none">Product devlopment</a></li>
+                                            <li><a href="support-single.html" class="text-decoration-none">IOT</a></li>
+                                            <li><a href="team.html" class="text-decoration-none">App Devlopment</a></li>
+                                            
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <!--footer top end-->
+
+            <!--footer bottom start-->
+            <div class="footer-bottom footer-light py-4  hero-it-solution hero-nine-bg ptb-120"
+                style="background: url('assets/img/hero-9-img.png')no-repeat center center">
+                <div class="container">
+                    <div class="row justify-content-between align-items-center">
+                        <div class="col-md-7 col-lg-7">
+                            <div class="copyright-text">
+                                <p class="mb-lg-0 mb-md-0">&copy; 2023 Rights Reserved. <a href="index.html"
+                                        class="text-decoration-none">VriAum Technologies</a></p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-lg-4">
+                            <div class="footer-single-col text-start text-lg-end text-md-end">
+                                <ul class="list-unstyled list-inline footer-social-list mb-0">
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-dribbble"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--footer bottom end-->
+        </footer> <!--footer section end-->
 
 
- 	</div>
+    </div>
 
 
 
-<!-- JAVASCRIPT  FILES ========================================= --> 
-<script  src="{{ asset('js/jquery-3.6.0.min.js') }}"></script><!-- JQUERY.MIN JS -->
-<script  src="{{ asset('js/popper.min.js') }}"></script><!-- POPPER.MIN JS -->
-<script  src="{{ asset('js/bootstrap.min.js') }}"></script><!-- BOOTSTRAP.MIN JS -->
-<script  src="{{ asset('js/magnific-popup.min.js') }}"></script><!-- MAGNIFIC-POPUP JS -->
-<script  src="{{ asset('js/waypoints.min.js') }}"></script><!-- WAYPOINTS JS -->
-<script  src="{{ asset('js/counterup.min.js') }}"></script><!-- COUNTERUP JS -->
-<script  src="{{ asset('js/waypoints-sticky.min.js') }}"></script><!-- STICKY HEADER -->
-<script  src="{{ asset('js/isotope.pkgd.min.js') }}"></script><!-- MASONRY  -->
-<script  src="{{ asset('js/imagesloaded.pkgd.min.js') }}"></script><!-- MASONRY  -->
-<script  src="{{ asset('js/owl.carousel.min.js') }}"></script><!-- OWL  SLIDER  -->
-<script  src="{{ asset('js/theia-sticky-sidebar.js') }}"></script><!-- STICKY SIDEBAR  -->
-<script  src="{{ asset('js/lc_lightbox.lite.js') }}" ></script><!-- IMAGE POPUP -->
-<script  src="{{ asset('js/bootstrap-select.min.js') }}"></script><!-- Form js -->
-<script  src="{{ asset('js/dropzone.js') }}"></script><!-- IMAGE UPLOAD  -->
-<script  src="{{ asset('js/jquery.scrollbar.js') }}"></script><!-- scroller -->
-<script  src="{{ asset('js/bootstrap-datepicker.js') }}"></script><!-- scroller -->
-<script  src="{{ asset('js/jquery.dataTables.min.js') }}"></script><!-- Datatable -->
-<script  src="{{ asset('js/dataTables.bootstrap5.min.js') }}"></script><!-- Datatable -->
-<script  src="{{ asset('js/chart.js') }}"></script><!-- Chart -->
-<script  src="{{ asset('js/bootstrap-slider.min') }}"></script><!-- Price range slider -->
-<script  src="{{ asset('js/swiper-bundle.min') }}"></script><!-- Swiper JS -->
-<script  src="{{ asset('js/custom.js') }}"></script><!-- CUSTOM FUCTIONS  -->
-
+    <!--build:js-->
+    <script src="assets/js/vendors/jquery-3.6.0.min.js"></script>
+    <script src="assets/js/vendors/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/vendors/swiper-bundle.min.js"></script>
+    <script src="assets/js/vendors/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/vendors/parallax.min.js"></script>
+    <script src="assets/js/vendors/aos.js"></script>
+    <script src="assets/js/vendors/massonry.min.js"></script>
+    <script src="assets/js/app.js"></script>
+    <!--endbuild-->
 </body>
-
 
 </html>
