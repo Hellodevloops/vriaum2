@@ -70,13 +70,13 @@
                                     <div class="dropdown-grid rounded-custom width-full">
                                         <div class="dropdown-grid-item bg-white radius-left-side">
                                             <!-- <h6 class="drop-heading">Useful Links</h6> -->
-                                            <a href="about-us.html" class="dropdown-link px-0">
+                                            <a href="{{ route('iot')}}" class="dropdown-link px-0">
                                                 <span class="me-2">
                                                     <i class="flaticon-fingerprint"></i>
                                                 </span>
                                                 <div class="drop-title">Software Development</div>
                                             </a>
-                                            <a href="contact-us.html" class="dropdown-link px-0">
+                                            <a href="{{ route('iot')}}" class="dropdown-link px-0">
                                                 <span class="me-2">
                                                     <i class="flaticon-phone-book"></i>
                                                 </span>
@@ -86,13 +86,13 @@
                                         </div>
                                         <div class="dropdown-grid-item radius-right-side bg-light-subtle">
                                             <!-- <h6 class="drop-heading">Utility Pages</h6> -->
-                                            <a href="style-guide.html" class="dropdown-link">
+                                            <a href="{{ route('iot')}}" class="dropdown-link">
                                                 <span class="me-2">
                                                     <i class="flaticon-web-programming"></i>
                                                 </span>
                                                 <div class="drop-title">App Development</div>
                                             </a>
-                                            <a href="support.html" class="dropdown-link">
+                                            <a href="{{ route('iot')}}" class="dropdown-link">
                                                 <span class="me-2">
                                                     <i class="flaticon-headset"></i>
                                                 </span>
@@ -709,10 +709,10 @@
                                     <div class="footer-single-col">
                                         <h3>Services</h3>
                                         <ul class="list-unstyled footer-nav-list mb-lg-0">
-                                            <li><a href="contact-us.html" class="text-decoration-none">Web Devlopement</a></li>
-                                            <li><a href="support.html" class="text-decoration-none">Product devlopment</a></li>
-                                            <li><a href="support-single.html" class="text-decoration-none">IOT</a></li>
-                                            <li><a href="team.html" class="text-decoration-none">App Devlopment</a></li>
+                                            <li><a href="{{route('iot')}}" class="text-decoration-none">Web Devlopement</a></li>
+                                            <li><a href="{{route('iot')}}" class="text-decoration-none">Product devlopment</a></li>
+                                            <li><a href="{{route('iot')}}" class="text-decoration-none">IOT</a></li>
+                                            <li><a href="{{route('iot')}}" class="text-decoration-none">App Devlopment</a></li>
                                             
                                         </ul>
                                     </div>

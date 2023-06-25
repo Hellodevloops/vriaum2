@@ -1,557 +1,440 @@
 @extends('layouts.app')
 @section('content')
 
-
- <!-- INNER PAGE BANNER -->
- <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url('{{ asset('images/banner/1.jpg') }}');">
-    <div class="overlay-main site-bg-white opacity-01"></div>
-    <div class="container">
-        <div class="wt-bnr-inr-entry">
-            
-            <div>
-                <ul class="wt-breadcrumb breadcrumb-style-2" style="margin-bottom: 50px;">
-                    <li><a href="index.html">Home</a></li>
-                    <li>Services</li>
-                </ul>
-            </div>
-            <div class="banner-title-outer">
-                <h2><div class="banner-title-name site-text-primary">
-                    Internet Of Things and It's Solutions
-            </div></h2>
-                
-            </div>
-            <!-- BREADCRUMB ROW -->
-
-
-            <!-- BREADCRUMB ROW END -->
-        </div>
-    </div>
-</div>
-<!-- INNER PAGE BANNER END -->
-           <!-- FEATURed services SECTION START -->
-           <div class="section-full p-t120 p-b90 site-bg-gray twm-job-categories-area2">
-            <!-- TITLE START-->
-            <!-- <div class="section-head center wt-small-separator-outer">
-                <div class="wt-small-separator site-text-primary">
-                   <div>Jobs by Categories</div>                                
-                </div>
-                <h2 class="wt-title">Choose Your Desire Category</h2>
-            </div>                   -->
-            <!-- TITLE END--> 
-            
+        <!--page header section start-->
+        <section class="page-header position-relative overflow-hidden ptb-120 bg-dark" style="background: url('assets/img/page-header-bg.svg')no-repeat bottom left">
             <div class="container">
-
-                <div class="twm-job-categories-section-2">
-                   
-                    <div class="job-categories-style1 m-b30">
-                        <div class="row">
-                        
-                            <!-- COLUMNS 1 --> 
-                            <div class="col-lg-4 col-md-5">
-                                <div class="job-categories-block-2 m-b30">
-                                    <div class="twm-media">
-                                        <div><img src="{{ asset('images/servicesimg/iot1.png')}}" alt=""></div>
-                                    </div>                                   
-                                    <div class="twm-content">
-                                        <div class="twm-jobs-available"><h3 class="site-text-primary mt-2">IOT Integration</h3></div>
-                                      
-                                        <a href=""><p>The IoT is rapidly growing across industrial world businesses that don’t embrace IoT solutions will fall behind their -competitors. We bring intelligence to all end points & integrate wide range of IoT sensors including Temperature Sensors. Humidity Sensors, Vibration sensors ,Level Sensors Pressure Sensors, Proximity Sensors. MEMS sensors, Gyroscope, Gas Sensors.</p></a>
-                                    </div>                               
+                <div class="row">
+                    <div class="col-lg-8 col-md-12">
+                        <h1 class="display-5 fw-bold">We are Development Experts</h1>
+                        <p class="lead">Seamlessly actualize client-based users after out-of-the-box value. Globally embrace
+                            strategic data through frictionless expertise.</p>
+                    </div>
+                </div>
+                <div class="bg-circle rounded-circle circle-shape-3 position-absolute bg-dark-light right-5"></div>
+            </div>
+        </section>
+        <!--page header section end-->
+<!-- about service start -->
+<section class="counter-with-video pt-120 pb-120" id="cyber-about">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-12">
+                <div class="cyber-about-img text-center mb-30 mb-lg-0">
+                    <img src="assets/img/about_cyber.jpg" alt="VR" class="img-fluid">
+                    <div class="row g-0">
+                        <div class="col-lg-5">
+                            <div class="sheild-img">
+                                <img src="assets/img/about2.png" alt="Sheild" class="img-fluid d-none d-lg-block">
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-12">
+                            <div class="pe-2">
+                                <div class="cyber-about-count-box d-md-flex bg-white p-4 mt-3">
+                                    <div class="pe-3">
+                                        <h2>10+</h2>
+                                    </div>
+                                    <div>
+                                        <h5 class="h6">Years Experience</h5>
+                                        <p class="mb-0">Innovate To Inspire</p>
+                                    </div>
                                 </div>
                             </div>
-
-                            <!-- COLUMNS 2 --> 
-                            <div class="col-lg-4 col-md-5">
-                                <div class="job-categories-block-2 m-b30">
-                                    <div class="twm-media">
-                                        <div><img src="{{ asset('images/servicesimg/iot2.png')}}" alt=""></div>
-
-                                        <div class=""></div>
-                                    </div>                                   
-                                    <div class="twm-content">
-                                        <div class="twm-jobs-available"><h3 class="site-text-primary mt-2">IOT Gateways</h3></div>
-                                      
-                                        <a href=""><p>IoT Gateway is a solution for enabling IoT device communication, Normally IoT device -to-IoT device communications or IoT device to web communications. The gateway is a hardware device with compatible software that receives data from sensors and transmits data to the cloud . our solutions support Zigbee, WIFI , Cellular , RF , Bluetooth & LoraWan.</p></a>
-                                    </div>                               
-                                </div>
-                            </div>
-                            
-                            <!-- COLUMNS 3 --> 
-                            <div class="col-lg-4 col-md-5">
-                                <div class="job-categories-block-2 m-b30">
-                                    <div class="twm-media">
-                                        <div><img src="{{ asset('images/servicesimg/iot3.png')}}" alt=""></div>
-
-                                    </div>                                   
-                                    <div class="twm-content">
-                                        <div class="twm-jobs-available"><h3 class="site-text-primary mt-2">IoT Platform</h3></div>
-                                      
-                                        <a href=""><p>IoT platform is a multi-layer technology that enables installation , management, and automation of connected IoT devices .IoT platform connects your IoT hardware to cloud by using internet connectivity. We specialize in leading IOT platform providers like Google Cloud IoT, Cisco IoT Cloud Connect, Salesforce IoT Cloud, IBM Watson IoT, ThingWorx, Amazon AWS IoT Core.</p></a>
-                                    </div>                               
-                                </div>
-                            </div>
-                            
-                                                               
-
                         </div>
                     </div>
-
-                    <!-- <div class="text-center job-categories-btn">
-                        <a href="job-list.html" class=" site-button">All Categories</a>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="pt-1">
+                    <!-- <div class="d-flex about-icon-box-lg align-items-center">
+                        <div class="me-3">
+                            <img src="assets/img/Vri_logo_preview.png" alt="">
+                        </div>
+                        <div>
+                            <h5>Empowering Businesses with Cutting-Edge</h5>
+                        </div>
                     </div> -->
+                    <div class="section-heading ">
+                        <h4 class="text-primary h5 mb-2"> Driving Innovation and Transformation</h4>
+                            <h2 class="mb-4">Internet of Things Solutions</h2>
+                            <p>
+                                In today's interconnected world, the Internet of Things (IoT) has emerged as a game-changer, revolutionizing industries and transforming the way we live and work. 
+                           At <span class="text-primary">VriAum</span>, we are at the forefront of this technological revolution, offering a wide range of innovative IoT solutions that empower businesses to thrive in the digital age.</p>
+                            <p>
 
-                </div>
-
-            </div>
-
-        </div>
-        <!-- FEATURED  services SECTION END -->
-       
-        <!-- Why choose Us SECTION START -->
-        {{-- <div class="section-full p-t50 p-b90 site-bg-gray twm-about-1-area">
-                    
-            <div class="container">
-                <div class="twm-about-1-section-wrap">
-                    <div class="row">
-                        
-                        <div class="col-lg-6 col-md-12">
-                            <div class="twm-about-1-section">
-                                <div class="twm-media">
-                                    <img src="images/servicesimg/young-woman-cover-her-face-with-digital-tablet-isolated-whit-removebg-preview.png" alt="">
+                                Our IoT services are designed to address the unique challenges faced by various industries, unlocking new opportunities for growth, efficiency, and enhanced customer experiences. With our deep expertise in IoT technologies, we deliver end-to-end solutions that seamlessly integrate devices, collect and analyze data, and provide actionable insights.</p>
+                    </div>
+                    <div class="row mt-3">
+                        <div class="col-6">
+                            <div class="">
+                                <div class="feature-card border border-light border-2 rounded-custom p-3">
+                                    <div class="rounded mb-2 d-flex align-items-center">
+                                        <i class="fas fa-user-friends fa-2x text-primary me-3"></i>
+                                        <h3 class="h5 mb-0"> IoT Consultancy </h3>
+                                    </div>
+                                    <div class="feature-content">
+                                        <p class="mb-0">Our experienced consultants will guide you through every step of your IoT journey, from strategy development to implementation.</p>
+                                    </div>
+                                    
                                 </div>
+                            </div></div>
+                            <div class="col-6">
+                                <div class="feature-card border border-light border-2 rounded-custom p-3">
+                                    <div class="rounded mb-2 d-flex align-items-center">
+                                        <i class="fas fa-fingerprint fa-2x text-primary me-3"></i>
+                                        <h3 class="h5 mb-0">IoT Security Solutions</h3>
+                                    </div>
+                                    <div class="feature-content">
+                                        <p class="mb-0">Safeguard your connected world with our advanced IoT security solution,trust us with our multi-layered  cutting-edge techniques.</p>
+                                    </div>
+                                    
+                                </div>
+                                
                             </div>
                         </div>
-
-                        <div class="col-lg-6 col-md-12">
-                            <div class="twm-about-1-section-right">
-                                <!-- TITLE START-->
-                                    <div class="section-head left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="site-text-orange">Why Choose Us</div>                                
-                                        </div>
-                                        <h2 class="wt-title">Millions of jobs approaches. Find the best services 
-                                             that’s right for you.</h2>
-                                        
-                                    </div>
-                                <!-- TITLE END-->
-                                    <ul class="description-list">
-                                        <li class="mb-3">
-                                            <i class="feather-check "></i>
-                                            <h4>Free quotes and consultation</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- about service end -->
+        <!--features grid section start-->
+        <section class="feature-tab-section ptb-120 bg-light-subtle">
+            <div class="container">
+                <div class="row justify-content-center align-content-center">
+                    <div class="col-md-10 col-lg-8">
+                        <div class="section-heading text-center mb-4">
+                            <h5 class="h6 text-primary">Unleashing Innovation, Efficiency, and Growth</h5>
+                            <h2> Our IoT Services Empower Your Future</h2>
+                            <p class="lead mt-3">With our expertise and dedication, we help businesses harness the power of IoT to drive innovation, streamline operations, and achieve transformative growth.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <ul class="nav justify-content-center feature-tab-list-2 mt-4" id="nav-tab-2" role="tablist">
+                            <li class="nav-item" role="presentation">
+                                <a class="nav-link active" href="#tab-2-1" data-bs-toggle="tab" data-bs-target="#tab-2-1" role="tab" aria-selected="true">
+                                    Industrial IoT Solutions
+                                </a>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <a class="nav-link" href="#tab-2-2" data-bs-toggle="tab" data-bs-target="#tab-2-2" role="tab" aria-selected="false" tabindex="-1">
+                                    Smart Home Automation
+                                </a>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <a class="nav-link" href="#tab-2-3" data-bs-toggle="tab" data-bs-target="#tab-2-3" role="tab" aria-selected="false" tabindex="-1">
+                                    Healthcare IoT Solutions
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="tab-content" id="nav-tabContent-2">
+                            <div class="tab-pane fade pt-60 active show" id="tab-2-1" role="tabpanel">
+                                <div class="row justify-content-center align-items-center justify-content-around">
+                                    <div class="col-lg-5">
+                                        <div class="feature-tab-info">
+                                            <h3> Industrial IoT Solutions</h3>
                                            
-                                        </li>
-                                        <li class="mb-3">
-                                            <i class="feather-check"></i>
-                                            <h4>We listen, suggest, and update</h4>
-
-                                        </li>
-                                        <li class="mb-3">
-                                            <i class="feather-check"></i>
-                                            <h4>Fixed prices and no surprises</h4>
-                                        </li>
-                                        <li class="mb-3">
-                                            <i class="feather-check"></i>
-                                           <h4>We have a proven methodology</h4>
-                                        </li>
-                                    </ul>                  
-                                
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-                <div class="twm-about-1-bottom-wrap">
-                    <div class="row">
-                        <div class="col-lg-4 col-md-6">
-                            <!--icon-block-1-->
-                            <div class="twm-card-blocks">
-                                <div class="twm-icon pink">
-                                    <img src="images/main-slider/slider2/icon-2.png" alt="">
-                                </div>
-                                <div class="twm-content">
-                                    <div class="tw-count-number text-clr-pink">
-                                        <span class="counter">98</span> +
+                                            <p>At <span class="text-primary">VriAum</span>, we offer comprehensive Industrial IoT solutions that redefine productivity, efficiency, and safety across various industries. Our expertise lies in integrating sensors, devices, and analytics to provide real-time insights and optimize operations. </p>
+                                            <p> From predictive maintenance and asset tracking to remote monitoring and process automation, our Industrial IoT solutions empower businesses to streamline processes, reduce downtime, and achieve greater operational excellence. Experience the power of Industrial IoT and propel your industry into the future.</p>
+                                            <h5 class="h6 text-primary">Revolutionize Your Industry with IoT</h5>
+                                            <p>Contact us today to explore how our Industrial IoT solutions can revolutionize your business.</p>
+                                            <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us
+                                                <i class="fas fa-arrow-right ms-2"></i></a>
+                                        </div>
                                     </div>
-                                    <p class="icon-content-info">Job For Countries </p>
+                                    <div class="col-lg-5">
+                                        <img src="assets/img/services/ioti.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6">
-                            <!--icon-block-2-->
-                            <div class="twm-card-blocks-2">
-                                <div class="twm-pics">
-                                    <span><img src="images/main-slider/slider2/user/u-1.jpg" alt=""></span>
-                                    <span><img src="images/main-slider/slider2/user/u-2.jpg" alt=""></span>
-                                    <span><img src="images/main-slider/slider2/user/u-3.jpg" alt=""></span>
-                                    <span><img src="images/main-slider/slider2/user/u-4.jpg" alt=""></span>
-                                    <span><img src="images/main-slider/slider2/user/u-5.jpg" alt=""></span>
-                                    <span><img src="images/main-slider/slider2/user/u-6.jpg" alt=""></span>
-                                </div>
-                                <div class="twm-content">
-                                    <div class="tw-count-number text-clr-green">
-                                        <span class="counter">3</span>K+
+                            <div class="tab-pane fade pt-60" id="tab-2-2" role="tabpanel">
+                                <div class="row justify-content-center align-items-center justify-content-around">
+                                    <div class="col-lg-5">
+                                        <img src="assets/img/services/ioth.jpg" alt="feature tab" class="img-fluid mb-4 mb-lg-0 mb-xl-0">
                                     </div>
-                                    <p class="icon-content-info">Jobs Done</p>
-                                </div>
-                            </div> 
-                        </div>
-
-                        <div class="col-lg-4 col-md-6">
-                            <!--icon-block-3-->
-                            <div class="twm-card-blocks">
-                                <div class="twm-icon">
-                                    <img src="images/main-slider/slider2/icon-1.png" alt="">
-                                </div>
-                                <div class="twm-content">
-                                    <div class="tw-count-number text-clr-sky">
-                                        <span class="counter">12</span>K+
+                                    <div class="col-lg-5">
+                                        <div class="feature-tab-info">
+                                            <h3> Smart Home Automation</h3>
+                                           
+                                            <p>Transform your home into a smart, connected sanctuary with our cutting-edge Smart Home Automation solutions. Enjoy the convenience of controlling your lights, appliances, security systems, and more, all at your fingertips. Our solutions encompass intelligent lighting, energy management, home security, and voice-controlled automation, making your home more comfortable, secure, and energy-efficient.</p>
+                                            <p> Experience the next level of modern living with our Smart Home Automation solutions tailored to your lifestyle and preferences. </p>
+                                            <h5 class="h6 text-primary"> Elevate Your Living with Smart Home Solutions</h5>
+                                            <p>Contact us today to discover how our Smart Home Automation solutions can elevate your living experience.</p>
+                                            <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us
+                                                <i class="fas fa-arrow-right ms-2"></i></a>
+                                        </div>
                                     </div>
-                                    <p class="icon-content-info">Companies Jobs</p>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade pt-60" id="tab-2-3" role="tabpanel">
+                                <div class="row justify-content-center align-items-center justify-content-around">
+                                    <div class="col-lg-5">
+                                        <div class="feature-tab-info">
+                                            <h3> Healthcare IoT Solutions</h3>
+                                           
+                                            <p>At <span class="text-primary">VriAum</span>, we revolutionize healthcare delivery through our innovative Healthcare IoT solutions. Our solutions enable remote patient monitoring, real-time health tracking, and data-driven insights to improve patient outcomes and enhance operational efficiency.  </p>
+                                            <p> From connected medical devices and secure data integration to AI-powered analytics and telehealth solutions, we empower healthcare providers to deliver personalized care, optimize resource allocation, and improve patient experiences. Join us in shaping the future of healthcare with our advanced Healthcare IoT solutions. </p>
+                                            <h5 class="h6 text-primary">Transforming Healthcare Delivery through IoT</h5>
+                                            <p>Contact us today to learn how our Healthcare IoT solutions can transform your healthcare organization.</p>
+                                            <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us
+                                                <i class="fas fa-arrow-right ms-2"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-5">
+                                        <img src="assets/img/services/iotm.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
+                                    </div>
                                 </div>
                             </div>
                         </div>
-
-                        
-                        
-
                     </div>
                 </div>
             </div>
-
-       
-       
-        </div>    --}}
-        <!-- Why Choose Us SECTION END -->
-
-        <!-- slient feautures Work START -->
-     
-           <!-- OUR BLOG START -->
-           <div class="section-full p-t70 p-b90 site-bg-gray bg-cover overlay-wraper" style="background-image:url('{{ asset('images/background/bg-1.jpg') }}');">
-            <div class="overlay-main site-bg-primary opacity-01"></div>
-            <div class="container">
-               
-                <!-- TITLE START-->
-                <div class="section-head center wt-small-separator-outer">
-                    <div class="wt-small-separator site-text-primary">
-                       <div class="site-text-orange">How We Work</div>                                
-                    </div>
-                    <h2 class="wt-title site-text-primary">Our Slient Features</h2>
+        </section>
+        <!--features grid section end-->
+<!-- tab features strats -->
+<section class="feature-section-two ptb-120">
+    <div class="container">
+        <div class="section-heading text-center mb-5">
+            <h5 class="h6 text-primary">Why Choose Us?</h5>
+            <h2> Key Features and Capabilities</h2>
+            <p class="lead mt-3">Our IoT solutions encompass a wide range of functionalities and capabilities, designed to unlock the true potential of connected devices. Here's a glimpse of what we offer.</p>
+        </div>
+        <div class="row align-items-center justify-content-lg-between justify-content-center">
+            <div class="col-lg-5 col-md-7">
+                <div class="feature-img-wrap">
+                    <img src="assets/img/services/iot2.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0 ">
+                </div>
+            </div>
+            <div class="col-lg-7 col-md-12 mt-4">
+                <div class="feature-content-wrap">
                     
-                </div>                  
-                <!-- TITLE END-->
-
-
-                <div class="section-content">
-                    <div class="row d-flex justify-content-center">
-                        <div class="col-lg-5 col-md-12 m-b30">
-                            <!--Block one-->
-                            <div class="blog-post twm-blog-post-2-outer">
-                                <div class="wt-post-media m-t30">
-                                    <a href=""><img src="{{ asset('images/servicesimg/iot_feature.jpg')}}" alt=""></a>
-                                </div>                                    
-                                <div class="wt-post-info">
-                                    <div class="wt-post-meta ">
-                                        <ul>
-                                            <li class="post-date">TMS</li>
-                                        </ul>
-                                    </div>
-                                                                 
-                                <div class="wt-post-title ">
-                                    <h4 class="post-title">
-                                        <a href="">
-                                            Real-time Monitoring
-                                        </a>
-                                    </h4>
-                                </div>
-                               
-                                <div class="wt-post-readmore ">
-                                    <p class=" site-text-white">IoT devices enable real-time monitoring of various processes and operations, allowing for faster decision-making and greater efficiency.</p>
-                                </div>                                        
-                            </div>                                
+                    <ul class="list-unstyled mb-0">
+                        <li class="d-flex align-items-start mb-4">
+                            <div class="icon-box bg-primary rounded me-4">
+                                <i class="fas fa-bezier-curve text-white"></i>
                             </div>
-                        </div>
-                        
-                        <div class="col-lg-7 col-md-12">
-
-                            <div class="twm-blog-post-wrap-right">
-                                <!--Block two-->
-                                <div class="blog-post twm-blog-post-1-outer shadow-none  m-b10  ">
-                                    <div class="wt-post-info">
-
-                                      
-                                                                    
-                                        <div class="wt-post-title ">
-                                            <h4 class="site-tittle-primary">
-                                                IOT Sensor Technology
-                                            </h4>
-                                        </div>
-                                        <div class="wt-post-text ">
-                                            <p>
-                                                IoT devices are equipped with sensors that collect real-time data and provide insights into various parameters such as temperature, humidity, and motion
-                                            </p>
-                                        </div>
-                                        <!-- <div class="wt-post-readmore ">
-                                            <a href="blog-single.html" class="site-button-link site-text-primary">Read More</a>
-                                        </div>  -->
-
-                                    </div>                                
-                                </div>
-
-                                <!--Block three-->
-                                <div class="blog-post twm-blog-post-1-outer shadow-none  m-b3">
-                                    <div class="wt-post-info">
-                                       
-
-                                      
-                                                                    
-                                        <div class="wt-post-title post-date ">
-                                            <h4 class="site-tittle-primary">
-                                                Security
-                                            </h4>
-                                        </div>
-                                         <div class="wt-post-text ">
-                                            <p>
-                                                Built-in security features such as encryption, user authentication, and data validation to ensure that the devices and the data they transmit are secure.
-                                            </p>
-                                        </div>
-                                        <!-- <div class="wt-post-readmore ">
-                                            <a href="blog-single.html" class="site-button-link site-text-primary">Read More</a>
-                                        </div>  -->
-
-                                    </div>                                
-                                </div>
-
-                                <!--Block four-->
-                               
-                                
-
-
-                                <div class="blog-post twm-blog-post-1-outer shadow-none  m-b30 owl-item">
-                                    <div class="wt-post-info">
-             
-                                        <div class="wt-post-title ">
-                                            <h4 class="site-tittle-primary">
-                                                Improved Data Analysis
-                                            </h4>
-                                        </div>
-                                         <div class="wt-post-text ">
-                                            <p>
-                                               IoT devices generate vast amounts of data that can be analyzed to provide insights into various operations and processes, allowing users to make more informed decisions.
-                                            </p>
-                                        </div> 
-                                        <!-- <div class="wt-post-readmore ">
-                                            <a href="blog-single.html" class="site-button-link site-text-primary">Read More</a>
-                                        </div>  -->
-
-                                    </div>                                
-                                </div>
-
-                              
+                            <div class="icon-content">
+                                <h3 class="h5">Real-time Monitoring</h3>
+                                <p> Our services provide real-time monitoring and control of connected devices, allowing you to make data-driven decisions and respond swiftly to critical events.
+                                </p>
                             </div>
-
-                        </div>                                                        
-                                                    
-                    </div>
+                        </li>
+                        <li class="d-flex align-items-start mb-4">
+                            <div class="icon-box bg-primary rounded me-4">
+                                <i class="fas fa-chart-simple text-white"></i>
+                            </div>
+                            <div class="icon-content">
+                                <h3 class="h5">Predictive Analytics</h3>
+                                <p>We leverage advanced analytics and machine learning algorithms to extract meaningful insights from IoT data, enabling predictive maintenance, demand forecasting, and more.
+                            </div>
+                        </li>
+                        <li class="d-flex align-items-start mb-4 mb-lg-0">
+                            <div class="icon-box bg-primary rounded me-4">
+                                <i class="fas fa-fingerprint text-white"></i>
+                            </div>
+                            <div class="icon-content">
+                                <h3 class="h5">Security</h3>
+                                <p> Security is paramount in the IoT landscape. We implement stringent security measures, including encryption, authentication, and access controls, to safeguard your device-data.
+                                </p>
+                            </div>
+                        </li>
+                    </ul>
                 </div>
-               
             </div>
-        </div>
-        <!-- OUR BLOG END -->
-
-        <!-- slient feautures Work END -->
-   <!-- TOP COMPANIES START -->
-   <div class="section-full p-t70  site-bg-white twm-companies-wrap">
-                  
-    <!-- TITLE START-->
-    <div class="section-head center wt-small-separator-outer">
-        <div class="wt-small-separator site-text-primary">
-           <div>Top Companies</div>                                
-        </div>
-        <h2 class="wt-title">Get hired in top companies</h2>
-    </div>                  
-    <!-- TITLE END-->
-
-    <div class="container">
-        <div class="section-content">
-            <div class="owl-carousel home-client-carousel2 owl-btn-vertical-center">
             
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href=""><img src="{{ asset('images/client-logo/alight.png')}}"
-                                    alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href=""><img src="{{ asset('images/client-logo/conduent.png')}}"
-                                    alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href=""><img src="{{ asset('images/client-logo/dtcc.png')}}"
-                                    alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href=""><img src="{{ asset('images/client-logo/Ebix.png')}}"
-                                    alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href=""><img src="{{ asset('images/client-logo/mastercard.png')}}"
-                                    alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-             
-
-             
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href=""><img src="{{ asset('images/client-logo/uzio.png')}}"
-                                    alt=""></a>
-                        </div>
-                    </div>
-                </div>
-                
-            </div>
         </div>
     </div>
-  
-
-</div>
-<!-- TOP COMPANIES END -->
-      
-   <!-- SUBSCRIBE SECTION START -->
-   <div class="section-full twm-hpage-6-subs-wrap bg-cover " style="background-image: url('{{ asset('images/home-6/subscribe-bg.jpg') }}');">
+</section>
+<!-- tab features end -->
+   <!--testimonial section start-->
+<!-- integrate companies  -->
+<section class="integration-section ptb-120">
     <div class="container">
+        <div class="row align-items-center justify-content-between">
+            <div class="col-lg-3">
+                <div class="integration-list-wrap">
+                    <a  class="integration-1" data-bs-toggle="tooltip" data-bs-placement="t aria-label="Y data-bs-original-title="Y">
+                        <img src="assets/img/integations/1.png" alt="integration" class="img-fluid rounded-circle">
+                    </a>
+                    <a  class="integration-2" data-bs-toggle="tooltip" data-bs-placement="t aria-label="Y data-bs-original-title="Y">
+                        <img src="assets/img/integations/2.png" alt="integration" class="img-fluid rounded-circle">
+                    </a>
+                    <a  class="integration-3" data-bs-toggle="tooltip" data-bs-placement="t aria-label="Y data-bs-original-title="Y">
+                        <img src="assets/img/integations/3.png" alt="integration" class="img-fluid rounded-circle">
+                    </a>
 
-        <div class="section-content">
-            <div class="row">
+                    <a  class="integration-4" data-bs-toggle="tooltip" data-bs-placement="t aria-label="Y data-bs-original-title="Y">
+                        <img src="assets/img/integations/4.png" alt="integration" class="img-fluid rounded-circle">
+                    </a>
+                    <a  class="integration-5" data-bs-toggle="tooltip" data-bs-placement="t aria-label="Y data-bs-original-title="Y">
+                        <img src="assets/img/integations/5.png" alt="integration" class="img-fluid rounded-circle">
+                    </a>
+                    <a  class="integration-6" data-bs-toggle="tooltip" data-bs-placement="t aria-label="Y data-bs-original-title="Y">
+                        <img src="assets/img/integations/6.png" alt="integration" class="img-fluid rounded-circle">
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-5 col-12">
+                <div class="section-heading text-center my-5 my-lg-0 my-xl-0">
+                    <h5 class="h6 text-primary">Integration</h5>
+                    <h2>We Collaborate with Top Company in World</h2>
+                    <p class="lead mt-3">At <span class="text-primary">VriAum</span>, we understand the power of collaboration. That's why we work closely with industry-leading companies to bring you the best innovative and robust solutions that meet the unique needs of your business. Together with our esteemed partners, we aim to drive digital transformation and shape the good future.</p>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="col-lg-4">
+                    <div class="integration-list-wrap">
+                        <a  class="integration-7" data-bs-toggle="tooltip" data-bs-placement="t aria-label="Y data-bs-original-title="">
+                            <img src="assets/img/integations/7.png" alt="integration" class="img-fluid rounded-circle">
+                        </a>
+                        <a  class="integration-8" data-bs-toggle="tooltip" data-bs-placement="t aria-label="" data-bs-original-title="">
+                            <img src="assets/img/integations/8.png" alt="integration" class="img-fluid rounded-circle">
+                        </a>
+                        <a  class="integration-9" data-bs-toggle="tooltip" data-bs-placement="t aria-label="Y data-bs-original-title="">
+                            <img src="assets/img/integations/9.png" alt="integration" class="img-fluid rounded-circle">
+                        </a>
 
-                <div class="col-lg-7 col-md-12">
-                    <div class="twm-hpage-6-getintouch">
-                        <div class="callus-bg-box">
-                            <div class="callus-bg-box-shadow"></div>
+                        <a  class="integration-10" data-bs-toggle="tooltip" data-bs-placement="" aria-label="" data-bs-original-title="">
+                            <img src="assets/img/integations/10.png" alt="integration" class="img-fluid rounded-circle">
+                        </a>
+                        <a  class="integration-11" data-bs-toggle="tooltip" data-bs-placement="" aria-label="" data-bs-original-title="">
+                            <img src="assets/img/integations/11.png" alt="integration" class="img-fluid rounded-circle">
+                        </a>
+                        <a  class="integration-12" data-bs-toggle="tooltip" data-bs-placement="" aria-label="" data-bs-original-title="">
+                            <img src="assets/img/integations/12.png" alt="integration" class="img-fluid rounded-circle">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <section class="testimonial-section ptb-120 ">
+            <div class="container">
+                <div class="row justify-content-center align-content-center">
+                    <div class="col-md-10 col-lg-6">
+                        <div class="section-heading text-center">
+                            <h4 class="h5 text-primary">Testimonial</h4>
+                            <h2>What They Say About Us</h2>
+                            <!-- <p>Uniquely promote adaptive quality vectors rather than stand-alone e-markets pontificate alternative architectures with accurate schemas.</p> -->
                         </div>
-                        <div class="twm-hpage-6-getintouch-title">
-                            <h2 class="wt-title">
-                                Elevate your business with<span> expert consultation </span>
-                            </h2>
-                            <div class="wt-title-small"> </div>
-                         
-                        </div>
-                        <div class="twm-hpage-6-callus">
-                            <div class="callus-icon">
-                                <i class="flaticon-phone"></i>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="position-relative w-100">
+                            <div class="swiper testimonialSwiper">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <div class="border border-2 p-5 rounded-custom position-relative">
+                                            <img src="assets/img/testimonial/quotes-dot.svg" alt="quotes" width="100" class="img-fluid position-absolute left-0 top-0 z--1 p-3">
+                                            <div class="d-flex mb-32 align-items-center">
+                                                <img src="assets/img/testimonial/1.jpg" class="img-fluid me-3 rounded" width="60" alt="user">
+                                                <div class="author-info">
+                                                    <h6 class="mb-0">Mr.Rupan Oberoi</h6>
+                                                    <small>Founder and CEO at Amaara Herbs</small>
+                                                </div>
+                                            </div>
+                                            <blockquote>
+                                                <p>"<span class="text-primary">VriAum</span> has been instrumental in transforming our homes into smart, connected spaces. Their Smart Home Automation solutions have enhanced our lifestyle, providing convenience, security, and energy savings. We couldn't be happier with the results."
+                                            </blockquote>
+                                            <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                            </ul>
+                                            <img src="assets/img/testimonial/quotes.svg" alt="quotes" class="position-absolute right-0 bottom-0 z--1 pe-4 pb-4">
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="border border-2 p-5 rounded-custom position-relative">
+                                            <img src="assets/img/testimonial/quotes-dot.svg" alt="quotes" width="100" class="img-fluid position-absolute left-0 top-0 z--1 p-3">
+                                            <div class="d-flex mb-32 align-items-center">
+                                                <img src="assets/img/testimonial/3.jpg" class="img-fluid me-3 rounded" width="60" alt="user">
+                                                <div class="author-info">
+                                                    <h6 class="mb-0">Sarah Johnson</h6>
+                                                    <small>Homeowner</small>
+                                                </div>
+                                            </div>
+                                            <blockquote>
+                                                
+                                                "The Healthcare IoT solutions offered by <span class="text-primary">VriAum</span> have had a profound impact on our healthcare facility. With their remote patient monitoring and advanced analytics, we have improved patient care and optimized resource utilization. Their expertise is unmatched."
+                                            </blockquote>
+                                            <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                            </ul>
+                                            <img src="assets/img/testimonial/quotes.svg" alt="quotes" class="position-absolute right-0 bottom-0 z--1 pe-4 pb-4">
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="border border-2 p-5 rounded-custom position-relative">
+                                            <img src="assets/img/testimonial/quotes-dot.svg" alt="quotes" width="100" class="img-fluid position-absolute left-0 top-0 z--1 p-3">
+                                            <div class="d-flex mb-32 align-items-center">
+                                                <img src="assets/img/testimonial/2.jpg" class="img-fluid me-3 rounded" width="60" alt="user">
+                                                <div class="author-info">
+                                                    <h6 class="mb-0">Mark Thompson</h6>
+                                                    <small> Operations Manager at Viom Manufacturing</small>
+                                                </div>
+                                            </div>
+                                            <blockquote>
+                                                I am truly impressed with the Industrial IoT solutions provided by <span class="text-primary">VriAum</span>. Their expertise in predictive maintenance and asset tracking has significantly reduced downtime and improved our operational efficiency. Their solutions are a game-changer for our industry
+                                            </blockquote>
+                                            <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                            </ul>
+                                            <img src="assets/img/testimonial/quotes.svg" alt="quotes" class="position-absolute right-0 bottom-0 z--1 pe-4 pb-4">
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="border border-2 p-5 rounded-custom position-relative">
+                                            <img src="assets/img/testimonial/quotes-dot.svg" alt="quotes" width="100" class="img-fluid position-absolute left-0 top-0 z--1 p-3">
+                                            <div class="d-flex mb-32 align-items-center">
+                                                <img src="assets/img/testimonial/4.jpg" class="img-fluid me-3 rounded" width="60" alt="user">
+                                                <div class="author-info">
+                                                    <h6 class="mb-0">Jessica Davis</h6>
+                                                    <small> IT Manager at ACI Enterprises</small>
+                                                </div>
+                                            </div>
+                                            <blockquote>
+                                                Partnering with <span class="text-primary">VriAum</span> for our IoT implementation has been a great decision. Their comprehensive consulting services guided us through the entire process, ensuring a seamless integration of IoT technologies. Their knowledge and support have been invaluable.
+                                            </blockquote>
+                                            <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                                <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                            </ul>
+                                            <img src="assets/img/testimonial/quotes.svg" alt="quotes" class="position-absolute right-0 bottom-0 z--1 pe-4 pb-4">
+                                        </div>
+                                    </div>
+
+                                  
+                                </div>
                             </div>
-                            <div class="callus-content">
-                                <div class="callus-number"><a href="tel:201-254-7297" class="site-text-white"><p>201-254-7297</p></a></div> 
-                                <div class="callus-email"><a class="site-text-white" href="mailto:info@linktms.com"><p>info@linktms.com</p></a></div>
+                            <div class="swiper-nav-control">
+                                <span class="swiper-button-next"></span>
+                                <span class="swiper-button-prev"></span>
                             </div>
                         </div>
                     </div>
                 </div>
-
-                <div class="col-lg-5 col-md-12">
-                   <div class="twm-hpage-6-subscribe-wrap">
-                       <div class="hpage-6-nw-form-corner-wrap">
-                            <div class="twm-hpage-6-subscribe">
-                                <h3 class="twm-sub-title">Connect with us today</h3>
-                                {{-- <div class="twm-sub-discription">
-                                    With the latest industry insights and growth strategies. Act now to propel your business forward.
-                                </div> --}}
-                                <form class="cons-contact-form" method="POST" action="{{ route('contact.store') }}">
-                                    @csrf
-                                    <div class="row">
-
-                                        <div class="col-lg-6 col-md-6">
-                                            <div class="form-group mb-3">
-                                                <input type="text" name="name" class="form-control" value="{{ old('name') }}" placeholder="Name">
-                                                @error('name')
-                                                    <div class="alert alert-danger">{{ $message }}</div>
-                                                @enderror
-                                             </div>
-                                        </div>
-                                        
-                                        <div class="col-lg-6 col-md-6">
-                                            <div class="form-group mb-3">
-                                                <input type="email" name="email" class="form-control" value="{{ old('email') }}" placeholder="Email">
-                                                @error('email')
-                                                    <div class="alert alert-danger">{{ $message }}</div>
-                                                @enderror
-                                            </div>
-                                        </div>
-                                        
-                                        <div class="col-lg-6 col-md-6">
-                                            <div class="form-group mb-3">
-                                                <input type="number" name="phone" class="form-control" value="{{ old('phone') }}" placeholder="Phone">
-                                                @error('phone')
-                                                    <div class="alert alert-danger">{{ $message }}</div>
-                                                @enderror
-                                                <style>
-                                                    input::-webkit-outer-spin-button,
-                                                    input::-webkit-inner-spin-button {
-                                                      display: none;
-                                                    }
-                                                    input[type=number] { -moz-appearance: textfield;}
-                                                  </style>
-                                            </div>
-                                        </div>
-                                        
-                                        <div class="col-lg-6 col-md-6">
-                                            <div class="form-group mb-3">
-                                                <input type="text" name="subject" class="form-control" value="{{ old('subject') }}" placeholder="Subject">
-                                                @error('subject')
-                                                    <div class="alert alert-danger">{{ $message }}</div>
-                                                @enderror
-                                    </div>
-                                        </div>
-                                        
-                                        <div class="col-lg-12">
-                                            <div class="form-group mb-3">
-                                                <textarea name="message" class="form-control" placeholder="Message">{{ old('message') }}</textarea>
-                                        @error('message')
-                                            <div class="alert alert-danger">{{ $message }}</div>
-                                        @enderror
-                                            </div>
-                                        </div>
-                                        
-                                        <div class="col-md-12">
-                                            <button type="submit" class="site-button">Submit Now</button>
-                                        </div>
-                                        
-                                    </div>
-                                </form>
-                            </div>
-                            <div class="hpage-6-nw-form-corner"></div>
-                        </div>
-                   </div>
-                </div>
-
             </div>
-        </div>
-       
+        </section>
     </div>
-</div>
-<!-- SUBSCRIBE SECTION END -->
+</section>
+<!-- integrate end -->
+
  @endsection
