@@ -3,9 +3,11 @@
 declare(strict_types=1);
 
 namespace App\Orchid\Screens;
-
+use App\Orchid\Layouts\ContactListLayout;
+use Illuminate\Http\Request;
 use Orchid\Screen\Actions\Link;
 use Orchid\Screen\Screen;
+use App\Models\Contact;
 use Orchid\Support\Facades\Layout;
 
 class PlatformScreen extends Screen
@@ -15,9 +17,11 @@ class PlatformScreen extends Screen
      *
      * @return array
      */
-    public function query(): iterable
+    public function query(): array
     {
-        return [];
+        return [
+            'contact' => Contact::paginate()
+        ];
     }
 
     /**
@@ -37,7 +41,7 @@ class PlatformScreen extends Screen
      */
     public function description(): ?string
     {
-        return 'Welcome to your Orchid application.';
+        return 'Welcome to your VriAum Dashboard.';
     }
 
     /**
@@ -49,16 +53,10 @@ class PlatformScreen extends Screen
     {
         return [
             Link::make('Website')
-                ->href('http://orchid.software')
+                ->href('/')
                 ->icon('globe-alt'),
 
-            Link::make('Documentation')
-                ->href('https://orchid.software/en/docs')
-                ->icon('docs'),
-
-            Link::make('GitHub')
-                ->href('https://github.com/orchidsoftware/platform')
-                ->icon('social-github'),
+           
         ];
     }
 
@@ -70,8 +68,7 @@ class PlatformScreen extends Screen
     public function layout(): iterable
     {
         return [
-            Layout::view('platform::partials.update-assets'),
-            Layout::view('platform::partials.welcome'),
-        ];
+            ContactListLayout::class
+         ];
     }
 }
