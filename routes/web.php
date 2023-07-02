@@ -21,18 +21,18 @@ Route::get('/about', function () {
     return view('about');
 })->name('about');
 
-Route::get('/staffing', function () {
-    return view('services.staffing');
-})->name('staffing'); 
+Route::get('/product', function () {
+    return view('services.product');
+})->name('product'); 
 
 
 Route::get('/iot', function () {
     return view('services.iot');
 })->name('iot'); 
 
-Route::get('/ai_ml', function () {
-    return view('services.aiml');
-})->name('ai_ml'); 
+Route::get('/mobileapp', function () {
+    return view('services.mobileapp');
+})->name('mobileapp'); 
 
 Route::get('/di_bi', function () {
     return view('services.dibi');
@@ -42,9 +42,9 @@ Route::get('/dw_eng', function () {
     return view('services.datawarehouse');
 })->name('dw_eng'); 
 
-Route::get('/software', function () {
-    return view('services.software');
-})->name('software'); 
+Route::get('/webapp', function () {
+    return view('services.webapp');
+})->name('webapp'); 
 
 Route::get('/career', function () {
     return view('career');

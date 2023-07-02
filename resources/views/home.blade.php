@@ -7,23 +7,26 @@
             style="background: url('assets/img/hero-9-img.png')no-repeat center center">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-10">
+                    <div class="col-lg-7 col-md-10">
                         <div class="hero-content-wrap mt-5 mt-lg-0 mt-xl-0">
-                            <h1 class="fw-bold display-5">Empowering Businesses with Innovative Software Solutions</h1>
-                            <p class="lead">
-                                Unlocking Efficiency and Productivity through Intelligent Software Solutions
+                            <h1 class="fw-bold display-5 mt-5">Driving Growth through Seamless 
+                            <span class="fw-bold display-5 text-primary"> IT Solutions and Agile Staffing.</span>
+                        </h1>
+                            <p class="lead mt-5">
+                               
+
+                                "Unleash your business potential with our IT solutions and staffing expertise, igniting growth and surpassing goals."
                             </p>
                             <div class="action-btn mt-5 align-items-center d-block d-sm-flex d-lg-flex d-md-flex">
-                                <a href="contact.html" class="btn btn-primary me-3">Get In Touch</a>
-                                <!-- <a href="http://www.youtube.com/watch?v=hAP2QF--2Dg"
-                                    class="text-decoration-none popup-youtube d-inline-flex align-items-center watch-now-btn mt-3 mt-lg-0 mt-md-0 text-primary">
+                                <a href="{{ route('iot')}}" class="btn btn-primary me-3">Explore Solutions</a>
+                                {{-- <a href="http://www.youtube.com/watch?v=hAP2QF--2Dg" class="text-decoration-none popup-youtube d-inline-flex align-items-center watch-now-btn mt-3 mt-lg-0 mt-md-0 text-primary">
                                     <i class="fas fa-play text-primary border-2 border-primary"></i>
                                     Watch Demo
-                                </a> -->
+                                </a> --}}
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-5">
                         <div class="hero-img position-relative mt-5 mt-lg-0">
                             <img src="assets/img/banner_image.png" alt="hero hero-it-solution " class="img-fluid">
                             <div class="dots">
@@ -106,24 +109,20 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about-right">
-                            <h4 class="text-primary h5 mb-3">Crafting Future-Focused Solutions</h4>
                             <h2 class="mb-4">
                                 About Us
                             </h2>
+                            <h4 class="text-primary h5 mb-3">Crafting Future-Focused Solutions</h4>
                             <p>
-                                VriAum Technologies LLC is passionate about leveraging technology to drive innovation
-                                and empower businesses to thrive in the digital age. With a deep understanding of the
-                                ever-evolving software landscape and a team of highly skilled professionals, we are
-                                dedicated to delivering cutting-edge solutions that meet our clients' unique needs.
+                                At <span class="text-primary">VriAum Technologies LLC</span>, we are passionate about leveraging technology to drive innovation and empower businesses to thrive in the digital age. With a deep understanding of the ever-evolving software landscape and a team of highly skilled professionals, we are dedicated to delivering cutting-edge solutions that meet our clients' unique needs.
                             </p>
                             <p>
-                                Vriaum software solutions span across a wide range of domains, including enterprise
-                                applications, web and mobile development, internet of things and more. Whether our
-                                clients require a simple mobile app or a complex
-                                enterprise system, we have the expertise to deliver scalable, secure, and user-friendly
-                                software solutions that align with their unique requirements
+                                Our software solutions span across a wide range of domains, including enterprise applications, web and mobile development, and the Internet of Things. Whether our clients require a simple mobile app or a complex enterprise system, we have the expertise to deliver scalable, secure, and user-friendly software solutions that align with their unique requirements.
                             </p>
-                            <ul class="list-unstyled d-flex flex-wrap list-two-col mt-4 mb-4">
+                            <p>
+                                In addition to our software solutions, we also provide top-notch staffing services. We understand the critical role that talented professionals play in driving business success. With our extensive network and industry expertise, we connect our clients with exceptional candidates who possess the skills and experience necessary to excel in their organizations.
+                            </p>
+                            {{-- <ul class="list-unstyled d-flex flex-wrap list-two-col mt-4 mb-4">
                                 <li class="py-1">
                                     <i class="fas fa-check-circle me-2 text-primary"></i>
                                     Discovery
@@ -133,27 +132,20 @@
                                     Planning
                                 </li>
                                 <li class="py-1">
-                                    <i class="fas fa-check-circle me-2 text-primary"></i>Event
-                                    Execute
+                                    <i class="fas fa-check-circle me-2 text-primary"></i>
+                                    Event Execute
                                 </li>
                                 <li class="py-1">
                                     <i class="fas fa-check-circle me-2 text-primary"></i>
                                     Deliver
                                 </li>
-                                <!-- <li class="py-1">
-                                    <i class="fas fa-check-circle me-2 text-primary"></i>Sales
-                                    compliance
-                                </li>
-                                <li class="py-1">
-                                    <i class="fas fa-check-circle me-2 text-primary"></i>
-                                    Showcasing success
-                                </li> -->
-                            </ul>
+                            </ul> --}}
                             <a href="about.html" class="link-with-icon text-decoration-none mt-3 btn btn-primary">
                                 Know More
                                 <i class="fas fa-arrow-right"></i>
                             </a>
                         </div>
+                    </div>
                     </div>
                 </div>
             </div>

@@ -9,7 +9,7 @@
 
     <!--meta-->
     <meta name="description"
-        content="Quiety creative Saas, software technology, Saas agency & business Bootstrap 5 Html template. It is best and famous software company and Saas website template.">
+        content="">
     <meta name="author" content="ThemeTags">
 
     <!--favicon icon-->
@@ -45,7 +45,7 @@
         <header class="main-header position-absolute w-100">
             <nav class="navbar navbar-expand-xl navbar-light sticky-header">
                 <div class="container d-flex align-items-center justify-content-lg-between position-relative">
-                    <a href="index.html" class="navbar-brand d-flex align-items-center mb-md-0 text-decoration-none">
+                    <a href="{{route('home')}}" class="navbar-brand d-flex align-items-center mb-md-0 text-decoration-none">
                         <img src="assets/img/Vri_logo.png" alt="logo" class="img-fluid logo-header logo-white" />
                         <img src="assets/img/Vri_logo.png" alt="logo" class="img-fluid logo-header logo-color" />
                     </a>
@@ -69,36 +69,37 @@
                                 <div class="dropdown-menu border-0 rounded-custom shadow py-0 bg-white">
                                     <div class="dropdown-grid rounded-custom width-full">
                                         <div class="dropdown-grid-item bg-white radius-left-side">
-                                            <!-- <h6 class="drop-heading">Useful Links</h6> -->
+                                           {{-- <h6 class="drop-heading">IT Development </h6>  --}}
+                                            
                                             <a href="{{ route('iot')}}" class="dropdown-link px-0">
                                                 <span class="me-2">
-                                                    <i class="flaticon-fingerprint"></i>
+                                                    <i class=" flaticon-fingerprint"></i>
                                                 </span>
-                                                <div class="drop-title">Software Development</div>
+                                                <div class="drop-title">Internet Of Things</div>
                                             </a>
-                                            <a href="{{ route('iot')}}" class="dropdown-link px-0">
+                                            <a href="{{ route('mobileapp')}}" class="dropdown-link px-0">
                                                 <span class="me-2">
-                                                    <i class="flaticon-phone-book"></i>
+                                                    <i class="flaticon-layer"></i>
                                                 </span>
-                                                <div class="drop-title">IOT</div>
+                                                <div class="drop-title">Mobile App Development</div>
                                             </a>
+                                            
 
                                         </div>
                                         <div class="dropdown-grid-item radius-right-side bg-light-subtle">
-                                            <!-- <h6 class="drop-heading">Utility Pages</h6> -->
-                                            <a href="{{ route('iot')}}" class="dropdown-link">
-                                                <span class="me-2">
-                                                    <i class="flaticon-web-programming"></i>
-                                                </span>
-                                                <div class="drop-title">App Development</div>
-                                            </a>
-                                            <a href="{{ route('iot')}}" class="dropdown-link">
-                                                <span class="me-2">
-                                                    <i class="flaticon-headset"></i>
-                                                </span>
-                                                <div class="drop-title">Recruitment</div>
-                                            </a>
-
+                                           {{-- <h6 class="drop-heading textblack">Staffing </h6>  --}}
+                                           <a href="{{ route('webapp')}}" class="dropdown-link px-0">
+                                            <span class="me-2">
+                                                <i class="flaticon-web-programming"></i>
+                                            </span>
+                                            <div class="drop-title">Web Development</div>
+                                        </a>
+                                        <a href="{{ route('product')}}" class="dropdown-link px-0">
+                                            <span class="me-2">
+                                                <i class="flaticon-vector"></i>
+                                            </span>
+                                            <div class="drop-title">Product Development</div>
+                                        </a>
                                         </div>
                                     </div>
                                 </div>

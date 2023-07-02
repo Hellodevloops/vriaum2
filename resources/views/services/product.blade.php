@@ -7,8 +7,7 @@
                 <div class="row">
                     <div class="col-lg-12 col-md-12">
                         <h1 class="display-5 fw-bold"><i class=" flaticon-fingerprint mx-3"></i>We are Development Experts</h1> 
-                        <p class="lead">Seamlessly actualize client-based users after out-of-the-box value. Globally embrace
-                            strategic data through frictionless expertise.</p>
+                        <p class="lead">Seamlessly actualize client-based users after out-of-the-box value. Globally embrace strategic data through frictionless expertise.</p>
                     </div>
                 </div>
                 <div class="bg-circle rounded-circle circle-shape-3 position-absolute bg-dark-light right-5"></div>
@@ -55,25 +54,22 @@
                         </div>
                     </div> -->
                     <div class="section-heading ">
-                        <h4 class="text-primary h5 mb-2"> Driving Innovation and Transformation</h4>
-                            <h2 class="mb-4">Internet of Things Solutions</h2>
+                        <h4 class="lead mb-2">Driving Innovation and Transformation</h4>
+                            <h2 class=" text-primary mb-4">Product Development</h2>
+                            <p>Bringing innovative products to market requires a strategic approach and deep technical expertise. At  <span class="text-primary">VriAum</span>, we specialize in product development, helping businesses turn their ideas into reality. Our team of skilled professionals works closely with you to understand your vision, analyze market demands, and develop comprehensive product strategies.</p>
                             <p>
-                                In today's interconnected world, the Internet of Things (IoT) has emerged as a game-changer, revolutionizing industries and transforming the way we live and work. 
-                           At <span class="text-primary">VriAum</span>, we are at the forefront of this technological revolution, offering a wide range of innovative IoT solutions that empower businesses to thrive in the digital age.</p>
-                            <p>
-
-                                Our IoT services are designed to address the unique challenges faced by various industries, unlocking new opportunities for growth, efficiency, and enhanced customer experiences. With our deep expertise in IoT technologies, we deliver end-to-end solutions that seamlessly integrate devices, collect and analyze data, and provide actionable insights.</p>
-                    </div>
+                            From conceptualization and design to prototyping and manufacturing, we guide you through every stage of the product development journey. With a commitment to quality, efficiency, and customer satisfaction, we deliver innovative products that drive growth and transformation in your industry.</p>
+                            </div>
                     <div class="row mt-3">
                         <div class="col-6">
                             <div class="">
                                 <div class="feature-card border border-light border-2 rounded-custom p-3">
                                     <div class="rounded mb-2 d-flex align-items-center">
                                         <i class="fas fa-user-friends fa-2x text-primary me-3"></i>
-                                        <h3 class="h5 mb-0"> IoT Consultancy Services</h3>
+                                        <h3 class="h5 mb-0"> Consultancy Services</h3>
                                     </div>
                                     <div class="feature-content">
-                                        <p class="mb-0">Our experienced consultants will guide you through every step of your IoT journey, from strategy development to implementation.</p>
+                                        <p class="mb-0">Our experienced consultants will guide you through every step of your  journey, from strategy development to implementation.</p>
                                     </div>
                                     
                                 </div>
@@ -82,10 +78,10 @@
                                 <div class="feature-card border border-light border-2 rounded-custom p-3">
                                     <div class="rounded mb-2 d-flex align-items-center">
                                         <i class="fas fa-fingerprint fa-2x text-primary me-3"></i>
-                                        <h3 class="h5 mb-0">IoT Security Solutions</h3>
+                                        <h3 class="h5 mb-0"> Security Solutions</h3>
                                     </div>
                                     <div class="feature-content">
-                                        <p class="mb-0">Safeguard your connected world with our advanced IoT security solution,trust us with our multi-layered  cutting-edge techniques.</p>
+                                        <p class="mb-0">Safeguard your connected world with our advanced  security solution,trust us with our multi-layered  cutting-edge techniques.</p>
                                     </div>
                                     
                                 </div>
@@ -100,153 +96,142 @@
 </section>
 <!-- about service end -->
         <!--features grid section start-->
-        <section class="feature-tab-section ptb-120 bg-light-subtle">
-            <div class="container">
-                <div class="row justify-content-center align-content-center">
-                    <div class="col-md-10 col-lg-8">
-                        <div class="section-heading text-center mb-4">
-                            <h5 class="h6 text-primary">Unleashing Innovation, Efficiency, and Growth</h5>
-                            <h2> Our IoT Services Empower Your Future</h2>
-                            <p class="lead mt-3">With our expertise and dedication, we help businesses harness the power of IoT to drive innovation, streamline operations, and achieve transformative growth.</p>
-                        </div>
+        <div class="container">
+            <div class="row justify-content-center align-content-center">
+                <div class="col-md-10 col-lg-8">
+                    <div class="section-heading text-center mb-4">
+                        <h5 class="h6 text-primary">Unleashing Innovation, Efficiency, and Growth</h5>
+                        <h2>Product Development Services</h2>
+                        <p class="lead mt-3">With our expertise and dedication, we help businesses harness the power of Product development to drive innovation, streamline operations, and achieve transformative growth.</p>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-12">
-                        <ul class="nav justify-content-center feature-tab-list-2 mt-4" id="nav-tab-2" role="tablist">
-                            <li class="nav-item" role="presentation">
-                                <a class="nav-link active" href="#tab-2-1" data-bs-toggle="tab" data-bs-target="#tab-2-1" role="tab" aria-selected="true">
-                                    Industrial IoT Solutions
-                                </a>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <a class="nav-link" href="#tab-2-2" data-bs-toggle="tab" data-bs-target="#tab-2-2" role="tab" aria-selected="false" tabindex="-1">
-                                    Smart Home Automation
-                                </a>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <a class="nav-link" href="#tab-2-3" data-bs-toggle="tab" data-bs-target="#tab-2-3" role="tab" aria-selected="false" tabindex="-1">
-                                    Healthcare IoT Solutions
-                                </a>
-                            </li>
-                        </ul>
-                        <div class="tab-content" id="nav-tabContent-2">
-                            <div class="tab-pane fade pt-60 active show" id="tab-2-1" role="tabpanel">
-                                <div class="row justify-content-center align-items-center justify-content-around">
-                                    <div class="col-lg-5">
-                                        <div class="feature-tab-info">
-                                            <h3> Industrial IoT Solutions</h3>
-                                           
-                                            <p>At <span class="text-primary">VriAum</span>, we offer comprehensive Industrial IoT solutions that redefine productivity, efficiency, and safety across various industries. Our expertise lies in integrating sensors, devices, and analytics to provide real-time insights and optimize operations. </p>
-                                            <p> From predictive maintenance and asset tracking to remote monitoring and process automation, our Industrial IoT solutions empower businesses to streamline processes, reduce downtime, and achieve greater operational excellence. Experience the power of Industrial IoT and propel your industry into the future.</p>
-                                            <h5 class="h6 text-primary">Revolutionize Your Industry with IoT</h5>
-                                            <p>Contact us today to explore how our Industrial IoT solutions can revolutionize your business.</p>
-                                            <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us
-                                                <i class="fas fa-arrow-right ms-2"></i></a>
-                                        </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <ul class="nav justify-content-center feature-tab-list-2 mt-4" id="nav-tab-2" role="tablist">
+                        <li class="nav-item" role="presentation">
+                            <a class="nav-link active" href="#tab-2-1" data-bs-toggle="tab" data-bs-target="#tab-2-1" role="tab" aria-selected="true">
+                                Prototype Development
+                            </a>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <a class="nav-link" href="#tab-2-2" data-bs-toggle="tab" data-bs-target="#tab-2-2" role="tab" aria-selected="false" tabindex="-1">
+                                Minimum Viable Product (MVP)
+                            </a>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <a class="nav-link" href="#tab-2-3" data-bs-toggle="tab" data-bs-target="#tab-2-3" role="tab" aria-selected="false" tabindex="-1">
+                                Product Scaling and Enhancement
+                            </a>
+                        </li>
+                    </ul>
+                    <div class="tab-content" id="nav-tabContent-2">
+                        <div class="tab-pane fade pt-60 active show" id="tab-2-1" role="tabpanel">
+                            <div class="row justify-content-center align-items-center justify-content-around">
+                                <div class="col-lg-5">
+                                    <div class="feature-tab-info">
+                                        <h3>Prototype Development</h3>
+                                        <p>Transform your ideas into tangible prototypes with our prototype development services. We utilize the latest tools and technologies to create functional and interactive prototypes that demonstrate the core features and user experience of your product. Our iterative approach allows for feedback and refinement, ensuring that your prototype aligns with your vision and user requirements. Whether you are a startup or an established business, our prototype development services can help you validate your ideas and attract potential investors or customers.</p>
+                                        <h5 class="h6 text-primary">Bring Your Ideas to Life</h5>
+                                        <p>Contact us today to discuss your prototype development needs and bring your ideas to life.</p>
+                                        <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us <i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
-                                    <div class="col-lg-5">
-                                        <img src="assets/img/services/ioti.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
+                                </div>
+                                <div class="col-lg-5">
+                                    <img src="assets/img/services/prototype.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade pt-60" id="tab-2-2" role="tabpanel">
+                            <div class="row justify-content-center align-items-center justify-content-around">
+                                <div class="col-lg-5">
+                                    <img src="assets/img/services/mvp.jpg" alt="feature tab" class="img-fluid mb-4 mb-lg-0 mb-xl-0">
+                                </div>
+                                <div class="col-lg-5">
+                                    <div class="feature-tab-info">
+                                        <h3>Minimum Viable Product (MVP)</h3>
+                                        <p>Accelerate your product development process and validate your concept with a Minimum Viable Product (MVP). Our MVP development services focus on creating a scaled-down version of your product with essential features that solve your users' pain points. By launching an MVP, you can gather user feedback, test market viability, and iterate based on real-world data. Our team guides you through the entire MVP development cycle, from idea validation and MVP design to development and launch, helping you reduce time to market and minimize risks.</p>
+                                        <h5 class="h6 text-primary">Validate and Launch Your Product Idea</h5>
+                                        <p>Contact us today to discuss your MVP development requirements and validate your product idea.</p>
+                                        <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us <i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab-pane fade pt-60" id="tab-2-2" role="tabpanel">
-                                <div class="row justify-content-center align-items-center justify-content-around">
-                                    <div class="col-lg-5">
-                                        <img src="assets/img/services/ioth.jpg" alt="feature tab" class="img-fluid mb-4 mb-lg-0 mb-xl-0">
-                                    </div>
-                                    <div class="col-lg-5">
-                                        <div class="feature-tab-info">
-                                            <h3> Smart Home Automation</h3>
-                                           
-                                            <p>Transform your home into a smart, connected sanctuary with our cutting-edge Smart Home Automation solutions. Enjoy the convenience of controlling your lights, appliances, security systems, and more, all at your fingertips. Our solutions encompass intelligent lighting, energy management, home security, and voice-controlled automation, making your home more comfortable, secure, and energy-efficient.</p>
-                                            <p> Experience the next level of modern living with our Smart Home Automation solutions tailored to your lifestyle and preferences. </p>
-                                            <h5 class="h6 text-primary"> Elevate Your Living with Smart Home Solutions</h5>
-                                            <p>Contact us today to discover how our Smart Home Automation solutions can elevate your living experience.</p>
-                                            <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us
-                                                <i class="fas fa-arrow-right ms-2"></i></a>
-                                        </div>
+                        </div>
+                        <div class="tab-pane fade pt-60" id="tab-2-3" role="tabpanel">
+                            <div class="row justify-content-center align-items-center justify-content-around">
+                                <div class="col-lg-5">
+                                    <div class="feature-tab-info">
+                                        <h3>Product Scaling and Enhancement</h3>
+                                        <p>Once your product gains traction and attracts a growing user base, it's crucial to scale and enhance its capabilities. Our product scaling and enhancement services focus on optimizing your product's performance, scalability, and user experience. Whether it's implementing new features, integrating third-party services, or enhancing the overall performance and security of your product, our team has the expertise to ensure a smooth and successful product scaling process. We work closely with you to understand your evolving business needs and align our solutions to meet your growth objectives.</p>
+                                        <h5 class="h6 text-primary">Scale and Enhance Your Product's Potential</h5>
+                                        <p>Contact us today to discuss how our product scaling and enhancement services can help you take your product to the next level.</p>
+                                        <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us <i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="tab-pane fade pt-60" id="tab-2-3" role="tabpanel">
-                                <div class="row justify-content-center align-items-center justify-content-around">
-                                    <div class="col-lg-5">
-                                        <div class="feature-tab-info">
-                                            <h3> Healthcare IoT Solutions</h3>
-                                           
-                                            <p>At <span class="text-primary">VriAum</span>, we revolutionize healthcare delivery through our innovative Healthcare IoT solutions. Our solutions enable remote patient monitoring, real-time health tracking, and data-driven insights to improve patient outcomes and enhance operational efficiency.  </p>
-                                            <p> From connected medical devices and secure data integration to AI-powered analytics and telehealth solutions, we empower healthcare providers to deliver personalized care, optimize resource allocation, and improve patient experiences. Join us in shaping the future of healthcare with our advanced Healthcare IoT solutions. </p>
-                                            <h5 class="h6 text-primary">Transforming Healthcare Delivery through IoT</h5>
-                                            <p>Contact us today to learn how our Healthcare IoT solutions can transform your healthcare organization.</p>
-                                            <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us
-                                                <i class="fas fa-arrow-right ms-2"></i></a>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-5">
-                                        <img src="assets/img/services/iotm.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
-                                    </div>
+                                <div class="col-lg-5">
+                                    <img src="assets/img/services/scaling.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
+        </div>            
         <!--features grid section end-->
 <!-- tab features strats -->
 <section class="feature-section-two ptb-120">
     <div class="container">
         <div class="section-heading text-center mb-5">
             <h5 class="h6 text-primary">Why Choose Us?</h5>
-            <h2> Key Features and Capabilities</h2>
-            <p class="lead mt-3">Our IoT solutions encompass a wide range of functionalities and capabilities, designed to unlock the true potential of connected devices. Here's a glimpse of what we offer.</p>
+            <h2>Key Features and Capabilities</h2>
+            <p class="lead mt-3">Our product development services offer a wide range of features and capabilities, designed to bring your ideas to life and create innovative and successful products. Here's a glimpse of what we offer.</p>
         </div>
         <div class="row align-items-center justify-content-lg-between justify-content-center">
             <div class="col-lg-5 col-md-7">
                 <div class="feature-img-wrap">
-                    <img src="assets/img/services/iot2.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0 ">
+                    <img src="assets/img/services/product-development.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0 ">
                 </div>
             </div>
             <div class="col-lg-7 col-md-12 mt-4">
                 <div class="feature-content-wrap">
-                    
-                    <ul class="list-unstyled mb-0">
-                        <li class="d-flex align-items-start mb-4">
-                            <div class="icon-box bg-primary rounded me-4">
-                                <i class="fas fa-bezier-curve text-white"></i>
-                            </div>
-                            <div class="icon-content">
-                                <h3 class="h5">Real-time Monitoring</h3>
-                                <p> Our services provide real-time monitoring and control of connected devices, allowing you to make data-driven decisions and respond swiftly to critical events.
-                                </p>
-                            </div>
-                        </li>
-                        <li class="d-flex align-items-start mb-4">
-                            <div class="icon-box bg-primary rounded me-4">
-                                <i class="fas fa-chart-simple text-white"></i>
-                            </div>
-                            <div class="icon-content">
-                                <h3 class="h5">Predictive Analytics</h3>
-                                <p>We leverage advanced analytics and machine learning algorithms to extract meaningful insights from IoT data, enabling predictive maintenance, demand forecasting, and more.
-                            </div>
-                        </li>
-                        <li class="d-flex align-items-start mb-4 mb-lg-0">
-                            <div class="icon-box bg-primary rounded me-4">
-                                <i class="fas fa-fingerprint text-white"></i>
-                            </div>
-                            <div class="icon-content">
-                                <h3 class="h5">Security</h3>
-                                <p> Security is paramount in the IoT landscape. We implement stringent security measures, including encryption, authentication, and access controls, to safeguard your device-data.
-                                </p>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
+ 
+                <ul class="list-unstyled mb-0">
+                    <li class="d-flex align-items-start mb-4">
+                        <div class="icon-box bg-primary rounded me-4">
+                            <i class="fas fa-lightbulb text-white"></i>
+                        </div>
+                        <div class="icon-content">
+                            <h3 class="h5">Innovative Ideation</h3>
+                            <p> We excel in generating innovative ideas for products, combining creativity and market insights to develop unique and compelling concepts.
+                            </p>
+                        </div>
+                    </li>
+                    <li class="d-flex align-items-start mb-4">
+                        <div class="icon-box bg-primary rounded me-4">
+                            <i class="fas fa-cogs text-white"></i>
+                        </div>
+                        <div class="icon-content">
+                            <h3 class="h5">End-to-End Development</h3>
+                            <p>We offer comprehensive end-to-end product development services, from concept design and prototyping to manufacturing and quality assurance.
+                        </div>
+                    </li>
+                    <li class="d-flex align-items-start mb-4 mb-lg-0">
+                        <div class="icon-box bg-primary rounded me-4">
+                            <i class="fas fa-line-chart text-white"></i>
+                        </div>
+                        <div class="icon-content">
+                            <h3 class="h5">Market Analysis</h3>
+                            <p> We conduct in-depth market analysis to identify trends, target audiences, and competition, ensuring that your product is positioned for success in the market.
+                            </p>
+                        </div>
+                    </li>
+                </ul>
             </div>
-            
         </div>
+        
     </div>
+</div>
 </section>
 <!-- tab features end -->
   
@@ -314,14 +299,14 @@
     </div>
 </section>
 <!-- integrate end -->
-{{-- testimonial start --}}
+<!-- testimonial start -->
 <section class="testimonial-section ptb-120 bg-light-subtle">
     <div class="container">
         <div class="row justify-content-center align-content-center">
             <div class="col-md-10 col-lg-6">
                 <div class="section-heading text-center">
-                    <h4 class="h5 text-primary">Testimonial</h4>
-                    <h2>What They Say About Us</h2>
+                    <h4 class="h5 text-primary">Testimonials</h4>
+                    <h2>What Our Clients Say</h2>
                     <!-- <p>Uniquely promote adaptive quality vectors rather than stand-alone e-markets pontificate alternative architectures with accurate schemas.</p> -->
                 </div>
             </div>
@@ -337,12 +322,37 @@
                                     <div class="d-flex mb-32 align-items-center">
                                         <img src="assets/img/testimonial/1.jpg" class="img-fluid me-3 rounded" width="60" alt="user">
                                         <div class="author-info">
-                                            <h6 class="mb-0">Mr.Rupan Oberoi</h6>
-                                            <small>Founder and CEO at Amaara Herbs</small>
+                                            <h6 class="mb-0">John Doe</h6>
+                                            <small>CEO, Company Xiu</small>
                                         </div>
                                     </div>
                                     <blockquote>
-                                        <p>"<span class="text-primary">VriAum </span> has been instrumental in transforming our homes into smart, connected spaces. Their Smart Home Automation solutions have enhanced our lifestyle, providing convenience, security, and energy savings. We couldn't be happier with the results."
+                                        <p>"We partnered with  <span class="text-primary">VriAum</span> for product development, and they exceeded our expectations. Their team displayed deep technical expertise and a thorough understanding of our market. The product they delivered was innovative, user-friendly, and perfectly aligned with our business goals. Its been wonderful to work with them."</p>
+                                    </blockquote>
+                                    <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
+                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
+                                    </ul>
+                                    <img src="assets/img/testimonial/quotes.svg" alt="quotes" class="position-absolute right-0 bottom-0 z--1 pe-4 pb-4">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="border border-2 p-5 rounded-custom position-relative">
+                                    <img src="assets/img/testimonial/quotes-dot.svg" alt="quotes" width="100" class="img-fluid position-absolute left-0 top-0 z--1 p-3">
+                                    <div class="d-flex mb-32 align-items-center">
+                                        <img src="assets/img/testimonial/2.jpg" class="img-fluid me-3 rounded" width="60" alt="user">
+                                        <div class="author-info">
+                                            <h6 class="mb-0">Jane Smith</h6>
+                                            <small>Founder, Startup Azyesi</small>
+                                        </div>
+                                    </div>
+                                    <blockquote>
+                                        <p>"The product development experience with  <span class="text-primary">VriAum</span> was outstanding. They
+
+ were highly collaborative and responsive throughout the entire process. Their team demonstrated a strong commitment to delivering a high-quality product, and we were impressed with their attention to detail and dedication to customer satisfaction."</p>
                                     </blockquote>
                                     <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
                                         <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
@@ -360,13 +370,12 @@
                                     <div class="d-flex mb-32 align-items-center">
                                         <img src="assets/img/testimonial/3.jpg" class="img-fluid me-3 rounded" width="60" alt="user">
                                         <div class="author-info">
-                                            <h6 class="mb-0">Sarah Johnson</h6>
-                                            <small>Homeowner</small>
+                                            <h6 class="mb-0">Sarah Williams</h6>
+                                            <small>Product Manager, Company Zilu</small>
                                         </div>
                                     </div>
                                     <blockquote>
-                                        
-                                        "The Healthcare IoT solutions offered by <span class="text-primary">VriAum</span> have had a profound impact on our healthcare facility. With their remote patient monitoring and advanced analytics, we have improved patient care and optimized resource utilization. Their expertise is unmatched."
+                                        <p>"Working with  <span class="text-primary">VriAum</span> on product development was a great experience. Their team demonstrated deep expertise in the field and provided valuable insights throughout the development process. The end result was a top-notch product that met all our requirements and delighted our customers."</p>
                                     </blockquote>
                                     <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
                                         <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
@@ -378,55 +387,6 @@
                                     <img src="assets/img/testimonial/quotes.svg" alt="quotes" class="position-absolute right-0 bottom-0 z--1 pe-4 pb-4">
                                 </div>
                             </div>
-
-                            <div class="swiper-slide">
-                                <div class="border border-2 p-5 rounded-custom position-relative">
-                                    <img src="assets/img/testimonial/quotes-dot.svg" alt="quotes" width="100" class="img-fluid position-absolute left-0 top-0 z--1 p-3">
-                                    <div class="d-flex mb-32 align-items-center">
-                                        <img src="assets/img/testimonial/2.jpg" class="img-fluid me-3 rounded" width="60" alt="user">
-                                        <div class="author-info">
-                                            <h6 class="mb-0">Mark Thompson</h6>
-                                            <small> Operations Manager at Viom Manufacturing</small>
-                                        </div>
-                                    </div>
-                                    <blockquote>
-                                        I am truly impressed with the Industrial IoT solutions provided by <span class="text-primary">VriAum</span>. Their expertise in predictive maintenance and asset tracking has significantly reduced downtime and improved our operational efficiency. Their solutions are a game-changer for our industry
-                                    </blockquote>
-                                    <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
-                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-                                    </ul>
-                                    <img src="assets/img/testimonial/quotes.svg" alt="quotes" class="position-absolute right-0 bottom-0 z--1 pe-4 pb-4">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="border border-2 p-5 rounded-custom position-relative">
-                                    <img src="assets/img/testimonial/quotes-dot.svg" alt="quotes" width="100" class="img-fluid position-absolute left-0 top-0 z--1 p-3">
-                                    <div class="d-flex mb-32 align-items-center">
-                                        <img src="assets/img/testimonial/4.jpg" class="img-fluid me-3 rounded" width="60" alt="user">
-                                        <div class="author-info">
-                                            <h6 class="mb-0">Jessica Davis</h6>
-                                            <small> IT Manager at ACI Enterprises</small>
-                                        </div>
-                                    </div>
-                                    <blockquote>
-                                        Partnering with <span class="text-primary">VriAum </span> for our IoT implementation has been a great decision. Their comprehensive consulting services guided us through the entire process, ensuring a seamless integration of IoT technologies. Their knowledge and support have been invaluable.
-                                    </blockquote>
-                                    <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
-                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-                                    </ul>
-                                    <img src="assets/img/testimonial/quotes.svg" alt="quotes" class="position-absolute right-0 bottom-0 z--1 pe-4 pb-4">
-                                </div>
-                            </div>
-
-                          
                         </div>
                     </div>
                     <div class="swiper-nav-control">
@@ -438,7 +398,7 @@
         </div>
     </div>
 </section>
-{{-- testimonial end --}}
+<!-- testimonial end -->
 {{-- contact us form start --}}
 <section class="contact-us ptb-120 position-relative ">
     <div class="container">
