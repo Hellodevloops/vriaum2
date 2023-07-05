@@ -20,11 +20,11 @@
         <div class="row">
             <div class="col-lg-6 col-md-12">
                 <div class="cyber-about-img text-center mb-30 mb-lg-0">
-                    <img src="assets/img/about_cyber.jpg" alt="VR" class="img-fluid">
+                    <img src="assets/img/productdev.jpg" alt="VR" class="img-fluid">
                     <div class="row g-0">
                         <div class="col-lg-5">
                             <div class  ="sheild-img">
-                                <img src="assets/img/about2.png" alt="Sheild" class="img-fluid d-none d-lg-block">
+                                <img src="assets/img/pd2.jpg" alt="Sheild" class="img-fluid d-none d-lg-block">
                             </div>
                         </div>
                         <div class="col-lg-7 col-md-12">
@@ -138,14 +138,14 @@
                                     </div>
                                 </div>
                                 <div class="col-lg-5">
-                                    <img src="assets/img/services/prototype.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
+                                    <img src="assets/img/prototype.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
                                 </div>
                             </div>
                         </div>
                         <div class="tab-pane fade pt-60" id="tab-2-2" role="tabpanel">
                             <div class="row justify-content-center align-items-center justify-content-around">
                                 <div class="col-lg-5">
-                                    <img src="assets/img/services/mvp.jpg" alt="feature tab" class="img-fluid mb-4 mb-lg-0 mb-xl-0">
+                                    <img src="assets/img/mvp.jpg" alt="feature tab" class="img-fluid mb-4 mb-lg-0 mb-xl-0">
                                 </div>
                                 <div class="col-lg-5">
                                     <div class="feature-tab-info">
@@ -170,7 +170,7 @@
                                     </div>
                                 </div>
                                 <div class="col-lg-5">
-                                    <img src="assets/img/services/scaling.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
+                                    <img src="assets/img/pse.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
                                 </div>
                             </div>
                         </div>
@@ -190,7 +190,7 @@
         <div class="row align-items-center justify-content-lg-between justify-content-center">
             <div class="col-lg-5 col-md-7">
                 <div class="feature-img-wrap">
-                    <img src="assets/img/services/product-development.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0 ">
+                    <img src="assets/img/keypd.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0 ">
                 </div>
             </div>
             <div class="col-lg-7 col-md-12 mt-4">

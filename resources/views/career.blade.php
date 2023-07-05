@@ -25,7 +25,7 @@
                 </div>
             </div>
             <div class="col-lg-7 col-md-12">
-                <p>Phosfluorescently disintermediate revolutionary paradigms before enabled interfaces. Dynamically transition skills vis-a-vis virtual customer service via impactful partnerships with technically sound paradigms with cutting-edge initiatives. </p>
+                <p>Quiety is currently offering exciting job opportunities across various roles, inviting talented individuals to join their team. From software engineers to UX designers, these positions provide a chance to contribute to Quiety's mission of revolutionizing the sound industry with cutting-edge technology and creating immersive auditory experiences.</p>
             </div>
         </div>
         <div class="row justify-content-center">
