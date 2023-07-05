@@ -21,11 +21,11 @@
         <div class="row">
             <div class="col-lg-6 col-md-12">
                 <div class="cyber-about-img text-center mb-30 mb-lg-0">
-                    <img src="assets/img/about_cyber.jpg" alt="VR" class="img-fluid">
+                    <img src="assets/img/sm.jpg" alt="VR" class="img-fluid">
                     <div class="row g-0">
                         <div class="col-lg-5">
                             <div class  ="sheild-img">
-                                <img src="assets/img/about2.png" alt="Sheild" class="img-fluid d-none d-lg-block">
+                                <img src="assets/img/uiux.jpg" alt="Sheild" class="img-fluid d-none d-lg-block">
                             </div>
                         </div>
                         <div class="col-lg-7 col-md-12">
@@ -142,7 +142,7 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-5">
-                                        <img src="assets/img/services/android.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
+                                        <img src="assets/img/programming.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
                                     </div>
                                 </div>
                             </div>
@@ -151,7 +151,7 @@
              role="tabpanel">
                                 <div class="row justify-content-center align-items-center justify-content-around">
                                     <div class="col-lg-5">
-                                        <img src="assets/img/services/ios.jpg" alt="feature tab" class="img-fluid mb-4 mb-lg-0 mb-xl-0">
+                                        <img src="assets/img/iosandroid.jpg" alt="feature tab" class="img-fluid mb-4 mb-lg-0 mb-xl-0">
                                     </div>
                                     <div class="col-lg-5">
                                         <div class="feature-tab-info">
@@ -176,7 +176,7 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-5">
-                                        <img src="assets/img/services/cross-platform.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
+                                        <img src="assets/img/eg.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
                                     </div>
                                 </div>
                             </div>
@@ -197,7 +197,7 @@
         <div class="row align-items-center justify-content-lg-between justify-content-center">
             <div class="col-lg-5 col-md-7">
                 <div class="feature-img-wrap">
-                    <img src="assets/img/services/mobile-app.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0 ">
+                    <img src="assets/img/mob.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0 ">
                 </div>
             </div>
             <div class="col-lg-7 col-md-12 mt-4">
