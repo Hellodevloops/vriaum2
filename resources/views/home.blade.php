@@ -140,7 +140,7 @@
                                     Deliver
                                 </li>
                             </ul> --}}
-                            <a href="about.html" class="link-with-icon text-decoration-none mt-3 btn btn-primary">
+                            <a href="{{route('about')}}" class="link-with-icon text-decoration-none mt-3 btn btn-primary">
                                 Know More
                                 <i class="fas fa-arrow-right"></i>
                             </a>
@@ -154,53 +154,44 @@
         <section class="feature-section-two pt-60 "
             style="background: url('assets/img/hero-9-img.png')no-repeat center center;">
             <div class="container">
-                <div class="row align-items-center justify-content-between">
-                    <div class="col-lg-5 col-md-12">
-                        <div class="section-heading" data-aos="fade-up">
-                            <h4 class="h5 text-primary">Our Features</h4>
-                            <h2>Solutions for Your Business Needs</h2>
-                            <p>VriAum Technologies LLC deep industry expertise, cost-effective delivery methodology,
-                                highly skilled engineers and professionals, focus on quality standards, and flexibility
-                                in meeting your specific business requirements effectively eliminate risk and provide
-                                the foundation for our shared success.</p>
-                            <ul class="list-unstyled mt-5">
+                <div class="row align-items-center justify-content-lg-between justify-content-center">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="feature-content-wrap">
+                            <div class="section-heading">
+                                <h2>We are development experts on all technologies</h2>
+                                <p>With our deep expertise in a wide range of technologies, we empower businesses to harness the full potential of digital transformation, driving growth and success in the ever-evolving tech landscape.</p>
+                            </div>
+                            <ul class="list-unstyled mb-0">
                                 <li class="d-flex align-items-start mb-4">
                                     <div class="icon-box bg-primary rounded me-4">
                                         <i class="fas fa-bezier-curve text-white"></i>
                                     </div>
                                     <div class="icon-content">
-                                        <h3 class="h5">CUSTOMIZED SOLUTIONS</h3>
-                                        <p>Unique requirements
+                                        <h3 class="h5">Pixel Perfect Design</h3>
+                                        <p>Progressively foster enterprise-wide systems whereas equity invested
+                                            web-readiness harness installed expedite virtual networks.
                                         </p>
                                     </div>
                                 </li>
                                 <li class="d-flex align-items-start mb-4">
                                     <div class="icon-box bg-danger rounded me-4">
-                                        <i class="fas fa-check text-white" aria-hidden="true"></i>
+                                        <i class="fas fa-fingerprint text-white"></i>
                                     </div>
                                     <div class="icon-content">
-                                        <h3 class="h5">QUALITY ASSURANCE</h3>
-                                        <p>Quality standards
+                                        <h3 class="h5">Unique &amp; Minimal Design</h3>
+                                        <p>Dramatically administrate progressive metrics without error-free globally
+                                            simplify standardized plagiarize technically sound.
                                         </p>
                                     </div>
                                 </li>
-                                <li class="d-flex align-items-start mb-4">
-                                    <div class="icon-box bg-success rounded me-4">
-                                        <i class="fas fa-clock text-white"></i>
+                                <li class="d-flex align-items-start mb-4 mb-lg-0">
+                                    <div class="icon-box bg-dark rounded me-4">
+                                        <i class="fas fa-headset text-white"></i>
                                     </div>
                                     <div class="icon-content">
-                                        <h3 class="h5">TIMELY DELIVERY</h3>
-                                        <p>Projects Within Timelines
-                                        </p>
-                                    </div>
-                                </li>
-                                <li class="d-flex align-items-start mb-4">
-                                    <div class="icon-box bg-info rounded me-4">
-                                        <i class="fas fa-envelope-open text-white"></i>
-                                    </div>
-                                    <div class="icon-content">
-                                        <h3 class="h5">END TO END SUPPORT</h3>
-                                        <p>Ensure smooth operations
+                                        <h3 class="h5">24/7 Free Online Support</h3>
+                                        <p>Interactively whiteboard transparent testing procedures before
+                                            bricks-and-clicks initiatives competencies.
                                         </p>
                                     </div>
                                 </li>
@@ -208,31 +199,8 @@
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-7">
-                        <div class="feature-img-wrap position-relative d-flex flex-column align-items-end">
-                            <ul class="img-overlay-list list-unstyled position-absolute">
-                                <li class="d-flex align-items-center bg-white rounded shadow-sm p-3" data-aos="fade-up"
-                                    data-aos-delay="50">
-                                    <i class="fas fa-check bg-primary text-white rounded-circle"></i>
-                                    <h6 class="mb-0">Software Development</h6>
-                                </li>
-                                <li class="d-flex align-items-center bg-white rounded shadow-sm p-3" data-aos="fade-up"
-                                    data-aos-delay="100">
-                                    <i class="fas fa-check bg-primary text-white rounded-circle"></i>
-                                    <h6 class="mb-0">App Development</h6>
-                                </li>
-                                <li class="d-flex align-items-center bg-white rounded shadow-sm p-3" data-aos="fade-up"
-                                    data-aos-delay="100">
-                                    <i class="fas fa-check bg-primary text-white rounded-circle"></i>
-                                    <h6 class="mb-0">Recruitment</h6>
-                                </li>
-                                <li class="d-flex align-items-center bg-white rounded shadow-sm p-3" data-aos="fade-up"
-                                    data-aos-delay="150">
-                                    <i class="fas fa-check bg-primary text-white rounded-circle"></i>
-                                    <h6 class="mb-0">IOT</h6>
-                                </li>
-                            </ul>
-                            <img src="assets/img/feature-img3.jpg" alt="feature image" class="img-fluid rounded-custom"
-                                data-aos="fade-up">
+                        <div class="feature-img-wrap">
+                            <img src="assets/img/hsc1.jpg" alt="feature image" class="img-fluid rounded-custom">
                         </div>
                     </div>
                 </div>
@@ -352,7 +320,7 @@
                         <div class="pr-lg-4">
                             <div class="bg-light-subtle text-center rounded-custom overflow-hidden p-lg-5 p-3 mx-lg-auto"
                                 data-aos="fade-up" data-aos-delay="50">
-                                <img src="assets/img/dashboard-img.png" alt="" class="img-fluid">
+                                <img src="assets/img/hsc.jpg" alt="" class="img-fluid">
                                 <div
                                     class="position-absolute bg-primary-dark z--1 dot-mask dm-size-16 dm-wh-350 top--40 left--40 top-left">
                                 </div>
@@ -666,10 +634,10 @@
                                             </div>
                                             <blockquote>
                                                 <h6>BEST IOT SOLUTIONS.</h6>
-                                                The IoT solutions provided by VriAum Technologies revolutionized our
-                                                operations. Through seamless automation and real-time insights, we
-                                                achieved enhanced productivity and cost savings. The team's
-                                                professionalism and expertise made the entire experience exceptional.
+                                                The IoT solutions provided by VriAum Technologies is renowned for delivering exceptional IoT solutions that seamlessly integrate devices, data analytics, and connectivity to create smart ecosystems. Their innovative approach, combined with a strong focus on security and scalability.
+
+
+
                                             </blockquote>
                                             <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
                                                 <li class="list-inline-item"><i class="fas fa-star text-warning"></i>
