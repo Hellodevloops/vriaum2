@@ -13,9 +13,14 @@
                 <h1 class="display-5 fw-bold"><u>About Us</u></h1>
                 <!-- <p class="lead">Seamlessly actualize client-based users after out-of-the-box value. Globally embrace strategic data through frictionless expertise.</p> -->
             </div>
-                                    <h1 class="fw-bold display-5">Grow your Business &amp; Customer Satisfaction with
-                                        Quiety</h1>
-                                    <p class="lead">"Quiety empowers businesses to grow and enhance customer satisfaction through our innovative sound technology solutions."   </p>
+                                    <h1 class="fw-bold display-5">Grow your Business &amp; Customer Satisfaction 
+                                       </h1>
+                                    <p class="lead">"By prioritizing both business growth and customer satisfaction, you create a winning formula for long-term success."
+
+
+
+
+</p>
                                     <a href="{{route('career')}}" class="btn btn-primary mt-4 me-3">Open Positions</a>
                                     <!-- <a href="{{route('about')}}" class="nav-link">open Positions</a> -->
                                     <a href="#our-team" class="btn btn-soft-primary mt-4">Meet Our Team</a>
