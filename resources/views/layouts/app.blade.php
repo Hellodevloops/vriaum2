@@ -94,6 +94,12 @@
                                             </span>
                                             <div class="drop-title">Web Development</div>
                                         </a>
+                                        <a href="{{ route('staffing')}}" class="dropdown-link px-0">
+                                            <span class="me-2">
+                                                <i class="flaticon-avatar"></i>
+                                            </span>
+                                            <div class="drop-title">Staffing</div>
+                                        </a>
                                         <a href="{{ route('product')}}" class="dropdown-link px-0">
                                             <span class="me-2">
                                                 <i class="flaticon-vector"></i>
