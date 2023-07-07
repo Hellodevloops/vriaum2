@@ -114,10 +114,10 @@
                             </h2>
                             <h4 class="text-primary h5 mb-3">Crafting Future-Focused Solutions</h4>
                             <p>
-                                At <span class="text-primary">VriAum Technologies LLC</span>, we are passionate about leveraging technology to drive innovation and empower businesses to thrive in the digital age. With a deep understanding of the ever-evolving software landscape and a team of highly skilled professionals, we are dedicated to delivering cutting-edge solutions that meet our clients' unique needs.
+                                At <span class="text-primary">VriAum Technologies LLC</span>, we are passionate about leveraging technology to drive innovation and empower businesses to thrive in the digital age. With a deep understanding of the ever-evolving software landscape and a team of highly skilled professionals,<span class="text-primary"> we are dedicated to delivering cutting-edge solutions that meet our clients' </span>unique needs.
                             </p>
                             <p>
-                                Our software solutions span across a wide range of domains, including enterprise applications, web and mobile development, and the Internet of Things. Whether our clients require a simple mobile app or a complex enterprise system, we have the expertise to deliver scalable, secure, and user-friendly software solutions that align with their unique requirements.
+                                Our software solutions span across a wide range of domains, <span class="text-primary">including enterprise applications, web and mobile development, and the Internet of Things </span>. Whether our clients require a simple mobile app or a complex enterprise system, we have the expertise to deliver scalable, secure, and user-friendly software solutions that align with their unique requirements.
                             </p>
                             <p>
                                 In addition to our software solutions, we also provide top-notch staffing services. We understand the critical role that talented professionals play in driving business success. With our extensive network and industry expertise, we connect our clients with exceptional candidates who possess the skills and experience necessary to excel in their organizations.
@@ -168,8 +168,8 @@
                                     </div>
                                     <div class="icon-content">
                                         <h3 class="h5">Pixel Perfect Design</h3>
-                                        <p>Progressively foster enterprise-wide systems whereas equity invested
-                                            web-readiness harness installed expedite virtual networks.
+                                        <p>Dramatically administrate progressive metrics without error-free globally
+                                            simplify standardized plagiarize technically sound.
                                         </p>
                                     </div>
                                 </li>
@@ -179,8 +179,7 @@
                                     </div>
                                     <div class="icon-content">
                                         <h3 class="h5">Unique &amp; Minimal Design</h3>
-                                        <p>Dramatically administrate progressive metrics without error-free globally
-                                            simplify standardized plagiarize technically sound.
+                                        <p>Combining simplicity and creativity, this unique and minimal design redefines elegance in its purest form.
                                         </p>
                                     </div>
                                 </li>
@@ -190,8 +189,7 @@
                                     </div>
                                     <div class="icon-content">
                                         <h3 class="h5">24/7 Free Online Support</h3>
-                                        <p>Interactively whiteboard transparent testing procedures before
-                                            bricks-and-clicks initiatives competencies.
+                                        <p>Get peace of mind <span class="text-primary">with our 24/7 free online support</span>, ensuring prompt assistance and uninterrupted service whenever you need it.
                                         </p>
                                     </div>
                                 </li>
@@ -599,7 +597,7 @@
                                             </div>
                                             <blockquote>
                                                 <h6>One of the best experience ever</h6>
-                                                Working with Vriaum Technologies was a game-changer for our business.
+                                                Working with<span class="text-primary"> Vriaum Technologies </span>was a game-changer for our business.
                                                 Their expertise and dedication in developing our custom software
                                                 solution surpassed our expectations. We experienced improved efficiency,
                                                 streamlined processes, and ultimately, significant business growth.
@@ -634,7 +632,7 @@
                                             </div>
                                             <blockquote>
                                                 <h6>BEST IOT SOLUTIONS.</h6>
-                                                The IoT solutions provided by VriAum Technologies is renowned for delivering exceptional IoT solutions that seamlessly integrate devices, data analytics, and connectivity to create smart ecosystems. Their innovative approach, combined with a strong focus on security and scalability.
+                                                The IoT solutions provided by <span class="text-primary">VriAum Technologies</span> is renowned for delivering exceptional IoT solutions that seamlessly integrate devices, data analytics, and connectivity to create smart ecosystems. Their innovative approach, combined with a strong focus on security and scalability.
 
 
 
@@ -670,7 +668,7 @@
                                             </div>
                                             <blockquote>
                                                 <h6>Amazing Experience!</h6>
-                                                We entrusted Vriaum Technologies with our recruitment process, and it was the best decision we made. Their comprehensive recruitment solutions simplified our hiring process, resulting in top-tier talent acquisition. Their team went above and beyond to understand our needs and deliver outstanding results.
+                                                We entrusted <span class="text-primary"> Vriaum Technologies </span> with our recruitment process, and it was the best decision we made. Their comprehensive recruitment solutions simplified our hiring process, resulting in top-tier talent acquisition. Their team went above and beyond to understand our needs and deliver outstanding results.
                                             </blockquote>
                                             <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
                                                 <li class="list-inline-item"><i class="fas fa-star text-warning"></i>
@@ -702,7 +700,7 @@
                                             </div>
                                             <blockquote>
                                                 <h6>Best Software company in the town</h6>
-                                                The app developed by Vriaum technologies exceeded our expectations. Its intuitive interface and smooth functionality have captivated our users and significantly enhanced our brand's mobile presence. We are thrilled with the end product and the exceptional service we received throughout the development process
+                                                The app developed by <span class="text-primary"> Vriaum technologies </span> exceeded our expectations. Its intuitive interface and smooth functionality have captivated our users and significantly enhanced our brand's mobile presence. We are thrilled with the end product and the exceptional service we received throughout the development process
                                             </blockquote>
                                             <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
                                                 <li class="list-inline-item"><i class="fas fa-star text-warning"></i>
@@ -735,7 +733,7 @@
                                             </div>
                                             <blockquote>
                                                 <h6>It is undeniably good!</h6>
-                                                We can't thank Vriaum Technologies enough for their exceptional service and transformative solutions. Their custom software development empowered us to optimize our operations, improve customer experiences, and achieve substantial growth. The team's professionalism, expertise, and dedication were truly remarkable
+                                                We can't thank <span class="text-primary"> Vriaum Technologies </span> enough for their exceptional service and transformative solutions. Their custom software development empowered us to optimize our operations, improve customer experiences, and achieve substantial growth. The team's professionalism, expertise, and dedication were truly remarkable
                                             </blockquote>
                                             <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
                                                 <li class="list-inline-item"><i class="fas fa-star text-warning"></i>

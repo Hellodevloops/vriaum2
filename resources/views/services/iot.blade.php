@@ -2,8 +2,8 @@
 @section('content')
 
         <!--page header section start-->
-        <section class="page-header position-relative overflow-hidden ptb-120 bg-dark" style="background: url('assets/img/page-header-bg.svg')no-repeat bottom left">
-            <div class="container">
+        <section class="page-header position-relative overflow-hidden ptb-40" >
+            <!-- <div class="container">
                 <div class="row">
                     <div class="col-lg-12 col-md-12">
                         <h1 class="display-5 fw-bold"><i class=" flaticon-fingerprint mx-3"></i>We are Development Experts</h1> 
@@ -12,7 +12,7 @@
                     </div>
                 </div>
                 <div class="bg-circle rounded-circle circle-shape-3 position-absolute bg-dark-light right-5"></div>
-            </div>
+            </div> -->
         </section>
         <!--page header section end-->
 <!-- about service start -->
@@ -141,7 +141,7 @@
                                             <p> From predictive maintenance and asset tracking to remote monitoring and process automation, our Industrial IoT solutions empower businesses to streamline processes, reduce downtime, and achieve greater operational excellence. Experience the power of Industrial IoT and propel your industry into the future.</p>
                                             <h5 class="h6 text-primary">Revolutionize Your Industry with IoT</h5>
                                             <p>Contact us today to explore how our Industrial IoT solutions can revolutionize your business.</p>
-                                            <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us
+                                            <a href="{{route('contact.index')}}" class="read-more-link text-decoration-none mt-4 d-block">Contact Us
                                                 <i class="fas fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>

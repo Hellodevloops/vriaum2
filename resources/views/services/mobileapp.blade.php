@@ -2,8 +2,8 @@
 @section('content')
 
         <!--page header section start-->
-        <section class="page-header position-relative overflow-hidden ptb-120 bg-dark" style="background: url('assets/img/page-header-bg.svg')no-repeat bottom left">
-            <div class="container">
+        <section class="page-header position-relative overflow-hidden ptb-40 " >
+            <!-- <div class="container">
                 <div class="row">
                     <div class="col-lg-12 col-md-12">
                         <h1 class="display-5 fw-bold"><i class=" flaticon-fingerprint mx-3"></i>We are Development Experts</h1> 
@@ -12,7 +12,7 @@
                     </div>
                 </div>
                 <div class="bg-circle rounded-circle circle-shape-3 position-absolute bg-dark-light right-5"></div>
-            </div>
+            </div> -->
         </section>
         <!--page header section end-->
 <!-- about service start -->
@@ -444,33 +444,32 @@
             </div>
             <div class="col-xl-5 col-lg-7 col-md-12">
                 <div class="register-wrap p-5 bg-white shadow rounded-custom position-relative aos-init aos-animate" data-aos="fade-up" data-aos-delay="150">
-                <form action="#" class="register-form position-relative z-5">
-                        <!-- <h3 class="mb-5 fw-medium">Fill out the form and we'll be in touch as soon as
-                            possible.</h3> -->
-                            <form class="cons-contact-form" method="POST" action="http://127.0.0.1:8000/contact">
-                            <input type="hidden" name="_token" value="pkBfQooUxi7u076PL7VWZZoLUQBDjti4zwDOuHmn">                            <div class="row">
+                    <form action="#" class="register-form position-relative z-5">
+                        <h3 class="mb-5 fw-medium">Fill out the form and we'll be in touch as soon as
+                            possible.</h3>
+                        <div class="row">
                                 <div class="col-sm-6">
                                     <label for="firstName" class="mb-1">First name <span class="text-danger">*</span></label>
                                     <div class="input-group mb-3">
-                                        <input type="text" class="form-control" name="name" value="" id="firstName" required="" placeholder="First name" aria-label="First name" fdprocessedid="kj2rk">
+                                        <input type="text" class="form-control" name="name" value="" id="firstName" required="" placeholder="First name" aria-label="First name" fdprocessedid="io4n">
                                                                             </div>
                                 </div>
                                 <div class="col-sm-6 ">
                                     <label for="lastName" class="mb-1">Last name</label>
                                     <div class="input-group mb-3">
-                                        <input type="text" name="subject" class="form-control" value="" placeholder="Last name" aria-label="Last name" fdprocessedid="deicf">
+                                        <input type="text" name="subject" class="form-control" value="" placeholder="Last name" aria-label="Last name" fdprocessedid="1u154">
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <label for="phone" class="mb-1">Phone <span class="text-danger">*</span></label>
                                     <div class="input-group mb-3">
-                                        <input type="tel" name="phone" class="form-control" value="" required="" placeholder="Phone" aria-label="Phone" fdprocessedid="d66hwh">
+                                        <input type="tel" name="phone" class="form-control" value="" required="" placeholder="Phone" aria-label="Phone" fdprocessedid="a4m9d">
                                                                             </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <label for="email" class="mb-1">Email<span class="text-danger">*</span></label>
                                     <div class="input-group mb-3">
-                                        <input type="email" name="email" class="form-control" value="" required="" placeholder="Email" aria-label="Email" fdprocessedid="xrlb5v">
+                                        <input type="email" name="email" class="form-control" value="" required="" placeholder="Email" aria-label="Email" fdprocessedid="gw3w98">
                                     </div>
                                 </div>
                                 <div class="col-12">
@@ -479,9 +478,8 @@
                                         <textarea name="message" class="form-control" placeholder="Message"></textarea>
                                     </div>
                                 </div>
-                            </div>
-                            <button type="submit" class="btn btn-primary mt-4" fdprocessedid="ri7lf">Get in Touch</button>
-                        </form>
+                            <!-- </div> -->
+                        </div>
                     </form>
                 </div>
             </div>

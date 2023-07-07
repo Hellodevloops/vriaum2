@@ -16,10 +16,6 @@
                                     <h1 class="fw-bold display-5">Grow your Business &amp; Customer Satisfaction 
                                        </h1>
                                     <p class="lead">"By prioritizing both business growth and customer satisfaction, you create a winning formula for long-term success."
-
-
-
-
 </p>
                                     <a href="{{route('career')}}" class="btn btn-primary mt-4 me-3">Open Positions</a>
                                     <!-- <a href="{{route('about')}}" class="nav-link">open Positions</a> -->
@@ -49,8 +45,8 @@
                     <div class="section-heading" data-aos="fade-up">
                         <h4 class="h5 text-primary">Our Features</h4>
                         <h2>Solutions for Your Business Needs</h2>
-                        <p>VriAum Technologies LLC deep industry expertise, cost-effective delivery methodology,
-                            highly skilled engineers and professionals, focus on quality standards, and flexibility
+                        <p><span class="text-primary">VriAum Technologies LLC </span> deep industry expertise, cost-effective delivery methodology,
+                            <u>highly skilled engineers and professionals</u> , focus on quality standards, and flexibility
                             in meeting your specific business requirements effectively eliminate risk and provide
                             the foundation for our shared success.</p>
                         <ul class="list-unstyled mt-5">
@@ -138,9 +134,8 @@
                     <div class="col-lg-6 col-md-12">
                         <div class="section-heading text-center">
                             <h5 class="h6 text-primary">Our Team</h5>
-                            <h2>The People Behind Quiety</h2>
-                            <p>Intrinsicly strategize cutting-edge before interoperable applications incubate extensive
-                                expertise through integrated intellectual capital. </p>
+                            <h2>The People Behind VriAum</h2>
+                            <p>Empowering innovation through the dedication and expertise of the visionary minds behind VriAum. </p>
                         </div>
                     </div>
                 </div>
@@ -340,8 +335,7 @@
                                             </div>
                                             <blockquote>
                                                 <h6>Embarrassed by the First Version.</h6>
-                                                Dynamically create innovative core competencies with effective best
-                                                practices promote innovative infrastructures.
+                                                The Vriaum template is absolutely amazing, offering a stunning blend of functionality, aesthetics, and user-friendly design.
                                             </blockquote>
                                             <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
                                                 <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
@@ -365,7 +359,7 @@
                                                 </div>
                                             </div>
                                             <blockquote>
-                                                <h6>Amazing Quiety template!</h6>
+                                                <h6>Amazing Vriaum  template!</h6>
                                                 Appropriately negotiate interactive niches rather than parallel strategic theme
                                                 incubate premium total linkage areas.
                                             </blockquote>

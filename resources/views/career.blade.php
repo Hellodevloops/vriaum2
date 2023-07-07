@@ -1,8 +1,8 @@
 @extends('layouts.app')
 @section('content')
 <!--page header section start-->
-<section class="page-header position-relative overflow-hidden ptb-120 bg-dark" style="background: url('assets/img/page-header-bg.svg')no-repeat bottom left">
-    <div class="container">
+<section class="page-header position-relative overflow-hidden ptb-70 " >
+    <!-- <div class="container">
         <div class="row">
             <div class="col-lg-8 col-md-12">
                 <h1 class="display-5 fw-bold">Career</h1>
@@ -10,7 +10,7 @@
             </div>
         </div>
         <div class="bg-circle rounded-circle circle-shape-3 position-absolute bg-dark-light right-5"></div>
-    </div>
+    </div> -->
 </section>
 <!--page header section end-->
 
@@ -21,7 +21,7 @@
             <div class="col-lg-4 col-md-12">
                 <div class="section-heading">
                     <h4 class="h5 text-primary">Our Jobs</h4>
-                    <h2>Current Available Positions at Quiety</h2>
+                    <h2>Current Available Positions at <span class="text-info">VriAum Technologies </span></h2>
                 </div>
             </div>
             <div class="col-lg-7 col-md-12">
