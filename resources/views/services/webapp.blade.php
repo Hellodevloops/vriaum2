@@ -1,22 +1,23 @@
 @extends('layouts.app')
 @section('content')
 
-        <!--page header section start-->
-        <section class="page-header position-relative overflow-hidden ptb-120 bg-dark" style="background: url('assets/img/page-header-bg.svg')no-repeat bottom left">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12 col-md-12">
-                        <h1 class="display-5 fw-bold"><i class=" flaticon-fingerprint mx-3"></i>We are Development Experts</h1> 
-                        <p class="lead">Seamlessly actualize client-based users after out-of-the-box value. Globally embrace strategic data through frictionless expertise.</p>
-                    </div>
-                </div>
-                <div class="bg-circle rounded-circle circle-shape-3 position-absolute bg-dark-light right-5"></div>
-            </div>
-        </section>
-        <!--page header section end-->
+       
 <!-- about service start -->
 <section class="counter-with-video pt-120 pb-120" id="cyber-about">
     <div class="container">
+    <div class="row align-items-center justify-content-between">
+                    <div class="col-lg-12 col-md-12">
+                        <div class="section-heading">
+                            <h4 class="h5 text-primary mt-3">Innovative Web Development for the Modern Digital Landscape</h4>
+                            <h3>Creating stunning websites that bring your vision to life</h3>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 col-md-12">
+                        <!-- <div class="text-start text-lg-end mb-4 mb-lg-0 mb-xl-0">
+                            <a href="blog.html" class="btn btn-primary">View All Article</a>
+                        </div> -->
+                    </div>
+                </div>
         <div class="row">
             <div class="col-lg-6 col-md-12">
                 <div class="cyber-about-img text-center mb-30 mb-lg-0">

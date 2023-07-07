@@ -223,7 +223,7 @@
                         <div class="col-md-8 col-lg-4 mb-md-4 mb-lg-0">
                             <div class="footer-single-col">
                                 <div class="footer-single-col mb-4">
-                                    <a href="index.html">
+                                    <a href="{{route('home')}}">
                                         <img src="assets/img/Vri_logo.png" alt="logo"
                                             class="img-fluid logo-footer logo-white" style="width: 350px;" />
                                         <img src="assets/img/Vri_logo.png" alt="logo"

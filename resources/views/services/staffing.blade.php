@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('content')
-
+        
         <!--page header section start-->
         <section class="related-blog-list ptb-120 bg-light-subtle">
             <div class="container">
@@ -105,7 +105,7 @@
                     <div class="row justify-content-between">
                         <div class="col-lg-4 pe-5">
                             <div class="integration-details-wrap">
-                                <h2>Migration Details</h2>
+                                <h1>Migration Details</h1>
                                 <p>It's important to note that the specific services and support provided may vary depending on the migration agency, destination country, and individual candidate's needs and preferences.
                                 </p>
                                 <div class="integration-feature-info mt-5">
