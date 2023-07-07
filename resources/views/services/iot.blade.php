@@ -159,7 +159,7 @@
                                         <div class="feature-tab-info">
                                             <h3> Smart Home Automation</h3>
                                            
-                                            <p>Transform your home into a smart, connected sanctuary with our cutting-edge Smart Home Automation solutions. Enjoy the convenience of controlling your lights, appliances, security systems, and more, all at your fingertips. Our solutions encompass intelligent lighting, energy management, home security, and voice-controlled automation, making your home more comfortable, secure, and energy-efficient.</p>
+                                            <p>Transform your home into a smart, connected sanctuary with our cutting-edge Smart Home Automation solutions. <b>Enjoy the convenience of controlling your lights, appliances, security systems, and more, all at your fingertips</b>. Our solutions encompass intelligent lighting, energy management, home security, and voice-controlled automation, making your home more comfortable, secure, and energy-efficient.</p>
                                             <p> Experience the next level of modern living with our Smart Home Automation solutions tailored to your lifestyle and preferences. </p>
                                             <h5 class="h6 text-primary"> Elevate Your Living with Smart Home Solutions</h5>
                                             <p>Contact us today to discover how our Smart Home Automation solutions can elevate your living experience.</p>
@@ -175,7 +175,7 @@
                                         <div class="feature-tab-info">
                                             <h3> Healthcare IoT Solutions</h3>
                                            
-                                            <p>At <span class="text-primary">VriAum</span>, we revolutionize healthcare delivery through our innovative Healthcare IoT solutions. Our solutions enable remote patient monitoring, real-time health tracking, and data-driven insights to improve patient outcomes and enhance operational efficiency.  </p>
+                                            <p>At <span class="text-primary">VriAum</span>, we revolutionize healthcare delivery through our innovative Healthcare IoT solutions. <u>Our solutions enable remote patient monitoring, real-time health tracking</u>, and data-driven insights to improve patient outcomes and enhance operational efficiency.  </p>
                                             <p> From connected medical devices and secure data integration to AI-powered analytics and telehealth solutions, we empower healthcare providers to deliver personalized care, optimize resource allocation, and improve patient experiences. Join us in shaping the future of healthcare with our advanced Healthcare IoT solutions. </p>
                                             <h5 class="h6 text-primary">Transforming Healthcare Delivery through IoT</h5>
                                             <p>Contact us today to learn how our Healthcare IoT solutions can transform your healthcare organization.</p>

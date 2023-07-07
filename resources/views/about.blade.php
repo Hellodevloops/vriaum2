@@ -140,143 +140,76 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-3 col-md-6">
-                        <div class="team-single-wrap mb-5">
-                            <div class="team-img rounded-custom">
-                                <img src="assets/img/team/team-1.jpg" alt="team" class="img-fluid position-relative">
-                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="team-info mt-4 text-center">
-                                <h5 class="h6 mb-1">John Sullivan</h5>
-                                <p class="text-muted small mb-0">Front End Developer</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="team-single-wrap mb-5">
-                            <div class="team-img rounded-custom">
-                                <img src="assets/img/team/team-2.jpg" alt="team" class="img-fluid position-relative">
-                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="team-info mt-4 text-center">
-                                <h5 class="h6 mb-1">John Sullivan</h5>
-                                <p class="text-muted small mb-0">Front End Developer</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="team-single-wrap mb-5">
-                            <div class="team-img rounded-custom">
-                                <img src="assets/img/team/team-3.jpg" alt="team" class="img-fluid position-relative">
-                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="team-info mt-4 text-center">
-                                <h5 class="h6 mb-1">John Sullivan</h5>
-                                <p class="text-muted small mb-0">Front End Developer</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="team-single-wrap mb-5">
-                            <div class="team-img rounded-custom">
-                                <img src="assets/img/team/team-4.jpg" alt="team" class="img-fluid position-relative">
-                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="team-info mt-4 text-center">
-                                <h5 class="h6 mb-1">John Sullivan</h5>
-                                <p class="text-muted small mb-0">Front End Developer</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- <div class="col-lg-3 col-md-6">
-                        <div class="team-single-wrap mb-5">
-                            <div class="team-img rounded-custom">
-                                <img src="assets/img/team/team-5.jpg" alt="team" class="img-fluid position-relative">
-                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="team-info mt-4 text-center">
-                                <h5 class="h6 mb-1">John Sullivan</h5>
-                                <p class="text-muted small mb-0">Front End Developer</p>
-                            </div>
-                        </div>
-                    </div> -->
-                    <!-- <div class="col-lg-3 col-md-6">
-                        <div class="team-single-wrap mb-5">
-                            <div class="team-img rounded-custom">
-                                <img src="assets/img/team/team-6.jpg" alt="team" class="img-fluid position-relative">
-                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="team-info mt-4 text-center">
-                                <h5 class="h6 mb-1">John Sullivan</h5>
-                                <p class="text-muted small mb-0">Front End Developer</p>
-                            </div>
-                        </div>
-                    </div> -->
-                    <!-- <div class="col-lg-3 col-md-6">
-                        <div class="team-single-wrap mb-5">
-                            <div class="team-img rounded-custom">
-                                <img src="assets/img/team/team-7.jpg" alt="team" class="img-fluid position-relative">
-                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="team-info mt-4 text-center">
-                                <h5 class="h6 mb-1">John Sullivan</h5>
-                                <p class="text-muted small mb-0">Front End Developer</p>
-                            </div>
-                        </div>
-                    </div> -->
-                    <!-- <div class="col-lg-3 col-md-6">
-                        <div class="team-single-wrap mb-5">
-                            <div class="team-img rounded-custom">
-                                <img src="assets/img/team/team-8.jpg" alt="team" class="img-fluid position-relative">
-                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="team-info mt-4 text-center">
-                                <h5 class="h6 mb-1">John Sullivan</h5>
-                                <p class="text-muted small mb-0">Front End Developer</p>
-                            </div>
-                        </div>
-                    </div> -->
-                </div>
+    <div class="col-lg-3 col-md-6">
+        <div class="team-single-wrap mb-5">
+            <div class="team-img rounded-custom">
+                <img src="assets/img/team/team-1.jpg" alt="team" class="img-fluid position-relative">
+                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                </ul>
+            </div>
+            <div class="team-info mt-4 text-center">
+                <h5 class="h6 mb-1">John Sullivan</h5>
+                <p class="text-muted small mb-0">Front End Developer</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6">
+        <div class="team-single-wrap mb-5">
+            <div class="team-img rounded-custom">
+                <img src="assets/img/team/team-2.jpg" alt="team" class="img-fluid position-relative">
+                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                </ul>
+            </div>
+            <div class="team-info mt-4 text-center">
+                <h5 class="h6 mb-1">Emily Smith</h5>
+                <p class="text-muted small mb-0">UI Designer</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6">
+        <div class="team-single-wrap mb-5">
+            <div class="team-img rounded-custom">
+                <img src="assets/img/team/team-3.jpg" alt="team" class="img-fluid position-relative">
+                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                </ul>
+            </div>
+            <div class="team-info mt-4 text-center">
+                <h5 class="h6 mb-1">Mark Johnson</h5>
+                <p class="text-muted small mb-0">Back End Developer</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6">
+        <div class="team-single-wrap mb-5">
+            <div class="team-img rounded-custom">
+                <img src="assets/img/team/team-4.jpg" alt="team" class="img-fluid position-relative">
+                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                </ul>
+            </div>
+            <div class="team-info mt-4 text-center">
+                <h5 class="h6 mb-1">Jane doe</h5>
+                <p class="text-muted small mb-0">Graphic Designer</p>
+            </div>
+        </div>
+    </div>
+</div>
+
             </div>
         </section>
         <!--team section end-->
@@ -289,7 +222,7 @@
                         <div class="section-heading text-center">
                             <h4 class="h5 text-primary">Testimonial</h4>
                             <h2>What They Say About Us</h2>
-                            <p>Uniquely promote adaptive quality vectors rather than stand-alone e-markets pontificate alternative architectures with accurate schemas.</p>
+                            <p>Enjoy Peace of Mind with Comprehensive Medical Insurance Facilities that Prioritize Your Health and Well-being.</p>
                         </div>
                     </div>
                 </div>
@@ -445,8 +378,7 @@
                         <div class="section-heading text-center">
                             <h4 class="h5 text-primary">Our Office</h4>
                             <h2>Located Around the World</h2>
-                            <p>Dynamically technically sound technologies with parallel task convergence quality vectors
-                                through excellent relationships. </p>
+                            <p>Where Boundaries Dissolve and Work Unites: The Global Office Experience. </p>
                         </div>
                     </div>
                 </div>

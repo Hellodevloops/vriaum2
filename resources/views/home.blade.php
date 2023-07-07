@@ -292,9 +292,9 @@
                     <div class="col-lg-5 order-lg-2 mb-7 mb-lg-0">
                         <div class="mb-4" data-aos="fade-up">
                             <h2>Experience High-Quality Work by Our Software Company</h2>
-                            <p>At Vriaum Technologies, we pride ourselves on delivering nothing short of exceptional
-                                quality in our work. With a team of highly skilled professionals and a commitment to
-                                excellence, we ensure that our clients receive top-notch software solutions tailored to
+                            <p>At <span class="text-primary">Vriaum Technologies </span>, we pride ourselves on delivering nothing short of exceptional
+                                quality in our work. With a team of<b> highly skilled professionals and a commitment to
+                                excellence</b>, we ensure that our clients receive top-notch software solutions tailored to
                                 their unique needs.</p>
                         </div>
                         <ul class="list-unstyled d-flex flex-wrap list-two-col mt-5" data-aos="fade-up"
