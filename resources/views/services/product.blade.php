@@ -134,7 +134,8 @@
                                         <p>Transform your ideas into tangible prototypes with our prototype development services. We utilize the latest tools and technologies to create functional and interactive prototypes that demonstrate the core features and user experience of your product. Our iterative approach allows for feedback and refinement, ensuring that your prototype aligns with your vision and user requirements. Whether you are a startup or an established business, our prototype development services can help you validate your ideas and attract potential investors or customers.</p>
                                         <h5 class="h6 text-primary">Bring Your Ideas to Life</h5>
                                         <p>Contact us today to discuss your prototype development needs and bring your ideas to life.</p>
-                                        <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us <i class="fas fa-arrow-right ms-2"></i></a>
+                                        <a href="{{route('contact.index')}}" class="read-more-link text-decoration-none mt-4 d-block">Contact Us
+                                                <i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-5">

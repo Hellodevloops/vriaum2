@@ -223,7 +223,7 @@
                         <div class="col-md-8 col-lg-4 mb-md-4 mb-lg-0">
                             <div class="footer-single-col">
                                 <div class="footer-single-col mb-4">
-                                    <a href="{{route('home')}}">
+                                    <a href="index.html">
                                         <img src="assets/img/Vri_logo.png" alt="logo"
                                             class="img-fluid logo-footer logo-white" style="width: 350px;" />
                                         <img src="assets/img/Vri_logo.png" alt="logo"
@@ -329,10 +329,11 @@
                                     <div class="footer-single-col">
                                         <h3>Services</h3>
                                         <ul class="list-unstyled footer-nav-list mb-lg-0">
-                                            <li><a href="{{route('iot')}}" class="text-decoration-none">Web Devlopement</a></li>
-                                            <li><a href="{{route('iot')}}" class="text-decoration-none">Product devlopment</a></li>
+                                            <li><a href="{{ route('webapp')}}" class="text-decoration-none">Web Devlopement</a></li>
+                                            <li><a href="{{ route('product')}}" class="text-decoration-none">Product devlopment</a></li>
                                             <li><a href="{{route('iot')}}" class="text-decoration-none">IOT</a></li>
-                                            <li><a href="{{route('iot')}}" class="text-decoration-none">App Devlopment</a></li>
+                                            <li><a href="{{ route('mobileapp')}}" class="text-decoration-none"> Mobile App Devlopment</a></li>
+                                            <li><a href="{{ route('staffing')}}" class="text-decoration-none">Staffing</a></li>
                                             
                                         </ul>
                                     </div>

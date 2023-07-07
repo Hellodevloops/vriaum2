@@ -141,7 +141,7 @@
                                             <p> From predictive maintenance and asset tracking to remote monitoring and process automation, our Industrial IoT solutions empower businesses to streamline processes, reduce downtime, and achieve greater operational excellence. Experience the power of Industrial IoT and propel your industry into the future.</p>
                                             <h5 class="h6 text-primary">Revolutionize Your Industry with IoT</h5>
                                             <p>Contact us today to explore how our Industrial IoT solutions can revolutionize your business.</p>
-                                            <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us
+                                            <a href="{{route('contact.index')}}" class="read-more-link text-decoration-none mt-4 d-block">Contact Us
                                                 <i class="fas fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>

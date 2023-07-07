@@ -134,6 +134,8 @@
                             
                                 
                             </div>
+                            <a href="{{route('contact.index')}}" class="read-more-link text-decoration-none mt-4 d-block">Contact Us
+                                                <i class="fas fa-arrow-right ms-2"></i></a>
                         </div>
                         <div class="col-lg-6">
                         <img src="assets/img/usacan.jpg" class="img-fluid mt-4 rounded-custom" alt="apply">
@@ -575,7 +577,10 @@
                         </div>
                     </div>
                 </div>
+               
             </div>
+            
         </section>
+        
 {{-- contact us form end --}}
  @endsection

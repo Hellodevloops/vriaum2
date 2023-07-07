@@ -146,10 +146,11 @@
                                     <div class="col-lg-5">
                                         <div class="feature-tab-info">
                                             <h3>E-commerce Development</h3>
-                                            <p>At  <span class="text-primary">VriAum</span>, we specialize in creating robust and user-friendly e-commerce websites that enable businesses to sell products and services online. Our e-commerce development services encompass all essential features, including secure payment gateways, inventory management, order tracking, and customer management. We leverage popular e-commerce platforms like Magento, WooCommerce, and Shopify to deliver scalable and customized solutions tailored to your business needs.</p>
+                                            <p>At  <span class="text-primary">VriAum</span>, we specialize in creating robust and user-friendly e-commerce websites that enable businesses to sell products and services online. <b>Our e-commerce development services encompass all essential features, including secure payment gateways, inventory management, order tracking, and customer management</b>. We leverage popular e-commerce platforms like Magento, WooCommerce, and Shopify to deliver scalable and customized solutions tailored to your business needs.</p>
                                             <h5 class="h6 text-primary">Unlock the Potential of E-commerce</h5>
                                             <p>Contact us today to discuss your e-commerce development requirements and unlock the potential of online selling.</p>
-                                            <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us <i class="fas fa-arrow-right ms-2"></i></a>
+                                            <a href="{{route('contact.index')}}" class="read-more-link text-decoration-none mt-4 d-block">Contact Us
+                                                <i class="fas fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-5">
@@ -167,7 +168,7 @@
                                     <div class="col-lg-5">
                                         <div class="feature-tab-info">
                                             <h3>Multipage Website Development</h3>
-                                            <p>Create a professional and visually appealing online presence with our multipage website development services. Our expert team designs and develops multi-page websites that are tailored to your brand, audience, and business objectives. We focus on delivering a seamless user experience, intuitive navigation, and engaging content to keep your visitors hooked. Whether you need a corporate website, portfolio site, or any other multipage website, we have the expertise to bring your vision to life.</p>
+                                            <p>Create a professional and visually appealing online presence with our multipage website development services.<b> Our expert team designs and develops multi-page websites that are tailored to your brand, audience, and business objectives</b>. We focus on delivering a seamless user experience, intuitive navigation, and engaging content to keep your visitors hooked. Whether you need a corporate website, portfolio site, or any other multipage website, we have the expertise to bring your vision to life.</p>
                                             <h5 class="h6 text-primary">Enhance Your Online Presence</h5>
                                             <p>Contact us today to discuss your multipage website development needs and enhance your online presence.</p>
                                             <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us <i class="fas fa-arrow-right ms-2"></i></a>
@@ -180,7 +181,7 @@
                                     <div class="col-lg-5">
                                         <div class="feature-tab-info">
                                             <h3>Blogging Site Development</h3>
-                                            <p>Establish your online presence as a thought leader and engage with your audience through a professionally designed blogging site. Our blogging site development services help you create a user-friendly and visually appealing platform to share your insights, stories, and expertise. We focus on responsive design, easy content management, and seamless social sharing integration to enhance your blogging experience. Whether you are an individual blogger or a media company, we can create a blogging site that aligns with your unique goals and style.</p>
+                                            <p>Establish your online presence as a thought leader and engage with your audience through a professionally designed blogging site.<b> Our blogging site development services help you create a user-friendly and visually appealing platform to share your insights, stories, and expertise</b>. We focus on responsive design, easy content management, and seamless social sharing integration to enhance your blogging experience. Whether you are an individual blogger or a media company, we can create a blogging site that aligns with your unique goals and style.</p>
                                             <h5 class="h6 text-primary">Become a Trusted Voice in Your Industry</h5>
                                             <p>Contact us today to discuss your blogging site development requirements and become a trusted voice in your industry.</p>
                                             <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us <i class="fas fa-arrow-right ms-2"></i></a>
