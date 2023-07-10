@@ -2,8 +2,8 @@
 @section('content')
 
         <!--page header section start-->
-        <section class="page-header position-relative overflow-hidden ptb-120 bg-dark" style="background: url('assets/img/page-header-bg.svg')no-repeat bottom left">
-            <div class="container">
+        <section class="page-header position-relative overflow-hidden ptb-40 " >
+            <!-- <div class="container">
                 <div class="row">
                     <div class="col-lg-12 col-md-12">
                         <h1 class="display-5 fw-bold"><i class=" flaticon-fingerprint mx-3"></i>We are Development Experts</h1> 
@@ -12,7 +12,7 @@
                     </div>
                 </div>
                 <div class="bg-circle rounded-circle circle-shape-3 position-absolute bg-dark-light right-5"></div>
-            </div>
+            </div> -->
         </section>
         <!--page header section end-->
 <!-- about service start -->
@@ -21,11 +21,11 @@
         <div class="row">
             <div class="col-lg-6 col-md-12">
                 <div class="cyber-about-img text-center mb-30 mb-lg-0">
-                    <img src="assets/img/about_cyber.jpg" alt="VR" class="img-fluid">
+                    <img src="assets/img/smnew.jpg" alt="VR" class="img-fluid">
                     <div class="row g-0">
                         <div class="col-lg-5">
                             <div class  ="sheild-img">
-                                <img src="assets/img/about2.png" alt="Sheild" class="img-fluid d-none d-lg-block">
+                                <img src="assets/img/uiux1.jpg" alt="Sheild" class="img-fluid d-none d-lg-block">
                             </div>
                         </div>
                         <div class="col-lg-7 col-md-12">
@@ -61,7 +61,7 @@
                                 In the fast-paced world of mobile technology, having a powerful and user-friendly mobile app is essential for businesses to stay competitive.At <span class="text-primary">Vriaum </span>, we specialize in mobile app development, crafting innovative solutions that captivate users and drive business growth.
                             </p>
                             <p>
-                                Our team of skilled developers and designers leverages the latest technologies and industry best practices to create high-performance apps for both Android and iOS platforms. With a focus on intuitive user interfaces, seamless functionality, and optimal performance, we ensure that your mobile app stands out in the crowded app marketplace.</p>
+                                Our team of skilled developers and designers leverages the latest technologies and industry best practices to create high-performance apps for both <b>Android and iOS </b>platforms. With a focus on intuitive user interfaces, seamless functionality, and optimal performance, we ensure that your mobile app stands out in the crowded app marketplace.</p>
                     </div>
                     <div class="row mt-3">
                         <div class="col-6">
@@ -135,7 +135,7 @@
                                     <div class="col-lg-5">
                                         <div class="feature-tab-info">
                                             <h3>Android App Development</h3>
-                                            <p>At  <span class="text-primary">VriAum</span>, we specialize in developing high-quality, scalable, and user-friendly Android applications. Our experienced team of Android developers is proficient in the latest technologies and frameworks to deliver exceptional app experiences. Whether you need a native Android app or a hybrid app, we ensure that your app is optimized for performance, security, and seamless functionality across various devices and screen sizes.</p>
+                                            <p>At  <span class="text-primary">VriAum</span>, we specialize in developing high-quality, scalable, and user-friendly Android applications. Our experienced team of Android developers is proficient in the latest technologies and frameworks to deliver exceptional app experiences. Whether you need a <b>native Android app or a hybrid app</b>, we ensure that your app is optimized for performance, security, and seamless functionality across various devices and screen sizes.</p>
                                             <h5 class="h6 text-primary">Unleash the Power of Android</h5>
                                             <p>Contact us today to discuss your Android app development requirements and let us help you unleash the power of the world's most popular mobile platform.</p>
                                             <a href="{{route('contact.index')}}" class="read-more-link text-decoration-none mt-4 d-block">Contact Us
@@ -143,7 +143,7 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-5">
-                                        <img src="assets/img/services/android.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
+                                        <img src="assets/img/app.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
                                     </div>
                                 </div>
                             </div>
@@ -152,7 +152,7 @@
              role="tabpanel">
                                 <div class="row justify-content-center align-items-center justify-content-around">
                                     <div class="col-lg-5">
-                                        <img src="assets/img/services/ios.jpg" alt="feature tab" class="img-fluid mb-4 mb-lg-0 mb-xl-0">
+                                        <img src="assets/img/iosandroid1.jpg" alt="feature tab" class="img-fluid mb-4 mb-lg-0 mb-xl-0">
                                     </div>
                                     <div class="col-lg-5">
                                         <div class="feature-tab-info">
@@ -170,14 +170,14 @@
                                     <div class="col-lg-5">
                                         <div class="feature-tab-info">
                                             <h3>Cross-Platform App Development</h3>
-                                            <p>Reach a wider audience with our cross-platform app development services. We leverage frameworks like React Native, Flutter, and Xamarin to build high-performance apps that work seamlessly on multiple platforms, including Android and iOS. Our cross-platform apps provide a native-like experience while reducing development time and cost. With our expertise in cross-platform development, we help you maximize your app's reach and impact, enabling you to connect with users across different devices and operating systems.</p>
+                                            <p>Reach a wider audience with our cross-platform app development services. <b>We leverage frameworks like React Native, Flutter, and Xamarin </b> to build high-performance apps that work seamlessly on multiple platforms, including Android and iOS. Our cross-platform apps provide a native-like experience while reducing development time and cost. With our expertise in cross-platform development, we help you maximize your app's reach and impact, enabling you to connect with users across different devices and operating systems.</p>
                                             <h5 class="h6 text-primary">Break Barriers with Cross-Platform Apps</h5>
                                             <p>Contact us today to explore the possibilities of cross-platform app development and break barriers in reaching your target audience.</p>
                                             <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us <i class="fas fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-5">
-                                        <img src="assets/img/services/cross-platform.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
+                                        <img src="assets/img/react.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
                                     </div>
                                 </div>
                             </div>
@@ -198,7 +198,7 @@
         <div class="row align-items-center justify-content-lg-between justify-content-center">
             <div class="col-lg-5 col-md-7">
                 <div class="feature-img-wrap">
-                    <img src="assets/img/services/mobile-app.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0 ">
+                    <img src="assets/img/mob1.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0 ">
                 </div>
             </div>
             <div class="col-lg-7 col-md-12 mt-4">
@@ -449,314 +449,37 @@
                         <h3 class="mb-5 fw-medium">Fill out the form and we'll be in touch as soon as
                             possible.</h3>
                         <div class="row">
-                            <div class="col-sm-6">
-                                <div class="input-group mb-3">
-                                    <input type="text" class="form-control" placeholder="Name" aria-label="name">
+                                <div class="col-sm-6">
+                                    <label for="firstName" class="mb-1">First name <span class="text-danger">*</span></label>
+                                    <div class="input-group mb-3">
+                                        <input type="text" class="form-control" name="name" value="" id="firstName" required="" placeholder="First name" aria-label="First name" fdprocessedid="io4n">
+                                                                            </div>
                                 </div>
-                            </div>
-                            <div class="col-sm-6 ">
-                                <div class="input-group mb-3">
-                                    <input type="email" class="form-control" placeholder="Email" aria-label="email">
+                                <div class="col-sm-6 ">
+                                    <label for="lastName" class="mb-1">Last name</label>
+                                    <div class="input-group mb-3">
+                                        <input type="text" name="subject" class="form-control" value="" placeholder="Last name" aria-label="Last name" fdprocessedid="1u154">
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="input-group mb-3">
-                                    <input type="text" class="form-control" placeholder="Company website" aria-label="company-website">
+                                <div class="col-sm-6">
+                                    <label for="phone" class="mb-1">Phone <span class="text-danger">*</span></label>
+                                    <div class="input-group mb-3">
+                                        <input type="tel" name="phone" class="form-control" value="" required="" placeholder="Phone" aria-label="Phone" fdprocessedid="a4m9d">
+                                                                            </div>
                                 </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="input-group mb-3">
-                                    <input type="email" class="form-control" placeholder="Work email" aria-label="work-Email">
+                                <div class="col-sm-6">
+                                    <label for="email" class="mb-1">Email<span class="text-danger">*</span></label>
+                                    <div class="input-group mb-3">
+                                        <input type="email" name="email" class="form-control" value="" required="" placeholder="Email" aria-label="Email" fdprocessedid="gw3w98">
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="input-group mb-3">
-                                    <select class="form-control form-select" name="budget" id="budget" required="" data-msg="Please select your budget.">
-                                        <option value="" selected="" disabled="">Budget</option>
-                                        <option value="budget1">None, just getting started</option>
-                                        <option value="budget1">Less than $20,000</option>
-                                        <option value="budget1">$20,000 to $50,000</option>
-                                        <option value="budget1">$50,000 to $100,000</option>
-                                        <option value="budget2">$100,000 to $500,000</option>
-                                        <option value="budget3">More than $500,000</option>
-                                    </select>
+                                <div class="col-12">
+                                    <label for="yourMessage" class="mb-1">Message <span class="text-danger">*</span></label>
+                                    <div class="input-group mb-3">
+                                        <textarea name="message" class="form-control" placeholder="Message"></textarea>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="input-group mb-3">
-                                    <select class="form-control form-select" name="country" id="country" required="" data-msg="Please select your country.">
-                                        <option value="" selected="" disabled="">Country</option>
-                                        <option value="AF">Afghanistan</option>
-                                        <option value="AX">Åland Islands</option>
-                                        <option value="AL">Albania</option>
-                                        <option value="DZ">Algeria</option>
-                                        <option value="AS">American Samoa</option>
-                                        <option value="AD">Andorra</option>
-                                        <option value="AO">Angola</option>
-                                        <option value="AI">Anguilla</option>
-                                        <option value="AQ">Antarctica</option>
-                                        <option value="AG">Antigua and Barbuda</option>
-                                        <option value="AR">Argentina</option>
-                                        <option value="AM">Armenia</option>
-                                        <option value="AW">Aruba</option>
-                                        <option value="AU">Australia</option>
-                                        <option value="AT">Austria</option>
-                                        <option value="AZ">Azerbaijan</option>
-                                        <option value="BS">Bahamas</option>
-                                        <option value="BH">Bahrain</option>
-                                        <option value="BD">Bangladesh</option>
-                                        <option value="BB">Barbados</option>
-                                        <option value="BY">Belarus</option>
-                                        <option value="BE">Belgium</option>
-                                        <option value="BZ">Belize</option>
-                                        <option value="BJ">Benin</option>
-                                        <option value="BM">Bermuda</option>
-                                        <option value="BT">Bhutan</option>
-                                        <option value="BO">Bolivia, Plurinational State of</option>
-                                        <option value="BQ">Bonaire, Sint Eustatius and Saba</option>
-                                        <option value="BA">Bosnia and Herzegovina</option>
-                                        <option value="BW">Botswana</option>
-                                        <option value="BV">Bouvet Island</option>
-                                        <option value="BR">Brazil</option>
-                                        <option value="IO">British Indian Ocean Territory</option>
-                                        <option value="BN">Brunei Darussalam</option>
-                                        <option value="BG">Bulgaria</option>
-                                        <option value="BF">Burkina Faso</option>
-                                        <option value="BI">Burundi</option>
-                                        <option value="KH">Cambodia</option>
-                                        <option value="CM">Cameroon</option>
-                                        <option value="CA">Canada</option>
-                                        <option value="CV">Cape Verde</option>
-                                        <option value="KY">Cayman Islands</option>
-                                        <option value="CF">Central African Republic</option>
-                                        <option value="TD">Chad</option>
-                                        <option value="CL">Chile</option>
-                                        <option value="CN">China</option>
-                                        <option value="CX">Christmas Island</option>
-                                        <option value="CC">Cocos (Keeling) Islands</option>
-                                        <option value="CO">Colombia</option>
-                                        <option value="KM">Comoros</option>
-                                        <option value="CG">Congo</option>
-                                        <option value="CD">Congo, the Democratic Republic of the</option>
-                                        <option value="CK">Cook Islands</option>
-                                        <option value="CR">Costa Rica</option>
-                                        <option value="CI">Côte d'Ivoire</option>
-                                        <option value="HR">Croatia</option>
-                                        <option value="CU">Cuba</option>
-                                        <option value="CW">Curaçao</option>
-                                        <option value="CY">Cyprus</option>
-                                        <option value="CZ">Czech Republic</option>
-                                        <option value="DK">Denmark</option>
-                                        <option value="DJ">Djibouti</option>
-                                        <option value="DM">Dominica</option>
-                                        <option value="DO">Dominican Republic</option>
-                                        <option value="EC">Ecuador</option>
-                                        <option value="EG">Egypt</option>
-                                        <option value="SV">El Salvador</option>
-                                        <option value="GQ">Equatorial Guinea</option>
-                                        <option value="ER">Eritrea</option>
-                                        <option value="EE">Estonia</option>
-                                        <option value="ET">Ethiopia</option>
-                                        <option value="FK">Falkland Islands (Malvinas)</option>
-                                        <option value="FO">Faroe Islands</option>
-                                        <option value="FJ">Fiji</option>
-                                        <option value="FI">Finland</option>
-                                        <option value="FR">France</option>
-                                        <option value="GF">French Guiana</option>
-                                        <option value="PF">French Polynesia</option>
-                                        <option value="TF">French Southern Territories</option>
-                                        <option value="GA">Gabon</option>
-                                        <option value="GM">Gambia</option>
-                                        <option value="GE">Georgia</option>
-                                        <option value="DE">Germany</option>
-                                        <option value="GH">Ghana</option>
-                                        <option value="GI">Gibraltar</option>
-                                        <option value="GR">Greece</option>
-                                        <option value="GL">Greenland</option>
-                                        <option value="GD">Grenada</option>
-                                        <option value="GP">Guadeloupe</option>
-                                        <option value="GU">Guam</option>
-                                        <option value="GT">Guatemala</option>
-                                        <option value="GG">Guernsey</option>
-                                        <option value="GN">Guinea</option>
-                                        <option value="GW">Guinea-Bissau</option>
-                                        <option value="GY">Guyana</option>
-                                        <option value="HT">Haiti</option>
-                                        <option value="HM">Heard Island and McDonald Islands</option>
-                                        <option value="VA">Holy See (Vatican City State)</option>
-                                        <option value="HN">Honduras</option>
-                                        <option value="HK">Hong Kong</option>
-                                        <option value="HU">Hungary</option>
-                                        <option value="IS">Iceland</option>
-                                        <option value="IN">India</option>
-                                        <option value="ID">Indonesia</option>
-                                        <option value="IR">Iran, Islamic Republic of</option>
-                                        <option value="IQ">Iraq</option>
-                                        <option value="IE">Ireland</option>
-                                        <option value="IM">Isle of Man</option>
-                                        <option value="IL">Israel</option>
-                                        <option value="IT">Italy</option>
-                                        <option value="JM">Jamaica</option>
-                                        <option value="JP">Japan</option>
-                                        <option value="JE">Jersey</option>
-                                        <option value="JO">Jordan</option>
-                                        <option value="KZ">Kazakhstan</option>
-                                        <option value="KE">Kenya</option>
-                                        <option value="KI">Kiribati</option>
-                                        <option value="KP">Korea, Democratic People's Republic of</option>
-                                        <option value="KR">Korea, Republic of</option>
-                                        <option value="KW">Kuwait</option>
-                                        <option value="KG">Kyrgyzstan</option>
-                                        <option value="LA">Lao People's Democratic Republic</option>
-                                        <option value="LV">Latvia</option>
-                                        <option value="LB">Lebanon</option>
-                                        <option value="LS">Lesotho</option>
-                                        <option value="LR">Liberia</option>
-                                        <option value="LY">Libya</option>
-                                        <option value="LI">Liechtenstein</option>
-                                        <option value="LT">Lithuania</option>
-                                        <option value="LU">Luxembourg</option>
-                                        <option value="MO">Macao</option>
-                                        <option value="MK">Macedonia, the former Yugoslav Republic of</option>
-                                        <option value="MG">Madagascar</option>
-                                        <option value="MW">Malawi</option>
-                                        <option value="MY">Malaysia</option>
-                                        <option value="MV">Maldives</option>
-                                        <option value="ML">Mali</option>
-                                        <option value="MT">Malta</option>
-                                        <option value="MH">Marshall Islands</option>
-                                        <option value="MQ">Martinique</option>
-                                        <option value="MR">Mauritania</option>
-                                        <option value="MU">Mauritius</option>
-                                        <option value="YT">Mayotte</option>
-                                        <option value="MX">Mexico</option>
-                                        <option value="FM">Micronesia, Federated States of</option>
-                                        <option value="MD">Moldova, Republic of</option>
-                                        <option value="MC">Monaco</option>
-                                        <option value="MN">Mongolia</option>
-                                        <option value="ME">Montenegro</option>
-                                        <option value="MS">Montserrat</option>
-                                        <option value="MA">Morocco</option>
-                                        <option value="MZ">Mozambique</option>
-                                        <option value="MM">Myanmar</option>
-                                        <option value="NA">Namibia</option>
-                                        <option value="NR">Nauru</option>
-                                        <option value="NP">Nepal</option>
-                                        <option value="NL">Netherlands</option>
-                                        <option value="NC">New Caledonia</option>
-                                        <option value="NZ">New Zealand</option>
-                                        <option value="NI">Nicaragua</option>
-                                        <option value="NE">Niger</option>
-                                        <option value="NG">Nigeria</option>
-                                        <option value="NU">Niue</option>
-                                        <option value="NF">Norfolk Island</option>
-                                        <option value="MP">Northern Mariana Islands</option>
-                                        <option value="NO">Norway</option>
-                                        <option value="OM">Oman</option>
-                                        <option value="PK">Pakistan</option>
-                                        <option value="PW">Palau</option>
-                                        <option value="PS">Palestinian Territory, Occupied</option>
-                                        <option value="PA">Panama</option>
-                                        <option value="PG">Papua New Guinea</option>
-                                        <option value="PY">Paraguay</option>
-                                        <option value="PE">Peru</option>
-                                        <option value="PH">Philippines</option>
-                                        <option value="PN">Pitcairn</option>
-                                        <option value="PL">Poland</option>
-                                        <option value="PT">Portugal</option>
-                                        <option value="PR">Puerto Rico</option>
-                                        <option value="QA">Qatar</option>
-                                        <option value="RE">Réunion</option>
-                                        <option value="RO">Romania</option>
-                                        <option value="RU">Russian Federation</option>
-                                        <option value="RW">Rwanda</option>
-                                        <option value="BL">Saint Barthélemy</option>
-                                        <option value="SH">Saint Helena, Ascension and Tristan da Cunha</option>
-                                        <option value="KN">Saint Kitts and Nevis</option>
-                                        <option value="LC">Saint Lucia</option>
-                                        <option value="MF">Saint Martin (French part)</option>
-                                        <option value="PM">Saint Pierre and Miquelon</option>
-                                        <option value="VC">Saint Vincent and the Grenadines</option>
-                                        <option value="WS">Samoa</option>
-                                        <option value="SM">San Marino</option>
-                                        <option value="ST">Sao Tome and Principe</option>
-                                        <option value="SA">Saudi Arabia</option>
-                                        <option value="SN">Senegal</option>
-                                        <option value="RS">Serbia</option>
-                                        <option value="SC">Seychelles</option>
-                                        <option value="SL">Sierra Leone</option>
-                                        <option value="SG">Singapore</option>
-                                        <option value="SX">Sint Maarten (Dutch part)</option>
-                                        <option value="SK">Slovakia</option>
-                                        <option value="SI">Slovenia</option>
-                                        <option value="SB">Solomon Islands</option>
-                                        <option value="SO">Somalia</option>
-                                        <option value="ZA">South Africa</option>
-                                        <option value="GS">South Georgia and the South Sandwich Islands</option>
-                                        <option value="SS">South Sudan</option>
-                                        <option value="ES">Spain</option>
-                                        <option value="LK">Sri Lanka</option>
-                                        <option value="SD">Sudan</option>
-                                        <option value="SR">Suriname</option>
-                                        <option value="SJ">Svalbard and Jan Mayen</option>
-                                        <option value="SZ">Swaziland</option>
-                                        <option value="SE">Sweden</option>
-                                        <option value="CH">Switzerland</option>
-                                        <option value="SY">Syrian Arab Republic</option>
-                                        <option value="TW">Taiwan, Province of China</option>
-                                        <option value="TJ">Tajikistan</option>
-                                        <option value="TZ">Tanzania, United Republic of</option>
-                                        <option value="TH">Thailand</option>
-                                        <option value="TL">Timor-Leste</option>
-                                        <option value="TG">Togo</option>
-                                        <option value="TK">Tokelau</option>
-                                        <option value="TO">Tonga</option>
-                                        <option value="TT">Trinidad and Tobago</option>
-                                        <option value="TN">Tunisia</option>
-                                        <option value="TR">Turkey</option>
-                                        <option value="TM">Turkmenistan</option>
-                                        <option value="TC">Turks and Caicos Islands</option>
-                                        <option value="TV">Tuvalu</option>
-                                        <option value="UG">Uganda</option>
-                                        <option value="UA">Ukraine</option>
-                                        <option value="AE">United Arab Emirates</option>
-                                        <option value="GB">United Kingdom</option>
-                                        <option value="US">United States</option>
-                                        <option value="UM">United States Minor Outlying Islands</option>
-                                        <option value="UY">Uruguay</option>
-                                        <option value="UZ">Uzbekistan</option>
-                                        <option value="VU">Vanuatu</option>
-                                        <option value="VE">Venezuela, Bolivarian Republic of</option>
-                                        <option value="VN">Viet Nam</option>
-                                        <option value="VG">Virgin Islands, British</option>
-                                        <option value="VI">Virgin Islands, U.S.</option>
-                                        <option value="WF">Wallis and Futuna</option>
-                                        <option value="EH">Western Sahara</option>
-                                        <option value="YE">Yemen</option>
-                                        <option value="ZM">Zambia</option>
-                                        <option value="ZW">Zimbabwe</option>
-                                    </select>
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="input-group mb-3">
-                                    <textarea class="form-control" placeholder="Tell us more about your project, needs and budget" style="height: 120px"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-check">
-                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked">
-                                    <label class="form-check-label small" for="flexCheckChecked">
-                                        Yes, I'd like to receive occasional marketing emails from us. I have the
-                                        right to opt out at any time.
-                                        <a href="#"> View privacy policy</a>.
-                                    </label>
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <button type="submit" class="btn btn-primary mt-4 d-block w-100">Get Started
-                                </button>
-                            </div>
+                            <!-- </div> -->
                         </div>
                     </form>
                 </div>
