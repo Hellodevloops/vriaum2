@@ -94,6 +94,12 @@
                                             </span>
                                             <div class="drop-title">Web Development</div>
                                         </a>
+                                        <a href="{{ route('staffing')}}" class="dropdown-link px-0">
+                                            <span class="me-2">
+                                                <i class="flaticon-avatar"></i>
+                                            </span>
+                                            <div class="drop-title">Staffing</div>
+                                        </a>
                                         <a href="{{ route('product')}}" class="dropdown-link px-0">
                                             <span class="me-2">
                                                 <i class="flaticon-vector"></i>
@@ -323,10 +329,13 @@
                                     <div class="footer-single-col">
                                         <h3>Services</h3>
                                         <ul class="list-unstyled footer-nav-list mb-lg-0">
-                                            <li><a href="{{route('iot')}}" class="text-black">Web Devlopement</a></li>
-                                            <li><a href="{{route('iot')}}" class="text-black">Product devlopment</a></li>
-                                            <li><a href="{{route('iot')}}" class="text-black">IOT</a></li>
-                                            <li><a href="{{route('iot')}}" class="text-black">App Devlopment</a></li>
+
+                                            <li><a href="{{ route('webapp')}}" class="text-decoration-none">Web Devlopement</a></li>
+                                            <li><a href="{{ route('product')}}" class="text-decoration-none">Product devlopment</a></li>
+                                            <li><a href="{{route('iot')}}" class="text-decoration-none">IOT</a></li>
+                                            <li><a href="{{ route('mobileapp')}}" class="text-decoration-none"> Mobile App Devlopment</a></li>
+                                            <li><a href="{{ route('staffing')}}" class="text-decoration-none">Staffing</a></li>
+
                                             
                                         </ul>
                                     </div>

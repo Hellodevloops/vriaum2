@@ -46,6 +46,10 @@ Route::get('/webapp', function () {
     return view('services.webapp');
 })->name('webapp'); 
 
+Route::get('/staffing', function () {
+    return view('services.staffing');
+})->name('staffing');
+
 Route::get('/career', function () {
     return view('career');
 })->name('career');

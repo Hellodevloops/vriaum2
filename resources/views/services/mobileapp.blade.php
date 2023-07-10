@@ -138,7 +138,8 @@
                                             <p>At  <span class="text-primary">VriAum</span>, we specialize in developing high-quality, scalable, and user-friendly Android applications. Our experienced team of Android developers is proficient in the latest technologies and frameworks to deliver exceptional app experiences. Whether you need a <b>native Android app or a hybrid app</b>, we ensure that your app is optimized for performance, security, and seamless functionality across various devices and screen sizes.</p>
                                             <h5 class="h6 text-primary">Unleash the Power of Android</h5>
                                             <p>Contact us today to discuss your Android app development requirements and let us help you unleash the power of the world's most popular mobile platform.</p>
-                                            <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us <i class="fas fa-arrow-right ms-2"></i></a>
+                                            <a href="{{route('contact.index')}}" class="read-more-link text-decoration-none mt-4 d-block">Contact Us
+                                                <i class="fas fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-5">
