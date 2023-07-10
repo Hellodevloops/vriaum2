@@ -45,7 +45,7 @@
         <header class="main-header position-absolute w-100">
             <nav class="navbar navbar-expand-xl navbar-light sticky-header">
                 <div class="container d-flex align-items-center justify-content-lg-between position-relative">
-                    <a href="{{route('home')}}" class="navbar-brand d-flex align-items-center mb-md-0 text-decoration-none">
+                    <a href="{{route('home')}}" class="navbar-brand d-flex align-items-center mb-md-0 text-black">
                         <img src="assets/img/Vri_logo.png" alt="logo" class="img-fluid logo-header logo-white" />
                         <img src="assets/img/Vri_logo.png" alt="logo" class="img-fluid logo-header logo-color" />
                     </a>
@@ -126,7 +126,7 @@
             <!--offcanvas menu start-->
             <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasWithBackdrop">
                 <div class="offcanvas-header d-flex align-items-center mt-4">
-                    <a href="index-2.html" class="d-flex align-items-center mb-md-0 text-decoration-none">
+                    <a href="{{route('home')}}" class="d-flex align-items-center mb-md-0 text-black">
                         <img src="assets/img/Vri_logo.png" alt="logo" class="img-fluid ps-2" />
                     </a>
                     <button type="button" class="close-btn text-danger" data-bs-dismiss="offcanvas" aria-label="Close">
@@ -217,7 +217,7 @@
                         <div class="col-md-8 col-lg-4 mb-md-4 mb-lg-0">
                             <div class="footer-single-col">
                                 <div class="footer-single-col mb-4">
-                                    <a href="index.html">
+                                    <a href="{{route('home')}}">
                                         <img src="assets/img/Vri_logo.png" alt="logo"
                                             class="img-fluid logo-footer logo-white" style="width: 350px;" />
                                         <img src="assets/img/Vri_logo.png" alt="logo"
@@ -309,12 +309,12 @@
                                     <div class="footer-single-col">
                                         <h3>Quick Links</h3>
                                         <ul class="list-unstyled footer-nav-list mb-lg-0">
-                                            <li><a href="{{route('about')}}" class="text-decoration-none">About Us</a></li>
+                                            <li><a href="{{route('about')}}" class="text-black">About Us</a></li>
 
-                                            <li><a href="{{route('home')}}" class="text-decoration-none">home</a></li>
-                                            <li><a href="{{route('career')}}" class="text-decoration-none">Career</a></li>
+                                            <li><a href="{{route('home')}}" class="text-black">home</a></li>
+                                            <li><a href="{{route('career')}}" class="text-black">Career</a></li>
 
-                                            <li><a href="{{route('contact.index')}}" class="text-decoration-none">Contact</a></li>
+                                            <li><a href="{{route('contact.index')}}" class="text-black">Contact</a></li>
 
                                         </ul>
                                     </div>
@@ -323,10 +323,10 @@
                                     <div class="footer-single-col">
                                         <h3>Services</h3>
                                         <ul class="list-unstyled footer-nav-list mb-lg-0">
-                                            <li><a href="{{route('iot')}}" class="text-decoration-none">Web Devlopement</a></li>
-                                            <li><a href="{{route('iot')}}" class="text-decoration-none">Product devlopment</a></li>
-                                            <li><a href="{{route('iot')}}" class="text-decoration-none">IOT</a></li>
-                                            <li><a href="{{route('iot')}}" class="text-decoration-none">App Devlopment</a></li>
+                                            <li><a href="{{route('iot')}}" class="text-black">Web Devlopement</a></li>
+                                            <li><a href="{{route('iot')}}" class="text-black">Product devlopment</a></li>
+                                            <li><a href="{{route('iot')}}" class="text-black">IOT</a></li>
+                                            <li><a href="{{route('iot')}}" class="text-black">App Devlopment</a></li>
                                             
                                         </ul>
                                     </div>
@@ -347,7 +347,7 @@
                         <div class="col-md-7 col-lg-7">
                             <div class="copyright-text">
                                 <p class="mb-lg-0 mb-md-0">&copy; 2023 Rights Reserved. <a href="index.html"
-                                        class="text-decoration-none">VriAum Technologies</a></p>
+                                        class="text-black">VriAum Technologies</a></p>
                             </div>
                         </div>
                         <div class="col-md-4 col-lg-4">
