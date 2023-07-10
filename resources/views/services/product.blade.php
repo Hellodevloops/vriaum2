@@ -2,8 +2,8 @@
 @section('content')
 
         <!--page header section start-->
-        <section class="page-header position-relative overflow-hidden ptb-120 bg-dark" style="background: url('assets/img/page-header-bg.svg')no-repeat bottom left">
-            <div class="container">
+        <section class="page-header position-relative overflow-hidden ptb-40" >
+            <!-- <div class="container">
                 <div class="row">
                     <div class="col-lg-12 col-md-12">
                         <h1 class="display-5 fw-bold"><i class=" flaticon-fingerprint mx-3"></i>We are Development Experts</h1> 
@@ -11,7 +11,7 @@
                     </div>
                 </div>
                 <div class="bg-circle rounded-circle circle-shape-3 position-absolute bg-dark-light right-5"></div>
-            </div>
+            </div> -->
         </section>
         <!--page header section end-->
 <!-- about service start -->
@@ -134,7 +134,8 @@
                                         <p>Transform your ideas into tangible prototypes with our prototype development services. We utilize the latest tools and technologies to create functional and interactive prototypes that demonstrate the core features and user experience of your product. Our iterative approach allows for feedback and refinement, ensuring that your prototype aligns with your vision and user requirements. Whether you are a startup or an established business, our prototype development services can help you validate your ideas and attract potential investors or customers.</p>
                                         <h5 class="h6 text-primary">Bring Your Ideas to Life</h5>
                                         <p>Contact us today to discuss your prototype development needs and bring your ideas to life.</p>
-                                        <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us <i class="fas fa-arrow-right ms-2"></i></a>
+                                        <a href="{{route('contact.index')}}" class="read-more-link text-decoration-none mt-4 d-block">Contact Us
+                                                <i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-5">
@@ -150,7 +151,7 @@
                                 <div class="col-lg-5">
                                     <div class="feature-tab-info">
                                         <h3>Minimum Viable Product (MVP)</h3>
-                                        <p>Accelerate your product development process and validate your concept with a Minimum Viable Product (MVP). Our MVP development services focus on creating a scaled-down version of your product with essential features that solve your users' pain points. By launching an MVP, you can gather user feedback, test market viability, and iterate based on real-world data. Our team guides you through the entire MVP development cycle, from idea validation and MVP design to development and launch, helping you reduce time to market and minimize risks.</p>
+                                        <p>Accelerate your product development process and validate your concept with a Minimum Viable Product (MVP). Our MVP development services focus on creating a scaled-down version of your product with essential features that solve your users' pain points. By launching an MVP, <b>you can gather user feedback, test market viability, and iterate based on real-world data</b>. Our team guides you through the entire MVP development cycle, from idea validation and MVP design to development and launch, helping you reduce time to market and minimize risks.</p>
                                         <h5 class="h6 text-primary">Validate and Launch Your Product Idea</h5>
                                         <p>Contact us today to discuss your MVP development requirements and validate your product idea.</p>
                                         <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us <i class="fas fa-arrow-right ms-2"></i></a>
@@ -163,7 +164,7 @@
                                 <div class="col-lg-5">
                                     <div class="feature-tab-info">
                                         <h3>Product Scaling and Enhancement</h3>
-                                        <p>Once your product gains traction and attracts a growing user base, it's crucial to scale and enhance its capabilities. Our product scaling and enhancement services focus on optimizing your product's performance, scalability, and user experience. Whether it's implementing new features, integrating third-party services, or enhancing the overall performance and security of your product, our team has the expertise to ensure a smooth and successful product scaling process. We work closely with you to understand your evolving business needs and align our solutions to meet your growth objectives.</p>
+                                        <p>Once your product gains traction and attracts a growing user base, it's crucial to scale and enhance its capabilities. Our product scaling and enhancement services focus on optimizing your product's performance, scalability, and user experience. Whether it's implementing<b> new features, integrating third-party services, or enhancing the overall performance and security of your product</b>, our team has the expertise to ensure a smooth and successful product scaling process. We work closely with you to understand your evolving business needs and align our solutions to meet your growth objectives.</p>
                                         <h5 class="h6 text-primary">Scale and Enhance Your Product's Potential</h5>
                                         <p>Contact us today to discuss how our product scaling and enhancement services can help you take your product to the next level.</p>
                                         <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us <i class="fas fa-arrow-right ms-2"></i></a>

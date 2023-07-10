@@ -16,10 +16,6 @@
                                     <h1 class="fw-bold display-5">Grow your Business &amp; Customer Satisfaction 
                                        </h1>
                                     <p class="lead">"By prioritizing both business growth and customer satisfaction, you create a winning formula for long-term success."
-
-
-
-
 </p>
                                     <a href="{{route('career')}}" class="btn btn-primary mt-4 me-3">Open Positions</a>
                                     <!-- <a href="{{route('about')}}" class="nav-link">open Positions</a> -->
@@ -49,8 +45,8 @@
                     <div class="section-heading" data-aos="fade-up">
                         <h4 class="h5 text-primary">Our Features</h4>
                         <h2>Solutions for Your Business Needs</h2>
-                        <p>VriAum Technologies LLC deep industry expertise, cost-effective delivery methodology,
-                            highly skilled engineers and professionals, focus on quality standards, and flexibility
+                        <p><span class="text-primary">VriAum Technologies LLC </span> deep industry expertise, cost-effective delivery methodology,
+                            <u>highly skilled engineers and professionals</u> , focus on quality standards, and flexibility
                             in meeting your specific business requirements effectively eliminate risk and provide
                             the foundation for our shared success.</p>
                         <ul class="list-unstyled mt-5">
@@ -138,150 +134,82 @@
                     <div class="col-lg-6 col-md-12">
                         <div class="section-heading text-center">
                             <h5 class="h6 text-primary">Our Team</h5>
-                            <h2>The People Behind Quiety</h2>
-                            <p>Intrinsicly strategize cutting-edge before interoperable applications incubate extensive
-                                expertise through integrated intellectual capital. </p>
+                            <h2>The People Behind VriAum</h2>
+                            <p>Empowering innovation through the dedication and expertise of the visionary minds behind VriAum. </p>
                         </div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-3 col-md-6">
-                        <div class="team-single-wrap mb-5">
-                            <div class="team-img rounded-custom">
-                                <img src="assets/img/team/team-1.jpg" alt="team" class="img-fluid position-relative">
-                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="team-info mt-4 text-center">
-                                <h5 class="h6 mb-1">John Sullivan</h5>
-                                <p class="text-muted small mb-0">Front End Developer</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="team-single-wrap mb-5">
-                            <div class="team-img rounded-custom">
-                                <img src="assets/img/team/team-2.jpg" alt="team" class="img-fluid position-relative">
-                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="team-info mt-4 text-center">
-                                <h5 class="h6 mb-1">John Sullivan</h5>
-                                <p class="text-muted small mb-0">Front End Developer</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="team-single-wrap mb-5">
-                            <div class="team-img rounded-custom">
-                                <img src="assets/img/team/team-3.jpg" alt="team" class="img-fluid position-relative">
-                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="team-info mt-4 text-center">
-                                <h5 class="h6 mb-1">John Sullivan</h5>
-                                <p class="text-muted small mb-0">Front End Developer</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="team-single-wrap mb-5">
-                            <div class="team-img rounded-custom">
-                                <img src="assets/img/team/team-4.jpg" alt="team" class="img-fluid position-relative">
-                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="team-info mt-4 text-center">
-                                <h5 class="h6 mb-1">John Sullivan</h5>
-                                <p class="text-muted small mb-0">Front End Developer</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- <div class="col-lg-3 col-md-6">
-                        <div class="team-single-wrap mb-5">
-                            <div class="team-img rounded-custom">
-                                <img src="assets/img/team/team-5.jpg" alt="team" class="img-fluid position-relative">
-                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="team-info mt-4 text-center">
-                                <h5 class="h6 mb-1">John Sullivan</h5>
-                                <p class="text-muted small mb-0">Front End Developer</p>
-                            </div>
-                        </div>
-                    </div> -->
-                    <!-- <div class="col-lg-3 col-md-6">
-                        <div class="team-single-wrap mb-5">
-                            <div class="team-img rounded-custom">
-                                <img src="assets/img/team/team-6.jpg" alt="team" class="img-fluid position-relative">
-                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="team-info mt-4 text-center">
-                                <h5 class="h6 mb-1">John Sullivan</h5>
-                                <p class="text-muted small mb-0">Front End Developer</p>
-                            </div>
-                        </div>
-                    </div> -->
-                    <!-- <div class="col-lg-3 col-md-6">
-                        <div class="team-single-wrap mb-5">
-                            <div class="team-img rounded-custom">
-                                <img src="assets/img/team/team-7.jpg" alt="team" class="img-fluid position-relative">
-                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="team-info mt-4 text-center">
-                                <h5 class="h6 mb-1">John Sullivan</h5>
-                                <p class="text-muted small mb-0">Front End Developer</p>
-                            </div>
-                        </div>
-                    </div> -->
-                    <!-- <div class="col-lg-3 col-md-6">
-                        <div class="team-single-wrap mb-5">
-                            <div class="team-img rounded-custom">
-                                <img src="assets/img/team/team-8.jpg" alt="team" class="img-fluid position-relative">
-                                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="team-info mt-4 text-center">
-                                <h5 class="h6 mb-1">John Sullivan</h5>
-                                <p class="text-muted small mb-0">Front End Developer</p>
-                            </div>
-                        </div>
-                    </div> -->
-                </div>
+    <div class="col-lg-3 col-md-6">
+        <div class="team-single-wrap mb-5">
+            <div class="team-img rounded-custom">
+                <img src="assets/img/team/team-1.jpg" alt="team" class="img-fluid position-relative">
+                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                </ul>
+            </div>
+            <div class="team-info mt-4 text-center">
+                <h5 class="h6 mb-1">John Sullivan</h5>
+                <p class="text-muted small mb-0">Front End Developer</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6">
+        <div class="team-single-wrap mb-5">
+            <div class="team-img rounded-custom">
+                <img src="assets/img/team/team-2.jpg" alt="team" class="img-fluid position-relative">
+                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                </ul>
+            </div>
+            <div class="team-info mt-4 text-center">
+                <h5 class="h6 mb-1">Emily Smith</h5>
+                <p class="text-muted small mb-0">UI Designer</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6">
+        <div class="team-single-wrap mb-5">
+            <div class="team-img rounded-custom">
+                <img src="assets/img/team/team-3.jpg" alt="team" class="img-fluid position-relative">
+                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                </ul>
+            </div>
+            <div class="team-info mt-4 text-center">
+                <h5 class="h6 mb-1">Mark Johnson</h5>
+                <p class="text-muted small mb-0">Back End Developer</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6">
+        <div class="team-single-wrap mb-5">
+            <div class="team-img rounded-custom">
+                <img src="assets/img/team/team-4.jpg" alt="team" class="img-fluid position-relative">
+                <ul class="list-unstyled team-social-list d-flex flex-column mb-0">
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
+                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                </ul>
+            </div>
+            <div class="team-info mt-4 text-center">
+                <h5 class="h6 mb-1">Jane doe</h5>
+                <p class="text-muted small mb-0">Graphic Designer</p>
+            </div>
+        </div>
+    </div>
+</div>
+
             </div>
         </section>
         <!--team section end-->
@@ -294,7 +222,7 @@
                         <div class="section-heading text-center">
                             <h4 class="h5 text-primary">Testimonial</h4>
                             <h2>What They Say About Us</h2>
-                            <p>Uniquely promote adaptive quality vectors rather than stand-alone e-markets pontificate alternative architectures with accurate schemas.</p>
+                            <p>Enjoy Peace of Mind with Comprehensive Medical Insurance Facilities that Prioritize Your Health and Well-being.</p>
                         </div>
                     </div>
                 </div>
@@ -340,8 +268,7 @@
                                             </div>
                                             <blockquote>
                                                 <h6>Embarrassed by the First Version.</h6>
-                                                Dynamically create innovative core competencies with effective best
-                                                practices promote innovative infrastructures.
+                                                The Vriaum template is absolutely amazing, offering a stunning blend of functionality, aesthetics, and user-friendly design.
                                             </blockquote>
                                             <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
                                                 <li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
@@ -365,7 +292,7 @@
                                                 </div>
                                             </div>
                                             <blockquote>
-                                                <h6>Amazing Quiety template!</h6>
+                                                <h6>Amazing Vriaum  template!</h6>
                                                 Appropriately negotiate interactive niches rather than parallel strategic theme
                                                 incubate premium total linkage areas.
                                             </blockquote>
@@ -451,8 +378,7 @@
                         <div class="section-heading text-center">
                             <h4 class="h5 text-primary">Our Office</h4>
                             <h2>Located Around the World</h2>
-                            <p>Dynamically technically sound technologies with parallel task convergence quality vectors
-                                through excellent relationships. </p>
+                            <p>Where Boundaries Dissolve and Work Unites: The Global Office Experience. </p>
                         </div>
                     </div>
                 </div>

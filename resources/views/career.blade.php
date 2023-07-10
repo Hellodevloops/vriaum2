@@ -1,8 +1,8 @@
 @extends('layouts.app')
 @section('content')
 <!--page header section start-->
-<section class="page-header position-relative overflow-hidden ptb-120 bg-dark" style="background: url('assets/img/page-header-bg.svg')no-repeat bottom left">
-    <div class="container">
+<section class="page-header position-relative overflow-hidden ptb-70 " >
+    <!-- <div class="container">
         <div class="row">
             <div class="col-lg-8 col-md-12">
                 <h1 class="display-5 fw-bold">Career</h1>
@@ -10,7 +10,7 @@
             </div>
         </div>
         <div class="bg-circle rounded-circle circle-shape-3 position-absolute bg-dark-light right-5"></div>
-    </div>
+    </div> -->
 </section>
 <!--page header section end-->
 
@@ -21,16 +21,16 @@
             <div class="col-lg-4 col-md-12">
                 <div class="section-heading">
                     <h4 class="h5 text-primary">Our Jobs</h4>
-                    <h2>Current Available Positions at Quiety</h2>
+                    <h2>Current Available Positions at <span class="text-primary">VriAum Technologies </span></h2>
                 </div>
             </div>
             <div class="col-lg-7 col-md-12">
-                <p>Quiety is currently offering exciting job opportunities across various roles, inviting talented individuals to join their team. From software engineers to UX designers, these positions provide a chance to contribute to Quiety's mission of revolutionizing the sound industry with cutting-edge technology and creating immersive auditory experiences.</p>
+                <p>Unlock Your Potential and Join Our Innovative Team at VriAum Technologies, Where Cutting-Edge Solutions Meet Limitless Opportunities. Explore our Current Available Positions and Be Part of the Future of Technological Advancement.</p>
             </div>
         </div>
         <div class="row justify-content-center">
             <div class="col-lg-6 col-md-12">
-                <a href="career-single.html" class="text-decoration-none mt-4 mt-xl-0 mt-lg-0 single-open-job p-5 bg-dark text-white d-block rounded-custom">
+                <a href="{{route('contact.index')}}" class="text-decoration-none mt-4 mt-xl-0 mt-lg-0 single-open-job p-5 bg-dark text-white d-block rounded-custom">
                     <div class="d-flex justify-content-between align-items-center">
                         <span class="job-time h-6 mb-2"><i class="fas fa-briefcase me-2"></i> <strong>Remote
                                 - Full Time</strong></span>
@@ -43,11 +43,11 @@
                         <li class="list-inline-item"><span class="fas fa-location-pin me-1"></span> London, UK</li>
                         <li class="list-inline-item"><span class="fas fa-wallet me-1"></span> $35k - $45k</li>
                     </ul>
-                    <div class="btn btn-outline-light btn-sm d-inline-block mt-4">Apply Now</div>
+                    <div  class="btn btn-outline-light btn-sm d-inline-block mt-4">Apply Now</div>
                 </a>
             </div>
             <div class="col-lg-6 col-md-12">
-                <a href="career-single.html" class="text-decoration-none mt-4 mt-xl-0 mt-lg-0 single-open-job p-5 bg-dark text-white d-block rounded-custom">
+                <a href="{{route('contact.index')}}" class="text-decoration-none mt-4 mt-xl-0 mt-lg-0 single-open-job p-5 bg-dark text-white d-block rounded-custom">
                     <div class="d-flex justify-content-between align-items-center">
                         <span class="job-time h-6 mb-2"><i class="fas fa-briefcase me-2"></i> <strong>Remote
                                 - Full Time</strong></span>
@@ -64,7 +64,7 @@
                 </a>
             </div>
             <div class="col-lg-6 col-md-12">
-                <a href="career-single.html" class="text-decoration-none mt-4 single-open-job p-5 bg-dark text-white d-block rounded-custom">
+                <a href="{{route('contact.index')}}" class="text-decoration-none mt-4 single-open-job p-5 bg-dark text-white d-block rounded-custom">
                     <div class="d-flex justify-content-between align-items-center">
                         <span class="job-time h-6 mb-2"><i class="fas fa-briefcase me-2"></i> <strong>Full
                                 Time</strong></span>
@@ -81,7 +81,7 @@
                 </a>
             </div>
             <div class="col-lg-6 col-md-12">
-                <a href="career-single.html" class="text-decoration-none mt-4 single-open-job p-5 bg-dark text-white d-block rounded-custom">
+                <a href="{{route('contact.index')}}" class="text-decoration-none mt-4 single-open-job p-5 bg-dark text-white d-block rounded-custom">
                     <div class="d-flex justify-content-between align-items-center">
                         <span class="job-time h-6 mb-2"><i class="fas fa-briefcase me-2"></i> <strong>Remote
                             </strong></span>
@@ -110,7 +110,7 @@
                 <div class="section-heading text-center">
                     <h4 class="h5 text-primary">Why Join Us</h4>
                     <h2>Great Working Environment</h2>
-                    <p>Revolutionary paradigms before enabled interfaces dynamically transition technically sound paradigms with cutting-edge initiatives. </p>
+                    <p>Discover a Thriving Work Culture that Fosters Collaboration, Creativity, and Personal Growth - Your Ideal Destination for Professional Excellence.</p>
                 </div>
             </div>
         </div>
@@ -120,7 +120,7 @@
                     <span class="fas fa-house-user fa-2x text-primary"></span>
                     <div class="ms-4 mt-2">
                         <h5>Remote Working Facilities</h5>
-                        <p class="mb-0">Credibly syndicate enterprise total linkage whereas cost effective innovate state of the art data without multifunctional. </p>
+                        <p class="mb-0">Experience Seamless Connectivity and Optimal Productivity with our State-of-the-Art Remote Working Facilities.</p>
                     </div>
                 </div>
             </div>
@@ -129,7 +129,7 @@
                     <span class="fas fa-clock fa-2x text-primary"></span>
                     <div class="ms-4 mt-2">
                         <h5>Flexible Working Hours</h5>
-                        <p class="mb-0">Credibly syndicate enterprise total linkage whereas cost effective innovate state of the art data without multifunctional. </p>
+                        <p class="mb-0">Empower Your Work-Life Balance with Flexible Working Hours Tailored to Your Needs and Priorities. </p>
                     </div>
                 </div>
             </div>
@@ -138,7 +138,7 @@
                     <span class="fas fa-user-friends fa-2x text-primary"></span>
                     <div class="ms-4 mt-2">
                         <h5>Friendly Skilled Team</h5>
-                        <p class="mb-0">Credibly syndicate enterprise total linkage whereas cost effective innovate state of the art data without multifunctional. </p>
+                        <p class="mb-0">Join a Friendly and Skilled Team that Embodies Collaboration, Support, and Continuous Learning </p>
                     </div>
                 </div>
             </div>
@@ -147,7 +147,7 @@
                     <span class="fas fa-briefcase-medical fa-2x text-primary"></span>
                     <div class="ms-4 mt-2">
                         <h5>Medical Insurance Facilities</h5>
-                        <p class="mb-0">Credibly syndicate enterprise total linkage whereas cost effective innovate state of the art data without multifunctional. </p>
+                        <p class="mb-0">Enjoy Peace of Mind with Comprehensive Medical Insurance Facilities that Prioritize Your Health and Well-being. </p>
                     </div>
                 </div>
             </div>

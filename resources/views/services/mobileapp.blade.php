@@ -2,8 +2,8 @@
 @section('content')
 
         <!--page header section start-->
-        <section class="page-header position-relative overflow-hidden ptb-120 bg-dark" style="background: url('assets/img/page-header-bg.svg')no-repeat bottom left">
-            <div class="container">
+        <section class="page-header position-relative overflow-hidden ptb-40 " >
+            <!-- <div class="container">
                 <div class="row">
                     <div class="col-lg-12 col-md-12">
                         <h1 class="display-5 fw-bold"><i class=" flaticon-fingerprint mx-3"></i>We are Development Experts</h1> 
@@ -12,7 +12,7 @@
                     </div>
                 </div>
                 <div class="bg-circle rounded-circle circle-shape-3 position-absolute bg-dark-light right-5"></div>
-            </div>
+            </div> -->
         </section>
         <!--page header section end-->
 <!-- about service start -->
@@ -61,7 +61,7 @@
                                 In the fast-paced world of mobile technology, having a powerful and user-friendly mobile app is essential for businesses to stay competitive.At <span class="text-primary">Vriaum </span>, we specialize in mobile app development, crafting innovative solutions that captivate users and drive business growth.
                             </p>
                             <p>
-                                Our team of skilled developers and designers leverages the latest technologies and industry best practices to create high-performance apps for both Android and iOS platforms. With a focus on intuitive user interfaces, seamless functionality, and optimal performance, we ensure that your mobile app stands out in the crowded app marketplace.</p>
+                                Our team of skilled developers and designers leverages the latest technologies and industry best practices to create high-performance apps for both <b>Android and iOS </b>platforms. With a focus on intuitive user interfaces, seamless functionality, and optimal performance, we ensure that your mobile app stands out in the crowded app marketplace.</p>
                     </div>
                     <div class="row mt-3">
                         <div class="col-6">
@@ -135,10 +135,11 @@
                                     <div class="col-lg-5">
                                         <div class="feature-tab-info">
                                             <h3>Android App Development</h3>
-                                            <p>At  <span class="text-primary">VriAum</span>, we specialize in developing high-quality, scalable, and user-friendly Android applications. Our experienced team of Android developers is proficient in the latest technologies and frameworks to deliver exceptional app experiences. Whether you need a native Android app or a hybrid app, we ensure that your app is optimized for performance, security, and seamless functionality across various devices and screen sizes.</p>
+                                            <p>At  <span class="text-primary">VriAum</span>, we specialize in developing high-quality, scalable, and user-friendly Android applications. Our experienced team of Android developers is proficient in the latest technologies and frameworks to deliver exceptional app experiences. Whether you need a <b>native Android app or a hybrid app</b>, we ensure that your app is optimized for performance, security, and seamless functionality across various devices and screen sizes.</p>
                                             <h5 class="h6 text-primary">Unleash the Power of Android</h5>
                                             <p>Contact us today to discuss your Android app development requirements and let us help you unleash the power of the world's most popular mobile platform.</p>
-                                            <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us <i class="fas fa-arrow-right ms-2"></i></a>
+                                            <a href="{{route('contact.index')}}" class="read-more-link text-decoration-none mt-4 d-block">Contact Us
+                                                <i class="fas fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-5">
@@ -169,14 +170,14 @@
                                     <div class="col-lg-5">
                                         <div class="feature-tab-info">
                                             <h3>Cross-Platform App Development</h3>
-                                            <p>Reach a wider audience with our cross-platform app development services. We leverage frameworks like React Native, Flutter, and Xamarin to build high-performance apps that work seamlessly on multiple platforms, including Android and iOS. Our cross-platform apps provide a native-like experience while reducing development time and cost. With our expertise in cross-platform development, we help you maximize your app's reach and impact, enabling you to connect with users across different devices and operating systems.</p>
+                                            <p>Reach a wider audience with our cross-platform app development services. <b>We leverage frameworks like React Native, Flutter, and Xamarin </b> to build high-performance apps that work seamlessly on multiple platforms, including Android and iOS. Our cross-platform apps provide a native-like experience while reducing development time and cost. With our expertise in cross-platform development, we help you maximize your app's reach and impact, enabling you to connect with users across different devices and operating systems.</p>
                                             <h5 class="h6 text-primary">Break Barriers with Cross-Platform Apps</h5>
                                             <p>Contact us today to explore the possibilities of cross-platform app development and break barriers in reaching your target audience.</p>
                                             <a href="contact.html" class="read-more-link text-decoration-none mt-4 d-block">Contact Us <i class="fas fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-5">
-                                        <img src="assets/img/eg1.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
+                                        <img src="assets/img/react.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
                                     </div>
                                 </div>
                             </div>
@@ -444,33 +445,32 @@
             </div>
             <div class="col-xl-5 col-lg-7 col-md-12">
                 <div class="register-wrap p-5 bg-white shadow rounded-custom position-relative aos-init aos-animate" data-aos="fade-up" data-aos-delay="150">
-                <form action="#" class="register-form position-relative z-5">
-                        <!-- <h3 class="mb-5 fw-medium">Fill out the form and we'll be in touch as soon as
-                            possible.</h3> -->
-                            <form class="cons-contact-form" method="POST" action="http://127.0.0.1:8000/contact">
-                            <input type="hidden" name="_token" value="pkBfQooUxi7u076PL7VWZZoLUQBDjti4zwDOuHmn">                            <div class="row">
+                    <form action="#" class="register-form position-relative z-5">
+                        <h3 class="mb-5 fw-medium">Fill out the form and we'll be in touch as soon as
+                            possible.</h3>
+                        <div class="row">
                                 <div class="col-sm-6">
                                     <label for="firstName" class="mb-1">First name <span class="text-danger">*</span></label>
                                     <div class="input-group mb-3">
-                                        <input type="text" class="form-control" name="name" value="" id="firstName" required="" placeholder="First name" aria-label="First name" fdprocessedid="kj2rk">
+                                        <input type="text" class="form-control" name="name" value="" id="firstName" required="" placeholder="First name" aria-label="First name" fdprocessedid="io4n">
                                                                             </div>
                                 </div>
                                 <div class="col-sm-6 ">
                                     <label for="lastName" class="mb-1">Last name</label>
                                     <div class="input-group mb-3">
-                                        <input type="text" name="subject" class="form-control" value="" placeholder="Last name" aria-label="Last name" fdprocessedid="deicf">
+                                        <input type="text" name="subject" class="form-control" value="" placeholder="Last name" aria-label="Last name" fdprocessedid="1u154">
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <label for="phone" class="mb-1">Phone <span class="text-danger">*</span></label>
                                     <div class="input-group mb-3">
-                                        <input type="tel" name="phone" class="form-control" value="" required="" placeholder="Phone" aria-label="Phone" fdprocessedid="d66hwh">
+                                        <input type="tel" name="phone" class="form-control" value="" required="" placeholder="Phone" aria-label="Phone" fdprocessedid="a4m9d">
                                                                             </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <label for="email" class="mb-1">Email<span class="text-danger">*</span></label>
                                     <div class="input-group mb-3">
-                                        <input type="email" name="email" class="form-control" value="" required="" placeholder="Email" aria-label="Email" fdprocessedid="xrlb5v">
+                                        <input type="email" name="email" class="form-control" value="" required="" placeholder="Email" aria-label="Email" fdprocessedid="gw3w98">
                                     </div>
                                 </div>
                                 <div class="col-12">
@@ -479,9 +479,8 @@
                                         <textarea name="message" class="form-control" placeholder="Message"></textarea>
                                     </div>
                                 </div>
-                            </div>
-                            <button type="submit" class="btn btn-primary mt-4" fdprocessedid="ri7lf">Get in Touch</button>
-                        </form>
+                            <!-- </div> -->
+                        </div>
                     </form>
                 </div>
             </div>
