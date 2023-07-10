@@ -35,7 +35,7 @@
         <div class="row">
             <div class="col-lg-6 col-md-12">
                 <div class="cyber-about-img text-center mb-30 mb-lg-0">
-                    <img src="assets/img/3in1.jpg" alt="VR" class="img-fluid">
+                    <img src="assets/img/3in11.jpg" alt="VR" class="img-fluid">
                     <div class="row g-0">
                         <div class="col-lg-5">
                             <div class  ="sheild-img">
@@ -188,7 +188,7 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-5">
-                                        <img src="assets/img/blogging.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
+                                        <img src="assets/img/blogging1.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
                                     </div>
                                 </div>
                             </div>
