@@ -21,7 +21,7 @@
                     <div class="col-lg-6 col-md-6">
                         <div class="single-article rounded-custom mb-4 mb-lg-0">
                             <a href="#" class="article-img">
-                                <img src="assets/img/usa.jpg" alt="article" class="img-fluid">
+                                <img src="assets/img/usa1.jpg" alt="article" class="img-fluid">
                             </a>
                             <div class="article-content p-4">
                                 <!-- <div class="article-category mb-4 d-block">
@@ -97,6 +97,54 @@
 
         <!-- end -->
 <!-- about service start -->
+<!-- sec start -->
+<section class="feature-section-two pt-60 " style="background: url('assets/img/hero-9-img.png')no-repeat center center;">
+            <div class="container">
+                <div class="row align-items-center justify-content-lg-between justify-content-center">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="feature-content-wrap">
+                            <div class="section-heading">
+                            <!-- <i class="fas fa-bolt fa-2x text-white"></i> -->
+                                <h2>Global Networking Opportunities</h2>
+                                <p>International intern migration allows aspiring professionals to gain valuable cross-cultural experiences and exposure to different work environments. It promotes cultural exchange, broadens perspectives, and fosters global understanding, which can enhance their professional and personal development.</p>
+                            </div>
+                            <ul class="list-unstyled mb-0">
+                                <li class="d-flex align-items-start mb-4">
+                                <i class="fas fa-bolt fa-2x text-white"></i>
+                                    <div class="icon-content">
+                                        <h3 class="h5">Cultural Exchange and Professional Development</h3>
+                                        <p>By experiencing different cultural norms, values, and practices, interns gain a broader perspective and develop a deeper understanding of global dynamics.
+                                        </p>
+                                    </div>
+                                </li>
+                                <li class="d-flex align-items-start mb-4">
+                                <i class="fas fa-bolt fa-2x text-white"></i>
+                                    <div class="icon-content">
+                                        <h3 class="h5">Knowledge and Skill Exchange</h3>
+                                        <p>Intern migration facilitates the exchange of knowledge and skills between countries.
+                                        </p>
+                                    </div>
+                                </li>
+                                <li class="d-flex align-items-start mb-4 mb-lg-0">
+                                <i class="fas fa-bolt fa-2x text-white"></i>
+                                    <div class="icon-content">
+                                        <h3 class="h5">Cultural Awareness and Intercultural Communication</h3>
+                                        <p>These skills are increasingly valuable in today's globalized and interconnected world.
+                                        </p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-7">
+                        <div class="feature-img-wrap">
+                            <img src="assets/img/globalst.jpg" alt="feature image" class="img-fluid rounded-custom">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+<!-- sec end -->
 
 <!-- about service end -->
         <!--features grid section start--> 
@@ -138,7 +186,7 @@
                                                 <i class="fas fa-arrow-right ms-2"></i></a>
                         </div>
                         <div class="col-lg-6">
-                        <img src="assets/img/usacan.jpg" class="img-fluid mt-4 rounded-custom" alt="apply">
+                        <img src="assets/img/usacan1.jpg" class="img-fluid mt-4 rounded-custom" alt="apply">
                         </div>
                     </div>
                 </div>
@@ -155,7 +203,7 @@
         <div class="row align-items-center justify-content-lg-between justify-content-center">
             <div class="col-lg-5 col-md-7">
                 <div class="feature-img-wrap">
-                    <img src="assets/img/1.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0 ">
+                    <img src="assets/img/why staffing1.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0 ">
                 </div>
             </div>
             <div class="col-lg-7 col-md-12 mt-4">
@@ -199,6 +247,116 @@
 </div>
 </section>
 <!-- tab features end -->
+<!-- faq start -->
+<section class="faq-section ptb-120">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-7 col-12">
+                            <div class="section-heading mb-5 text-center">
+                                <h5 class="h6 text-primary">FAQ</h5>
+                                <h2>Frequently Asked Questions</h2>
+                                <p>Completely whiteboard top-line channels and fully tested value. Competently generate
+                                    testing procedures before visionary maintainable growth strategies for maintainable.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-lg-7 col-12">
+                            <div class="accordion faq-accordion" id="accordionExample">
+                                <div class="accordion-item border border-2 active">
+                                    <h5 class="accordion-header" id="faq-1">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false">
+                                        Are there any internships currently available on your website?
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-1" class="accordion-collapse collapse" aria-labelledby="faq-1" data-bs-parent="#accordionExample" style="">
+                                        <div class="accordion-body">
+                                        The availability of internships may vary. Please contact VriAum for the most up-to-date information.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- <div class="accordion-item border border-2">
+                                    <h5 class="accordion-header" id="faq-5">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false">
+                                        Can you help with staffing and immigration to both the USA and Canada?
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-5" class="accordion-collapse collapse" aria-labelledby="faq-5" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                        Yes, we provide assistance with staffing and immigration services for both the USA and Canada.
+                                        </div>
+                                    </div>
+                                </div> -->
+                                <div class="accordion-item border border-2">
+                                    <h5 class="accordion-header" id="faq-2">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false">
+                                        Can you help with staffing and immigration to both the USA and Canada?
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-2" class="accordion-collapse collapse" aria-labelledby="faq-2" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                        Yes, we provide assistance with staffing and immigration services for both the USA and Canada.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item border border-2">
+                                    <h5 class="accordion-header" id="faq-3">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false">
+                                        What kind of staffing services do we offer.
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-3" class="accordion-collapse collapse" aria-labelledby="faq-3" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                        We offer a range of staffing services, including permanent placement, temporary staffing, and contract hiring.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="accordion-item border border-2">
+                                    <h5 class="accordion-header" id="faq-4">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false">
+                                        Are there any specific requirements for applying to internships on your website?
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-4" class="accordion-collapse collapse" aria-labelledby="faq-4" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                        The requirements may vary for each internship. Please refer to the Contact page on our website for specific qualifications and application details.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="accordion-item border border-2">
+                                    <h5 class="accordion-header" id="faq-5">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false">
+                                        How can I apply for an internship through your website?
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-5" class="accordion-collapse collapse" aria-labelledby="faq-5" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                        The application process may vary. Please visit to the Contact page on our website for specific qualifications and application details.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="accordion-item border border-2">
+                                    <h5 class="accordion-header" id="faq-5">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false">
+                                        How long do the internships typically last?
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-5" class="accordion-collapse collapse" aria-labelledby="faq-5" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                        The duration of internships can vary. Some internships may span a few weeks, while others may last several months. To get the exact duration please contact VriAum.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+<!-- faq end -->
   
 <!-- integrate companies  -->
 <section class="customer-review-tab ptb-120 bg-light-subtle position-relative z-2">
@@ -221,7 +379,7 @@
                                         <div class="col-lg-6 col-md-6">
                                             <div class="testimonial-tab-content mb-5 mb-lg-0 mb-md-0">
                                                 <img src="assets/img/testimonial/quotes-left.svg" alt="testimonial quote" width="65" class="img-fluid mb-32">
-                                                <div class="blockquote-title-review mb-4">
+                                                <!-- <div class="blockquote-title-review mb-4">
                                                     <h3 class="mb-0 h4 fw-semi-bold">The Best Template You Got to Have
                                                         it!</h3>
                                                     <ul class="review-rate mb-0 list-unstyled list-inline">
@@ -236,28 +394,23 @@
                                                         <li class="list-inline-item"><i class="fas fa-star text-warning"></i>
                                                         </li>
                                                     </ul>
-                                                </div>
+                                                </div> -->
 
                                                 <blockquote class="blockquote">
-                                                    <p>Globally network long-term high-impact schemas vis-a-vis distinctive
-                                                        e-commerce
-                                                        cross-media infrastructures rather than ethical sticky alignments
-                                                        rather
-                                                        than global. Plagiarize technically sound total linkage for
-                                                        leveraged value media web-readiness and premium processes.</p>
+                                                    <p> I had an incredible internship opportunity that not only enhanced my skills but also allowed me to immerse myself in a new culture. I highly recommend their services to anyone seeking intern staffing opportunities in Canada or the USA.</p>
                                                 </blockquote>
                                                 <div class="author-info mt-4">
                                                     <h6 class="mb-0">Joe Richard</h6>
-                                                    <span>Visual Designer</span>
+                                                    <!-- <span>Visual Designer</span> -->
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-lg-5 col-md-6">
                                             <div class="author-img-wrap pt-5 ps-5">
                                                 <div class="testimonial-video-wrapper position-relative">
-                                                    <img src="assets/img/testimonial/t-1.jpg" class="img-fluid rounded-custom shadow-lg" alt="testimonial author">
+                                                    <img src="assets/img/testimonial/1.jpg" class="img-fluid rounded-custom shadow-lg" alt="testimonial author">
                                                     <div class="customer-info text-white d-flex align-items-center">
-                                                        <a href="http://www.youtube.com/watch?v=hAP2QF--2Dg" class="video-icon popup-youtube text-decoration-none"><i class="fas fa-play"></i> <span class="text-white ms-2 small"> Watch Video</span></a>
+                                                        <!-- <a href="http://www.youtube.com/watch?v=hAP2QF--2Dg" class="video-icon popup-youtube text-decoration-none"><i class="fas fa-play"></i> <span class="text-white ms-2 small"> Watch Video</span></a> -->
                                                     </div>
                                                     <div class="position-absolute bg-secondary-dark z--1 dot-mask dm-size-16 dm-wh-350 top--40 left--40 top-left"></div>
                                                 </div>
@@ -270,7 +423,7 @@
                                         <div class="col-lg-6 col-md-6">
                                             <div class="testimonial-tab-content mb-5 mb-lg-0 mb-md-0">
                                                 <img src="assets/img/testimonial/quotes-left.svg" alt="testimonial quote" width="65" class="img-fluid mb-32">
-                                                <div class="blockquote-title-review mb-4">
+                                                <!-- <div class="blockquote-title-review mb-4">
                                                     <h3 class="mb-0 h4 fw-semi-bold">Embarrassed by the First Version.</h3>
                                                     <ul class="review-rate mb-0 list-unstyled list-inline">
                                                         <li class="list-inline-item"><i class="fas fa-star text-warning"></i>
@@ -284,25 +437,22 @@
                                                         <li class="list-inline-item"><i class="fas fa-star text-warning"></i>
                                                         </li>
                                                     </ul>
-                                                </div>
+                                                </div> -->
                                                 <blockquote class="blockquote">
-                                                    <p>Energistically streamline robust architectures whereas distributed
-                                                        mindshare. Intrinsicly leverage other's backend growth strategies
-                                                        through 24/365 products. Conveniently pursue revolutionary
-                                                        communities for compelling process improvements. </p>
+                                                    <p>From the very beginning, they were professional, efficient, and dedicated to finding the perfect internship match for me. </p>
                                                 </blockquote>
                                                 <div class="author-info mt-4">
                                                     <h6 class="mb-0">Rupan Oberoi</h6>
-                                                    <span>Web Designer</span>
+                                                    <!-- <span>Web Designer</span> -->
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-lg-5 col-md-6">
                                             <div class="author-img-wrap pt-5 ps-5">
                                                 <div class="testimonial-video-wrapper position-relative">
-                                                    <img src="assets/img/testimonial/t-2.jpg" class="img-fluid rounded-custom shadow-lg" alt="testimonial author">
+                                                    <img src="assets/img/testimonial/2.jpg" class="img-fluid rounded-custom shadow-lg" alt="testimonial author">
                                                     <div class="customer-info text-white d-flex align-items-center">
-                                                        <a href="http://www.youtube.com/watch?v=hAP2QF--2Dg" class="video-icon popup-youtube text-decoration-none"><i class="fas fa-play"></i> <span class="text-white ms-2 small"> Watch Video</span></a>
+                                                        <!-- <a href="http://www.youtube.com/watch?v=hAP2QF--2Dg" class="video-icon popup-youtube text-decoration-none"><i class="fas fa-play"></i> <span class="text-white ms-2 small"> Watch Video</span></a> -->
                                                     </div>
                                                     <div class="position-absolute bg-secondary-dark z--1 dot-mask dm-size-16 dm-wh-350 top--40 left--40 top-left"></div>
                                                 </div>
@@ -315,7 +465,7 @@
                                         <div class="col-lg-6 col-md-6">
                                             <div class="testimonial-tab-content mb-5 mb-lg-0 mb-md-0">
                                                 <img src="assets/img/testimonial/quotes-left.svg" alt="testimonial quote" width="65" class="img-fluid mb-32">
-                                                <div class="blockquote-title-review mb-4">
+                                                <!-- <div class="blockquote-title-review mb-4">
                                                     <h3 class="mb-0 h4 fw-semi-bold">Amazing Quiety template!</h3>
                                                     <ul class="review-rate mb-0 list-unstyled list-inline">
                                                         <li class="list-inline-item"><i class="fas fa-star text-warning"></i>
@@ -329,29 +479,24 @@
                                                         <li class="list-inline-item"><i class="fas fa-star text-warning"></i>
                                                         </li>
                                                     </ul>
-                                                </div>
+                                                </div> -->
                                                 <blockquote class="blockquote">
                                                     <p>
-                                                        Appropriately negotiate interactive niches rather orchestrate
-                                                        scalable
-                                                        benefits whereas flexible systems. Objectively grow quality
-                                                        outsourcing
-                                                        without vertical methods of empowerment. Assertively negotiate just
-                                                        in time innovation after client-centered thinking.
+                                                    I cannot express enough gratitude to the intern staffing team for their invaluable assistance in securing an internship in the USA. From the moment I reached out to them, they demonstrated professionalism, knowledge, and a genuine commitment to helping me succeed.
                                                     </p>
                                                 </blockquote>
                                                 <div class="author-info mt-4">
                                                     <h6 class="mb-0">Jon Doe</h6>
-                                                    <span>Software Engineer</span>
+                                                    <!-- <span>Software Engineer</span> -->
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-lg-5 col-md-6">
                                             <div class="author-img-wrap pt-5 ps-5">
                                                 <div class="testimonial-video-wrapper position-relative">
-                                                    <img src="assets/img/testimonial/t-3.jpg" class="img-fluid rounded-custom shadow-lg" alt="testimonial author">
+                                                    <img src="assets/img/testimonial/3.jpg" class="img-fluid rounded-custom shadow-lg" alt="testimonial author">
                                                     <div class="customer-info text-white d-flex align-items-center">
-                                                        <a href="http://www.youtube.com/watch?v=hAP2QF--2Dg" class="video-icon popup-youtube text-decoration-none"><i class="fas fa-play"></i> <span class="text-white ms-2 small"> Watch Video</span></a>
+                                                        <!-- <a href="http://www.youtube.com/watch?v=hAP2QF--2Dg" class="video-icon popup-youtube text-decoration-none"><i class="fas fa-play"></i> <span class="text-white ms-2 small"> Watch Video</span></a> -->
                                                     </div>
                                                     <div class="position-absolute bg-secondary-dark z--1 dot-mask dm-size-16 dm-wh-350 top--40 left--40 top-left"></div>
                                                 </div>
@@ -364,7 +509,7 @@
                                         <div class="col-lg-6 col-md-6">
                                             <div class="testimonial-tab-content mb-5 mb-lg-0 mb-md-0">
                                                 <img src="assets/img/testimonial/quotes-left.svg" alt="testimonial quote" width="65" class="img-fluid mb-32">
-                                                <div class="blockquote-title-review mb-4">
+                                                <!-- <div class="blockquote-title-review mb-4">
                                                     <h3 class="mb-0 h4 fw-semi-bold">Best Template for SAAS Company!</h3>
                                                     <ul class="review-rate mb-0 list-unstyled list-inline">
                                                         <li class="list-inline-item"><i class="fas fa-star text-warning"></i>
@@ -378,27 +523,22 @@
                                                         <li class="list-inline-item"><i class="fas fa-star text-warning"></i>
                                                         </li>
                                                     </ul>
-                                                </div>
+                                                </div> -->
                                                 <blockquote class="blockquote">
-                                                    <p>Competently repurpose cost effective strategic theme areas and
-                                                        customer
-                                                        directed meta-services. Objectively orchestrate orthogonal
-                                                        initiatives
-                                                        after enterprise-wide bandwidth. Dynamically generate extensive
-                                                        through cooperative channels time partnerships. </p>
+                                                    <p>I was able to secure a prestigious internship opportunity that has kick-started my career. I highly recommend their intern staffing services to anyone looking to pursue their professional aspirations in the USA. </p>
                                                 </blockquote>
                                                 <div class="author-info mt-4">
                                                     <h6 class="mb-0">Hanry Luice</h6>
-                                                    <span>App Developer</span>
+                                                    <!-- <span>App Developer</span> -->
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-lg-5 col-md-6">
                                             <div class="author-img-wrap pt-5 ps-5">
                                                 <div class="testimonial-video-wrapper position-relative">
-                                                    <img src="assets/img/testimonial/t-4.jpg" class="img-fluid rounded-custom shadow-lg" alt="testimonial author">
+                                                    <img src="assets/img/testimonial/4.jpg" class="img-fluid rounded-custom shadow-lg" alt="testimonial author">
                                                     <div class="customer-info text-white d-flex align-items-center">
-                                                        <a href="http://www.youtube.com/watch?v=hAP2QF--2Dg" class="video-icon popup-youtube text-decoration-none"><i class="fas fa-play"></i> <span class="text-white ms-2 small"> Watch Video</span></a>
+                                                        <!-- <a href="http://www.youtube.com/watch?v=hAP2QF--2Dg" class="video-icon popup-youtube text-decoration-none"><i class="fas fa-play"></i> <span class="text-white ms-2 small"> Watch Video</span></a> -->
                                                     </div>
                                                     <div class="position-absolute bg-secondary-dark z--1 dot-mask dm-size-16 dm-wh-350 top--40 left--40 top-left"></div>
                                                 </div>
@@ -411,7 +551,7 @@
                                         <div class="col-lg-6 col-md-6">
                                             <div class="testimonial-tab-content mb-5 mb-lg-0 mb-md-0">
                                                 <img src="assets/img/testimonial/quotes-left.svg" alt="testimonial quote" width="65" class="img-fluid mb-32">
-                                                <div class="blockquote-title-review mb-4">
+                                                <!-- <div class="blockquote-title-review mb-4">
                                                     <h3 class="mb-0 h4 fw-semi-bold">It is Undeniably Good!</h3>
                                                     <ul class="review-rate mb-0 list-unstyled list-inline">
                                                         <li class="list-inline-item"><i class="fas fa-star text-warning"></i>
@@ -425,28 +565,22 @@
                                                         <li class="list-inline-item"><i class="fas fa-star text-warning"></i>
                                                         </li>
                                                     </ul>
-                                                </div>
+                                                </div> -->
                                                 <blockquote class="blockquote">
-                                                    <p>Appropriately disintermediate one-to-one vortals through cross
-                                                        functional
-                                                        infomediaries. Collaboratively pursue multidisciplinary systems
-                                                        through
-                                                        stand-alone architectures. Progressively transition covalent
-                                                        architectures whereas vertical applications procrastinate
-                                                        professional.</p>
+                                                    <p>Their guidance and mentorship helped me develop new skills, gain valuable industry insights, and build a strong professional network. I am grateful for their dedication, expertise, and personalized approach.</p>
                                                 </blockquote>
                                                 <div class="author-info mt-4">
                                                     <h6 class="mb-0">Ami Nijai</h6>
-                                                    <span>Customer Support</span>
+                                                    <!-- <span>Customer Support</span> -->
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-lg-5 col-md-6">
                                             <div class="author-img-wrap pt-5 ps-5">
                                                 <div class="testimonial-video-wrapper position-relative">
-                                                    <img src="assets/img/testimonial/t-5.jpg" class="img-fluid rounded-custom shadow-lg" alt="testimonial author">
+                                                    <img src="assets/img/testimonial/5.jpg" class="img-fluid rounded-custom shadow-lg" alt="testimonial author">
                                                     <div class="customer-info text-white d-flex align-items-center">
-                                                        <a href="http://www.youtube.com/watch?v=hAP2QF--2Dg" class="video-icon popup-youtube text-decoration-none"><i class="fas fa-play"></i> <span class="text-white ms-2 small"> Watch Video</span></a>
+                                                        <!-- <a href="http://www.youtube.com/watch?v=hAP2QF--2Dg" class="video-icon popup-youtube text-decoration-none"><i class="fas fa-play"></i> <span class="text-white ms-2 small"> Watch Video</span></a> -->
                                                     </div>
                                                     <div class="position-absolute bg-secondary-dark z--1 dot-mask dm-size-16 dm-wh-350 top--40 left--40 top-left"></div>
                                                 </div>
