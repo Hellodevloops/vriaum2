@@ -110,8 +110,9 @@
                             </div>
                             <ul class="list-unstyled mb-0">
                                 <li class="d-flex align-items-start mb-4">
-                                <h3 class="display-6 fw-bold mb-4"><i class="fas fa-chart-pie text-info"></i>
-                                    </h3>
+                                <div class="icon-box bg-primary rounded me-4">
+                           <i class="fas fa-file text-secondary"></i>
+                        </div>
                                     <div class="icon-content">
                                         <h3 class="h5">Cultural Exchange and Professional Development</h3>
                                         <p>By experiencing different cultural norms, values, and practices, interns gain a broader perspective and develop a deeper understanding of global dynamics.
@@ -119,17 +120,19 @@
                                     </div>
                                 </li>
                                 <li class="d-flex align-items-start mb-4">
-                                <h3 class="display-6 fw-bold mb-4"><i class="fas fa-chart-pie text-info"></i>
-                                    </h3>
+                                <div class="icon-box bg-primary rounded me-4">
+                           <i class="fas fa-briefcase text-secondary"></i>
+                        </div>
                                     <div class="icon-content">
                                         <h3 class="h5">Knowledge and Skill Exchange</h3>
                                         <p>Intern migration facilitates the exchange of knowledge and skills between countries.
                                         </p>
                                     </div>
-                                </li>
+                                </li> 
                                 <li class="d-flex align-items-start mb-4 mb-lg-0">
-                                <h3 class="display-6 fw-bold mb-4"><i class="fas fa-chart-pie text-info"></i>
-                                    </h3>
+                                <div class="icon-box bg-primary rounded me-4">
+                           <i class="fas fa-users text-secondary"></i>
+                        </div>
                                     <div class="icon-content">
                                         <h3 class="h5">Cultural Awareness and Intercultural Communication</h3>
                                         <p>These skills are increasingly valuable in today's globalized and interconnected world.

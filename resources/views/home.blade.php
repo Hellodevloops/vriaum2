@@ -151,7 +151,7 @@
             </div>
         </section> <!--About us end-->
         <!--Why choose us start-->
-        <section class="feature-section-two pt-60 "
+        <section class="feature-section-two pt-60  pb-60 "
             style="background: url('assets/img/hero-9-img.png')no-repeat center center;">
             <div class="container">
                 <div class="row align-items-center justify-content-lg-between justify-content-center">
@@ -167,7 +167,7 @@
                                         <i class="fas fa-bezier-curve text-white"></i>
                                     </div>
                                     <div class="icon-content">
-                                        <h3 class="h4">Pixel Perfect Design</h3>
+                                        <h3 class="h3">Pixel Perfect Design</h3>
                                         <p class="h6">Expertise lies in maintaining consistency, achieving precision, and ensuring optimal user experience across different browsers and devices.
                                         </p>
                                     </div>
@@ -178,7 +178,7 @@
                                     </div>
                                
                                     <div class="icon-content">
-                                        <h3 class="h4">Unique &amp; Minimal Design</h3>
+                                        <h3 class="h3">Unique &amp; Minimal Design</h3>
                                         <p class="h6">Stay updated with the latest developments and experiment with innovative design approaches to create fresh and captivating web experiences.
                                         </p>
                                     </div>
@@ -189,7 +189,7 @@
                                     </div>
                                     
                                     <div class="icon-content">
-                                        <h3 class="h4">24/7 Free Online Support</h3>
+                                        <h3 class="h3">24/7 Free Online Support</h3>
                                         <p class="h6">Get peace of mind <span class="text-primary">with our 24/7 free online support</span>, ensuring prompt assistance and uninterrupted service whenever you need it.
                                         </p>
                                     </div>
@@ -568,10 +568,11 @@
         <!--integration section end-->
 
         <!--customer review tab section start-->
-        <section class="testimonial-section pb-120 bg-light-subtle">
+        <!-- <section class="testimonial-section pb-120 bg-light-subtle"> -->
+        <section class="testimonial-section pb-120 pb-50 bg-light-subtle">
             <div class="container">
                 <div class="row justify-content-center align-content-center">
-                    <div class="col-md-10 col-lg-6">
+                    <div class="col-md-10 col-lg-6 ">
                         <div class="section-heading text-center" data-aos="fade-up">
                             <h4 class="h5 text-primary">Testimonial</h4>
                             <h2>What They Say About Us</h2>
