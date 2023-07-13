@@ -315,9 +315,10 @@
                                     <div class="footer-single-col">
                                         <h3>Quick Links</h3>
                                         <ul class="list-unstyled footer-nav-list mb-lg-0">
+                                        <li><a href="{{route('home')}}" class="text-black">Home</a></li>
                                             <li><a href="{{route('about')}}" class="text-black">About Us</a></li>
 
-                                            <li><a href="{{route('home')}}" class="text-black">home</a></li>
+                                            
                                             <li><a href="{{route('career')}}" class="text-black">Career</a></li>
 
                                             <li><a href="{{route('contact.index')}}" class="text-black">Contact</a></li>
@@ -355,7 +356,7 @@
                     <div class="row justify-content-between align-items-center">
                         <div class="col-md-7 col-lg-7">
                             <div class="copyright-text">
-                                <p class="mb-lg-0 mb-md-0">&copy; 2023 Rights Reserved. <a href="index.html"
+                                <p class="mb-lg-0 mb-md-0">&copy; 2023 Rights Reserved. <a href="{{route('home')}}"
                                         class="text-black">VriAum Technologies</a></p>
                             </div>
                         </div>

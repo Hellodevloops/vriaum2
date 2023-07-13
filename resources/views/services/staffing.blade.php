@@ -7,7 +7,7 @@
                 <div class="row align-items-center justify-content-between">
                     <div class="col-lg-12 col-md-12">
                         <div class="section-heading">
-                            <h4 class="h5 text-primary mt-3">Career Catalysts: Staffing Services for USA and Canada</h4>
+                            <h4 class="h5 text-primary mt-3">Internship Gateway: Unlock Your Global Potential!</h4>
                             <h3>Empowering Migration: Training for Success in the USA and Canada</h3>
                         </div>
                     </div>
@@ -110,7 +110,9 @@
                             </div>
                             <ul class="list-unstyled mb-0">
                                 <li class="d-flex align-items-start mb-4">
-                                <i class="fas fa-bolt fa-2x text-white"></i>
+                                <div class="icon-box bg-primary rounded me-4">
+                           <i class="fas fa-file text-secondary"></i>
+                        </div>
                                     <div class="icon-content">
                                         <h3 class="h5">Cultural Exchange and Professional Development</h3>
                                         <p>By experiencing different cultural norms, values, and practices, interns gain a broader perspective and develop a deeper understanding of global dynamics.
@@ -118,15 +120,19 @@
                                     </div>
                                 </li>
                                 <li class="d-flex align-items-start mb-4">
-                                <i class="fas fa-bolt fa-2x text-white"></i>
+                                <div class="icon-box bg-primary rounded me-4">
+                           <i class="fas fa-briefcase text-secondary"></i>
+                        </div>
                                     <div class="icon-content">
                                         <h3 class="h5">Knowledge and Skill Exchange</h3>
                                         <p>Intern migration facilitates the exchange of knowledge and skills between countries.
                                         </p>
                                     </div>
-                                </li>
+                                </li> 
                                 <li class="d-flex align-items-start mb-4 mb-lg-0">
-                                <i class="fas fa-bolt fa-2x text-white"></i>
+                                <div class="icon-box bg-primary rounded me-4">
+                           <i class="fas fa-users text-secondary"></i>
+                        </div>
                                     <div class="icon-content">
                                         <h3 class="h5">Cultural Awareness and Intercultural Communication</h3>
                                         <p>These skills are increasingly valuable in today's globalized and interconnected world.
@@ -138,7 +144,7 @@
                     </div>
                     <div class="col-lg-6 col-md-7">
                         <div class="feature-img-wrap">
-                            <img src="assets/img/globalst.jpg" alt="feature image" class="img-fluid rounded-custom">
+                            <img src="assets/img/globalstaffing1.jpg" alt="feature image" class="img-fluid rounded-custom">
                         </div>
                     </div>
                 </div>
@@ -153,28 +159,28 @@
                     <div class="row justify-content-between">
                         <div class="col-lg-4 pe-5">
                             <div class="integration-details-wrap">
-                                <h1>Migration Details</h1>
-                                <p>It's important to note that the specific services and support provided may vary depending on the migration agency, destination country, and individual candidate's needs and preferences.
-                                </p>
+                                <h1 class="h2 text-primary">Migration Details</h1>
+                               <h6> <p>It's important to note that the specific services and support provided may vary depending on the migration agency, destination country, and individual candidate's needs and preferences.
+                                </p></h6>
                                 <div class="integration-feature-info mt-5">
-                                    <h3 class="h5">Benefits of  this Migration</h3>
+                                    <h3 class="h3">Benefits of  this Migration</h3>
                                     <ul class="content-list list-unstyled">
-                                        <li>Enhanced Global Perspective
-                                        </li>
-                                        <li>Cultural Competence and Adaptability</li>
-                                        <li>Professional Development
-                                        </li>
-                                        <li>Networking Opportunities</li>
-                                        <li>Language Acquisition
-                                        </li>
-                                        <li>Increased Job Market Competitiveness
-                                        </li>
-                                        <li>Cultural Sensitivity and Inclusivity</li>
-                                        <li>Personal Growth and Self-Discovery</li>
-                                        <li>Expanded Opportunities for Innovation
-                                        </li>
-                                        <li>Long-Term Business Connections
-                                        </li>
+                                       <h4> <li>Enhanced Global Perspective
+                                        </li></h4>
+                                        <h4> <li>Cultural Competence and Adaptability</li></h4>
+                                        <h4> <li>Professional Development
+                                        </li></h4>
+                                        <h4><li>Networking Opportunities</li></h4>
+                                        <h4><li>Language Acquisition
+                                        </li></h4>
+                                        <h4><li>Increased Job Market Competitiveness
+                                        </li></h4>
+                                        <h4><li>Cultural Sensitivity and Inclusivity</li></h4>
+                                        <h4><li>Personal Growth and Self-Discovery</li></h4>
+                                        <h4><li>Expanded Opportunities for Innovation
+                                        </li></h4>
+                                        <h4> <li>Long-Term Business Connections
+                                        </li></h4>
                                     </ul>
                                 </div>
                                
@@ -203,7 +209,7 @@
         <div class="row align-items-center justify-content-lg-between justify-content-center">
             <div class="col-lg-5 col-md-7">
                 <div class="feature-img-wrap">
-                    <img src="assets/img/why staffing1.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0 ">
+                    <img src="assets/img/whyst1.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0 ">
                 </div>
             </div>
             <div class="col-lg-7 col-md-12 mt-4">
@@ -211,8 +217,8 @@
  
                 <ul class="list-unstyled mb-0">
                     <li class="d-flex align-items-start mb-4">
-                        <div class="icon-box bg-primary rounded me-4">
-                            <i class="fas fa-code text-white"></i>
+                        <div class="icon-box bg-secondary rounded me-4">
+                           <i class="fas fa-paper-plane text-primary"></i>
                         </div>
                         <div class="icon-content">
                             <h3 class="h5">International Exposure</h3>
@@ -221,18 +227,20 @@
                         </div>
                     </li>
                     <li class="d-flex align-items-start mb-4">
-                        <div class="icon-box bg-primary rounded me-4">
-                            <i class="fas fa-desktop text-white"></i>
+                    <div class="icon-box bg-secondary rounded me-4">
+                    <i class="fas fa-thumbs-up text-primary"></i>
                         </div>
+                       
                         <div class="icon-content">
                             <h3 class="h5">Skill Development</h3>
                             <p>comprehensive training programs and the opportunity to work on challenging projects.
                         </div>
                     </li>
                     <li class="d-flex align-items-start mb-4 mb-lg-0">
-                        <div class="icon-box bg-primary rounded me-4">
-                            <i class="fas fa-search text-white"></i>
+                    <div class="icon-box bg-secondary rounded me-4">
+                    <i class="fas fa-lock text-primary"></i>
                         </div>
+                       
                         <div class="icon-content">
                             <h3 class="h5">Career Advancement</h3>
                             <p> The prospect of securing a job in a foreign country like the USA or Canada can be a strong incentive for talented individuals seeking international career opportunities.

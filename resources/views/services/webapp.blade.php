@@ -422,7 +422,7 @@
 <section class="contact-us ptb-120 position-relative ">
     <div class="container">
         <div class="row justify-content-between">
-            <div class="col-xl-5 col-lg-5 col-md-12">
+            <div class="col-xl-5 col-lg-8 col-md-12">
                 <div class="section-heading aos-init aos-animate" data-aos="fade-up">
                     <h4 class="h5 text-primary">Quick Support</h4>
                     <h2>Get in Touch Today!</h2>
@@ -454,7 +454,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-5 col-lg-7 col-md-12">
+            <div class="col-xl-5 col-lg-4 col-md-12">
                 <div class="register-wrap p-5 bg-white shadow rounded-custom position-relative aos-init aos-animate" data-aos="fade-up" data-aos-delay="150">
                 <form class="cons-contact-form" method="POST" action="http://127.0.0.1:8000/contact">
                             <input type="hidden" name="_token" value="7oz78par0XVLTqxxoHIx2SgF0Wwa3dWShH5sz9ok">                            <div class="row">
