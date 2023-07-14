@@ -64,3 +64,4 @@ Route::get('/resume_parser', function () {
 
 // Route::resource('contact', [ContactController::class, 'store'])->name('contact.submit');
 Route::resource('contact', ContactController::class);
+// end

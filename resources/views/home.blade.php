@@ -765,7 +765,7 @@
                 </div>
             </div>
         </section> <!--customer review tab section end-->
-
+                            <!-- </section> -->
         <!--cat subscribe start-->
        <!--cat subscribe end-->
 
