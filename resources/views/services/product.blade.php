@@ -486,5 +486,6 @@
         <div class="bg-circle rounded-circle circle-shape-1 position-absolute bg-warning right-5"></div>
     </div>
 </section>
+                            <!-- </section> -->
 {{-- contact us form end --}}
  @endsection

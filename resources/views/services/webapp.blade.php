@@ -20,7 +20,7 @@
                         <div class="section-heading">
                             <!-- <h4 class="h5 text-primary mt-3">Career Catalysts: Staffing Services for USA and Canada</h4>
                             <h3>Empowering Migration: Training for Success in the USA and Canada</h3> -->
-                        </div>
+                        </div> 
                     </div>
                     <div class="col-lg-12 col-md-12">
                         <!-- <div class="text-start text-lg-end mb-4 mb-lg-0 mb-xl-0">

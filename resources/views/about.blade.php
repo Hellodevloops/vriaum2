@@ -136,7 +136,7 @@
                                             <img src="assets/img/usacan1.jpg" alt="feature tab" class="img-fluid mb-4 mb-lg-0 mb-xl-0">
                                         </div>
                                         <div class="col-lg-5">
-                                            <div class="feature-tab-info">
+                                        <div class="feature-tab-info">
                                                 <h3>Staffing</h3>
                                                 <p>With a strong economy and a diverse job market, migrant candidates can find employment in major cities such as New York, San Francisco, Los Angeles, and Chicago.</p>
                                                 <p>With our guidance and support,Canada offers abundant job opportunities for migrant candidates, particularly in sectors such as IT, healthcare, engineering, finance, and skilled trades. </p>
