@@ -113,7 +113,7 @@
                                 <div class="icon-box bg-primary rounded me-4">
                            <i class="fas fa-file text-secondary"></i>
                         </div>
-                                    <div class="icon-content">
+                        <div class="icon-content">
                                         <h3 class="h5">Cultural Exchange and Professional Development</h3>
                                         <p>By experiencing different cultural norms, values, and practices, interns gain a broader perspective and develop a deeper understanding of global dynamics.
                                         </p>

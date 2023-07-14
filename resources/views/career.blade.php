@@ -196,6 +196,6 @@
     </div>
 </section>
 <!--cat subscribe end-->
-
+<!-- end -->
 
    @endsection
