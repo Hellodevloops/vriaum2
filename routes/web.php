@@ -34,6 +34,16 @@ Route::get('/mobileapp', function () {
     return view('services.mobileapp');
 })->name('mobileapp'); 
 
+Route::get('/usa', function () {
+    return view('services.usa');
+})->name('usa'); 
+
+Route::get('/canada', function () {
+    return view('services.canada');
+})->name('canada'); 
+
+
+
 Route::get('/di_bi', function () {
     return view('services.dibi');
 })->name('di_bi'); 
