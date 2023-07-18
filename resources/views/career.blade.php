@@ -169,7 +169,7 @@
                         <p>We can help you to create your dream website for better business revenue.</p>
                     </div>
                     <div class="form-block-banner mw-60 m-auto mt-5">
-                        <a href="contact-us.html" class="btn btn-primary">Contact with Us</a>
+                        <a href="{{route('contact.index')}}" class="btn btn-primary">Contact with Us</a>
                         <a href="http://www.youtube.com/watch?v=hAP2QF--2Dg" class="text-decoration-none popup-youtube d-inline-flex align-items-center watch-now-btn ms-lg-3 ms-md-3 mt-3 mt-lg-0"> <i
                                     class="fas fa-play"></i> Watch Demo </a>
                     </div>
@@ -196,6 +196,6 @@
     </div>
 </section>
 <!--cat subscribe end-->
-
+<!-- end -->
 
    @endsection

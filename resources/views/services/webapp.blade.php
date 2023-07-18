@@ -20,14 +20,14 @@
                         <div class="section-heading">
                             <!-- <h4 class="h5 text-primary mt-3">Career Catalysts: Staffing Services for USA and Canada</h4>
                             <h3>Empowering Migration: Training for Success in the USA and Canada</h3> -->
-                        </div>
+                        </div> 
                     </div>
                     <div class="col-lg-12 col-md-12">
                         <!-- <div class="text-start text-lg-end mb-4 mb-lg-0 mb-xl-0">
                             <a href="blog.html" class="btn btn-primary">View All Article</a>
                         </div> -->
                     </div>
-                </div>
+         </div>
         <!-- end -->
 <!-- about service start -->
 <section class="counter-with-video pt-120 pb-120" id="cyber-about">
@@ -35,7 +35,7 @@
         <div class="row">
             <div class="col-lg-6 col-md-12">
                 <div class="cyber-about-img text-center mb-30 mb-lg-0">
-                    <img src="assets/img/3in1.jpg" alt="VR" class="img-fluid">
+                    <img src="assets/img/3in11.jpg" alt="VR" class="img-fluid">
                     <div class="row g-0">
                         <div class="col-lg-5">
                             <div class  ="sheild-img">
@@ -188,7 +188,7 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-5">
-                                        <img src="assets/img/blogging.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
+                                        <img src="assets/img/blogging1.jpg" alt="feature tab" class="img-fluid mt-4 mt-lg-0 mt-xl-0">
                                     </div>
                                 </div>
                             </div>
@@ -422,7 +422,7 @@
 <section class="contact-us ptb-120 position-relative ">
     <div class="container">
         <div class="row justify-content-between">
-            <div class="col-xl-5 col-lg-5 col-md-12">
+            <div class="col-xl-5 col-lg-8 col-md-12">
                 <div class="section-heading aos-init aos-animate" data-aos="fade-up">
                     <h4 class="h5 text-primary">Quick Support</h4>
                     <h2>Get in Touch Today!</h2>
@@ -454,7 +454,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-5 col-lg-7 col-md-12">
+            <div class="col-xl-5 col-lg-4 col-md-12">
                 <div class="register-wrap p-5 bg-white shadow rounded-custom position-relative aos-init aos-animate" data-aos="fade-up" data-aos-delay="150">
                 <form class="cons-contact-form" method="POST" action="http://127.0.0.1:8000/contact">
                             <input type="hidden" name="_token" value="7oz78par0XVLTqxxoHIx2SgF0Wwa3dWShH5sz9ok">                            <div class="row">

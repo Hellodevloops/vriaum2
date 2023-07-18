@@ -151,7 +151,7 @@
             </div>
         </section> <!--About us end-->
         <!--Why choose us start-->
-        <section class="feature-section-two pt-60 "
+        <section class="feature-section-two pt-60  pb-60 "
             style="background: url('assets/img/hero-9-img.png')no-repeat center center;">
             <div class="container">
                 <div class="row align-items-center justify-content-lg-between justify-content-center">
@@ -167,29 +167,30 @@
                                         <i class="fas fa-bezier-curve text-white"></i>
                                     </div>
                                     <div class="icon-content">
-                                        <h3 class="h5">Pixel Perfect Design</h3>
-                                        <p>Dramatically administrate progressive metrics without error-free globally
-                                            simplify standardized plagiarize technically sound.
+                                        <h3 class="h3">Pixel Perfect Design</h3>
+                                        <p class="h6">Expertise lies in maintaining consistency, achieving precision, and ensuring optimal user experience across different browsers and devices.
                                         </p>
                                     </div>
                                 </li>
                                 <li class="d-flex align-items-start mb-4">
-                                    <div class="icon-box bg-danger rounded me-4">
-                                        <i class="fas fa-fingerprint text-white"></i>
+                                <div class="icon-box bg-primary rounded me-4">
+                                <i class="fas fa-layer-group text-white"></i>
                                     </div>
+                               
                                     <div class="icon-content">
-                                        <h3 class="h5">Unique &amp; Minimal Design</h3>
-                                        <p>Combining simplicity and creativity, this unique and minimal design redefines elegance in its purest form.
+                                        <h3 class="h3">Unique &amp; Minimal Design</h3>
+                                        <p class="h6">Stay updated with the latest developments and experiment with innovative design approaches to create fresh and captivating web experiences.
                                         </p>
                                     </div>
                                 </li>
                                 <li class="d-flex align-items-start mb-4 mb-lg-0">
-                                    <div class="icon-box bg-dark rounded me-4">
-                                        <i class="fas fa-headset text-white"></i>
+                                <div class="icon-box bg-primary rounded me-4">
+                                <i class="fas fa-headset text-white"></i>
                                     </div>
+                                    
                                     <div class="icon-content">
-                                        <h3 class="h5">24/7 Free Online Support</h3>
-                                        <p>Get peace of mind <span class="text-primary">with our 24/7 free online support</span>, ensuring prompt assistance and uninterrupted service whenever you need it.
+                                        <h3 class="h3">24/7 Free Online Support</h3>
+                                        <p class="h6">Get peace of mind <span class="text-primary">with our 24/7 free online support</span>, ensuring prompt assistance and uninterrupted service whenever you need it.
                                         </p>
                                     </div>
                                 </li>
@@ -198,7 +199,7 @@
                     </div>
                     <div class="col-lg-6 col-md-7">
                         <div class="feature-img-wrap">
-                            <img src="assets/img/hscgirl.jpg" alt="feature image" class="img-fluid rounded-custom">
+                            <img src="assets/img/homedev1.jpg" alt="feature image" class="img-fluid rounded-custom">
                         </div>
                     </div>
                 </div>
@@ -567,10 +568,11 @@
         <!--integration section end-->
 
         <!--customer review tab section start-->
-        <section class="testimonial-section pb-120 bg-light-subtle">
+        <!-- <section class="testimonial-section pb-120 bg-light-subtle"> -->
+        <section class="testimonial-section pb-120 pb-50 bg-light-subtle">
             <div class="container">
                 <div class="row justify-content-center align-content-center">
-                    <div class="col-md-10 col-lg-6">
+                    <div class="col-md-10 col-lg-6 ">
                         <div class="section-heading text-center" data-aos="fade-up">
                             <h4 class="h5 text-primary">Testimonial</h4>
                             <h2>What They Say About Us</h2>
@@ -763,47 +765,8 @@
                 </div>
             </div>
         </section> <!--customer review tab section end-->
-
+                            <!-- </section> -->
         <!--cat subscribe start-->
-        <section class="cta-subscribe bg-dark text-white ptb-120 position-relative overflow-hidden">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-8 col-md-10">
-                        <div class="subscribe-info-wrap text-center position-relative z-2">
-                            <div class="section-heading" data-aos="fade-up">
-                                <h4 class="h5 text-warning">Get In Touch With Us</h4>
-                                <h2>Start Your Journey With Us</h2>
-                                <p>Get in touch with us today to discuss your software needs and embark on a journey of
-                                    digital transformation.</p>
-                            </div>
-                            <div class="form-block-banner mw-60 m-auto mt-5" data-aos="fade-up" data-aos-delay="50">
-                                <a href="contact.html" class="btn btn-primary">Contact with Us</a>
-                                <!-- <a href="http://www.youtube.com/watch?v=hAP2QF--2Dg"
-                                    class="text-decoration-none popup-youtube d-inline-flex align-items-center watch-now-btn ms-lg-3 ms-md-3 mt-3 mt-lg-0">
-                                    <i class="fas fa-play"></i> Watch Demo </a> -->
-                            </div>
-                            <!-- <ul class="nav justify-content-center subscribe-feature-list mt-4" data-aos="fade-up"
-                                data-aos-delay="100">
-                                <li class="nav-item">
-                                    <span><i class="far fa-check-circle text-primary me-2"></i>Free 14-day trial</span>
-                                </li>
-                                <li class="nav-item">
-                                    <span><i class="far fa-check-circle text-primary me-2"></i>No credit card
-                                        required</span>
-                                </li>
-                                <li class="nav-item">
-                                    <span><i class="far fa-check-circle text-primary me-2"></i>Support 24/7</span>
-                                </li>
-                                <li class="nav-item">
-                                    <span><i class="far fa-check-circle text-primary me-2"></i>Cancel anytime</span>
-                                </li>
-                            </ul> -->
-                        </div>
-                    </div>
-                </div>
-                <div class="bg-circle rounded-circle circle-shape-3 position-absolute bg-dark-light left-5"></div>
-                <div class="bg-circle rounded-circle circle-shape-1 position-absolute bg-warning right-5"></div>
-            </div>
-        </section> <!--cat subscribe end-->
+       <!--cat subscribe end-->
 
         @endsection

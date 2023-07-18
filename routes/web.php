@@ -34,6 +34,7 @@ Route::get('/mobileapp', function () {
     return view('services.mobileapp');
 })->name('mobileapp'); 
 
+
 Route::get('/placement', function () {
     return view('services.placement');
 })->name('placement'); 
@@ -41,6 +42,17 @@ Route::get('/placement', function () {
 Route::get('/recruitment', function () {
     return view('services.recruitment');
 })->name('recruitment');
+
+Route::get('/usa', function () {
+    return view('services.usa');
+})->name('usa'); 
+
+Route::get('/canada', function () {
+    return view('services.canada');
+})->name('canada'); 
+
+
+
 
 Route::get('/di_bi', function () {
     return view('services.dibi');
@@ -72,3 +84,4 @@ Route::get('/resume_parser', function () {
 
 // Route::resource('contact', [ContactController::class, 'store'])->name('contact.submit');
 Route::resource('contact', ContactController::class);
+// end
