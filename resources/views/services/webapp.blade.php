@@ -27,7 +27,7 @@
                             <a href="blog.html" class="btn btn-primary">View All Article</a>
                         </div> -->
                     </div>
-                </div>
+         </div>
         <!-- end -->
 <!-- about service start -->
 <section class="counter-with-video pt-120 pb-120" id="cyber-about">
