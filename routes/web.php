@@ -34,6 +34,14 @@ Route::get('/mobileapp', function () {
     return view('services.mobileapp');
 })->name('mobileapp'); 
 
+Route::get('/placement', function () {
+    return view('services.placement');
+})->name('placement'); 
+
+Route::get('/recruitment', function () {
+    return view('services.recruitment');
+})->name('recruitment');
+
 Route::get('/di_bi', function () {
     return view('services.dibi');
 })->name('di_bi'); 

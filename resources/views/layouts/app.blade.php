@@ -77,36 +77,56 @@
                                                 </span>
                                                 <div class="drop-title">Internet Of Things</div>
                                             </a>
+                                            <a href="{{ route('webapp')}}" class="dropdown-link px-0">
+                                            <span class="me-2">
+                                                <i class="flaticon-web-programming"></i>
+                                            </span>
+                                            <div class="drop-title">Web Development</div>
+                                           </a>
                                             <a href="{{ route('mobileapp')}}" class="dropdown-link px-0">
                                                 <span class="me-2">
                                                     <i class="flaticon-layer"></i>
                                                 </span>
                                                 <div class="drop-title">Mobile App Development</div>
                                             </a>
+                                            <a href="{{ route('product')}}" class="dropdown-link px-0">
+                                            <span class="me-2">
+                                                <i class="flaticon-vector"></i>
+                                            </span>
+                                            <div class="drop-title">Product Development</div>
+                                          </a>
                                             
 
                                         </div>
                                         <div class="dropdown-grid-item radius-right-side bg-light-subtle">
                                            {{-- <h6 class="drop-heading textblack">Staffing </h6>  --}}
-                                           <a href="{{ route('webapp')}}" class="dropdown-link px-0">
-                                            <span class="me-2">
-                                                <i class="flaticon-web-programming"></i>
-                                            </span>
-                                            <div class="drop-title">Web Development</div>
-                                        </a>
-                                        <a href="{{ route('staffing')}}" class="dropdown-link px-0">
+                                          
+                                          <a href="{{ route('staffing')}}" class="dropdown-link px-0">
                                             <span class="me-2">
                                                 <i class="flaticon-avatar"></i>
                                             </span>
                                             <div class="drop-title">Staffing</div>
-                                        </a>
-                                        <a href="{{ route('product')}}" class="dropdown-link px-0">
+                                           </a>
+                                           <a href="{{ route('placement')}}" class="dropdown-link px-0">
                                             <span class="me-2">
-                                                <i class="flaticon-vector"></i>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check2-circle" viewBox="0 0 16 16">
+  <path d="M2.5 8a5.5 5.5 0 0 1 8.25-4.764.5.5 0 0 0 .5-.866A6.5 6.5 0 1 0 14.5 8a.5.5 0 0 0-1 0 5.5 5.5 0 1 1-11 0z"/>
+  <path d="M15.354 3.354a.5.5 0 0 0-.708-.708L8 9.293 5.354 6.646a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l7-7z"/>
+</svg>
                                             </span>
-                                            <div class="drop-title">Product Development</div>
-                                        </a>
-                                        </div>
+                                            <div class="drop-title">placement</div>
+                                           </a>
+                                           <a href="{{ route('recruitment')}}" class="dropdown-link px-0">
+                                            <span class="me-2">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-earmark-person-fill" viewBox="0 0 16 16">
+  <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0zM9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1zM11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0zm2 5.755V14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v-.245S4 12 8 12s5 1.755 5 1.755z"/>
+</svg>
+                                            </span>
+                                            <div class="drop-title">Recruitment</div>
+                                           </a>
+                                           
+                                         
+                                       </div>
                                     </div>
                                 </div>
                             </li>
@@ -266,10 +286,10 @@
                                                     </div>
 
                                                     <div class="flex-grow-1 ms-3">
-                                                        <a href="https://www.google.com/maps?q=A18 XYZ Street New York 53022 United States"
-                                                            class="text-black">A18 XYZ Street
-                                                            <br> New York 53022, <br> United States
-                                                        </a>
+                                                    <a href="https://www.google.com/maps?q=A18 230 Sterling Dr Mountain House  California-95391 United States"
+                                                            class="text-black">230 Sterling Dr.,
+                                                            <br>Mountain House, <br> California-95391 <br> USA.
+                                                    </a>
                                                     </div>
                                                 </div>
 
@@ -286,12 +306,12 @@
 
                                                     <div class="flex-grow-1 ms-3 text-center">
                                                         <a class=" text-black"
-                                                            href="mailto:info@vriaum.com">info@vriaum.com</a>
+                                                            href="mailto:info@vriaum.com">admin@vriaum.com</a>
                                                     </div>
                                                 </div>
                                             </li>
 
-                                            <li class="d-flex mb-2">
+                                            <!-- <li class="d-flex mb-2">
 
                                                 <div class="d-flex ">
                                                     <div class="flex-shrink-0">
@@ -305,7 +325,7 @@
                                                             5589548855</a>
                                                     </div>
                                                 </div>
-                                            </li>
+                                            </li> -->
 
                                         </ul>
                                         <!-- End Links -->
@@ -315,9 +335,10 @@
                                     <div class="footer-single-col">
                                         <h3>Quick Links</h3>
                                         <ul class="list-unstyled footer-nav-list mb-lg-0">
+                                        <li><a href="{{route('home')}}" class="text-black">Home</a></li>
                                             <li><a href="{{route('about')}}" class="text-black">About Us</a></li>
 
-                                            <li><a href="{{route('home')}}" class="text-black">home</a></li>
+                                            
                                             <li><a href="{{route('career')}}" class="text-black">Career</a></li>
 
                                             <li><a href="{{route('contact.index')}}" class="text-black">Contact</a></li>
@@ -327,17 +348,73 @@
                                 </div>
                                 <div class="col-md-4 col-lg-4 mt-4 mt-md-0 mt-lg-0">
                                     <div class="footer-single-col">
-                                        <h3>Services</h3>
-                                        <ul class="list-unstyled footer-nav-list mb-lg-0">
+                                        <h3>Reach Us</h3>
+                                        <!-- <ul class="list-unstyled footer-nav-list mb-lg-0">
 
                                             <li><a href="{{ route('webapp')}}" class="text-decoration-none">Web Devlopement</a></li>
                                             <li><a href="{{ route('product')}}" class="text-decoration-none">Product devlopment</a></li>
                                             <li><a href="{{route('iot')}}" class="text-decoration-none">IOT</a></li>
                                             <li><a href="{{ route('mobileapp')}}" class="text-decoration-none"> Mobile App Devlopment</a></li>
                                             <li><a href="{{ route('staffing')}}" class="text-decoration-none">Staffing</a></li>
+                                            <li><a href="{{ route('placement')}}" class="text-decoration-none">placement</a></li>
+                                            
+                                            
 
                                             
+                                        </ul> -->
+                                        <ul class="list-unstyled list-py-1 mb-0">
+                                            <li class="d-flex mb-2">
+                                                <div class="d-flex ">
+                                                    <div class="flex-shrink-0">
+                                                        <button type="button" class="btn btn-sm btn-primary btn-icon"><i
+                                                                class="fas fa-map-marker-alt"></i></button>
+
+                                                    </div>
+
+                                                    <div class="flex-grow-1 ms-3">
+                                                    <a href="https://www.google.com/maps?q=A18 230 Sterling Dr Mountain House  California-95391 United States"
+                                                            class="text-black">999 Canada Pl,
+                                                            <br>Vancouver, <br> BC V6C 3E1, <br> Canada.
+                                                        </a>
+                                                    </div>
+                                                </div>
+
+                                            </li>
+
+                                            <!-- <li class="d-flex mb-2">
+
+                                                <div class="d-flex ">
+                                                    <div class="flex-shrink-0">
+                                                        <button type="button" class="btn btn-sm btn-primary btn-icon"><i
+                                                                class="fas fa-envelope-open"></i></button>
+
+                                                    </div>
+
+                                                    <div class="flex-grow-1 ms-3 text-center">
+                                                        <a class=" text-black"
+                                                            href="mailto:info@vriaum.com">admin@vriaum.com</a>
+                                                    </div>
+                                                </div>
+                                            </li> -->
+
+                                            <li class="d-flex mb-2">
+
+                                                <div class="d-flex ">
+                                                    <div class="flex-shrink-0">
+                                                        <button type="button" class="btn btn-sm btn-primary btn-icon"><i
+                                                                class="fas fa-phone"></i></button>
+
+                                                    </div>
+
+                                                    <div class="flex-grow-1 ms-3 text-center">
+                                                    <a class=" text-black" href="tel:+1(646)4795816">+1
+                                                        (646)4795816</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+
                                         </ul>
+
                                     </div>
                                 </div>
                             </div>
@@ -355,7 +432,7 @@
                     <div class="row justify-content-between align-items-center">
                         <div class="col-md-7 col-lg-7">
                             <div class="copyright-text">
-                                <p class="mb-lg-0 mb-md-0">&copy; 2023 Rights Reserved. <a href="index.html"
+                                <p class="mb-lg-0 mb-md-0">&copy; 2023 Rights Reserved. <a href="{{route('home')}}"
                                         class="text-black">VriAum Technologies</a></p>
                             </div>
                         </div>
@@ -391,5 +468,5 @@
     <script src="assets/js/app.js"></script>
     <!--endbuild-->
 </body>
-
+                        <!-- </body> -->
 </html>
