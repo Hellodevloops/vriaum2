@@ -34,6 +34,15 @@ Route::get('/mobileapp', function () {
     return view('services.mobileapp');
 })->name('mobileapp'); 
 
+
+Route::get('/placement', function () {
+    return view('services.placement');
+})->name('placement'); 
+
+Route::get('/recruitment', function () {
+    return view('services.recruitment');
+})->name('recruitment');
+
 Route::get('/usa', function () {
     return view('services.usa');
 })->name('usa'); 
@@ -41,6 +50,7 @@ Route::get('/usa', function () {
 Route::get('/canada', function () {
     return view('services.canada');
 })->name('canada'); 
+
 
 
 
