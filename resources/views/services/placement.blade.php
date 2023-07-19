@@ -26,7 +26,7 @@
                     <div class="col-xl-6">
                         <div class="dg-hero-right position-relative">
                             <img src="assets/img/digital-agency/doted.png" alt="doted shape" class="position-absolute doted-shape">
-                            <img src="assets/img/placehero.jpg" alt="man" class="img-fluid">
+                            <img src="assets/img/placehero3.jpg" alt="man" class="img-fluid">
                         </div>
                     </div>
                 </div>
@@ -51,7 +51,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <div class="single-product position-relative mb-30">
                             <div class="product-img">
-                                <img src="assets/img//iot3.jpg" alt="product photo" class="img-fluid">
+                                <img src="assets/img/iot3n.jpg" alt="product photo" class="img-fluid">
                             </div>
                             <!-- <div class="product-cart-wishlist-icon">
                                 <div class="cart">
@@ -95,7 +95,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <div class="single-product position-relative mb-30">
                             <div class="product-img">
-                                <img src="assets/img/engee.jpg" alt="product photo" class="img-fluid">
+                                <img src="assets/img/engee3.jpg" alt="product photo" class="img-fluid">
                             </div>
 
                             <!-- <div class="product-cart-wishlist-icon">
@@ -118,7 +118,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <div class="single-product position-relative mb-30">
                             <div class="product-img">
-                                <img src="assets/img/andhr.jpg" alt="product photo" class="img-fluid">
+                                <img src="assets/img/andhr2.jpg" alt="product photo" class="img-fluid">
                             </div>
                             <!-- <div class="product-cart-wishlist-icon">
                                 <div class="cart">
@@ -156,7 +156,7 @@
                     <div class="col-xl-6 col-lg-6">
                         <div class="sc-about-right">
                             <h2 class="sc-heading-color mb-4">Why Choose Us!</h2>
-                            <p class="mb-0">When it comes to <b>intern staffing in the USA and CANADA</b>, we are your trusted partner.
+                            <p class="mb-0">When it comes to <span class="text-primary">intern staffing in the USA and CANADA</span> , we are your trusted partner.
                                          Our extensive network of industry connections across various sectors allows 
                                          us to connect you with top companies and organizations throughout the country.
                                           We specialize in intern staffing and understand the unique requirements and challenges faced by interns. 
@@ -189,8 +189,8 @@
                             <div class="crm-title mb-5">
                                 <!-- <span class="crm-subtitle">Integration Software <img src="assets/img/shape/arrow-red.png" alt="arrow" class="ms-1"></span> -->
                                 <h2 class="mt-2 mb-3">Training Program <img src="assets/img/shape/arrow-red.png" alt="arrow" class="ms-1"></h2>
-                                <p class="mb-0">Our training program is designed to equip you with the skills and knowledge needed to excel in your chosen field.
-                                We offer hands-on training led by industry professionals who have extensive experience in the USA and Canada job
+                                <p class="mb-0"><b>Our training program is designed to equip you with the skills and knowledge needed to excel in your chosen field.
+                                <span class="text-danger">We offer hands-on training led by industry professionals</span> who have extensive experience in the USA and Canada job
                                 markets. Our program covers a wide range of topics, including:</p>
                                 <ul class="mk-pricing-list list-unstyled">
                                     <li>
@@ -223,7 +223,7 @@
                                               <path d="M1 5.26667L4.73333 9L12.2 1" stroke="#FF724B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
                                           </svg>    
                                       </span>
-                                      Job search strategies
+                                      Job search strategies</b>
                                     </li>
                                     <!-- <li>
                                         <span class="me-2">
