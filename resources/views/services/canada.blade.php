@@ -82,7 +82,7 @@
 <section class="pt-50 pb-50 bg-dark">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-lg-6 col-md-6">
+                    <div class="col-lg-6 col-md-6 pt-60">
                         <div class="text-center">
                             <h2>Our Services</h2>
                             <p>
@@ -131,10 +131,10 @@
                                 <div class="row align-items-center">
                                     <div class="col-md-6">
                                         <div class="text-center mb-5 mb-lg-0">
-                                            <img src="assets/img/tab_img1.png" alt="" class="img-fluid">
+                                            <img src="assets/img/cantemp.jpg" alt="" class="img-fluid">
                                         </div>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-6 pb-50">
                                         <div class="tab-right-content">
                                             <h2>
                                                 Temporary Staffing
@@ -171,10 +171,10 @@
                                 <div class="row align-items-center">
                                     <div class="col-md-6">
                                         <div class="pe-5 mb-5 mb-lg-0">
-                                            <img src="assets/img/tab_img2.png" alt="" class="img-fluid">
+                                            <img src="assets/img/canper.jpg" alt="" class="img-fluid">
                                         </div>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-6 pb-50">
                                         <div class="tab-right-content">
                                             <h2>Permanent Staffing</h2>
                                             <p>Our permanent placement services focus on understanding on company culture and needs to match you with candidates who not only have the right qualifications but also align with values and goals.Enables us to deliver candidates who have the potential to become valuable assets for your company</p>
@@ -206,10 +206,10 @@
                                 <div class="row align-items-center">
                                     <div class="col-md-6">
                                         <div class="mb-5 mb-lg-0">
-                                            <img src="assets/img/tab_img3.png" alt="" class="img-fluid">
+                                            <img src="assets/img/cancontract.jpg" alt="" class="img-fluid">
                                         </div>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-6 pb-50">
                                         <div class="tab-right-content">
                                             <h2>Contract-To-Hire</h2>
                                             <p>This unique approach to hiring ensures that you bring the best-fit talent into your organization. It offers both employers and candidates the opportunity to work together, assess compatibility, and make mutually beneficial decisions for long-term success.</p>
@@ -323,8 +323,306 @@
                 </div>
             </div>
         </section>
-               
-            </section>
+
+        <!-- try strat -->
+        <section class="cyber-faq pt-120 pb-60">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-12 col-lg-6">
+                        <div class="section-heading text-center mb-5">
+                            <h2 class="h2 text-primary">The Approaches We Have</h2>
+                            
+                            <p class="h6">
+                            At VriAum, We believe in empowering individuals to achieve their career goals by providing a comprehensive learning experience that encompasses internship opportunities, job placement, and assistance in migrating to Canada.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="cyber-faq-wrapper">
+                            <div class="accordion faq-accordion" id="accordionExample">
+                                <!-- <div class="accordion-item border border-2 rounded active">
+                                    <h5 class="accordion-header" id="faq-1">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false">
+                                            How Is Encryption Different From Hacking?
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-1" class="accordion-collapse collapse" aria-labelledby="faq-1" data-bs-parent="#accordionExample" style="">
+                                        <div class="accordion-body">
+                                            There are many variations of passages of Lorem Ipsum
+                                            available but the majority suffered is alteration in that
+                                            words which don't look even slightly believable. If you are
+                                            Lorem Ipsum you need to be sure there isn't anything ready
+                                            too much embarrassing.
+                                        </div>
+                                    </div>
+                                </div> -->
+                                <div class="accordion-item border border-2 rounded">
+                                    <h5 class="accordion-header" id="faq-2">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false">
+                                        Tailored Internship Placements
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-2" class="accordion-collapse collapse" aria-labelledby="faq-2" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                        We match candidates with internship opportunities that align with their interests and career aspirations, ensuring a meaningful and productive experience.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item border border-2 rounded">
+                                    <h5 class="accordion-header" id="faq-3">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false">
+                                        Mentorship and Guidance
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-3" class="accordion-collapse collapse" aria-labelledby="faq-3" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                        Our expert mentors provide guidance and support throughout the internship journey, helping candidates make the most of their learning experience.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item border border-2 rounded">
+                                    <h5 class="accordion-header" id="faq-4">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false">
+                                        Networking Opportunities
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-4" class="accordion-collapse collapse" aria-labelledby="faq-4" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                        Interns have the chance to build valuable connections with industry professionals and potential employers, enhancing their career prospects.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                 <div class="pt-1">
+                    <!-- <div class="d-flex about-icon-box-lg align-items-center">
+                        <div class="me-3">
+                            <img src="assets/img/Vri_logo_preview.png" alt="">
+                        </div>
+                        <div>
+                            <h5>Empowering Businesses with Cutting-Edge</h5>
+                        </div>
+                    </div> -->
+                    <div class="section-heading ">
+                        <!-- <h4 class="lead mb-2">Driving Innovation and Transformation</h4> -->
+                    <h2 class="mb-4 text-primary"> Learning Opportunities:</h2>
+                     <p>Our internship program offers a dynamic platform for candidates to gain hands-on experience in their chosen fields. We partner with leading companies in various industries, including IT and non-IT sectors, to provide enriching internship opportunities. Through carefully curated internship projects, candidates can apply their theoretical knowledge to real-world scenarios, develop industry-relevant skills, and enhance their professional profiles.</p>
+                   
+                   </div>
+                   
+                    </div>
+                 </div>
+                </div>
+                <div class="row align-items-center justify-content-between">
+                    <div class="col-lg-12 col-md-12">
+                        <div class="section-heading">
+                            <!-- <h4 class="h5 text-primary mt-3">Career Catalysts: Staffing Services for USA and Canada</h4>
+                            <h3>Empowering Migration: Training for Success in the USA and Canada</h3> -->
+                        </div> 
+                    </div>
+                    <div class="col-lg-12 col-md-12">
+                        <!-- <div class="text-start text-lg-end mb-4 mb-lg-0 mb-xl-0">
+                            <a href="blog.html" class="btn btn-primary">View All Article</a>
+                        </div> -->
+                    </div>
+         </div>
+                <!-- 2start -->
+                <div class="row">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="cyber-faq-wrapper">
+                            <div class="accordion faq-accordion" id="accordionExample">
+                                <!-- <div class="accordion-item border border-2 rounded active">
+                                    <h5 class="accordion-header" id="faq-1">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false">
+                                            How Is Encryption Different From Hacking?
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-1" class="accordion-collapse collapse" aria-labelledby="faq-1" data-bs-parent="#accordionExample" style="">
+                                        <div class="accordion-body">
+                                            There are many variations of passages of Lorem Ipsum
+                                            available but the majority suffered is alteration in that
+                                            words which don't look even slightly believable. If you are
+                                            Lorem Ipsum you need to be sure there isn't anything ready
+                                            too much embarrassing.
+                                        </div>
+                                    </div>
+                                </div> -->
+                                <div class="accordion-item border border-2 rounded">
+                                    <h5 class="accordion-header" id="faq-2">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false">
+                                        Industry-Specific Placement
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-2" class="accordion-collapse collapse" aria-labelledby="faq-2" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                        We have an extensive network of employers across Canada's industries, enabling us to match candidates with organizations that suit their career goals and talents.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item border border-2 rounded">
+                                    <h5 class="accordion-header" id="faq-3">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false">
+                                        Personalized Approach
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-3" class="accordion-collapse collapse" aria-labelledby="faq-3" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                        ur team understands the unique strengths of each candidate and tailors the placement process to ensure a perfect fit for both candidates and employers.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item border border-2 rounded">
+                                    <h5 class="accordion-header" id="faq-4">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false">
+                                            What's The Difference Between IDS And IBS?
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-4" class="accordion-collapse collapse" aria-labelledby="faq-4" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                        We continue to support candidates after placement, ensuring a smooth integration into their new roles and offering guidance for career advancement.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                          <div class="pt-1">
+                            <!-- <div class="d-flex about-icon-box-lg align-items-center">
+                           <div class="me-3">
+                            <img src="assets/img/Vri_logo_preview.png" alt="">
+                        </div>
+                        <div>
+                            <h5>Empowering Businesses with Cutting-Edge</h5>
+                        </div>
+                      </div> -->
+                         <div class="section-heading ">
+                        <!-- <h4 class="lead mb-2">Driving Innovation and Transformation</h4> -->
+                        <h2 class="mb-4 text-primary">Placement Services</h2>
+                       <p>Upon successful completion of the internship, candidates have the opportunity to transition into the job placement phase. Our dedicated team works closely with candidates to identify suitable job openings and connect them with reputable organizations seeking their skills and expertise.</p>
+                      
+                   </div>
+                   
+                     </div>
+                 </div>
+                </div>
+                <!-- 2end -->
+                <div class="row align-items-center justify-content-between">
+                    <div class="col-lg-12 col-md-12">
+                        <div class="section-heading">
+                            <!-- <h4 class="h5 text-primary mt-3">Career Catalysts: Staffing Services for USA and Canada</h4>
+                            <h3>Empowering Migration: Training for Success in the USA and Canada</h3> -->
+                        </div> 
+                    </div>
+                    <div class="col-lg-12 col-md-12">
+                        <!-- <div class="text-start text-lg-end mb-4 mb-lg-0 mb-xl-0">
+                            <a href="blog.html" class="btn btn-primary">View All Article</a>
+                        </div> -->
+                    </div>
+         </div>
+         <div class="row align-items-center justify-content-between">
+                    <div class="col-lg-12 col-md-12">
+                        <div class="section-heading">
+                            <!-- <h4 class="h5 text-primary mt-3">Career Catalysts: Staffing Services for USA and Canada</h4>
+                            <h3>Empowering Migration: Training for Success in the USA and Canada</h3> -->
+                        </div> 
+                    </div>
+                    <div class="col-lg-12 col-md-12">
+                        <!-- <div class="text-start text-lg-end mb-4 mb-lg-0 mb-xl-0">
+                            <a href="blog.html" class="btn btn-primary">View All Article</a>
+                        </div> -->
+                    </div>
+         </div>
+                <!-- 3st -->
+                <div class="row">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="cyber-faq-wrapper">
+                            <div class="accordion faq-accordion" id="accordionExample">
+                                <!-- <div class="accordion-item border border-2 rounded active">
+                                    <h5 class="accordion-header" id="faq-1">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false">
+                                            How Is Encryption Different From Hacking?
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-1" class="accordion-collapse collapse" aria-labelledby="faq-1" data-bs-parent="#accordionExample" style="">
+                                        <div class="accordion-body">
+                                            There are many variations of passages of Lorem Ipsum
+                                            available but the majority suffered is alteration in that
+                                            words which don't look even slightly believable. If you are
+                                            Lorem Ipsum you need to be sure there isn't anything ready
+                                            too much embarrassing.
+                                        </div>
+                                    </div>
+                                </div> -->
+                                <div class="accordion-item border border-2 rounded">
+                                    <h5 class="accordion-header" id="faq-2">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false">
+                                        Comprehensive Immigration Support
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-2" class="accordion-collapse collapse" aria-labelledby="faq-2" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                        Our immigration experts handle the entire application process, from assessing eligibility to preparing documentation and submission.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item border border-2 rounded">
+                                    <h5 class="accordion-header" id="faq-3">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false">
+                                        Settlement Assistance
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-3" class="accordion-collapse collapse" aria-labelledby="faq-3" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                        We assist candidates in settling into their new life in Canada, providing valuable information on housing, healthcare, education, and community resources.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item border border-2 rounded">
+                                    <h5 class="accordion-header" id="faq-4">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false">
+                                        Long-Term Career Path
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-4" class="accordion-collapse collapse" aria-labelledby="faq-4" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                        Our focus is on ensuring candidates have a sustainable and successful career in Canada, allowing them to contribute to Canada's thriving economy and multicultural society.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                 <div class="pt-1">
+                    <!-- <div class="d-flex about-icon-box-lg align-items-center">
+                        <div class="me-3">
+                            <img src="assets/img/Vri_logo_preview.png" alt="">
+                        </div>
+                        <div>
+                            <h5>Empowering Businesses with Cutting-Edge</h5>
+                        </div>
+                    </div> -->
+                    <div class="section-heading ">
+                        <!-- <h4 class="lead mb-2">Driving Innovation and Transformation</h4> -->
+                    <h2 class="mb-4 text-primary">Migration to Canada</h2>
+                     <p>For candidates who aspire to build a long-term career in Canada, we offer migration services that extend beyond job placement. Our experienced immigration consultants provide expert guidance and assistance in navigating the Canadian immigration process, including obtaining <span class="text-primary h5">Permanent Residency (PR) status</span>.</p>
+                   
+                   </div>
+                   
+                    </div>
+                 </div>
+                </div>
+                <!-- 3ed -->
+            </div>
+        </section>
+        <!-- try end -->
+
+      
         <!--features grid section end-->
 <!-- tab features strats -->
 <section class="services-icon ptb-120">
