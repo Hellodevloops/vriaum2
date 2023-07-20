@@ -335,7 +335,7 @@
                                
                                 <div class="col-md-4 col-lg-4 mt-4 mt-md-0 mt-lg-0">
                                     <div class="footer-single-col">
-                                        <h3 class="text-center">US office</h3><!-- Links -->
+                                        <h3 class="footer-single-col">US office</h3><!-- Links -->
                                         <ul class="list-unstyled list-py-1 mb-0">
                                             <li class="d-flex mb-2">
 

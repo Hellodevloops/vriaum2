@@ -7,23 +7,23 @@
             <img src="assets/img/digital-agency/hero-right-shape.png" alt="hero shape" class="position-absolute hero-curve right z--1">
             <span class="dg-circle-blur position-absolute rounded-circle"></span>
             <img src="assets/img/digital-agency/hero-line-shape-1.png" alt="line shape" class="position-absolute hero-line-shape-1 z--1">
-            <img src="assets/img/digital-agency/hero-line-shape-2.png" alt="line shape" class="position-absolute hero-line-shape-2 z--1">
+            
             <img src="assets/img/digital-agency/hero-net-shape.png" alt="hero net" class="position-absolute hero-net-shape z--1">
-            <img src="assets/img/digital-agency/triangle-circle.png" alt="triangle" class="position-absolute triangle-circle z--1 d-none d-sm-block">
+           
             <span class="dg-hero-circle-1 dg-circle-style-1 position-absolute z--1 rounded-circle"></span>
             <span class="dg-hero-circle-2 dg-circle-style-1 position-absolute z--1 rounded-circle"></span>
             <span class="dg-hero-circle-3 dg-circle-style-2 position-absolute z--1 rounded-circle"></span>
-            <div class="container">
+            <div class="container ">
                 <div class="row align-items-center g-4">
-                    <div class="col-xl-6 col-lg-10">
+                    <div class="col-xl-7 col-lg-11">
                         <div class="dg-hero-content">
                             <!-- <span class="fw-bold text-warning mb-3">QUIETY DIGITAL AGENCY</span> -->
-                            <h1 class="display-2 text-white mb-4 fw-bold">We help you <br class="d-none d-xxl-block">to get Placement</h1>
+                            <h3 class="display-2 text-white mb-4 fw-bold">We help you to <br class="d-none d-xxl-block">to get Placement</h3>
                             <p class="mb-5 text-white">Make your work easier with an integrated ecosystem that lets all departments work properly together.</p>
                             <!-- <a href="request-demo.html" class="btn dg-primary-btn rounded-pill">Get Started</a> -->
                         </div>
                     </div>
-                    <div class="col-xl-6">
+                    <div class="col-xl-5">
                         <div class="dg-hero-right position-relative">
                             <img src="assets/img/digital-agency/doted.png" alt="doted shape" class="position-absolute doted-shape">
                             <img src="assets/img/placehero3.jpg" alt="man" class="img-fluid">
@@ -33,14 +33,15 @@
             </div>
         </section>
 
-<section class="cyber-store-product pt-120 width">
-            <div class="store-bg-header" style="background: url('assets/img/shop_bg.png')no-repeat center center">
+<section class="cyber-store-product ">
+            <div class="store-bg-header" style="background: url('assets/img/creative-agency/service-section-bg.png')no-repeat center center">
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-md-8 col-lg-6">
                             <div class="section-heading text-center mb-5">
                                 <!-- <h5 class="h6 text-white">Online Store</h5> -->
-                                <h2 class="text-white">Industries We Cater!</h2>
+                                <h2 class="text-primary">Industries We Cater!</h2>
+                                <p class="text-black"><b>Providing Solutions for Diverse Sectors</b> </p>
                             </div>
                         </div>
                     </div>
@@ -72,7 +73,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <div class="single-product position-relative mb-30">
                             <div class="product-img">
-                                <img src="assets/img/webdev.jpg" alt="product photo" class="img-fluid">
+                                <img src="assets/img/webdevn.jpg" alt="product photo" class="img-fluid">
                             </div>
                             <!-- <span class="bg-primary text-white px-2 rounded sale-badge">Sale!</span> -->
                             <!-- <div class="product-cart-wishlist-icon">
@@ -155,8 +156,9 @@
                     </div>
                     <div class="col-xl-6 col-lg-6">
                         <div class="sc-about-right">
-                            <h2 class="sc-heading-color mb-4">Why Choose Us!</h2>
-                            <p class="mb-0">When it comes to <span class="text-primary">intern staffing in the USA and CANADA</span> , we are your trusted partner.
+                            <h3 class="sc-heading-color mb-4 text-primary">Why Choose Us!</h3>
+                            <h5 class="text-black"> Assisting You Every Step of the Way</h5>
+                            <p class="mb-0 text-black">When it comes to <span class="text-primary">intern staffing in the USA and CANADA</span> , we are your trusted partner.
                                          Our extensive network of industry connections across various sectors allows 
                                          us to connect you with top companies and organizations throughout the country.
                                           We specialize in intern staffing and understand the unique requirements and challenges faced by interns. 
@@ -181,19 +183,20 @@
         </section>
         <!-- training -->
 
-        <section class="crm-cr-section bg-white pt-100 pb-120 overflow-hidden">
+        <section class="crm-cr-section bg-white pt-40 pb-100 overflow-hidden">
             <div class="container">
                 <div class="row justify-content-center align-items-center g-5">
                     <div class="col-lg-6">
                         <div class="crm-cr-content pe-3">
                             <div class="crm-title mb-5">
                                 <!-- <span class="crm-subtitle">Integration Software <img src="assets/img/shape/arrow-red.png" alt="arrow" class="ms-1"></span> -->
-                                <h2 class="mt-2 mb-3">Training Program <img src="assets/img/shape/arrow-red.png" alt="arrow" class="ms-1"></h2>
-                                <p class="mb-0"><b>Our training program is designed to equip you with the skills and knowledge needed to excel in your chosen field.
+                                <h5 class="mt-2 mb-3">Training Program <img src="assets/img/shape/arrow-red.png" alt="arrow" class="ms-1"></h5>
+                                <h3  class="text-danger">Empowering Success through our Training Programs</h3>
+                                <p class="mb-0 text-black"><b>Our training program is designed to equip you with the skills and knowledge needed to excel in your chosen field.
                                 <span class="text-danger">We offer hands-on training led by industry professionals</span> who have extensive experience in the USA and Canada job
                                 markets. Our program covers a wide range of topics, including:</p>
-                                <ul class="mk-pricing-list list-unstyled">
-                                    <li>
+                                <ul class="mk-pricing-list list-unstyled text-primary">
+                                    <li class="text-black">
                                         <span class="me-2">
                                           <svg width="13" height="10" viewBox="0 0 13 10" fill="none" xmlns="http://www.w3.org/2000/svg">
                                               <path d="M1 5.26667L4.73333 9L12.2 1" stroke="#FF724B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -201,7 +204,7 @@
                                       </span>
                                       Technical skills development
                                     </li>
-                                    <li>
+                                    <li class="text-black">
                                         <span class="me-2">
                                           <svg width="13" height="10" viewBox="0 0 13 10" fill="none" xmlns="http://www.w3.org/2000/svg">
                                               <path d="M1 5.26667L4.73333 9L12.2 1" stroke="#FF724B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -209,7 +212,7 @@
                                       </span>
                                       Industry-specific knowledge
                                     </li>
-                                    <li>
+                                    <li class="text-black">
                                         <span class="me-2">
                                           <svg width="13" height="10" viewBox="0 0 13 10" fill="none" xmlns="http://www.w3.org/2000/svg">
                                               <path d="M1 5.26667L4.73333 9L12.2 1" stroke="#FF724B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -217,7 +220,7 @@
                                       </span>
                                       Professional communication
                                     </li>
-                                    <li>
+                                    <li class="text-black">
                                         <span class="me-2">
                                           <svg width="13" height="10" viewBox="0 0 13 10" fill="none" xmlns="http://www.w3.org/2000/svg">
                                               <path d="M1 5.26667L4.73333 9L12.2 1" stroke="#FF724B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -278,9 +281,9 @@
                         <h4 class="heading-4 margin-bottom-8 clr-text">
                         Explore Endless Opportunities: Job Placements in the USA and Canada
                         </h4>
-                        <p class="clr-paragraph margin-bottom-10">
+                        <h5 class="clr-paragraph margin-bottom-10 text-danger   ">
                         Unlock Your Potential with Transcontinental Placements: Your Gateway to Success in the USA and Canada.
-                        </p>
+</h5>
                         <!-- <a href="#" class="link d-inline-flex padding-y-3 padding-x-10 margin-bottom-10 text-center rounded-pill bgc-primary font-weight-bold clr-white :clr-white">
                             More About Us
                         </a> -->
@@ -292,7 +295,7 @@
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#technologicalQuery" style="">
-                                    <div class="accordion-body">
+                                    <div class="accordion-body text-black">
                                     We offer a wide range of placements in Canada and the USA, including internships, full-time job placements, and
                                     industry-specific training programs.
                                     </div>
@@ -305,7 +308,7 @@
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#technologicalQuery" style="">
-                                    <div class="accordion-body">
+                                    <div class="accordion-body text-black">
                                     Our matching process involves assessing candidates' skills, qualifications, and preferences. We take into account
                                      your educational background, experience, and career aspirations to find the best-fit placements.
                                     </div>
@@ -318,7 +321,7 @@
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse show" data-bs-parent="#technologicalQuery" style="">
-                                    <div class="accordion-body">
+                                    <div class="accordion-body text-black">
                                     We offer comprehensive support throughout the placement process. This includes assistance with resume and cover
                                         letter writing, interview preparation, and guidance on navigating the local job market. During your placement,
                                         we maintain regular communication to ensure everything is progressing smoothly.
@@ -332,11 +335,12 @@
         </div>
         <!-- accordian end -->
         <!-- testimonials -->
-        <div class="section-space bgc-secondary ca-testimonial-section">
-            <div class="section-space--sm-bottom">
-                <div class="container">
+        <div class="section-space bgc-secondary ca-testimonial-section ">
+            <div class="section-space--sm-bottom pt-20">
+                <div class="container px-50">
                     <div class="row g-4 gy-md-0 align-items-center">
                         <div class="col-md-8">
+                            <p class="text-white">Testimonials</p>
                             <h4 class="heading-4 clr-white font-weight-bold mb-0 text-center text-md-start">
                                 Trust Members Are Saying
                             </h4>
