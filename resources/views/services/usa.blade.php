@@ -158,6 +158,7 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- t -->
                         <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
                             <div class="tab-content-wrapper pt-60 pb-60">
                                 <div class="row align-items-center">
