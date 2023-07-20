@@ -24,7 +24,7 @@
                     </div>
                     <div class="col-xl-6 col-lg-5">
                         <div class="crm-hero-img mt-60 mt-lg-0">
-                            <img src="assets/img/crm/hero-img.png" alt="not found" class="img-fluid">
+                            <img src="assets/img/hero-img1.png" alt="not found" class="img-fluid">
                         </div>
                     </div>
                 </div>
@@ -59,7 +59,7 @@
                             <!-- <a href="services.html" class="btn dg-outline-btn rounded-pill">Browse all Service</a> -->
                             <div class="dg-about-bottom position-relative mt-70">
                                 <img src="assets/img/digital-agency/ab-shape-box.jpg" alt="not found" class="rounded-3 shape-box">
-                                <img src="assets/img/digital-agency/ab-2.jpg" alt="not found" class="rounded-4 img-fluid">
+                                <img src="assets/img/ab-2n.jpg" alt="not found" class="rounded-4 img-fluid">
                             </div>
                         </div>
                     </div>
@@ -184,62 +184,62 @@
                     <div class="col-xl-7 col-lg-6">
                         <div class="dg-team-slider swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
                             <div class="swiper-wrapper" id="swiper-wrapper-abdfbffa19c5f9ab" aria-live="polite" style="transform: translate3d(-770px, 0px, 0px); transition-duration: 0ms;"><div class="dg-team-single swiper-slide rounded-3 position-relative overflow-hidden swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" role="group" aria-label="1 / 3" style="width: 232.667px; margin-right: 24px;">
-                                    <img src="assets/img/digital-agency/team-1.jpg" alt="team" class="img-fluid">
+                                    <img src="assets/img/digital-agency/team-1n.jpg" alt="team" class="img-fluid">
                                     <div class="designation-box bg-white rounded-3 text-center">
                                         <h6 class="heading-dg-color mb-0">Forrest Collman</h6>
-                                        <span class="fs-sm d-block">Founder &amp; CEO</span>
+                                        <span class="fs-sm d-block">Founder </span>
                                     </div>
                                 </div><div class="dg-team-single swiper-slide rounded-3 position-relative overflow-hidden swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" role="group" aria-label="2 / 3" style="width: 232.667px; margin-right: 24px;">
                                     <img src="assets/img/digital-agency/team-2.jpg" alt="team" class="img-fluid">
                                     <div class="designation-box bg-white rounded-3 text-center">
-                                        <h6 class="heading-dg-color mb-0">Forrest Collman</h6>
-                                        <span class="fs-sm d-block">Founder &amp; CEO</span>
+                                        <h6 class="heading-dg-color mb-0">jeny Rubijane</h6>
+                                        <span class="fs-sm d-block"> CEO</span>
                                     </div>
                                 </div><div class="dg-team-single swiper-slide rounded-3 position-relative overflow-hidden swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="2" role="group" aria-label="3 / 3" style="width: 232.667px; margin-right: 24px;">
                                     <img src="assets/img/digital-agency/team-3.jpg" alt="team" class="img-fluid">
                                     <div class="designation-box bg-white rounded-3 text-center">
-                                        <h6 class="heading-dg-color mb-0">Forrest Collman</h6>
-                                        <span class="fs-sm d-block">Founder &amp; CEO</span>
+                                        <h6 class="heading-dg-color mb-0">David</h6>
+                                        <span class="fs-sm d-block">president/span>
                                     </div>
                                 </div>
                                 <div class="dg-team-single swiper-slide rounded-3 position-relative overflow-hidden swiper-slide-active" data-swiper-slide-index="0" role="group" aria-label="1 / 3" style="width: 232.667px; margin-right: 24px;">
                                     <img src="assets/img/digital-agency/team-1.jpg" alt="team" class="img-fluid">
                                     <div class="designation-box bg-white rounded-3 text-center">
                                         <h6 class="heading-dg-color mb-0">Forrest Collman</h6>
-                                        <span class="fs-sm d-block">Founder &amp; CEO</span>
+                                        <span class="fs-sm d-block">Founder </span>
                                     </div>
                                 </div>
                                 <div class="dg-team-single swiper-slide rounded-3 position-relative overflow-hidden swiper-slide-next" data-swiper-slide-index="1" role="group" aria-label="2 / 3" style="width: 232.667px; margin-right: 24px;">
                                     <img src="assets/img/digital-agency/team-2.jpg" alt="team" class="img-fluid">
                                     <div class="designation-box bg-white rounded-3 text-center">
-                                        <h6 class="heading-dg-color mb-0">Forrest Collman</h6>
-                                        <span class="fs-sm d-block">Founder &amp; CEO</span>
+                                        <h6 class="heading-dg-color mb-0">Jeny Rubijane</h6>
+                                        <span class="fs-sm d-block"> CEO</span>
                                     </div>
                                 </div>
                                 <div class="dg-team-single swiper-slide rounded-3 position-relative overflow-hidden swiper-slide-duplicate-prev" data-swiper-slide-index="2" role="group" aria-label="3 / 3" style="width: 232.667px; margin-right: 24px;">
                                     <img src="assets/img/digital-agency/team-3.jpg" alt="team" class="img-fluid">
                                     <div class="designation-box bg-white rounded-3 text-center">
-                                        <h6 class="heading-dg-color mb-0">Forrest Collman</h6>
-                                        <span class="fs-sm d-block">Founder &amp; CEO</span>
+                                        <h6 class="heading-dg-color mb-0">David</h6>
+                                        <span class="fs-sm d-block">president</span>
                                     </div>
                                 </div>
                             <div class="dg-team-single swiper-slide rounded-3 position-relative overflow-hidden swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" role="group" aria-label="1 / 3" style="width: 232.667px; margin-right: 24px;">
                                     <img src="assets/img/digital-agency/team-1.jpg" alt="team" class="img-fluid">
                                     <div class="designation-box bg-white rounded-3 text-center">
                                         <h6 class="heading-dg-color mb-0">Forrest Collman</h6>
-                                        <span class="fs-sm d-block">Founder &amp; CEO</span>
+                                        <span class="fs-sm d-block">Founder</span>
                                     </div>
                                 </div><div class="dg-team-single swiper-slide rounded-3 position-relative overflow-hidden swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" role="group" aria-label="2 / 3" style="width: 232.667px; margin-right: 24px;">
                                     <img src="assets/img/digital-agency/team-2.jpg" alt="team" class="img-fluid">
                                     <div class="designation-box bg-white rounded-3 text-center">
-                                        <h6 class="heading-dg-color mb-0">Forrest Collman</h6>
-                                        <span class="fs-sm d-block">Founder &amp; CEO</span>
+                                        <h6 class="heading-dg-color mb-0">Jeny Rubijane</h6>
+                                        <span class="fs-sm d-block"> CEO</span>
                                     </div>
                                 </div><div class="dg-team-single swiper-slide rounded-3 position-relative overflow-hidden swiper-slide-duplicate" data-swiper-slide-index="2" role="group" aria-label="3 / 3" style="width: 232.667px; margin-right: 24px;">
                                     <img src="assets/img/digital-agency/team-3.jpg" alt="team" class="img-fluid">
                                     <div class="designation-box bg-white rounded-3 text-center">
-                                        <h6 class="heading-dg-color mb-0">Forrest Collman</h6>
-                                        <span class="fs-sm d-block">Founder &amp; CEO</span>
+                                        <h6 class="heading-dg-color mb-0">David</h6>
+                                        <span class="fs-sm d-block">president</span>
                                     </div>
                                 </div></div>
                             <div class="dg-team-slider-controls dg-slider-control d-flex align-items-center justify-content-center mt-40 swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span></div>
@@ -355,7 +355,7 @@
                         <div class="crm-feedback-box rounded position-relative">
                             <div class="crm-feedback-slider swiper swiper-initialized swiper-horizontal swiper-pointer-events">
                                 <div class="swiper-wrapper" id="swiper-wrapper-a30f061a4ec10b2e2" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-4400px, 0px, 0px);"><div class="crm-feedback-single swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="1" role="group" aria-label="2 / 5" style="width: 870px; margin-right: 10px;">
-                                        <p class="mb-4 text-white">“Easily organize your infrastructure with Projects. And with Teams, everyone can get their own account, with just the privileges they need to do their and we’rerunning a jobs. Our hosting costs have decreased by over 90% and we're running at about 25% of our capacity”</p>
+                                        <p class="mb-4 text-white">“I had an exceptional experience with the recruitment process. The HR team was incredibly responsive, guiding me through each step with clarity.”</p>
                                         <h4 class="mb-0 text-white">Jerry G. Sanchez</h4>
                                         <ul class="crm-stars d-inline-flex align-items-center p-0 m-0">
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
@@ -365,8 +365,8 @@
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
                                         </ul>
                                     </div><div class="crm-feedback-single swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="2" role="group" aria-label="3 / 5" style="width: 870px; margin-right: 10px;">
-                                        <p class="mb-4 text-white">“Easily organize your infrastructure with Projects. And with Teams, everyone can get their own account, with just the privileges they need to do their and we’rerunning a jobs. Our hosting costs have decreased by over 90% and we're running at about 25% of our capacity”</p>
-                                        <h4 class="mb-0 text-white">Jerry G. Sanchez</h4>
+                                        <p class="mb-4 text-white">“I can't praise the recruitment team enough for their efficiency. From the initial screening to the final interview, they made the process seamless”</p>
+                                        <h4 class="mb-0 text-white">sarah Johnson</h4>
                                         <ul class="crm-stars d-inline-flex align-items-center p-0 m-0">
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
@@ -375,8 +375,8 @@
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
                                         </ul>
                                     </div><div class="crm-feedback-single swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="3" role="group" aria-label="4 / 5" style="width: 870px; margin-right: 10px;">
-                                        <p class="mb-4 text-white">“Easily organize your infrastructure with Projects. And with Teams, everyone can get their own account, with just the privileges they need to do their and we’rerunning a jobs. Our hosting costs have decreased by over 90% and we're running at about 25% of our capacity”</p>
-                                        <h4 class="mb-0 text-white">Jerry G. Sanchez</h4>
+                                        <p class="mb-4 text-white">“The recruitment team went above and beyond to make me feel valued during the entire process.”</p>
+                                        <h4 class="mb-0 text-white">David Lee</h4>
                                         <ul class="crm-stars d-inline-flex align-items-center p-0 m-0">
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
@@ -385,8 +385,8 @@
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
                                         </ul>
                                     </div><div class="crm-feedback-single swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="4" role="group" aria-label="5 / 5" style="width: 870px; margin-right: 10px;">
-                                        <p class="mb-4 text-white">“Easily organize your infrastructure with Projects. And with Teams, everyone can get their own account, with just the privileges they need to do their and we’rerunning a jobs. Our hosting costs have decreased by over 90% and we're running at about 25% of our capacity”</p>
-                                        <h4 class="mb-0 text-white">Jerry G. Sanchez</h4>
+                                        <p class="mb-4 text-white">“I was impressed by the recruitment team's professionalism and the emphasis they placed on cultural fit.”</p>
+                                        <h4 class="mb-0 text-white">Emily Turner</h4>
                                         <ul class="crm-stars d-inline-flex align-items-center p-0 m-0">
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
@@ -396,8 +396,8 @@
                                         </ul>
                                     </div>
                                     <div class="crm-feedback-single swiper-slide text-center swiper-slide-prev" data-swiper-slide-index="0" role="group" aria-label="1 / 5" style="width: 870px; margin-right: 10px;">
-                                        <p class="mb-4 text-white">“Easily organize your infrastructure with Projects. And with Teams, everyone can get their own account, with just the privileges they need to do their and we’rerunning a jobs. Our hosting costs have decreased by over 90% and we're running at about 25% of our capacity”</p>
-                                        <h4 class="mb-0 text-white">Jerry G. Sanchez</h4>
+                                        <p class="mb-4 text-white">“I was impressed by the recruitment team's professionalism and the emphasis they placed on cultural fit.”</p>
+                                        <h4 class="mb-0 text-white">Richa David</h4>
                                         <ul class="crm-stars d-inline-flex align-items-center p-0 m-0">
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
@@ -407,8 +407,8 @@
                                         </ul>
                                     </div>
                                     <div class="crm-feedback-single swiper-slide text-center swiper-slide-active" data-swiper-slide-index="1" role="group" aria-label="2 / 5" style="width: 870px; margin-right: 10px;">
-                                        <p class="mb-4 text-white">“Easily organize your infrastructure with Projects. And with Teams, everyone can get their own account, with just the privileges they need to do their and we’rerunning a jobs. Our hosting costs have decreased by over 90% and we're running at about 25% of our capacity”</p>
-                                        <h4 class="mb-0 text-white">Jerry G. Sanchez</h4>
+                                        <p class="mb-4 text-white">“The recruitment process was one of the best I've encountered. The team was transparent about the role, the company's values, and growth opportunities.”</p>
+                                        <h4 class="mb-0 text-white">jery sheikh</h4>
                                         <ul class="crm-stars d-inline-flex align-items-center p-0 m-0">
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
@@ -418,8 +418,8 @@
                                         </ul>
                                     </div>
                                     <div class="crm-feedback-single swiper-slide text-center swiper-slide-next" data-swiper-slide-index="2" role="group" aria-label="3 / 5" style="width: 870px; margin-right: 10px;">
-                                        <p class="mb-4 text-white">“Easily organize your infrastructure with Projects. And with Teams, everyone can get their own account, with just the privileges they need to do their and we’rerunning a jobs. Our hosting costs have decreased by over 90% and we're running at about 25% of our capacity”</p>
-                                        <h4 class="mb-0 text-white">Jerry G. Sanchez</h4>
+                                        <p class="mb-4 text-white">“From the first interview to the final offer, the recruitment process was seamless. The team was efficient, communicative, and approachable.”</p>
+                                        <h4 class="mb-0 text-white">Mily shirus</h4>
                                         <ul class="crm-stars d-inline-flex align-items-center p-0 m-0">
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
@@ -429,8 +429,8 @@
                                         </ul>
                                     </div>
                                     <div class="crm-feedback-single swiper-slide text-center" data-swiper-slide-index="3" role="group" aria-label="4 / 5" style="width: 870px; margin-right: 10px;">
-                                        <p class="mb-4 text-white">“Easily organize your infrastructure with Projects. And with Teams, everyone can get their own account, with just the privileges they need to do their and we’rerunning a jobs. Our hosting costs have decreased by over 90% and we're running at about 25% of our capacity”</p>
-                                        <h4 class="mb-0 text-white">Jerry G. Sanchez</h4>
+                                        <p class="mb-4 text-white">“I felt at ease during the recruitment process, thanks to the friendly and supportive approach of the team.”</p>
+                                        <h4 class="mb-0 text-white">Prakash raj</h4>
                                         <ul class="crm-stars d-inline-flex align-items-center p-0 m-0">
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
@@ -440,8 +440,8 @@
                                         </ul>
                                     </div>
                                     <div class="crm-feedback-single swiper-slide text-center" data-swiper-slide-index="4" role="group" aria-label="5 / 5" style="width: 870px; margin-right: 10px;">
-                                        <p class="mb-4 text-white">“Easily organize your infrastructure with Projects. And with Teams, everyone can get their own account, with just the privileges they need to do their and we’rerunning a jobs. Our hosting costs have decreased by over 90% and we're running at about 25% of our capacity”</p>
-                                        <h4 class="mb-0 text-white">Jerry G. Sanchez</h4>
+                                        <p class="mb-4 text-white">“I can't praise the recruitment team enough for their efficiency. From the initial screening to the final interview, they made the process seamless”</p>
+                                        <h4 class="mb-0 text-white">William Anderson</h4>
                                         <ul class="crm-stars d-inline-flex align-items-center p-0 m-0">
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
@@ -452,7 +452,7 @@
                                     </div>
                                 <div class="crm-feedback-single swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="0" role="group" aria-label="1 / 5" style="width: 870px; margin-right: 10px;">
                                         <p class="mb-4 text-white">“Easily organize your infrastructure with Projects. And with Teams, everyone can get their own account, with just the privileges they need to do their and we’rerunning a jobs. Our hosting costs have decreased by over 90% and we're running at about 25% of our capacity”</p>
-                                        <h4 class="mb-0 text-white">Jerry G. Sanchez</h4>
+                                        <h4 class="mb-0 text-white">Jery sheikh</h4>
                                         <ul class="crm-stars d-inline-flex align-items-center p-0 m-0">
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
@@ -461,7 +461,7 @@
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
                                         </ul>
                                     </div><div class="crm-feedback-single swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="1" role="group" aria-label="2 / 5" style="width: 870px; margin-right: 10px;">
-                                        <p class="mb-4 text-white">“Easily organize your infrastructure with Projects. And with Teams, everyone can get their own account, with just the privileges they need to do their and we’rerunning a jobs. Our hosting costs have decreased by over 90% and we're running at about 25% of our capacity”</p>
+                                        <p class="mb-4 text-white">“From the first interview to the final offer, the recruitment process was seamless. The team was efficient, communicative, and approachable”</p>
                                         <h4 class="mb-0 text-white">Jerry G. Sanchez</h4>
                                         <ul class="crm-stars d-inline-flex align-items-center p-0 m-0">
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
@@ -481,8 +481,8 @@
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
                                         </ul>
                                     </div><div class="crm-feedback-single swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="3" role="group" aria-label="4 / 5" style="width: 870px; margin-right: 10px;">
-                                        <p class="mb-4 text-white">“Easily organize your infrastructure with Projects. And with Teams, everyone can get their own account, with just the privileges they need to do their and we’rerunning a jobs. Our hosting costs have decreased by over 90% and we're running at about 25% of our capacity”</p>
-                                        <h4 class="mb-0 text-white">Jerry G. Sanchez</h4>
+                                        <p class="mb-4 text-white">“I was impressed by the recruitment team's professionalism and the emphasis they placed on cultural fit.”</p>
+                                        <h4 class="mb-0 text-white">Robert Brownie</h4>
                                         <ul class="crm-stars d-inline-flex align-items-center p-0 m-0">
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
