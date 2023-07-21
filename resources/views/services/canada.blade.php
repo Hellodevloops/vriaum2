@@ -127,7 +127,7 @@
                 <div class="row">
                     <div class="tab-content" id="pills-tabContent">
                         <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
-                            <div class="tab-content-wrapper pt-60">
+                            <div class="tab-content-wrapper pt-60 pb-60">
                                 <div class="row align-items-center">
                                     <div class="col-md-6">
                                         <div class="text-center mb-5 mb-lg-0">
@@ -167,7 +167,7 @@
                             </div>
                         </div>
                         <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
-                            <div class="tab-content-wrapper pt-60">
+                            <div class="tab-content-wrapper pt-60 pb-60">
                                 <div class="row align-items-center">
                                     <div class="col-md-6">
                                         <div class="pe-5 mb-5 mb-lg-0">
@@ -196,13 +196,14 @@
                                                 Know More About Us
                                                 <i class="fas fa-arrow-right"></i>
                                             </a>
+                                            <!-- t -->
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
-                            <div class="tab-content-wrapper pt-60">
+                            <div class="tab-content-wrapper pt-60 pb-60">
                                 <div class="row align-items-center">
                                     <div class="col-md-6">
                                         <div class="mb-5 mb-lg-0">
