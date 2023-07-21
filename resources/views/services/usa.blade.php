@@ -320,6 +320,228 @@
                
             </section>
         <!--features grid section end-->
+
+
+        <!-- it non st -->
+        <section class="cyber-faq pt-120 pb-60">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-12 col-lg-6">
+                        <div class="section-heading text-center mb-5">
+                            <h2 class="h2 text-primary">The Approaches We Have</h2>
+                            
+                            <p class="h6">
+                            At VriAum, we are committed to empowering individuals in the IT and Non-IT sectors to unlock their true potential by offering an integrated approach that includes enriching internships and seamless migration staffing opportunities to the USA.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="cyber-faq-wrapper">
+                            <div class="accordion faq-accordion" id="accordionExample">
+                                <!-- <div class="accordion-item border border-2 rounded active">
+                                    <h5 class="accordion-header" id="faq-1">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false">
+                                            How Is Encryption Different From Hacking?
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-1" class="accordion-collapse collapse" aria-labelledby="faq-1" data-bs-parent="#accordionExample" style="">
+                                        <div class="accordion-body">
+                                            There are many variations of passages of Lorem Ipsum
+                                            available but the majority suffered is alteration in that
+                                            words which don't look even slightly believable. If you are
+                                            Lorem Ipsum you need to be sure there isn't anything ready
+                                            too much embarrassing.
+                                        </div>
+                                    </div>
+                                </div> -->
+                                <div class="accordion-item border border-2 rounded">
+                                    <h5 class="accordion-header" id="faq-2">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false">
+                                        Career Development
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-2" class="accordion-collapse collapse" aria-labelledby="faq-2" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                        We provide mentorship and guidance to help interns identify their career paths and make informed decisions for their future in the IT industry.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item border border-2 rounded">
+                                    <h5 class="accordion-header" id="faq-3">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false">
+                                        Industry-Specific Opportunities
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-3" class="accordion-collapse collapse" aria-labelledby="faq-3" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                        We specialize in IT staffing, connecting candidates with organizations seeking talent in various IT domains.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item border border-2 rounded">
+                                    <h5 class="accordion-header" id="faq-4">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false">
+                                        Focus on Career Growth
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-4" class="accordion-collapse collapse" aria-labelledby="faq-4" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                        Our approach centers on fostering a sustainable and successful IT career in the USA, empowering candidates to thrive in the dynamic IT industry.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                 <div class="pt-1">
+                    <!-- <div class="d-flex about-icon-box-lg align-items-center">
+                        <div class="me-3">
+                            <img src="assets/img/Vri_logo_preview.png" alt="">
+                        </div>
+                        <div>
+                            <h5>Empowering Businesses with Cutting-Edge</h5>
+                        </div>
+                    </div> -->
+                    <div class="section-heading ">
+                        <!-- <h4 class="lead mb-2">Driving Innovation and Transformation</h4> -->
+                    <h2 class="mb-4 text-primary"> Our Approach for IT Sector:</h2>
+                     <p>Our internship program offers a dynamic platform for candidates to gain hands-on experience in their chosen fields. We partner with leading companies in various industries, including IT and non-IT sectors, to provide enriching internship opportunities. Through carefully curated internship projects, candidates can apply their theoretical knowledge to real-world scenarios, develop industry-relevant skills, and enhance their professional profiles.</p>
+                   
+                   </div>
+                   
+                    </div>
+                 </div>
+                </div>
+                <div class="row align-items-center justify-content-between">
+                    <div class="col-lg-12 col-md-12">
+                        <div class="section-heading">
+                            <!-- <h4 class="h5 text-primary mt-3">Career Catalysts: Staffing Services for USA and Canada</h4>
+                            <h3>Empowering Migration: Training for Success in the USA and Canada</h3> -->
+                        </div> 
+                    </div>
+                    <div class="col-lg-12 col-md-12">
+                        <!-- <div class="text-start text-lg-end mb-4 mb-lg-0 mb-xl-0">
+                            <a href="blog.html" class="btn btn-primary">View All Article</a>
+                        </div> -->
+                    </div>
+         </div>
+                <!-- 2start -->
+                <div class="row">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="cyber-faq-wrapper">
+                            <div class="accordion faq-accordion" id="accordionExample">
+                                <!-- <div class="accordion-item border border-2 rounded active">
+                                    <h5 class="accordion-header" id="faq-1">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false">
+                                            How Is Encryption Different From Hacking?
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-1" class="accordion-collapse collapse" aria-labelledby="faq-1" data-bs-parent="#accordionExample" style="">
+                                        <div class="accordion-body">
+                                            There are many variations of passages of Lorem Ipsum
+                                            available but the majority suffered is alteration in that
+                                            words which don't look even slightly believable. If you are
+                                            Lorem Ipsum you need to be sure there isn't anything ready
+                                            too much embarrassing.
+                                        </div>
+                                    </div>
+                                </div> -->
+                                <div class="accordion-item border border-2 rounded">
+                                    <h5 class="accordion-header" id="faq-2">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false">
+                                        Professional Growth
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-2" class="accordion-collapse collapse" aria-labelledby="faq-2" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                        We aim to equip candidates with the tools they need to succeed in their non-IT careers and make meaningful contributions to their chosen fields.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item border border-2 rounded">
+                                    <h5 class="accordion-header" id="faq-3">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false">
+                                        Personalized Approach
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-3" class="accordion-collapse collapse" aria-labelledby="faq-3" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                        Our team understands the unique qualifications of each candidate, ensuring a seamless fit between candidates and employers.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item border border-2 rounded">
+                                    <h5 class="accordion-header" id="faq-4">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false">
+                                        Focus on Career Advancement
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-4" class="accordion-collapse collapse" aria-labelledby="faq-4" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                        Our approach is focused on empowering candidates to succeed in their non-IT careers, contributing to the growth of their chosen industries in the USA.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                          <div class="pt-1">
+                            <!-- <div class="d-flex about-icon-box-lg align-items-center">
+                           <div class="me-3">
+                            <img src="assets/img/Vri_logo_preview.png" alt="">
+                        </div>
+                        <div>
+                            <h5>Empowering Businesses with Cutting-Edge</h5>
+                        </div>
+                      </div> -->
+                         <div class="section-heading ">
+                        <!-- <h4 class="lead mb-2">Driving Innovation and Transformation</h4> -->
+                        <h2 class="mb-4 text-primary">Approach for Non IT Sector</h2>
+                       <p>Our Non-IT internship program caters to various industries, including finance, healthcare, marketing, engineering, and more. We partner with leading companies in these sectors, offering internships that provide valuable exposure and practical experience.</p>
+                      
+                   </div>
+                   
+                     </div>
+                 </div>
+                </div>
+                <!-- 2end -->
+                <div class="row align-items-center justify-content-between">
+                    <div class="col-lg-12 col-md-12">
+                        <div class="section-heading">
+                            <!-- <h4 class="h5 text-primary mt-3">Career Catalysts: Staffing Services for USA and Canada</h4>
+                            <h3>Empowering Migration: Training for Success in the USA and Canada</h3> -->
+                        </div> 
+                    </div>
+                    <div class="col-lg-12 col-md-12">
+                        <!-- <div class="text-start text-lg-end mb-4 mb-lg-0 mb-xl-0">
+                            <a href="blog.html" class="btn btn-primary">View All Article</a>
+                        </div> -->
+                    </div>
+         </div>
+         <div class="row align-items-center justify-content-between">
+                    <div class="col-lg-12 col-md-12">
+                        <div class="section-heading">
+                            <!-- <h4 class="h5 text-primary mt-3">Career Catalysts: Staffing Services for USA and Canada</h4>
+                            <h3>Empowering Migration: Training for Success in the USA and Canada</h3> -->
+                        </div> 
+                    </div>
+                    <div class="col-lg-12 col-md-12">
+                        <!-- <div class="text-start text-lg-end mb-4 mb-lg-0 mb-xl-0">
+                            <a href="blog.html" class="btn btn-primary">View All Article</a>
+                        </div> -->
+                    </div>
+         </div>
+               
+            </div>
+        </section>
+        <!-- it non ed -->
+
+
+        
 <!-- tab features strats -->
 <section class="promo-section ptb-120 bg-light-subtle ">
             <div class="container">
