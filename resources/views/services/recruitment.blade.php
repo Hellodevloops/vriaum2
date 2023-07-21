@@ -3,15 +3,15 @@
 
 <!-- hero section -->
 
-<section class="crm-hero ptb-120 position-relative overflow-hidden" style="background-image: url('assets/img/shape/crm-hero-bg.png')">
+<section class="crm-hero ptb-100 position-relative overflow-hidden" style="background-image: url('assets/img/shape/crm-hero-bg.png')">
             <!-- <img src="assets/img/crm/slack.png" alt="slack" class="position-absolute slack-thumb"> -->
             <div class="container">
                 <div class="row justify-content-between">
-                    <div class="col-xl-5 col-lg-6">
+                    <div class="col-xl-7 col-lg-8">
                         <div class="crm-hero-content position-relative z-1">
-                            <img src="assets/img/shape/arrow-lg-red.png" alt="arrow" class="position-absolute arrow-lg-red z--1">
-                            <h4 class="crm-subtitle fw-semibold">Build Everlasting<img src="assets/img/shape/arrow-red.png" alt="arrow" class="ms-2"></h4>
-                            <h1 class="display-2 mb-0">Unlock Your Potential<span class="d-inline-block d-lg-block">with Our</span> Recruitment Services</h1>
+                         
+                            <h4 class="crm-subtitle fw-semibold">Build Everlasting<img src="assets/img/shape/arrow-lg-red.png" alt="arrow" class="ms-2"></h4>
+                            <h3 class="display-2 mb-0 text-white">Unlock Your Potential<span class="d-inline-block d-lg-block text-danger">with Our</span> Recruitment Services</h3>
 
                             <!-- <div class="crm-hero-bottom mt-60">
                                 <p class="text-white lead">30 Day Free Trial <span class="dot"></span> No Credit Card Required</p>
@@ -22,7 +22,7 @@
                             </div> -->
                         </div>
                     </div>
-                    <div class="col-xl-6 col-lg-5">
+                    <div class="col-xl-5 col-lg-4">
                         <div class="crm-hero-img mt-60 mt-lg-0">
                             <img src="assets/img/hero-img1.png" alt="not found" class="img-fluid">
                         </div>
@@ -54,11 +54,11 @@
                     <div class="col-xl-7 col-lg-6">
                         <div class="dg-about-right ps-lg-4">
                             <span class="fw-bold text-dg-primary">ABOUT COMPANY</span>
-                            <h4 class="mt-2 mb-4 heading-dg-color">Technology is best when<br> people together</h4>
-                            <p class="mb-5 text-dg-color"><b>We are dedicated to connecting exceptional talent with outstanding opportunities.  <span class="fw-bold text-dg-primary">With years of experience in the recruitment industry, we understand the importance of finding the perfect fit for both candidates and employers</span>. Our mission is to empower individuals to achieve their career goals and help organizations thrive by providing them with the best talent available. With our personalized approach, industry expertise, and commitment to excellence, we are your trusted partner in recruitment, ensuring mutual success and growth.</b></p>
+                            <h4 class="mt-2 mb-4 heading-dg-color">Technology is best when<br> people work together</h4>
+                            <p class="mb-5 text-dg-color text-black"><b>We are a leading placement and recruitment company,  <span class="fw-bold text-dg-primary">Our commitment lies in fostering meaningful partnerships between candidates and employers to drive success and growth</span>,Our personalized approach and extensive industry network ensure a seamless match between top talent and leading organizations.</p>
                             <!-- <a href="services.html" class="btn dg-outline-btn rounded-pill">Browse all Service</a> -->
                             <div class="dg-about-bottom position-relative mt-70">
-                                <img src="assets/img/digital-agency/ab-shape-box.jpg" alt="not found" class="rounded-3 shape-box">
+                              
                                 <img src="assets/img/ab-2n.jpg" alt="not found" class="rounded-4 img-fluid">
                             </div>
                         </div>
@@ -75,15 +75,15 @@
 
         <!-- recruitment process -->
 
-        <section class="dg-service-section bg-light-subtle pb-120 position-relative z-1 overflow-hidden">
+        <section class="dg-service-section bg-light-subtle pb-60 pt-30position-relative z-1 overflow-hidden">
             <img src="assets/img/digital-agency/sr-line.png" alt="doted line" class="position-absolute end-0 z--1 sr-line">
-            <span class="sr-circle-1 dg-circle-style-1 rounded-circle position-absolute z--1"></span>
+            
             <span class="sr-circle-2 dg-circle-style-2 rounded-circle position-absolute z--1"></span>
             <div class="container position-relative z-1">
                 <div class="row justify-content-center">
                     <div class="col-xl-5">
                         <div class="section-title text-center mb-5">
-                            <span class="fw-bold dg-text-primary">RECRUITMENT PROCESS</span>
+                            <span class="fw-bold text-primary">RECRUITMENT PROCESS</span>
                             <h2 class="mt-2 heading-dg-color">Finding Your Perfect Match.!!</h2>
                         </div>
                     </div>
@@ -100,9 +100,9 @@
                               </span>
                             </div> -->
                             <a href="service-single.html">
-                                <h5 class="mt-4 mb-2 heading-dg-color">Job Posting</h5>
+                                <h5 class="mt-4 mb-2 heading-dg-color text-primary">Job Posting</h5>
                             </a>
-                            <p class="mb-3 text-dg-color">Attracting qualified candidates by advertising open positions and providing detailed job descriptions..</p>
+                            <p class="mb-3 text-black">Attracting qualified candidates by advertising open positions and providing detailed job descriptions..</p>
                             <span class="number-count position-relative color-1 fw-semibold">01</span>
                         </div>
                     </div>
@@ -118,9 +118,9 @@
                               </span>
                             </div> -->
                             <a href="service-single.html">
-                                <h5 class="mt-4 mb-2 heading-dg-color">Technical Assessments</h5>
+                                <h5 class="mt-4 mb-2 heading-dg-color text-primary">Technical Assessments</h5>
                             </a>
-                            <p class="mb-3 text-dg-color">Evaluating candidates' technical skills and knowledge through assessments, tests, or practical exercises.</p>
+                            <p class="mb-3 text-black">Evaluating candidates' technical skills and knowledge through assessments, tests, or practical exercises.</p>
                             <span class="number-count position-relative color-2 fw-semibold">02</span>
                         </div>
                     </div>
@@ -135,9 +135,9 @@
                               </span>
                             </div> -->
                             <a href="service-single.html">
-                                <h5 class="mt-4 mb-2 heading-dg-color">Interviews</h5>
+                                <h5 class="mt-4 mb-2 heading-dg-color text-primary">Interview</h5>
                             </a>
-                            <p class="mb-3 text-dg-color">Conducting structured interviews to assess candidates' qualifications, experience, and cultural fit within the organization</p>
+                            <p class="mb-3 text-black">Conducting interviews to assess candidates'experience, and cultural fit within the organization</p>
                             <span class="number-count position-relative color-3 fw-semibold">03</span>
                         </div>
                     </div>
@@ -151,9 +151,9 @@
                               </span>
                             </div> -->
                             <a href="service-single.html">
-                                <h5 class="mt-4 mb-2 heading-dg-color">Final Selection</h5>
+                                <h5 class="mt-4 mb-2 heading-dg-color text-primary">Final Selection</h5>
                             </a>
-                            <p class="mb-3 text-dg-color">Making the ultimate decision based on a comprehensive evaluation of candidates and choosing the most suitable.</p>
+                            <p class="mb-3 text-black">Making the ultimate decision based on a comprehensive evaluation of candidates and choosing the most suitable.</p>
                             <span class="number-count position-relative color-4 fw-semibold">04</span>
                         </div>
                     </div>
@@ -177,7 +177,7 @@
                             <span class="fw-bold text-dg-primary mb-2">MEET OUR EXPERTS</span>
                             <img src="assets/img/shape/arrow-red.png" alt="arrow" class="ms-1">
                             <h2 class="mb-4">Our awesome the trust from clients</h2>
-                            <p class="mb-40"><b>Get to know our team of experienced recruitment professionals who bring industry expertise, deep insights, and a personalized approach to finding the best talent for your organization. With their guidance and support, we ensure a seamless and successful recruitment process that aligns with your specific needs and goals</b></p>
+                            <p class="mb-40 text-black"><b>Get to know our team of experienced recruitment professionals who bring industry expertise, deep insights, and a personalized approach to finding the best talent for your organization. With their guidance and support, we ensure a seamless and successful recruitment process that aligns with your specific needs and goals</b></p>
                             <!-- <a href="contact-us.html" class="btn dg-primary-btn rounded-pill">Join Our Team</a> -->
                         </div>
                     </div>
@@ -251,12 +251,12 @@
 
         <!-- benefits -->
 
-        <section class="why-choose-us pt-60 pb-120">
+        <section class="why-choose-us pt-40 pb-50">
             <div class="container">
                 <div class="row justify-content-lg-between align-items-center">
                     <div class="col-lg-6 col-12 order-1 order-lg-0">
                         <div class="feature-img-holder mt-5 mt-lg-0 mt-xl-0">
-                            <img src="assets/img/benefitsr.jpg" class="img-fluid" alt="feature-image">
+                            <img src="assets/img/benefitsrn.jpg" class="img-fluid" alt="feature-image">
                         </div>
                     </div>
                     <div class="col-lg-5 col-12">
@@ -264,15 +264,17 @@
                             <div class="icon-box rounded-custom bg-primary shadow-sm d-inline-block">
                                 <i class="fas fa-shield fa-2x text-white"></i>
                             </div>
-                            <h2>Benefits of Joining Our Company</h2>
-                            <p><b>Experience a supportive and inclusive work environment that fosters personal and professional growth. Enjoy competitive compensation, comprehensive benefits, ongoing learning opportunities, and the chance to be part of a talented team driving innovation and making a meaningful impact.</b></p>
+                            <h6 class="text-primary">Benefits of Joining Our Company</h6>
+                            <h3  class="text-black">Building a Solid Foundation for Your Future </h3>  
+
+                            <p class="text-black">Experience a supportive and inclusive work environment that fosters personal and professional growth. Enjoy competitive compensation, comprehensive benefits, ongoing learning opportunities, and the chance to be part of a talented team driving innovation and making a meaningful impact.</p>
                             <ul class="list-unstyled d-flex flex-wrap list-two-col mt-4 mb-4">
-                                <li class="py-1"><i class="fas fa-check-circle me-2 text-primary"></i>Access to Top Talent</li>
-                                <li class="py-1"><i class="fas fa-check-circle me-2 text-primary"></i>Improved Performance and Productivity</li>
-                                <li class="py-1"><i class="fas fa-check-circle me-2 text-primary"></i>Enhanced Diversity and Inclusion</li>
-                                <li class="py-1"><i class="fas fa-check-circle me-2 text-primary"></i>Cost Savings</li>
-                                <li class="py-1"><i class="fas fa-check-circle me-2 text-primary"></i>Positive Employer Branding</li>
-                                <li class="py-1"><i class="fas fa-check-circle me-2 text-primary"></i>Improved Employee Retention</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-primary"></i>Access to Top Talent</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-primary"></i>Improved Performance and Productivity</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-primary"></i>Enhanced Diversity and Inclusion</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-primary"></i>Cost Savings</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-primary"></i>Positive Employer Branding</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-primary"></i>Improved Employee Retention</li>
                             </ul>
                             <!-- <a href="about-us.html" class="read-more-link text-decoration-none">Know More About Us <i class="fas fa-arrow-right ms-2"></i></a> -->
                         </div>
@@ -283,12 +285,13 @@
 
         <!-- how to apply -->
 
-        <section class="sc-htw-section bg-light-subtle position-relative z-1 overflow-hidden ptb-120 border-line-bg">
+        <section class="sc-htw-section bg-light-subtle position-relative z-1 overflow-hidden ptb-80 border-line-bg">
             <div class="container">
                 <div class="row justify-content-center justify-content-xxl-start">
                     <div class="col-xxl-6 col-lg-7">
                         <div class="section-title text-center text-xxl-start">
-                            <h2 class="mb-0">How to Apply</h2>
+                            <h6 class="mb-0 text-primary">How to Apply</h6>
+                            <h4 class="text-black">Extending an Offer and Welcoming You Aboard</h4>
                         </div>
                     </div>
                 </div>
@@ -301,9 +304,9 @@
                                   <h4 class="mb-0 text-white position-absolute start-50 top-50 translate-middle">01</h4>
                                   <img src="assets/img/software-company/icon-shape-2.png" alt="icon">
                               </span>
-                                <h5 class="mb-0 ms-3">Explore Open Positions</h5>
+                                <h5 class="mb-0 ms-3 text-primary">Explore Open Positions</h5>
                             </div>
-                            <p class="mb-0 mt-3"> Visit our website or job portals to browse through our current job openings, align with your skills, qualifications, and interests. </p>
+                            <p class="mb-0 mt-3 text-black"> Visit our website or job portals to browse through our current job openings, align with your skills and qualifications. </p>
                         </div>
                     </div>
                     <div class="col-xxl-3 col-xl-4 col-md-6">
@@ -313,9 +316,9 @@
                                   <h4 class="mb-0 text-white position-absolute start-50 top-50 translate-middle">02</h4>
                                   <img src="assets/img/software-company/icon-shape-2.png" alt="icon">
                               </span>
-                                <h5 class="mb-0 ms-3">Prepare Your Application</h5>
+                                <h5 class="mb-0 ms-3 text-primary">Prepare Your Application</h5>
                             </div>
-                            <p class="mb-0 mt-3">Tailor your resume and cover letter to highlight your relevant experience and achievements <br>and skills..</p>
+                            <p class="mb-0 mt-3 text-black">Tailor your resume and cover letter to highlight your relevant experience and achievements <br>and skills..</p>
                            
                         </div>
                     </div>
@@ -326,9 +329,9 @@
                                   <h4 class="mb-0 text-white position-absolute start-50 top-50 translate-middle">03</h4>
                                   <img src="assets/img/software-company/icon-shape-3.png" alt="icon">
                               </span>
-                                <h5 class="mb-0 ms-3">Application Review</h5>
+                                <h5 class="mb-0 ms-3 text-primary">Application Review</h5>
                             </div>
-                            <p class="mb-0 mt-3">Our recruitment team will review your application carefully,we evaluate each applicant's qualifications.</p>
+                            <p class="mb-0 mt-3 text-black">Our recruitment team will review your application carefully,we evaluate each applicant's qualifications.</p>
                         </div>
                     </div>
                     <div class="col-xxl-3 col-xl-4 col-md-6">
@@ -338,9 +341,9 @@
                                   <h4 class="mb-0 text-white position-absolute start-50 top-50 translate-middle">04</h4>
                                   <img src="assets/img/software-company/icon-shape-4.png" alt="icon">
                               </span>
-                                <h5 class="mb-0 ms-3">Final Decision</h5>
+                                <h5 class="mb-0 ms-3 text-primary">Final Decision</h5>
                             </div>
-                            <p class="mb-0 mt-3">After assessing all candidates, we will make a final decision and extend an offer to the selected candidate</p>
+                            <p class="mb-0 mt-3 text-black">After assessing all candidates, we will make a final decision and extend an offer to the selected candidate</p>
                         </div>
                     </div>
                 </div>
@@ -355,7 +358,7 @@
                         <div class="crm-feedback-box rounded position-relative">
                             <div class="crm-feedback-slider swiper swiper-initialized swiper-horizontal swiper-pointer-events">
                                 <div class="swiper-wrapper" id="swiper-wrapper-a30f061a4ec10b2e2" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-4400px, 0px, 0px);"><div class="crm-feedback-single swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="1" role="group" aria-label="2 / 5" style="width: 870px; margin-right: 10px;">
-                                        <p class="mb-4 text-white">“I had an exceptional experience with the recruitment process. The HR team was incredibly responsive, guiding me through each step with clarity.”</p>
+                                        <p class="mb-4 text-white ">“I had an exceptional experience with the recruitment process. The HR team was incredibly responsive, guiding me through each step with clarity.”</p>
                                         <h4 class="mb-0 text-white">Jerry G. Sanchez</h4>
                                         <ul class="crm-stars d-inline-flex align-items-center p-0 m-0">
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
@@ -407,7 +410,7 @@
                                         </ul>
                                     </div>
                                     <div class="crm-feedback-single swiper-slide text-center swiper-slide-active" data-swiper-slide-index="1" role="group" aria-label="2 / 5" style="width: 870px; margin-right: 10px;">
-                                        <p class="mb-4 text-white">“The recruitment process was one of the best I've encountered. The team was transparent about the role, the company's values, and growth opportunities.”</p>
+                                        <p class="mb-4 text-white ">“The recruitment process was one of the best I've encountered. The team was transparent about the role, the company's values, and growth opportunities.”</p>
                                         <h4 class="mb-0 text-white">jery sheikh</h4>
                                         <ul class="crm-stars d-inline-flex align-items-center p-0 m-0">
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
