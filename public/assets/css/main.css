@@ -39182,6 +39182,10 @@ span.mk-subtitle {
 .crm-hero .h1 span {
     color: #ef3d3d
 }
+.crm-hero1{
+    background-color:#08326f;
+
+}
 
 @media(max-width: 1800px) {
     .crm-hero {
@@ -40457,10 +40461,13 @@ span.mk-subtitle {
 }
 
 .dg-hero-section {
-    background-color: #071233;
+    background-color: #10245f;
     padding: 220px 0 100px 0
 }
-
+.dg-hero1-section {
+    background-color:rgb(19 47 132);
+    padding: 220px 0 100px 0
+}
 .dg-hero-section .hero-curve {
     bottom: -2px
 }
@@ -65240,6 +65247,8 @@ span.mk-subtitle {
     color: #a3a3a3
 }
 
+
+
 [data-bs-theme=dark] .bg-white h1,
 [data-bs-theme=dark] .bg-white .h1,
 [data-bs-theme=dark] .bg-white h2,
@@ -65317,6 +65326,20 @@ span.mk-subtitle {
 .width{
     width:100%;
 }
+p1 {
+    font-size: 20px; /* Adjust the value to your desired font size */
+  }
+
+.dark-text {
+    color: #333; /* Replace #333 with the desired dark color code */
+  }
+
+.my-section {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
 
 /*# sourceMappingURL=scss */
 /*# sourceMappingURL=scss */
