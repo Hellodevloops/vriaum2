@@ -121,10 +121,10 @@
                 <div class="row">
                     <div class="tab-content" id="pills-tabContent">
                         <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
-                            <div class="tab-content-wrapper pt-60">
+                            <div class="tab-content-wrapper pt-60 pb-60 ">
                                 <div class="row align-items-center">
                                     <div class="col-md-6">
-                                        <div class="text-center mb-5 mb-lg-0">
+                                        <div class="text-center mb-5 mb-lg-0 ">
                                             <img src="assets/img/tab_img1.png" alt="" class="img-fluid">
                                         </div>
                                     </div>
@@ -158,8 +158,9 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- t -->
                         <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
-                            <div class="tab-content-wrapper pt-60">
+                            <div class="tab-content-wrapper pt-60 pb-60">
                                 <div class="row align-items-center">
                                     <div class="col-md-6">
                                         <div class="pe-5 mb-5 mb-lg-0">
@@ -169,7 +170,7 @@
                                     <div class="col-md-6">
                                         <div class="tab-right-content">
                                             <h2>Permanent Staffing</h2>
-                                            <p>When it comes to building a strong and long-lasting workforce, hiring the right talent is crucial. At VeiAum, we understand the significance of finding candidates who not only possess the required skills and experience but also fit seamlessly into some organization's culture.</p>
+                                            <p>When it comes to building a strong and long-lasting workforce, hiring the right talent is crucial. At VriAum, we understand the significance of finding candidates who not only possess the required skills and experience but also fit seamlessly into some organization's culture.</p>
             <p>Our expert recruiters utilize a rigorous screening process, including behavioral interviews and skill assessments, to present the best candidates for permanent positions. We work closely  to understand  organization's values and goals, ensuring a perfect match for the long term.</p>
                                             <ul class="list-unstyled">
                                                 <li>
@@ -195,7 +196,7 @@
                             </div>
                         </div>
                         <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
-                            <div class="tab-content-wrapper pt-60">
+                            <div class="tab-content-wrapper pt-60 pb-60">
                                 <div class="row align-items-center">
                                     <div class="col-md-6">
                                         <div class="mb-5 mb-lg-0">
