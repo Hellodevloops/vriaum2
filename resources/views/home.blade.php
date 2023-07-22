@@ -155,11 +155,12 @@
             style="background: url('assets/img/hero-9-img.png')no-repeat center center;">
             <div class="container">
                 <div class="row align-items-center justify-content-lg-between justify-content-center">
-                    <div class="col-lg-6 col-md-12">
+                <h1>We are development experts on all technologies</h1>
+                    <div class="col-lg-7 col-md-12">
                         <div class="feature-content-wrap">
                             <div class="section-heading">
-                                <h2>We are development experts on all technologies</h2>
-                                <p>With our deep expertise in a wide range of technologies, we empower businesses to harness the full potential of digital transformation, driving growth and success in the ever-evolving tech landscape.</p>
+                               
+                                <p class="dark-text">With our deep expertise in a wide range of technologies, we empower businesses to harness the full potential of digital transformation, driving growth and success in the ever-evolving tech landscape.</p>
                             </div>
                             <ul class="list-unstyled mb-0">
                                 <li class="d-flex align-items-start mb-4">
@@ -168,7 +169,7 @@
                                     </div>
                                     <div class="icon-content">
                                         <h3 class="h3">Pixel Perfect Design</h3>
-                                        <p class="h6">Expertise lies in maintaining consistency, achieving precision, and ensuring optimal user experience across different browsers and devices.
+                                        <p class="dark-text">Expertise lies in maintaining consistency, achieving precision, and ensuring optimal user experience across different browsers and devices.
                                         </p>
                                     </div>
                                 </li>
@@ -179,7 +180,7 @@
                                
                                     <div class="icon-content">
                                         <h3 class="h3">Unique &amp; Minimal Design</h3>
-                                        <p class="h6">Stay updated with the latest developments and experiment with innovative design approaches to create fresh and captivating web experiences.
+                                        <p class="dark-text">Stay updated with the latest developments and experiment with innovative design approaches to create fresh and captivating web experiences.
                                         </p>
                                     </div>
                                 </li>
@@ -190,14 +191,14 @@
                                     
                                     <div class="icon-content">
                                         <h3 class="h3">24/7 Free Online Support</h3>
-                                        <p class="h6">Get peace of mind <span class="text-primary">with our 24/7 free online support</span>, ensuring prompt assistance and uninterrupted service whenever you need it.
+                                        <p class="dark-text">Get peace of mind <span class="text-primary">with our 24/7 free online support</span>, ensuring prompt assistance and uninterrupted service whenever you need it.
                                         </p>
                                     </div>
                                 </li>
                             </ul>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-7">
+                    <div class="col-lg-5 col-md-7">
                         <div class="feature-img-wrap">
                             <img src="assets/img/homedev1.jpg" alt="feature image" class="img-fluid rounded-custom">
                         </div>
@@ -398,177 +399,7 @@
             </div>
         </section> <!--work process section end-->
 
-        <!--integration section start-->
-        <!-- <section class="integration-section pt-60 pb-120">
-            <div class="container">
-                <div class="row align-items-center justify-content-lg-between">
-                    <div class="col-lg-6 col-md-12">
-                        <div class="section-heading" data-aos="fade-up">
-                            <h4 class="h5 text-primary">Integration</h4>
-                            <h2>We Collaborate with Top Software Company</h2>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-12">
-                        <div class="text-lg-end mb-5 mb-lg-0" data-aos="fade-up">
-                            <a href="integrations.html" class="btn btn-primary">View All Integrations</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-12">
-                        <div class="integration-wrapper position-relative w-100">
-                            <ul
-                                class="position-absolute animate-element parallax-element shape-service z--1 d-none d-lg-none d-xl-block">
-
-                                <li class="layer" data-depth="0.02">
-                                    <img src="assets/img/color-shape/feature-2.svg" alt="shape"
-                                        class="img-fluid position-absolute color-shape-2 z-5">
-                                </li>
-                                <li class="layer" data-depth="0.03">
-                                    <img src="assets/img/color-shape/feature-3.svg" alt="shape"
-                                        class="img-fluid position-absolute color-shape-3">
-                                </li>
-                            </ul>
-                            <ul class="integration-list list-unstyled mb-0">
-                                <li data-aos="fade-up" data-aos-delay="50">
-                                    <div class="single-integration bg-white">
-                                        <img src="assets/img/integations/airbnb.png" alt="integration"
-                                            class="img-fluid">
-                                        <h6 class="mb-0 mt-4">Brand Name</h6>
-                                    </div>
-                                </li>
-                                <li data-aos="fade-up" data-aos-delay="50">
-                                    <div class="single-integration bg-white">
-                                        <img src="assets/img/integations/figma.png" alt="integration" class="img-fluid">
-                                        <h6 class="mb-0 mt-4">Brand Name</h6>
-                                    </div>
-                                </li>
-                                <li data-aos="fade-up" data-aos-delay="50">
-                                    <div class="single-integration bg-white">
-                                        <img src="assets/img/integations/facebook.png" alt="integration"
-                                            class="img-fluid">
-                                        <h6 class="mb-0 mt-4">Brand Name</h6>
-                                    </div>
-                                </li>
-                                <li data-aos="fade-up" data-aos-delay="50">
-                                    <div class="single-integration bg-white">
-                                        <img src="assets/img/integations/sales-force.png" alt="integration"
-                                            class="img-fluid">
-                                        <h6 class="mb-0 mt-4">Brand Name</h6>
-                                    </div>
-                                </li>
-                                <li data-aos="fade-up" data-aos-delay="50">
-                                    <div class="single-integration bg-white">
-                                        <img src="assets/img/integations/atlassian.png" alt="integration"
-                                            class="img-fluid">
-                                        <h6 class="mb-0 mt-4">Brand Name</h6>
-                                    </div>
-                                </li>
-                                <li data-aos="fade-up" data-aos-delay="50">
-                                    <div class="single-integration bg-white">
-                                        <img src="assets/img/integations/dropbox-2.png" alt="integration"
-                                            class="img-fluid">
-                                        <h6 class="mb-0 mt-4">Brand Name</h6>
-                                    </div>
-                                </li>
-                                <li data-aos="fade-up" data-aos-delay="100">
-                                    <div class="single-integration bg-white">
-                                        <img src="assets/img/integations/dynamic-365.png" alt="integration"
-                                            class="img-fluid">
-                                        <h6 class="mb-0 mt-4">Brand Name</h6>
-                                    </div>
-                                </li>
-                                <li data-aos="fade-up" data-aos-delay="100">
-                                    <div class="single-integration bg-white">
-                                        <img src="assets/img/integations/erecruiter.png" alt="integration"
-                                            class="img-fluid">
-                                        <h6 class="mb-0 mt-4">Brand Name</h6>
-                                    </div>
-                                </li>
-                                <li data-aos="fade-up" data-aos-delay="100">
-                                    <div class="single-integration bg-white">
-                                        <img src="assets/img/integations/evernote.png" alt="integration"
-                                            class="img-fluid">
-                                        <h6 class="mb-0 mt-4">Brand Name</h6>
-                                    </div>
-                                </li>
-                                <li data-aos="fade-up" data-aos-delay="100">
-                                    <div class="single-integration bg-white">
-                                        <img src="assets/img/integations/google-icon.png" alt="integration"
-                                            class="img-fluid">
-                                        <h6 class="mb-0 mt-4">Brand Name</h6>
-                                    </div>
-                                </li>
-
-                                <li data-aos="fade-up" data-aos-delay="100">
-                                    <div class="single-integration bg-white">
-                                        <img src="assets/img/integations/slack.png" alt="integration" class="img-fluid">
-                                        <h6 class="mb-0 mt-4">Brand Name</h6>
-                                    </div>
-                                </li>
-
-                                <li data-aos="fade-up" data-aos-delay="100">
-                                    <div class="single-integration bg-white">
-                                        <img src="assets/img/integations/google-analytics.png" alt="integration"
-                                            class="img-fluid">
-                                        <h6 class="mb-0 mt-4">Brand Name</h6>
-                                    </div>
-                                </li>
-
-                                <li data-aos="fade-up" data-aos-delay="150">
-                                    <div class="single-integration bg-white">
-                                        <img src="assets/img/integations/google-drive.png" alt="integration"
-                                            class="img-fluid">
-                                        <h6 class="mb-0 mt-4">Brand Name</h6>
-                                    </div>
-                                </li>
-
-                                <li data-aos="fade-up" data-aos-delay="150">
-                                    <div class="single-integration bg-white">
-                                        <img src="assets/img/integations/hubspot.png" alt="integration"
-                                            class="img-fluid">
-                                        <h6 class="mb-0 mt-4">Brand Name</h6>
-                                    </div>
-                                </li>
-
-                                <li data-aos="fade-up" data-aos-delay="150">
-                                    <div class="single-integration bg-white">
-                                        <img src="assets/img/integations/instagram.png" alt="integration"
-                                            class="img-fluid">
-                                        <h6 class="mb-0 mt-4">Brand Name</h6>
-                                    </div>
-                                </li>
-                                <li data-aos="fade-up" data-aos-delay="150">
-                                    <div class="single-integration bg-white">
-                                        <img src="assets/img/integations/linkedin.png" alt="integration"
-                                            class="img-fluid">
-                                        <h6 class="mb-0 mt-4">Brand Name</h6>
-                                    </div>
-                                </li>
-                                <li data-aos="fade-up" data-aos-delay="150">
-                                    <div class="single-integration bg-white">
-                                        <img src="assets/img/integations/mailchimp.png" alt="integration"
-                                            class="img-fluid">
-                                        <h6 class="mb-0 mt-4">Brand Name</h6>
-                                    </div>
-                                </li>
-                                <li data-aos="fade-up" data-aos-delay="150">
-                                    <div class="single-integration bg-white">
-                                        <img src="assets/img/integations/marekto.png" alt="integration"
-                                            class="img-fluid">
-                                        <h6 class="mb-0 mt-4">Brand Name</h6>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>  -->
-        <!--integration section end-->
-
-        <!--customer review tab section start-->
-        <!-- <section class="testimonial-section pb-120 bg-light-subtle"> -->
+       
         <section class="testimonial-section pb-120 pb-50 bg-light-subtle">
             <div class="container">
                 <div class="row justify-content-center align-content-center">

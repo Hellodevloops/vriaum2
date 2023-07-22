@@ -65240,6 +65240,8 @@ span.mk-subtitle {
     color: #a3a3a3
 }
 
+
+
 [data-bs-theme=dark] .bg-white h1,
 [data-bs-theme=dark] .bg-white .h1,
 [data-bs-theme=dark] .bg-white h2,
@@ -65317,6 +65319,17 @@ span.mk-subtitle {
 .width{
     width:100%;
 }
+
+.dark-text {
+    color: #333; /* Replace #333 with the desired dark color code */
+  }
+
+.my-section {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
 
 /*# sourceMappingURL=scss */
 /*# sourceMappingURL=scss */
