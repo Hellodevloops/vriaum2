@@ -1,15 +1,74 @@
 @extends('layouts.app')
 @section('content')
  
+<!-- 1st st -->
+<section class="promo-section ptb-120 my-section">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 col-md-10">
+                        <div class="section-heading text-center">
+                            <h2>About Us- Empowering Global Talent and Opportunities</h2>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="promo-single position-relative text-center bg-white custom-shadow rounded-custom p-5 mb-4">
+                            <!-- <div class="promo-icon mb-32">
+                                <i class="fas fa-wifi text-primary fa-3x"></i>
+                            </div> -->
+                            <div class="promo-info">
+                                <h3 class="h5">Our Vision</h3>
+                                <p class="mb-0">Our Vision is we envision a world where talented individuals can explore their full potential, gain valuable cross-cultural experiences, and contribute their expertise to diverse industries across borders.</p>
+                            </div>
+                            <!--pattern start-->
+                            <div class="dot-shape-bg position-absolute z--1 left--40 top--40">
+                                <img src="assets/img/shape/dot-big-square.svg" alt="shape">
+                            </div>
+                            <!--pattern end-->
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="promo-single position-relative text-center bg-white custom-shadow rounded-custom p-5 mb-4">
+                            <!-- <div class="promo-icon mb-32">
+                                <i class="fas fa-user-friends text-success fa-3x"></i>
+                            </div> -->
+                            <div class="promo-info">
+                                <h3 class="h5">Our Mission</h3>
+                                <p class="mb-0">Our Mission is To provide exceptional internship opportunities  with practical skills and intercultural competencies, and to facilitate seamless migration staffing for organizations seeking qualified talent from around the globe.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="promo-single position-relative text-center bg-white custom-shadow rounded-custom p-5 mb-4">
+                            <!-- <div class="promo-icon mb-32">
+                                <i class="fas fa-bezier-curve text-danger fa-3x"></i>
+                            </div> -->
+                            <div class="promo-info">
+                                <h3 class="h5">Our Team</h3>
+                                <p class="mb-0">Our multicultural team comprises experts in immigration, talent acquisition, and cross-cultural communication. Together, we work passionately to provide you with the support and guidance you need on your journey to international success.</p>
+                            </div>
+                            <!--pattern start-->
+                            <div class="dot-shape-bg position-absolute z--1 right--40 bottom--40">
+                                <img src="assets/img/shape/dot-big-square.svg" alt="shape">
+                            </div>
+                            <!--pattern end-->
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </section>
+<!-- 1sted -->
 
-
-    <section class="feature-tab-section ptb-120 bg-light-subtle">
+    <section class="feature-tab-section ptb-120 bg-light-subtle my-section">
         <div class="container">
             <div class="row justify-content-center align-content-center">
                 <div class="col-md-10 col-lg-8">
                     <div class="section-heading text-center mb-4">
                         <!-- <h5 class="h6 text-primary">Features</h5> -->
-                        <h2>Th Services We Offer Are</h2>
+                        <h2>Services We Provides</h2>
                         <!-- <p>Continually promote equity invested process improvements whereas go forward leadership. Completely unleash cross-media methodologies whereas intermandated outsourcing.</p> -->
                     </div>
                 </div>
@@ -26,7 +85,7 @@
                         <li class="nav-item" role="presentation">
                             <a class="nav-link" href="#tab-2-2" data-bs-toggle="tab" data-bs-target="#tab-2-2"
                                 role="tab" aria-selected="false" tabindex="-1">
-                                Mobile app Development
+                                Mobile App Development
                             </a>
                         </li>
                         <li class="nav-item" role="presentation">
@@ -38,7 +97,7 @@
                         <li class="nav-item" role="presentation">
                             <a class="nav-link" href="#tab-2-4" data-bs-toggle="tab" data-bs-target="#tab-2-4"
                                 role="tab" aria-selected="false" tabindex="-1">
-                                staffing
+                                Staffing
                             </a>
                         </li>
                         <li class="nav-item" role="presentation">
@@ -195,7 +254,7 @@
                         <h2>Solutions for Your Business Needs</h2>
                         <p><span class="text-primary">VriAum Technologies LLC </span> deep industry expertise,
                             cost-effective delivery methodology,
-                            <u>highly skilled engineers and professionals</u> , focus on quality standards, and flexibility
+                            <span class="text-black">highly skilled engineers and professionals</span> , focus on quality standards, and flexibility
                             in meeting your specific business requirements effectively eliminate risk and provide
                             the foundation for our shared success.
                         </p>
@@ -375,7 +434,7 @@
     <!--team section end-->
 
     <!--testimonial section start-->
-    <section class="testimonial-section ptb-120 ">
+    <section class="testimonial-section ptb-120 my-section ">
         <div class="container">
             <div class="row justify-content-center align-content-center">
                 <div class="col-md-10 col-lg-6">
@@ -549,7 +608,7 @@
     <!--testimonial section end-->
 
     <!--our location address start-->
-    <section class="office-address-section ptb-120">
+    <section class="office-address-section ptb-120 my-section">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-12">
