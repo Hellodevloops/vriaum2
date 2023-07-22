@@ -7,30 +7,17 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-10">
                         <div class="hero-content-wrap mt-5 mt-lg-0 mt-xl-0">
-                        <h1>About Us</h1>
+                        <h1>About </h1>
                         <p class=" h5" >Welcome to VriAum for USA staffing, your reliable partner in connecting top talent with excellent opportunities. Our mission is to bridge the gap between job seekers and employers, making the recruitment process smooth and efficient.</p>
 
                          <p  class=" h5">With a proven track record of successful placements and satisfied clients. We pride ourselves on our dedication to excellence, integrity, and personalized services, making us a preferred choice for both employers and job seekers alike.</p>
-                            <!-- <div class="action-btn mt-5 align-items-center d-block d-sm-flex d-lg-flex d-md-flex">
-                                <a href="request-demo.html" class="btn btn-primary me-3">Request For Demo</a>
-                                <a href="http://www.youtube.com/watch?v=hAP2QF--2Dg" class="text-decoration-none popup-youtube d-inline-flex align-items-center watch-now-btn mt-3 mt-lg-0 mt-md-0 text-primary">
-                                    <i class="fas fa-play text-primary border-2 border-primary"></i>
-                                    Watch Demo
-                                </a>
-                            </div> -->
+                           
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="hero-img position-relative mt-5 mt-lg-0 pt-80">
                             <img src="assets/img/usarr.jpg" alt="hero hero-it-solution " class="img-fluid">
-                            <!-- <div class="dots">
-                                <img src="assets/img/banner_dot.png" alt="dot" class="dot-1">
-                                <img src="assets/img/banner_dot.png" alt="dot" class="dot-2">
-                            </div> -->
-                            <!-- <div class="bubble">
-                                <span class="bubble-1"></span>
-                                <span class="bubble-2"></span>
-                            </div> -->
+                            
                         </div>
                     </div>
                 </div>
@@ -38,48 +25,17 @@
         </section>
         <!--page header section end-->
         <!-- start -->
-        <div class="style-guide">
-           
-
-            <!--cat section start-->
-           
-            <!--cat section end-->
-
-        </div>
+        
 
 
 
         <!-- end -->
 <!-- about service start -->
-<div class="row align-items-center justify-content-between">
-                    <div class="col-lg-12 col-md-12">
-                        <div class="section-heading">
-                            <!-- <h4 class="h5 text-primary mt-3">Career Catalysts: Staffing Services for USA and Canada</h4>
-                            <h3>Empowering Migration: Training for Success in the USA and Canada</h3> -->
-                        </div> 
-                    </div>
-                    <div class="col-lg-12 col-md-12">
-                        <!-- <div class="text-start text-lg-end mb-4 mb-lg-0 mb-xl-0">
-                            <a href="blog.html" class="btn btn-primary">View All Article</a>
-                        </div> -->
-                    </div>
-         </div>
 
-         <div class="row align-items-center justify-content-between">
-                    <div class="col-lg-12 col-md-12">
-                        <div class="section-heading">
-                            <!-- <h4 class="h5 text-primary mt-3">Career Catalysts: Staffing Services for USA and Canada</h4>
-                            <h3>Empowering Migration: Training for Success in the USA and Canada</h3> -->
-                        </div> 
-                    </div>
-                    <div class="col-lg-12 col-md-12">
-                        <!-- <div class="text-start text-lg-end mb-4 mb-lg-0 mb-xl-0">
-                            <a href="blog.html" class="btn btn-primary">View All Article</a>
-                        </div> -->
-                    </div>
-         </div>
+
+        
 <!-- 2 sec -->
-<section class="pt-50 pb-50 bg-dark">
+<section class="pt-50 pb-50 bg-dark my-section">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-6">
@@ -158,6 +114,7 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- t -->
                         <!-- t -->
                         <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
                             <div class="tab-content-wrapper pt-60 pb-60">
@@ -240,7 +197,7 @@
 
 <!-- about service end -->
         <!--features grid section start--> 
-        <section class="feature-promo ptb-120 bg-light-subtle">
+        <section class="feature-promo ptb-120 bg-light-subtle my-section">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-10">
@@ -251,44 +208,10 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="row justify-content-center">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="single-feature-promo p-lg-5 p-4 text-center mt-3">
-                            <div class="feature-icon icon-center pb-5 rounded-custom bg-primary">
-                                <i class="fas fa-bolt fa-2x text-white"></i>
-                            </div>
-                            <div class="feature-info-wrap">
-                                <h3 class="h5">Good Performance</h3>
-                                <p>Appropriately grow competitive leadership rather than strategic technically sound processes without state. </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="single-feature-promo p-lg-5 p-4 text-center mt-3">
-                            <div class="feature-icon icon-center pb-5 rounded-custom bg-danger">
-                                <i class="fas fa-lock fa-2x text-white"></i>
-                            </div>
-                            <div class="feature-info-wrap">
-                                <h3 class="h5">Highly Secure</h3>
-                                <p>Appropriately grow competitive leadership rather than strategic technically sound processes without state. </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="single-feature-promo p-lg-5 p-4 text-center mt-3">
-                            <div class="feature-icon icon-center pb-5 rounded-custom bg-dark">
-                                <i class="fas fa-code fa-2x text-white"></i>
-                            </div>
-                            <div class="feature-info-wrap">
-                                <h3 class="h5">Fast Development</h3>
-                                <p>Appropriately grow competitive leadership rather than strategic technically sound processes without state. </p>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
+               
                 <div class="row pt-lg-5 pt-3">
                     <div class="col-lg-6 mt-4">
-                        <div class="position-relative d-flex flex-column h-100 flex-wrap bg-danger-soft p-5 rounded-custom">
+                        <div class="position-relative d-flex flex-column h-100 flex-wrap bg-primary-soft p-5 rounded-custom">
                             <div class="cta-left-info mb-2">
                                 <h5>Client-Centric</h5>
                                 <p>We take the time to understand your organization's goals, culture, and specific job requirements. Our team works closely with you to ensure we present the most suitable candidates who align with your company's values. </p>
@@ -324,7 +247,7 @@
 
 
         <!-- it non st -->
-        <section class="cyber-faq pt-120 pb-60">
+        <section class="cyber-faq pt-120 pb-60 my-section">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-12 col-lg-6">
@@ -341,22 +264,7 @@
                     <div class="col-lg-6 col-md-12">
                         <div class="cyber-faq-wrapper">
                             <div class="accordion faq-accordion" id="accordionExample">
-                                <!-- <div class="accordion-item border border-2 rounded active">
-                                    <h5 class="accordion-header" id="faq-1">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false">
-                                            How Is Encryption Different From Hacking?
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-1" class="accordion-collapse collapse" aria-labelledby="faq-1" data-bs-parent="#accordionExample" style="">
-                                        <div class="accordion-body">
-                                            There are many variations of passages of Lorem Ipsum
-                                            available but the majority suffered is alteration in that
-                                            words which don't look even slightly believable. If you are
-                                            Lorem Ipsum you need to be sure there isn't anything ready
-                                            too much embarrassing.
-                                        </div>
-                                    </div>
-                                </div> -->
+                               
                                 <div class="accordion-item border border-2 rounded">
                                     <h5 class="accordion-header" id="faq-2">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false">
@@ -398,58 +306,24 @@
                     </div>
                     <div class="col-lg-6">
                  <div class="pt-1">
-                    <!-- <div class="d-flex about-icon-box-lg align-items-center">
-                        <div class="me-3">
-                            <img src="assets/img/Vri_logo_preview.png" alt="">
-                        </div>
-                        <div>
-                            <h5>Empowering Businesses with Cutting-Edge</h5>
-                        </div>
-                    </div> -->
+                    
                     <div class="section-heading ">
-                        <!-- <h4 class="lead mb-2">Driving Innovation and Transformation</h4> -->
-                    <h2 class="mb-4 text-primary"> Our Approach for IT Sector:</h2>
-                     <p>Our internship program offers a dynamic platform for candidates to gain hands-on experience in their chosen fields. We partner with leading companies in various industries, including IT and non-IT sectors, to provide enriching internship opportunities. Through carefully curated internship projects, candidates can apply their theoretical knowledge to real-world scenarios, develop industry-relevant skills, and enhance their professional profiles.</p>
+                        
+                     <h2 class="mb-4 text-primary"> Our Approach for IT Sector:</h2>
+                     <p class="dark-text">Our internship program offers a dynamic platform for candidates to gain hands-on experience in their chosen fields. We partner with leading companies in various industries, including IT and non-IT sectors, to provide enriching internship opportunities.Candidates can apply their theoretical knowledge to real-world scenarios, develop industry-relevant skills, and enhance their professional profiles.</p>
                    
                    </div>
                    
                     </div>
                  </div>
                 </div>
-                <div class="row align-items-center justify-content-between">
-                    <div class="col-lg-12 col-md-12">
-                        <div class="section-heading">
-                            <!-- <h4 class="h5 text-primary mt-3">Career Catalysts: Staffing Services for USA and Canada</h4>
-                            <h3>Empowering Migration: Training for Success in the USA and Canada</h3> -->
-                        </div> 
-                    </div>
-                    <div class="col-lg-12 col-md-12">
-                        <!-- <div class="text-start text-lg-end mb-4 mb-lg-0 mb-xl-0">
-                            <a href="blog.html" class="btn btn-primary">View All Article</a>
-                        </div> -->
-                    </div>
-         </div>
+            
                 <!-- 2start -->
                 <div class="row">
                     <div class="col-lg-6 col-md-12">
                         <div class="cyber-faq-wrapper">
                             <div class="accordion faq-accordion" id="accordionExample">
-                                <!-- <div class="accordion-item border border-2 rounded active">
-                                    <h5 class="accordion-header" id="faq-1">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false">
-                                            How Is Encryption Different From Hacking?
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-1" class="accordion-collapse collapse" aria-labelledby="faq-1" data-bs-parent="#accordionExample" style="">
-                                        <div class="accordion-body">
-                                            There are many variations of passages of Lorem Ipsum
-                                            available but the majority suffered is alteration in that
-                                            words which don't look even slightly believable. If you are
-                                            Lorem Ipsum you need to be sure there isn't anything ready
-                                            too much embarrassing.
-                                        </div>
-                                    </div>
-                                </div> -->
+                               
                                 <div class="accordion-item border border-2 rounded">
                                     <h5 class="accordion-header" id="faq-2">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false">
@@ -491,51 +365,19 @@
                     </div>
                     <div class="col-lg-6">
                           <div class="pt-1">
-                            <!-- <div class="d-flex about-icon-box-lg align-items-center">
-                           <div class="me-3">
-                            <img src="assets/img/Vri_logo_preview.png" alt="">
-                        </div>
-                        <div>
-                            <h5>Empowering Businesses with Cutting-Edge</h5>
-                        </div>
-                      </div> -->
+                            
                          <div class="section-heading ">
-                        <!-- <h4 class="lead mb-2">Driving Innovation and Transformation</h4> -->
-                        <h2 class="mb-4 text-primary">Approach for Non IT Sector</h2>
-                       <p>Our Non-IT internship program caters to various industries, including finance, healthcare, marketing, engineering, and more. We partner with leading companies in these sectors, offering internships that provide valuable exposure and practical experience.</p>
+                        
+                          <h2 class="mb-4 text-primary">Approach for Non IT Sector</h2>
+                          <p class="dark-text">Our Non-IT internship program caters to various industries, including finance, healthcare, marketing, engineering, and more. We partner with leading companies in these sectors, offering internships that provide valuable exposure and practical experience.</p>
                       
-                   </div>
+                       </div>
                    
                      </div>
                  </div>
                 </div>
                 <!-- 2end -->
-                <div class="row align-items-center justify-content-between">
-                    <div class="col-lg-12 col-md-12">
-                        <div class="section-heading">
-                            <!-- <h4 class="h5 text-primary mt-3">Career Catalysts: Staffing Services for USA and Canada</h4>
-                            <h3>Empowering Migration: Training for Success in the USA and Canada</h3> -->
-                        </div> 
-                    </div>
-                    <div class="col-lg-12 col-md-12">
-                        <!-- <div class="text-start text-lg-end mb-4 mb-lg-0 mb-xl-0">
-                            <a href="blog.html" class="btn btn-primary">View All Article</a>
-                        </div> -->
-                    </div>
-         </div>
-         <div class="row align-items-center justify-content-between">
-                    <div class="col-lg-12 col-md-12">
-                        <div class="section-heading">
-                            <!-- <h4 class="h5 text-primary mt-3">Career Catalysts: Staffing Services for USA and Canada</h4>
-                            <h3>Empowering Migration: Training for Success in the USA and Canada</h3> -->
-                        </div> 
-                    </div>
-                    <div class="col-lg-12 col-md-12">
-                        <!-- <div class="text-start text-lg-end mb-4 mb-lg-0 mb-xl-0">
-                            <a href="blog.html" class="btn btn-primary">View All Article</a>
-                        </div> -->
-                    </div>
-         </div>
+               
                
             </div>
         </section>
@@ -544,12 +386,12 @@
 
         
 <!-- tab features strats -->
-<section class="promo-section ptb-120 bg-light-subtle ">
+<section class="promo-section ptb-120 bg-light-subtle my-section ">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-10 col-lg-6">
                         <div class="section-heading text-center aos-init aos-animate" data-aos="fade-up">
-                            <h2>Why Choose VriAum for Internship and Migrating Staffing to USA</h2>
+                            <h3>Why Choose VriAum for Internship and Migrating Staffing to USA</h3>
                             <p>Choosing VriAum means gaining a reliable partner who values your success. Here are some reasons why we stand out </p>
                         </div>
                     </div>
@@ -558,8 +400,9 @@
                     <div class="col-md-6 col-lg-4 mt-4 mt-lg-0 mt-md-0">
                         <div class="bg-dark p-5 text-center d-flex flex-column h-100 rounded-custom aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                             <div class="promo-card-info mb-4">
-                                <h3 class="display-5 fw-bold mb-4"> Extensive Network
-                                </h3>
+                                <h2> Extensive Network
+                                </h2>
+                                <!--class="display-5 fw-bold mb-4"  -->
                                 <p>With our wide-ranging network of job seekers and employers, we can connect you with the right people and opportunities. </p>
                             </div>
                             <!-- <div class="mt-auto">
@@ -570,8 +413,8 @@
                     <div class="col-md-6 col-lg-4 mt-4 mt-lg-0 mt-md-0">
                         <div class="bg-dark p-5 text-center d-flex flex-column h-100 rounded-custom aos-init aos-animate" data-aos="fade-up" data-aos-delay="150">
                             <div class="promo-card-info mb-4">
-                                <h3 class="display-5 fw-bold mb-4"> Industry Expertise
-                                </h3>
+                                <h2> Industry Expertise
+                                </h2>
                                 <p>Our team has in-depth knowledge and expertise in various industries, enabling us to find the best matches and provide valuable insights. </p>
                             </div>
                             <!-- <div class="mt-auto">
@@ -582,8 +425,8 @@
                     <div class="col-md-6 col-lg-4 mt-4 mt-lg-0">
                         <div class="bg-dark p-5 text-center d-flex flex-column h-100 rounded-custom aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
                             <div class="promo-card-info mb-4">
-                                <h3 class="display-5 fw-bold mb-4"></i>
-                                Personalized Approach</h3>
+                                <h2>
+                                Personalized Approach</h2>
                                 <p>We believe in providing personalized services tailored to meet your specific needs and preferences.</p>
                             </div>
                             <!-- <div class="mt-auto">
@@ -597,7 +440,7 @@
         </section>
 <!-- tab features end -->
 <!-- faq start -->
-<section class="faq-section ptb-120">
+<section class="faq-section ptb-120 my-section">
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-lg-7 col-12">
@@ -624,18 +467,7 @@
                                     </div>
                                 </div>
 
-                                <!-- <div class="accordion-item border border-2">
-                                    <h5 class="accordion-header" id="faq-5">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false">
-                                        Can you help with staffing and immigration to both the USA and Canada?
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-5" class="accordion-collapse collapse" aria-labelledby="faq-5" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                        Yes, we provide assistance with staffing and immigration services for both the USA and Canada.
-                                        </div>
-                                    </div>
-                                </div> -->
+                               
                                 <div class="accordion-item border border-2">
                                     <h5 class="accordion-header" id="faq-2">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false">
@@ -687,18 +519,7 @@
                                     </div>
                                 </div>
 
-                                <!-- <div class="accordion-item border border-2">
-                                    <h5 class="accordion-header" id="faq-5">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false">
-                                        How long do the internships typically last?
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-5" class="accordion-collapse collapse" aria-labelledby="faq-5" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                        The duration of internships can vary. Some internships may span a few weeks, while others may last several months. To get the exact duration please contact VriAum.
-                                        </div>
-                                    </div>
-                                </div> -->
+                                
                             </div>
                         </div>
                     </div>
@@ -707,7 +528,7 @@
 <!-- faq end -->
   
 <!-- integrate companies  -->
-<section class="customer-review-tab ptb-120 bg-light-subtle position-relative z-2">
+<section class="customer-review-tab ptb-120 bg-light-subtle position-relative z-2 my-section">
                 <div class="container">
                     <div class="row justify-content-center align-content-center">
                         <div class="col-md-10 col-lg-6">
@@ -1008,7 +829,7 @@
 
 <!-- testimonial end -->
 {{-- contact us form start --}}
-<section class="contact-us ptb-120 position-relative ">
+<section class="contact-us ptb-120 position-relative  ">
     <div class="container">
         <div class="row justify-content-between">
             <div class="col-xl-5 col-lg-5 col-md-12">

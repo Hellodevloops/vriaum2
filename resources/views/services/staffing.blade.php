@@ -2,7 +2,7 @@
 @section('content')
         
         <!--page header section start-->
-        <section class="related-blog-list ptb-120 bg-light-subtle">
+        <section class="related-blog-list ptb-120 bg-light-subtle my-section">
             <div class="container">
                 <div class="row align-items-center justify-content-between">
                     <div class="col-lg-12 col-md-12">
@@ -24,25 +24,10 @@
                                 <img src="assets/img/usa1.jpg" alt="article" class="img-fluid">
                             </a>
                             <div class="article-content p-4">
-                                <!-- <div class="article-category mb-4 d-block">
-                                    <a href="javascript:;" class="d-inline-block text-dark badge bg-warning-soft">Design</a>
-                                </div> -->
-                                <!-- <a href="blog-single.html">
-                                    <h2 class="h5 article-title limit-2-line-text">Do you really understand the concept of product value?</h2>
-                                </a> -->
+                                
                                 <p class="">With a strong economy and a diverse job market, migrant candidates can find employment in major cities such as New York, San Francisco, Los Angeles, and Chicago.</p>
 
-                                <!-- <a href="javascript:;">
-                                    <div class="d-flex align-items-center pt-4">
-                                        <div class="avatar">
-                                            <img src="assets/img/testimonial/6.jpg" alt="avatar" width="40" class="img-fluid rounded-circle me-3">
-                                        </div>
-                                        <div class="avatar-info">
-                                            <h6 class="mb-0 avatar-name">Jane Martin</h6>
-                                            <span class="small fw-medium text-muted">April 24, 2021</span>
-                                        </div>
-                                    </div>
-                                </a> -->
+                                
 
                             </div>
                         </div>
@@ -53,52 +38,30 @@
                                 <img src="assets/img/canada.jpg" alt="article" class="img-fluid">
                             </a>
                             <div class="article-content p-4">
-                                <!-- <div class="article-category mb-4 d-block">
-                                    <a href="javascript:;" class="d-inline-block text-dark badge bg-warning-soft">Design</a>
-                                </div> -->
-                                <!-- <a href="blog-single.html">
-                                    <h2 class="h5 article-title limit-2-line-text">Do you really understand the concept of product value?</h2>
-                                </a> -->
+                                
                                 <p class="">With our guidance and support,Canada offers abundant job opportunities for migrant candidates, particularly in sectors such as IT, healthcare, engineering, finance, and skilled trades.</p>
 
-                                <!-- <a href="javascript:;">
-                                    <div class="d-flex align-items-center pt-4">
-                                        <div class="avatar">
-                                            <img src="assets/img/testimonial/6.jpg" alt="avatar" width="40" class="img-fluid rounded-circle me-3">
-                                        </div>
-                                        <div class="avatar-info">
-                                            <h6 class="mb-0 avatar-name">Jane Martin</h6>
-                                            <span class="small fw-medium text-muted">April 24, 2021</span>
-                                        </div>
-                                    </div>
-                                </a> -->
+                                
 
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6">
+                    <!-- <div class="col-lg-4 col-md-6">
                        
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </section>
         <!--page header section end-->
         <!-- start -->
-        <div class="style-guide">
-           
-
-            <!--cat section start-->
-           
-            <!--cat section end-->
-
-        </div>
+        
 
 
 
         <!-- end -->
 <!-- about service start -->
 <!-- sec start -->
-<section class="feature-section-two pt-60 " style="background: url('assets/img/hero-9-img.png')no-repeat center center;">
+<section class="feature-section-two pt-60 my-section " style="background: url('assets/img/hero-9-img.png')no-repeat center center;">
             <div class="container">
                 <div class="row align-items-center justify-content-lg-between justify-content-center">
                     <div class="col-lg-6 col-md-12">
@@ -154,10 +117,10 @@
 
 <!-- about service end -->
         <!--features grid section start--> 
-        <section class="integration-details ptb-120">
+        <section class="integration-details ptb-120 my-section">
                 <div class="container">
                     <div class="row justify-content-between">
-                        <div class="col-lg-4 pe-5">
+                        <div class="col-lg-7 pe-5">
                             <div class="integration-details-wrap">
                                 <h1 class="h2 text-primary">Migration Details</h1>
                                <h6> <p>It's important to note that the specific services and support provided may vary depending on the migration agency, destination country, and individual candidate's needs and preferences.
@@ -191,7 +154,7 @@
                             <a href="{{route('contact.index')}}" class="read-more-link text-decoration-none mt-4 d-block">Contact Us
                                                 <i class="fas fa-arrow-right ms-2"></i></a>
                         </div>
-                        <div class="col-lg-6">
+                        <div class="col-lg-5">
                         <img src="assets/img/usacan1.jpg" class="img-fluid mt-4 rounded-custom" alt="apply">
                         </div>
                     </div>
@@ -199,7 +162,7 @@
             </section>
         <!--features grid section end-->
 <!-- tab features strats -->
-<section class="feature-section-two ptb-120">
+<section class="feature-section-two ptb-120 my-section">
     <div class="container">
         <div class="section-heading text-center mb-5">
             <h5 class="h6 text-primary">Why Choose Us?</h5>
@@ -256,7 +219,7 @@
 </section>
 <!-- tab features end -->
 <!-- faq start -->
-<section class="faq-section ptb-120">
+<section class="faq-section ptb-120 my-section">
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-lg-7 col-12">
@@ -367,7 +330,7 @@
 <!-- faq end -->
   
 <!-- integrate companies  -->
-<section class="customer-review-tab ptb-120 bg-light-subtle position-relative z-2">
+<section class="customer-review-tab ptb-120 bg-light-subtle position-relative z-2 my-section">
                 <div class="container">
                     <div class="row justify-content-center align-content-center">
                         <div class="col-md-10 col-lg-6">
