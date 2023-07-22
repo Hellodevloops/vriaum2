@@ -164,7 +164,7 @@
                                                             d="M15.354 3.354a.5.5 0 0 0-.708-.708L8 9.293 5.354 6.646a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l7-7z" />
                                                     </svg>
                                                 </span>
-                                                <div class="drop-title">placement</div>
+                                                <div class="drop-title">Placement</div>
                                             </a>
                                             <a href="{{ route('recruitment') }}" class="dropdown-link px-0">
                                                 <span class="me-2">
@@ -308,8 +308,8 @@
                                             class="img-fluid logo-footer logo-color" style="width: 320px;" />
                                     </a>
                                 </div>
-                                <p class="text text-black">Our latest news, articles, and resources, we will sent to
-                                    your inbox weekly. </p>
+                                <!-- <p class="text text-black">Our latest news, articles, and resources, we will sent to
+                                    your inbox weekly. </p> -->
 {{-- 
                                 <form class="newsletter-form position-relative d-block d-lg-flex d-md-flex">
                                     <input type="text" class="input-newsletter form-control me-2"
