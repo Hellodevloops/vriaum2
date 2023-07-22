@@ -157,13 +157,13 @@
                     <div class="col-xl-6 col-lg-6">
                         <div class="sc-about-right">
                             <h3 class="sc-heading-color mb-4 text-primary">Why Choose Us!</h3>
-                            <h5 class="text-black"> Assisting You Every Step of the Way</h5>
+                            <p class="text-black text-dark"> <b>Assisting You Every Step of the Way</b></p>
                             <p class="mb-0 text-black">When it comes to <span class="text-primary">intern staffing in the USA and CANADA</span> , we are your trusted partner.
                                          Our extensive network of industry connections across various sectors allows 
                                          us to connect you with top companies and organizations throughout the country.
-                                          We specialize in intern staffing and understand the unique requirements and challenges faced by interns. 
-                                          With our personalized guidance, we provide tailored career support, helping you navigate the competitive 
-                                          <u>job market and find internships that align with your field of interest.  We provide personalized career guidance and support</u>, helping you navigate the internship landscape and find opportunities that align with your goals and interests.
+                                          We specialize in intern staffing and understand the unique requirements and challenges faced by interns. <br>
+                                          With our personalized guidance, we provide tailored career support, <span class="text-primary">helping you navigate the competitive 
+                                          job market and find internships that align with your field of interest</span>.  We provide personalized career guidance and support, helping you navigate the internship  and find opportunities that align with your goals and interests.
                                          Our comprehensive support ensures that you have a seamless transition to Canada and a rewarding internship experience.</p>
                             <span class="doted-border d-block mt-40 mb-40"></span>
                             <!-- <div class="d-flex align-items-center sc-about-author">
@@ -191,7 +191,7 @@
                             <div class="crm-title mb-5">
                                 <!-- <span class="crm-subtitle">Integration Software <img src="assets/img/shape/arrow-red.png" alt="arrow" class="ms-1"></span> -->
                                 <h5 class="mt-2 mb-3">Training Program <img src="assets/img/shape/arrow-red.png" alt="arrow" class="ms-1"></h5>
-                                <h3  class="text-danger">Empowering Success through our Training Programs</h3>
+                                <p1  class="text-danger text-dark">Empowering Success through our Training Programs</p1>
                                 <p class="mb-0 text-black"><b>Our training program is designed to equip you with the skills and knowledge needed to excel in your chosen field.
                                 <span class="text-danger">We offer hands-on training led by industry professionals</span> who have extensive experience in the USA and Canada job
                                 markets. Our program covers a wide range of topics, including:</p>
@@ -251,7 +251,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="crm-feature-img">
-                            <img src="assets/img/crm/girl.png" alt="girl" class="img-fluid">
+                            <img src="assets/img/girljt.jpg" alt="girl" class="img-fluid">
                         </div>
                     </div>
                 </div>
@@ -278,12 +278,12 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <h4 class="heading-4 margin-bottom-8 clr-text">
+                        <h6 class="heading-4 margin-bottom-8 clr-text">
                         Explore Endless Opportunities: Job Placements in the USA and Canada
-                        </h4>
-                        <h5 class="clr-paragraph margin-bottom-10 text-danger   ">
+                        </h6>
+                        <p1 class="clr-paragraph margin-bottom-10 text-danger   ">
                         Unlock Your Potential with Transcontinental Placements: Your Gateway to Success in the USA and Canada.
-</h5>
+</p1>
                         <!-- <a href="#" class="link d-inline-flex padding-y-3 padding-x-10 margin-bottom-10 text-center rounded-pill bgc-primary font-weight-bold clr-white :clr-white">
                             More About Us
                         </a> -->
@@ -340,10 +340,10 @@
                 <div class="container px-50">
                     <div class="row g-4 gy-md-0 align-items-center">
                         <div class="col-md-8">
-                            <p class="text-white">Testimonials</p>
-                            <h4 class="heading-4 clr-white font-weight-bold mb-0 text-center text-md-start">
+                            <h5 class="text-white">Testimonials</h5>
+                            <p class="heading-4 clr-white font-weight-bold mb-0 text-center text-md-start">
                                 Trust Members Are Saying
-                            </h4>
+</p>
                         </div>
                         <div class="col-md-4">
                             <div class="swiper-pagination ca-testimonial-slider__pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 4" aria-current="true"></span></div>

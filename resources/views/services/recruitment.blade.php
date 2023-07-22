@@ -3,7 +3,7 @@
 
 <!-- hero section -->
 
-<section class="crm-hero ptb-100 position-relative overflow-hidden" style="background-image: url('assets/img/shape/crm-hero-bg.png')">
+<section class="crm-hero1 ptb-100 position-relative overflow-hidden" style="background-image: url('assets/img/hero-9-img.png')">
             <!-- <img src="assets/img/crm/slack.png" alt="slack" class="position-absolute slack-thumb"> -->
             <div class="container">
                 <div class="row justify-content-between">
@@ -11,7 +11,7 @@
                         <div class="crm-hero-content position-relative z-1">
                          
                             <h4 class="crm-subtitle fw-semibold">Build Everlasting<img src="assets/img/shape/arrow-lg-red.png" alt="arrow" class="ms-2"></h4>
-                            <h3 class="display-2 mb-0 text-white">Unlock Your Potential<span class="d-inline-block d-lg-block text-danger">with Our</span> Recruitment Services</h3>
+                            <p class="display-2 mb-0 text-white">Unlock Your Potential With <span class="d-inline-block d-lg-block crm-subtitle ">Our Recruitment Services </span></p>
 
                             <!-- <div class="crm-hero-bottom mt-60">
                                 <p class="text-white lead">30 Day Free Trial <span class="dot"></span> No Credit Card Required</p>
@@ -53,8 +53,8 @@
                     </div>
                     <div class="col-xl-7 col-lg-6">
                         <div class="dg-about-right ps-lg-4">
-                            <span class="fw-bold text-dg-primary">ABOUT COMPANY</span>
-                            <h4 class="mt-2 mb-4 heading-dg-color">Technology is best when<br> people work together</h4>
+                            <span class="fw-bold text-dg-primary">ABOUT COMPANY</span><br>
+                            <p1 class="mt-2 mb-4 text-black"><b>Technology is best when people work together</b></p1>
                             <p class="mb-5 text-dg-color text-black"><b>We are a leading placement and recruitment company,  <span class="fw-bold text-dg-primary">Our commitment lies in fostering meaningful partnerships between candidates and employers to drive success and growth</span>,Our personalized approach and extensive industry network ensure a seamless match between top talent and leading organizations.</p>
                             <!-- <a href="services.html" class="btn dg-outline-btn rounded-pill">Browse all Service</a> -->
                             <div class="dg-about-bottom position-relative mt-70">
@@ -83,8 +83,8 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-5">
                         <div class="section-title text-center mb-5">
-                            <span class="fw-bold text-primary">RECRUITMENT PROCESS</span>
-                            <h2 class="mt-2 heading-dg-color">Finding Your Perfect Match.!!</h2>
+                          <h4>  <span class=" text-primary">RECRUITMENT PROCESS</h4></span>
+                            <p1 class="mt-2 text-black display-lead tex--dark">Finding Your Perfect Match.!!</p1>
                         </div>
                     </div>
                 </div>
@@ -175,8 +175,8 @@
                     <div class="col-xl-5 col-lg-6">
                         <div class="dg-team-content text-center text-lg-start mb-4 mb-lg-0">
                             <span class="fw-bold text-dg-primary mb-2">MEET OUR EXPERTS</span>
-                            <img src="assets/img/shape/arrow-red.png" alt="arrow" class="ms-1">
-                            <h2 class="mb-4">Our awesome the trust from clients</h2>
+                            <img src="assets/img/shape/arrow-red.png" alt="arrow" class="ms-1"><br>
+                            <p1 class="mb-4 display-lead text-black">Our awesome the trust from clients</p1>
                             <p class="mb-40 text-black"><b>Get to know our team of experienced recruitment professionals who bring industry expertise, deep insights, and a personalized approach to finding the best talent for your organization. With their guidance and support, we ensure a seamless and successful recruitment process that aligns with your specific needs and goals</b></p>
                             <!-- <a href="contact-us.html" class="btn dg-primary-btn rounded-pill">Join Our Team</a> -->
                         </div>
@@ -264,15 +264,15 @@
                             <div class="icon-box rounded-custom bg-primary shadow-sm d-inline-block">
                                 <i class="fas fa-shield fa-2x text-white"></i>
                             </div>
-                            <h6 class="text-primary">Benefits of Joining Our Company</h6>
-                            <h3  class="text-black">Building a Solid Foundation for Your Future </h3>  
+                            <h5 class="text-primary">Benefits of Joining Our Company</h5>
+                            <p1  class="text-black display-lead">Building a Solid Foundation for Your Future </p1>  
 
                             <p class="text-black">Experience a supportive and inclusive work environment that fosters personal and professional growth. Enjoy competitive compensation, comprehensive benefits, ongoing learning opportunities, and the chance to be part of a talented team driving innovation and making a meaningful impact.</p>
                             <ul class="list-unstyled d-flex flex-wrap list-two-col mt-4 mb-4">
                                 <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-primary"></i>Access to Top Talent</li>
                                 <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-primary"></i>Improved Performance and Productivity</li>
-                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-primary"></i>Enhanced Diversity and Inclusion</li>
                                 <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-primary"></i>Cost Savings</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-primary"></i>Enhanced Diversity and Inclusion</li>
                                 <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-primary"></i>Positive Employer Branding</li>
                                 <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-primary"></i>Improved Employee Retention</li>
                             </ul>
@@ -287,22 +287,22 @@
 
         <section class="sc-htw-section bg-light-subtle position-relative z-1 overflow-hidden ptb-80 border-line-bg">
             <div class="container">
-                <div class="row justify-content-center justify-content-xxl-start">
+                <div class="row justify-content-center justify-content-xxl-start pb-80 pt-50">
                     <div class="col-xxl-6 col-lg-7">
                         <div class="section-title text-center text-xxl-start">
                             <h6 class="mb-0 text-primary">How to Apply</h6>
-                            <h4 class="text-black">Extending an Offer and Welcoming You Aboard</h4>
+                            <p1 class="text-black">Extending an Offer and Welcoming You Aboard.!</p1>
                         </div>
                     </div>
                 </div>
-                <img src="assets/img/software-company/line-doted.png" alt="not found" class="img-fluid mt-40 mb-4 line-doted">
+                
                 <div class="row g-4 justify-content-center">
                 <div class="col-xxl-3 col-xl-4 col-md-6">
                         <div class="htw-single-item bg-white rounded">
                             <div class="d-flex align-items-center">
                                 <span class="icon-wrapper position-relative">
                                   <h4 class="mb-0 text-white position-absolute start-50 top-50 translate-middle">01</h4>
-                                  <img src="assets/img/software-company/icon-shape-2.png" alt="icon">
+                                  <img src="assets/img/software-company/icon-shape-3.png" alt="icon">
                               </span>
                                 <h5 class="mb-0 ms-3 text-primary">Explore Open Positions</h5>
                             </div>
@@ -314,7 +314,7 @@
                             <div class="d-flex align-items-center">
                                 <span class="icon-wrapper position-relative">
                                   <h4 class="mb-0 text-white position-absolute start-50 top-50 translate-middle">02</h4>
-                                  <img src="assets/img/software-company/icon-shape-2.png" alt="icon">
+                                  <img src="assets/img/software-company/icon-shape-3.png" alt="icon">
                               </span>
                                 <h5 class="mb-0 ms-3 text-primary">Prepare Your Application</h5>
                             </div>
@@ -339,7 +339,7 @@
                             <div class="d-flex align-items-center">
                                 <span class="icon-wrapper position-relative">
                                   <h4 class="mb-0 text-white position-absolute start-50 top-50 translate-middle">04</h4>
-                                  <img src="assets/img/software-company/icon-shape-4.png" alt="icon">
+                                  <img src="assets/img/software-company/icon-shape-3.png" alt="icon">
                               </span>
                                 <h5 class="mb-0 ms-3 text-primary">Final Decision</h5>
                             </div>
