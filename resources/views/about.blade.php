@@ -244,7 +244,7 @@
     <!-- end -->
 
     <!--feature section two start-->
-    <section class="feature-section-two pt-120 "
+    <section class="feature-section-two pt-5 pb-5 "
         style="background: url('assets/img/hero-9-img.png')no-repeat center center;">
         <div class="container">
             <div class="row align-items-center justify-content-between">
@@ -342,7 +342,7 @@
     <!--feature section two end-->
 
     <!--team section start-->
-    <section id="our-team" class="team-section ptb-120">
+    {{-- <section id="our-team" class="team-section ptb-120">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-12">
@@ -430,7 +430,7 @@
             </div>
 
         </div>
-    </section>
+    </section> --}}
     <!--team section end-->
 
     <!--testimonial section start-->
