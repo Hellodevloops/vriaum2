@@ -20,16 +20,16 @@
             <div class="col-lg-6 col-md-12">
                 <a href="{{route('contact.index')}}" class="text-decoration-none mt-4 mt-xl-0 mt-lg-0 single-open-job p-5 bg-dark text-white d-block rounded-custom">
                     <div class="d-flex justify-content-between align-items-center">
-                        <span class="job-time h-6 mb-2"><i class="fas fa-briefcase me-2"></i> <strong>Remote
-                                - Full Time</strong></span>
-                        <span class="badge px-3 py-2 bg-custom-light rounded-pill small">Developer</span>
+                        <span class="job-time h-6 mb-2"><i class="fas fa-briefcase me-2"></i> <strong> Full Time</strong></span>
+                        
                     </div>
-                    <h3 class="h5">Jr Frontend Developer</h3>
+                    <h3 class="h5">Devops Engineer</h3>
+                    <span class="badge px-3 py-2 bg-custom-light rounded-pill small">Developer</span>
                     <ul class="job-info-list list-inline list-unstyled text-muted">
-                        <li class="list-inline-item"><span class="fas fa-house me-1"></span> Google
-                        </li>
-                        <li class="list-inline-item"><span class="fas fa-location-pin me-1"></span> London, UK</li>
-                        <li class="list-inline-item"><span class="fas fa-wallet me-1"></span> $35k - $45k</li>
+                        {{-- <li class="list-inline-item"><span class="fas fa-house me-1"></span> Google
+                        </li> --}}
+                        <li class="list-inline-item"><span class="fas fa-location-pin me-1"></span>Vadodara</li>
+                        {{-- <li class="list-inline-item"><span class="fas fa-wallet me-1"></span> $35k - $45k</li> --}}
                     </ul>
                     <div  class="btn btn-outline-light btn-sm d-inline-block mt-4">Apply Now</div>
                 </a>
@@ -37,16 +37,15 @@
             <div class="col-lg-6 col-md-12">
                 <a href="{{route('contact.index')}}" class="text-decoration-none mt-4 mt-xl-0 mt-lg-0 single-open-job p-5 bg-dark text-white d-block rounded-custom">
                     <div class="d-flex justify-content-between align-items-center">
-                        <span class="job-time h-6 mb-2"><i class="fas fa-briefcase me-2"></i> <strong>Remote
-                                - Full Time</strong></span>
-                        <span class="badge px-3 py-2 bg-custom-light rounded-pill small">Designer</span>
+                        <span class="job-time h-6 mb-2"><i class="fas fa-briefcase me-2"></i> <strong>Full Time</strong></span>
+                        {{-- <span class="badge px-3 py-2 bg-custom-light rounded-pill small">Designer</span> --}}
                     </div>
                     <h3 class="h5">UI/UX and Product Designer</h3>
+                    <span class="badge px-3 py-2 bg-custom-light rounded-pill small">Figma</span>
                     <ul class="job-info-list list-inline list-unstyled text-muted">
-                        <li class="list-inline-item"><span class="fas fa-house me-1"></span> Figma</li>
-                        <li class="list-inline-item"><span class="fas fa-location-pin me-1"></span> San
-                            Francissco</li>
-                        <li class="list-inline-item"><span class="fas fa-wallet me-1"></span> $25k - $35k</li>
+                        {{-- <li class="list-inline-item"><span class="fas fa-house me-1"></span> Figma</li> --}}
+                        <li class="list-inline-item"><span class="fas fa-location-pin me-1"></span> Vadodara</li>
+                        {{-- <li class="list-inline-item"><span class="fas fa-wallet me-1"></span> $25k - $35k</li> --}}
                     </ul>
                     <div class="btn btn-outline-light btn-sm d-inline-block mt-4">Apply Now</div>
                 </a>
@@ -56,14 +55,18 @@
                     <div class="d-flex justify-content-between align-items-center">
                         <span class="job-time h-6 mb-2"><i class="fas fa-briefcase me-2"></i> <strong>Full
                                 Time</strong></span>
-                        <span class="badge px-3 py-2 bg-custom-light rounded-pill small">Manager</span>
+                        {{-- <span class="badge px-3 py-2 bg-custom-light rounded-pill small">Manager</span> --}}
                     </div>
-                    <h3 class="h5">Senior Office Manager</h3>
+                    <h3 class="h5">Full-Stack developer</h3>
+                    <span class="badge px-3 py-2 bg-custom-light rounded-pill small">C#</span>
+                    <span class="badge px-3 py-2 bg-custom-light rounded-pill small">.NET</span>
+                    <span class="badge px-3 py-2 bg-custom-light rounded-pill small">AWS</span>
+                    <span class="badge px-3 py-2 bg-custom-light rounded-pill small">Angular</span>
+                    <span class="badge px-3 py-2 bg-custom-light rounded-pill small"> React</span>
                     <ul class="job-info-list list-inline list-unstyled text-muted">
-                        <li class="list-inline-item"><span class="fas fa-house me-1"></span> Dribble
-                        </li>
-                        <li class="list-inline-item"><span class="fas fa-location-pin me-1"></span> California</li>
-                        <li class="list-inline-item"><span class="fas fa-wallet me-1"></span> $55k - $62k</li>
+                       
+                        <li class="list-inline-item"><span class="fas fa-location-pin me-1"></span>Mumbai</li>
+                        {{-- <li class="list-inline-item"><span class="fas fa-wallet me-1"></span> $55k - $62k</li> --}}
                     </ul>
                     <div class="btn btn-outline-light btn-sm d-inline-block mt-4">Apply Now</div>
                 </a>
@@ -71,16 +74,20 @@
             <div class="col-lg-6 col-md-12">
                 <a href="{{route('contact.index')}}" class="text-decoration-none mt-4 single-open-job p-5 bg-dark text-white d-block rounded-custom">
                     <div class="d-flex justify-content-between align-items-center">
-                        <span class="job-time h-6 mb-2"><i class="fas fa-briefcase me-2"></i> <strong>Remote
+                        <span class="job-time h-6 mb-2"><i class="fas fa-briefcase me-2"></i> <strong>Full Time
                             </strong></span>
-                        <span class="badge px-3 py-2 bg-custom-light rounded-pill small">Developer</span>
+                        {{-- <span class="badge px-3 py-2 bg-custom-light rounded-pill small">Developer</span> --}}
                     </div>
-                    <h3 class="h5">Senior Backend Developer</h3>
+                    <h3 class="h5">Backend Developer</h3>
+                    <span class="badge px-3 py-2 bg-custom-light rounded-pill small">C#</span>
+                    <span class="badge px-3 py-2 bg-custom-light rounded-pill small"> Kafka</span>
+                    <span class="badge px-3 py-2 bg-custom-light rounded-pill small">AWS</span>
                     <ul class="job-info-list list-inline list-unstyled text-muted">
-                        <li class="list-inline-item"><span class="fas fa-house me-1"></span> Slack</li>
-                        <li class="list-inline-item"><span class="fas fa-location-pin me-1"></span> United State
-                            US</li>
-                        <li class="list-inline-item"><span class="fas fa-wallet me-1"></span> $55k - $62k</li>
+                      
+                        {{-- <li class="list-inline-item"><span class="fas fa-house me-1"></span> Slack</li> --}}
+                        <li class="list-inline-item"><span class="fas fa-location-pin me-1"></span> Ahmedabad
+                            </li>
+                        {{-- <li class="list-inline-item"><span class="fas fa-wallet me-1"></span> $55k - $62k</li> --}}
                     </ul>
                     <div class="btn btn-outline-light btn-sm d-inline-block mt-4">Apply Now</div>
                 </a>
@@ -91,7 +98,7 @@
 <!--open jobs section end-->
 
 <!--career promo start-->
-<section class="career-promo ptb-20 bg-light-subtle">
+<section class="career-promo ptb-100 bg-light-subtle">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6 col-md-12">
@@ -126,7 +133,7 @@
                     <span class="fas fa-user-friends fa-2x text-primary"></span>
                     <div class="ms-4 mt-2">
                         <h5>Friendly Skilled Team</h5>
-                        <p class="mb-0">Join a Friendly and Skilled Team that Embodies Collaboration, Support, and Continuous Learning </p>
+                        <p class="mb-0">Join a Friendly and Skilled Team that Embodies Collaboration, Support, and Continuous Learning to enhance your core qaulities and valuable skils. </p>
                     </div>
                 </div>
             </div>
