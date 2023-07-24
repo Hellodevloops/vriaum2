@@ -156,12 +156,13 @@
             <div class="container">
                 <div class="row align-items-center justify-content-lg-between justify-content-center">
                 <h1>We are development experts on all technologies</h1>
-                    <div class="col-lg-7 col-md-12">
-                        <div class="feature-content-wrap">
-                            <div class="section-heading">
+                <div class="section-heading">
                                
-                                <p class="dark-text">With our deep expertise in a wide range of technologies, we empower businesses to harness the full potential of digital transformation, driving growth and success in the ever-evolving tech landscape.</p>
-                            </div>
+                    <p class="dark-text">With our deep expertise in a wide range of technologies, we empower businesses to harness the full potential of digital transformation, driving growth and success in the ever-evolving tech landscape.</p>
+                </div>
+                    <div class="col-lg-6 col-md-12">
+                        <div class="feature-content-wrap">
+                           
                             <ul class="list-unstyled mb-0">
                                 <li class="d-flex align-items-start mb-4">
                                     <div class="icon-box bg-primary rounded me-4">
@@ -198,10 +199,19 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-lg-5 col-md-7">
-                        <div class="feature-img-wrap">
-                            <img src="assets/img/homedev1.jpg" alt="feature image" class="img-fluid rounded-custom">
+                    <div class="col-lg-6 col-md-7">
+                        <div class="pr-lg-4">
+                            <div class="bg-light-subtle text-center rounded-custom overflow-hidden p-lg-5 p-3 mx-lg-auto"
+                                data-aos="fade-up" data-aos-delay="50">
+                                <img src="assets/img/homedev1.jpg" alt="" class="img-fluid">
+                                <div
+                                    class="position-absolute bg-primary-dark z--1 dot-mask dm-size-16 dm-wh-350 top--40 right--40 top-right">
+                                </div>
+                            </div>
                         </div>
+                        {{-- <div class="feature-img-wrap">
+                            <img src="assets/img/homedev1.jpg" alt="feature image" class="img-fluid rounded-custom">
+                        </div> --}}
                     </div>
                 </div>
             </div>

@@ -2,24 +2,36 @@
 @section('content')
         
         <!--page header section start-->
-        <section class="hero-it-solution hero-nine-bg ptb-60" style="background: url('assets/img/hero-9-img.png')no-repeat center center">
-            <div class="container">
-                <div class="row align-items-center">
+          
+        <section class="hero-it-solution hero-nine-bg ptb-120" style="background: url('assets/img/hero-9-img.png')no-repeat center center">
+            <div class="px-5">
+                <div class="row gx-5">
+                    <div class="col-lg-6">
+                        <div class="pr-lg-4">
+                            <div class="bg-light-subtle text-center rounded-custom overflow-hidden p-lg-5 p-3 mx-lg-auto"
+                                data-aos="fade-up" data-aos-delay="50">
+                                <img src="assets/img/usarr.jpg" alt="" class="img-fluid">
+                                <div
+                                    class="position-absolute bg-primary-dark z--1 dot-mask dm-size-16 dm-wh-350 top--40 right--40 top-right">
+                                </div>
+                            </div>
+                        </div>
+                        {{-- <div class="hero-img position-relative mt-5 mt-lg-0 pt-80">
+                            <img src="assets/img/usarr.jpg" alt="hero hero-it-solution " class="img-fluid">
+                        </div> --}}
+                    </div>
                     <div class="col-lg-6 col-md-10">
                         <div class="hero-content-wrap mt-5 mt-lg-0 mt-xl-0">
-                        <h1>About </h1>
-                        <p class=" h5" >Welcome to VriAum for USA staffing, your reliable partner in connecting top talent with excellent opportunities. Our mission is to bridge the gap between job seekers and employers, making the recruitment process smooth and efficient.</p>
+                            <h4 class="text-primary h5 mb-2"> Turning Wheels of Immigration Fortune</h4>
+                            <h2 class="mb-4">About USA Migration Program</h2>
+                        
+                        <p class=" text-dark" >Welcome to VriAum for USA staffing, your reliable partner in connecting top talent with excellent opportunities. Our mission is to bridge the gap between job seekers and employers, making the recruitment process smooth and efficient.</p>
 
-                         <p  class=" h5">With a proven track record of successful placements and satisfied clients. We pride ourselves on our dedication to excellence, integrity, and personalized services, making us a preferred choice for both employers and job seekers alike.</p>
+                         <p  class="">With a proven track record of successful placements and satisfied clients. We pride ourselves on our dedication to excellence, integrity, and personalized services, making us a preferred choice for both employers and job seekers alike.</p>
                            
                         </div>
                     </div>
-                    <div class="col-lg-6">
-                        <div class="hero-img position-relative mt-5 mt-lg-0 pt-80">
-                            <img src="assets/img/usarr.jpg" alt="hero hero-it-solution " class="img-fluid">
-                            
-                        </div>
-                    </div>
+                   
                 </div>
             </div>
         </section>
@@ -35,7 +47,7 @@
 
         
 <!-- 2 sec -->
-<section class="pt-50 pb-50 bg-dark my-section">
+<section class=" pb-50 bg-dark ">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-6">
@@ -49,7 +61,7 @@
                     </div>
                 </div>
                 <div class="row justify-content-center">
-                    <div class="col-lg-5">
+                    <div class="row">
                         <div class="service-tabs">
                             <ul class="nav nav-pills d-flex justify-content-center" id="pills-tab" role="tablist">
                                 <li class="nav-item" role="presentation">
@@ -197,19 +209,21 @@
 
 <!-- about service end -->
         <!--features grid section start--> 
-        <section class="feature-promo ptb-120 bg-light-subtle my-section">
+        <section class="feature-promo ptb-120 bg-light-subtle  ">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-lg-6 col-md-10">
+                    <div class="col-lg-12 col-md-10">
                         <div class="section-heading text-center">
-                            <h2>With the Approaches You Need</h2>
-                            <p>At VriAum, we believe that every individual and every business is unique. That's why we take a personalized approach to each staffing requirement:</p>
+                            <h5 class="h6 text-primary">Accelerating Aspirations</h5>
+                           <h2> USA Migration Program at the Wheel</h2>
+                            <p>With a strong focus on empowering minds and embracing diversity, VriAum becomes the catalyst for unlocking potential and seizing success. Whether seeking internships or migrating staffing solutions, VriAum is the ideal guide to navigate the path to a brighter future in the USA.</p>
+                            {{-- <p>At VriAum, we believe that every individual and every business is unique. That's why we take a personalized approach to each staffing requirement:</p> --}}
 
                         </div>
                     </div>
                 </div>
                
-                <div class="row pt-lg-5 pt-3">
+                <div class="row  pt-3">
                     <div class="col-lg-6 mt-4">
                         <div class="position-relative d-flex flex-column h-100 flex-wrap bg-primary-soft p-5 rounded-custom">
                             <div class="cta-left-info mb-2">
@@ -247,14 +261,15 @@
 
 
         <!-- it non st -->
-        <section class="cyber-faq pt-120 pb-60 my-section">
+        <section class="cyber-faq pt-120 pb-60  ">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-md-12 col-lg-6">
+                    <div class="">
                         <div class="section-heading text-center mb-5">
-                            <h2 class="h2 text-primary">The Approaches We Have</h2>
+                            <h5 class="h6 text-primary">What we offer</h5>
+                            <h2 class="h2 ">Chance to learn and work in the USA</h2>
                             
-                            <p class="h6">
+                            <p class="">
                             At VriAum, we are committed to empowering individuals in the IT and Non-IT sectors to unlock their true potential by offering an integrated approach that includes enriching internships and seamless migration staffing opportunities to the USA.
                             </p>
                         </div>
@@ -308,8 +323,8 @@
                  <div class="pt-1">
                     
                     <div class="section-heading ">
-                        
-                     <h2 class="mb-4 text-primary"> Our Approach for IT Sector:</h2>
+                        <h4 class="mb-4 dark-text"> Our Approach for<span class="mb-4 text-primary"> IT Sector</span></h4>
+                     
                      <p class="dark-text">Our internship program offers a dynamic platform for candidates to gain hands-on experience in their chosen fields. We partner with leading companies in various industries, including IT and non-IT sectors, to provide enriching internship opportunities.Candidates can apply their theoretical knowledge to real-world scenarios, develop industry-relevant skills, and enhance their professional profiles.</p>
                    
                    </div>
@@ -367,8 +382,8 @@
                           <div class="pt-1">
                             
                          <div class="section-heading ">
-                        
-                          <h2 class="mb-4 text-primary">Approach for Non IT Sector</h2>
+                            <h4 class="mb-4 dark-text"> Our Approach for<span class="mb-4 text-primary"> Non IT Sector</span></h4>
+                          {{-- <h2 class="mb-4 text-primary">Approach for Non IT Sector</h2> --}}
                           <p class="dark-text">Our Non-IT internship program caters to various industries, including finance, healthcare, marketing, engineering, and more. We partner with leading companies in these sectors, offering internships that provide valuable exposure and practical experience.</p>
                       
                        </div>
@@ -386,22 +401,23 @@
 
         
 <!-- tab features strats -->
-<section class="promo-section ptb-120 bg-light-subtle my-section ">
+<section class="promo-section ptb-120 bg-light-subtle   ">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-md-10 col-lg-6">
+                    <div class="">
                         <div class="section-heading text-center aos-init aos-animate" data-aos="fade-up">
-                            <h3>Why Choose VriAum for Internship and Migrating Staffing to USA</h3>
-                            <p>Choosing VriAum means gaining a reliable partner who values your success. Here are some reasons why we stand out </p>
+                            <h5 class="h6 text-primary">Why Vriaum?</h5>
+                            <h3 class="">Empowering Dreams, Elevating Careers: VriAum</h3>
+                            Learn and work in the USA, unlocking boundless opportunities. Your reliable partner for success, empowering dreams to reality. Embrace growth, seize the American dream with VriAum's guidance.
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-6 col-lg-4 mt-4 mt-lg-0 mt-md-0">
-                        <div class="bg-dark p-5 text-center d-flex flex-column h-100 rounded-custom aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                        <div class="bg-dark p-5 text-center d-flex flex-column h-40 rounded-custom aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                             <div class="promo-card-info mb-4">
-                                <h2> Extensive Network
-                                </h2>
+                                <h3> Extensive <br>Network
+                                </h3>
                                 <!--class="display-5 fw-bold mb-4"  -->
                                 <p>With our wide-ranging network of job seekers and employers, we can connect you with the right people and opportunities. </p>
                             </div>
@@ -411,11 +427,11 @@
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 mt-4 mt-lg-0 mt-md-0">
-                        <div class="bg-dark p-5 text-center d-flex flex-column h-100 rounded-custom aos-init aos-animate" data-aos="fade-up" data-aos-delay="150">
+                        <div class="bg-dark p-5 text-center d-flex flex-column h-40 rounded-custom aos-init aos-animate" data-aos="fade-up" data-aos-delay="150">
                             <div class="promo-card-info mb-4">
-                                <h2> Industry Expertise
-                                </h2>
-                                <p>Our team has in-depth knowledge and expertise in various industries, enabling us to find the best matches and provide valuable insights. </p>
+                                <h3> Industry<br> Expertise
+                                </h3>
+                                <p>Our team has in-depth knowledge and expertise in various industries, enabling us to find the best matches for valuable insights. </p>
                             </div>
                             <!-- <div class="mt-auto">
                                 <img src="assets/img/clients/client-logo-2.svg" width="120" alt="clients" class="img-fluid me-auto customer-logo">
@@ -423,11 +439,11 @@
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 mt-4 mt-lg-0">
-                        <div class="bg-dark p-5 text-center d-flex flex-column h-100 rounded-custom aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+                        <div class="bg-dark p-5 text-center d-flex flex-column h-40 rounded-custom aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
                             <div class="promo-card-info mb-4">
-                                <h2>
-                                Personalized Approach</h2>
-                                <p>We believe in providing personalized services tailored to meet your specific needs and preferences.</p>
+                                <h3>
+                                Personalized Approach</h3>
+                                <p>We believe in providing personalized services tailored to meet your specific needs and wide range of opportunities.</p>
                             </div>
                             <!-- <div class="mt-auto">
                                 <img src="assets/img/clients/client-logo-3.svg" width="120" alt="clients" class="img-fluid me-auto customer-logo">
@@ -440,7 +456,7 @@
         </section>
 <!-- tab features end -->
 <!-- faq start -->
-<section class="faq-section ptb-120 my-section">
+<section class="faq-section ptb-120  ">
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-lg-7 col-12">
@@ -528,7 +544,7 @@
 <!-- faq end -->
   
 <!-- integrate companies  -->
-<section class="customer-review-tab ptb-120 bg-light-subtle position-relative z-2 my-section">
+<section class="customer-review-tab ptb-120 bg-light-subtle position-relative z-2  ">
                 <div class="container">
                     <div class="row justify-content-center align-content-center">
                         <div class="col-md-10 col-lg-6">
@@ -715,48 +731,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="tab-pane fade" id="testimonial-tab-5" role="tabpanel">
-                                    <div class="row align-items-center justify-content-between">
-                                        <div class="col-lg-6 col-md-6">
-                                            <div class="testimonial-tab-content mb-5 mb-lg-0 mb-md-0">
-                                                <img src="assets/img/testimonial/quotes-left.svg" alt="testimonial quote" width="65" class="img-fluid mb-32">
-                                                <!-- <div class="blockquote-title-review mb-4">
-                                                    <h3 class="mb-0 h4 fw-semi-bold">It is Undeniably Good!</h3>
-                                                    <ul class="review-rate mb-0 list-unstyled list-inline">
-                                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i>
-                                                        </li>
-                                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i>
-                                                        </li>
-                                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i>
-                                                        </li>
-                                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i>
-                                                        </li>
-                                                        <li class="list-inline-item"><i class="fas fa-star text-warning"></i>
-                                                        </li>
-                                                    </ul>
-                                                </div> -->
-                                                <blockquote class="blockquote">
-                                                    <p>VriAum Placement Staffing's professionalism and attention to detail were exceptional. They took the time to understand my career goals and matched me with the perfect employer. </p>
-                                                </blockquote>
-                                                <div class="author-info mt-4">
-                                                    <h6 class="mb-0">Ami Nijai</h6>
-                                                    <!-- <span>Customer Support</span> -->
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-5 col-md-6">
-                                            <div class="author-img-wrap pt-5 ps-5">
-                                                <div class="testimonial-video-wrapper position-relative">
-                                                    <img src="assets/img/dummy.jpeg" class="img-fluid rounded-custom shadow-lg" alt="testimonial author">
-                                                    <div class="customer-info text-white d-flex align-items-center">
-                                                        <!-- <a href="http://www.youtube.com/watch?v=hAP2QF--2Dg" class="video-icon popup-youtube text-decoration-none"><i class="fas fa-play"></i> <span class="text-white ms-2 small"> Watch Video</span></a> -->
-                                                    </div>
-                                                    <div class="position-absolute bg-secondary-dark z--1 dot-mask dm-size-16 dm-wh-350 top--40 left--40 top-left"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                              
                             </div>
                         </div>
                     </div>
@@ -808,17 +783,7 @@
                                         </div>
                                     </div>
                                 </li>
-                                <li class="nav-item" role="presentation">
-                                    <div class="nav-link d-flex align-items-center rounded-custom border border-light border-2 testimonial-tab-link" data-bs-toggle="pill" data-bs-target="#testimonial-tab-5" role="tab" aria-selected="false" tabindex="-1">
-                                        <div class="testimonial-thumb me-3">
-                                            <img src="assets/img/dummy.jpeg" width="50" class="rounded-circle" alt="testimonial thumb">
-                                        </div>
-                                        <div class="author-info">
-                                            <h6 class="mb-0">Ami Nijai</h6>
-                                            <span>Customer Support</span>
-                                        </div>
-                                    </div>
-                                </li>
+                              
                             </ul>
                         </div>
                     </div>
