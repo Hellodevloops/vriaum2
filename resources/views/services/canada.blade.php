@@ -283,6 +283,18 @@
                     </div>
                 </div>
                 <div class="row">
+                <div class="col-lg-6">
+                 <div class="pt-1">
+                   
+                    <div class="section-heading ">
+                      
+                    <h2 class="mb-4 text-primary"> Learning Opportunities:</h2>
+                     <p>Our internship program offers a dynamic platform for candidates to gain hands-on experience in their chosen fields. We partner with leading companies in various industries, including IT and non-IT sectors, to provide enriching internship opportunities. Through carefully curated internship projects, candidates can apply their theoretical knowledge to real-world scenarios, develop industry-relevant skills, and enhance their professional profiles.</p>
+                   
+                   </div>
+                   
+                    </div>
+                 </div>
                     <div class="col-lg-6 col-md-12">
                         <div class="cyber-faq-wrapper">
                             <div class="accordion faq-accordion" id="accordionExample">
@@ -326,22 +338,34 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <!-- <div class="col-lg-6">
                  <div class="pt-1">
                    
                     <div class="section-heading ">
-                        <!-- <h4 class="lead mb-2">Driving Innovation and Transformation</h4> -->
+                      
                     <h2 class="mb-4 text-primary"> Learning Opportunities:</h2>
                      <p>Our internship program offers a dynamic platform for candidates to gain hands-on experience in their chosen fields. We partner with leading companies in various industries, including IT and non-IT sectors, to provide enriching internship opportunities. Through carefully curated internship projects, candidates can apply their theoretical knowledge to real-world scenarios, develop industry-relevant skills, and enhance their professional profiles.</p>
                    
                    </div>
                    
                     </div>
-                 </div>
+                 </div> -->
                 </div>
                 
                 <!-- 2start -->
                 <div class="row my-section">
+                <div class="col-lg-6">
+                          <div class="pt-1">
+                            
+                         <div class="section-heading ">
+                        
+                        <h2 class="mb-4 text-primary">Placement Services</h2>
+                       <p>Upon successful completion of the internship, candidates have the opportunity to transition into the job placement phase. Our dedicated team works closely with candidates to identify suitable job openings and connect them with reputable organizations seeking their skills and expertise.</p>
+                      
+                   </div>
+                   
+                     </div>
+                 </div>
                     <div class="col-lg-6 col-md-12">
                         <div class="cyber-faq-wrapper">
                             <div class="accordion faq-accordion" id="accordionExample">
@@ -373,61 +397,51 @@
                                 <div class="accordion-item border border-2 rounded">
                                     <h5 class="accordion-header" id="faq-4">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false">
-                                            What's The Difference Between IDS And IBS?
+                                        In-Demand Industries and Occupations
                                         </button>
                                     </h5>
                                     <div id="collapse-4" class="accordion-collapse collapse" aria-labelledby="faq-4" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                        We continue to support candidates after placement, ensuring a smooth integration into their new roles and offering guidance for career advancement.
+                                        Certain industries and occupations are in high demand in Canada, creating better prospects for staffing migration. Our team stays updated with the current labor market needs and provides guidance on the industries and occupations that are likely to offer better opportunities.
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <!-- <div class="col-lg-6">
                           <div class="pt-1">
-                            <!-- <div class="d-flex about-icon-box-lg align-items-center">
-                           <div class="me-3">
-                            <img src="assets/img/Vri_logo_preview.png" alt="">
-                        </div>
-                        <div>
-                            <h5>Empowering Businesses with Cutting-Edge</h5>
-                        </div>
-                      </div> -->
+                            
                          <div class="section-heading ">
-                        <!-- <h4 class="lead mb-2">Driving Innovation and Transformation</h4> -->
+                        
                         <h2 class="mb-4 text-primary">Placement Services</h2>
                        <p>Upon successful completion of the internship, candidates have the opportunity to transition into the job placement phase. Our dedicated team works closely with candidates to identify suitable job openings and connect them with reputable organizations seeking their skills and expertise.</p>
                       
                    </div>
                    
                      </div>
-                 </div>
+                 </div> -->
                 </div>
                 <!-- 2end -->
                 
                 <!-- 3st -->
                 <div class="row my-section">
+                <div class="col-lg-6">
+                 <div class="pt-1">
+                    
+                    <div class="section-heading ">
+                       
+                    <h2 class="mb-4 text-primary">Migration to Canada</h2>
+                     <p>For candidates who aspire to build a long-term career in Canada, we offer migration services that extend beyond job placement. Our experienced immigration consultants provide expert guidance and assistance in navigating the Canadian immigration process, including obtaining <span class="text-primary h5">Permanent Residency (PR) status</span>.</p>
+                   
+                   </div>
+                   
+                    </div>
+                 </div>
                     <div class="col-lg-6 col-md-12 ">
                         <div class="cyber-faq-wrapper">
                             <div class="accordion faq-accordion" id="accordionExample">
-                                <!-- <div class="accordion-item border border-2 rounded active">
-                                    <h5 class="accordion-header" id="faq-1">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false">
-                                            How Is Encryption Different From Hacking?
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-1" class="accordion-collapse collapse" aria-labelledby="faq-1" data-bs-parent="#accordionExample" style="">
-                                        <div class="accordion-body">
-                                            There are many variations of passages of Lorem Ipsum
-                                            available but the majority suffered is alteration in that
-                                            words which don't look even slightly believable. If you are
-                                            Lorem Ipsum you need to be sure there isn't anything ready
-                                            too much embarrassing.
-                                        </div>
-                                    </div>
-                                </div> -->
+                                
                                 <div class="accordion-item border border-2 rounded">
                                     <h5 class="accordion-header" id="faq-2">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false">
@@ -467,25 +481,18 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <!-- <div class="col-lg-6">
                  <div class="pt-1">
-                    <!-- <div class="d-flex about-icon-box-lg align-items-center">
-                        <div class="me-3">
-                            <img src="assets/img/Vri_logo_preview.png" alt="">
-                        </div>
-                        <div>
-                            <h5>Empowering Businesses with Cutting-Edge</h5>
-                        </div>
-                    </div> -->
+                    
                     <div class="section-heading ">
-                        <!-- <h4 class="lead mb-2">Driving Innovation and Transformation</h4> -->
+                       
                     <h2 class="mb-4 text-primary">Migration to Canada</h2>
                      <p>For candidates who aspire to build a long-term career in Canada, we offer migration services that extend beyond job placement. Our experienced immigration consultants provide expert guidance and assistance in navigating the Canadian immigration process, including obtaining <span class="text-primary h5">Permanent Residency (PR) status</span>.</p>
                    
                    </div>
                    
                     </div>
-                 </div>
+                 </div> -->
                 </div>
                 <!-- 3ed -->
             </div>
