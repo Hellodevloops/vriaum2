@@ -275,7 +275,19 @@
                         </div>
                     </div>
                 </div>
-                <div class="row">
+                <div class="row my-section">
+                <div class="col-lg-6">
+                      <div class="pt-1">
+                    
+                    <div class="section-heading ">
+                        <h4 class="mb-4 dark-text"> Our Approach for<span class="mb-4 text-primary"> IT Sector</span></h4>
+                     
+                     <p class="dark-text">Our internship program offers a dynamic platform for candidates to gain hands-on experience in their chosen fields. We partner with leading companies in various industries, including IT and non-IT sectors, to provide enriching internship opportunities.Candidates can apply their theoretical knowledge to real-world scenarios, develop industry-relevant skills, and enhance their professional profiles.</p>
+                   
+                   </div>
+                   
+                    </div>
+                 </div>
                     <div class="col-lg-6 col-md-12">
                         <div class="cyber-faq-wrapper">
                             <div class="accordion faq-accordion" id="accordionExample">
@@ -319,8 +331,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
-                 <div class="pt-1">
+                    <!-- <div class="col-lg-6">
+                      <div class="pt-1">
                     
                     <div class="section-heading ">
                         <h4 class="mb-4 dark-text"> Our Approach for<span class="mb-4 text-primary"> IT Sector</span></h4>
@@ -330,11 +342,23 @@
                    </div>
                    
                     </div>
-                 </div>
+                 </div> -->
                 </div>
             
                 <!-- 2start -->
-                <div class="row">
+                <div class="row my-section">
+                <div class="col-lg-6">
+                          <div class="pt-1">
+                            
+                         <div class="section-heading ">
+                            <h4 class="mb-4 dark-text"> Our Approach for<span class="mb-4 text-primary"> Non IT Sector</span></h4>
+                          {{-- <h2 class="mb-4 text-primary">Approach for Non IT Sector</h2> --}}
+                          <p class="dark-text">Our Non-IT internship program caters to various industries, including finance, healthcare, marketing, engineering, and more. We partner with leading companies in these sectors, offering internships that provide valuable exposure and practical experience.</p>
+                      
+                       </div>
+                   
+                     </div>
+                 </div>
                     <div class="col-lg-6 col-md-12">
                         <div class="cyber-faq-wrapper">
                             <div class="accordion faq-accordion" id="accordionExample">
@@ -378,7 +402,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <!-- <div class="col-lg-6">
                           <div class="pt-1">
                             
                          <div class="section-heading ">
@@ -389,7 +413,7 @@
                        </div>
                    
                      </div>
-                 </div>
+                 </div> -->
                 </div>
                 <!-- 2end -->
                
