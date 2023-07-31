@@ -90,30 +90,37 @@
                                         <div class="dropdown-grid-item bg-white radius-left-side">
                                             {{-- <h6 class="drop-heading">IT Development </h6>  --}}
 
-                                            <a href="{{ route('iot') }}" class="dropdown-link px-0">
-                                            <span class="me-2">
+                                            <a href="{{ route('pr') }}" class="dropdown-link">
+                                        <span class="me-2">
                                                     <i class=" flaticon-fingerprint"></i>
                                                 </span>
-                                                <div class="drop-title">Internet Of Things</div>
-                                            </a>
-                                            <a href="{{ route('webapp') }}" class="dropdown-link px-0">
-                                            <span class="me-2">
+                                            <div class="drop-title">Permanent Residence</div>
+                                        </a>
+                                        <a href="{{ route('expressentry') }}" class="dropdown-link">
+                                        <span class="me-2">
                                                     <i class="flaticon-web-programming"></i>
                                                 </span>
-                                                <div class="drop-title">Web Development</div>
-                                            </a>
-                                            <a href="{{ route('mobileapp') }}" class="dropdown-link px-0">
-                                            <span class="me-2">
+                                            <div class="drop-title">Express Entry</div>
+                                        </a>
+                                        <a href="{{ route('pnp') }}" class="dropdown-link">
+                                        <span class="me-2">
                                                     <i class="flaticon-layer"></i>
                                                 </span>
-                                                <div class="drop-title">Mobile App Development</div>
-                                            </a>
-                                            <a href="{{ route('product') }}" class="dropdown-link px-0">
-                                                 <span class="me-2">
+                                            <div class="drop-title">PNP</div>
+                                        </a>
+                                        <a href="{{ route('family') }}" class="dropdown-link">
+                                        <span class="me-2">
+                                                    <i class="flaticon-layer"></i>
+                                                </span>
+                                            <div class="drop-title">Family</div>
+                                        </a>
+                                        <a href="{{ route('prcards') }}" class="dropdown-link">
+                                        <span class="me-2">
                                                     <i class="flaticon-vector"></i>
                                                 </span>
-                                                <div class="drop-title">Product Development</div>
-                                            </a>
+                                            <div class="drop-title">PR Cards</div>
+                                        </a>
+
 
 
                                         </div>
@@ -230,29 +237,35 @@
                                     <div class="dropdown-grid-item bg-white radius-left-side">
                                         <h6 class="drop-heading">IT Consulating</h6>
 
-                                        <a href="{{ route('iot') }}" class="dropdown-link">
+                                        <a href="{{ route('pr') }}" class="dropdown-link">
                                         <span class="me-2">
                                                     <i class=" flaticon-fingerprint"></i>
                                                 </span>
-                                            <div class="drop-title">Internet Of Things</div>
+                                            <div class="drop-title">Permanent Residence</div>
                                         </a>
-                                        <a href="{{ route('webapp') }}" class="dropdown-link">
+                                        <a href="{{ route('expressentry') }}" class="dropdown-link">
                                         <span class="me-2">
                                                     <i class="flaticon-web-programming"></i>
                                                 </span>
-                                            <div class="drop-title">Web Development</div>
+                                            <div class="drop-title">Express Entry</div>
                                         </a>
-                                        <a href="{{ route('mobileapp') }}" class="dropdown-link">
+                                        <a href="{{ route('pnp') }}" class="dropdown-link">
                                         <span class="me-2">
                                                     <i class="flaticon-layer"></i>
                                                 </span>
-                                            <div class="drop-title">Mobile App Development</div>
+                                            <div class="drop-title">PNP</div>
                                         </a>
-                                        <a href="{{ route('product') }}" class="dropdown-link">
+                                        <a href="{{ route('family') }}" class="dropdown-link">
+                                        <span class="me-2">
+                                                    <i class="flaticon-layer"></i>
+                                                </span>
+                                            <div class="drop-title">Family</div>
+                                        </a>
+                                        <a href="{{ route('prcards') }}" class="dropdown-link">
                                         <span class="me-2">
                                                     <i class="flaticon-vector"></i>
                                                 </span>
-                                            <div class="drop-title">Product Development</div>
+                                            <div class="drop-title">PR Cards</div>
                                         </a>
 
                                     </div>

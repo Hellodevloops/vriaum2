@@ -25,6 +25,26 @@ Route::get('/product', function () {
     return view('services.product');
 })->name('product'); 
 
+Route::get('/pr', function () {
+    return view('services.pr');
+})->name('pr'); 
+
+Route::get('/expressentry', function () {
+    return view('services.expressentry');
+})->name('expressentry'); 
+
+Route::get('/pnp', function () {
+    return view('services.pnp');
+})->name('pnp'); 
+
+Route::get('/prcards', function () {
+    return view('services.prcards');
+})->name('prcards'); 
+
+Route::get('/family', function () {
+    return view('services.family');
+})->name('family'); 
+
 
 Route::get('/iot', function () {
     return view('services.iot');
