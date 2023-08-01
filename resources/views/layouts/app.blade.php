@@ -65,8 +65,8 @@
             <nav class="navbar navbar-expand-xl navbar-light sticky-header">
                 <div class="container d-flex align-items-center justify-content-lg-between position-relative">
                     <a href="{{ route('home') }}" class="navbar-brand d-flex align-items-center mb-md-0 text-black">
-                        <img src="assets/img/Vri_logo.png" alt="logo" class="img-fluid logo-header logo-white" />
-                        <img src="assets/img/Vri_logo.png" alt="logo" class="img-fluid logo-header logo-color" />
+                        <img src="assets/img/vgloblogo.png" alt="logo" class="img-fluid logo-header logo-white" />
+                        <img src="assets/img/vgloblogo.png" alt="logo" class="img-fluid logo-header logo-color" />
                     </a>
 
                     <a class="navbar-toggler position-absolute right-0 border-0" href="#offcanvasWithBackdrop"
@@ -217,7 +217,7 @@
             <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasWithBackdrop">
                 <div class="offcanvas-header d-flex align-items-center mt-4">
                     <a href="{{ route('home') }}" class="d-flex align-items-center mb-md-0 text-black">
-                        <img src="assets/img/Vri_logo.png" alt="logo" class="img-fluid ps-2" />
+                        <img src="assets/img/vgloblogo.png" alt="logo" class="img-fluid ps-2" />
                     </a>
                     <button type="button" class="close-btn text-danger" data-bs-dismiss="offcanvas"
                         aria-label="Close">
@@ -365,9 +365,9 @@
                             <div class="footer-single-col">
                                 <div class="footer-single-col mb-4">
                                     <a href="{{ route('home') }}">
-                                        <img src="assets/img/Vri_logo.png" alt="logo"
+                                        <img src="assets/img/vgloblogo.png" alt="logo"
                                             class="img-fluid logo-footer logo-white" style="width: 350px;" />
-                                        <img src="assets/img/Vri_logo.png" alt="logo"
+                                        <img src="assets/img/vgloblogo.png" alt="logo"
                                             class="img-fluid logo-footer logo-color" style="width: 320px;" />
                                     </a>
                                 </div>

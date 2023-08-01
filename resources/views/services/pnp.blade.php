@@ -2,6 +2,7 @@
 @section('content')
         
         <!--page header section start-->
+
         <section class="crm-integration bg-white pt-120 pb-80">
             <div class="container">
                 <div class="row justify-content-between align-items-center g-4">
@@ -30,12 +31,14 @@
 
 
 
+
         <!-- end -->
 <!-- about service start -->
 
 
          
 <!-- 2 sec -->
+
 <section class="cyber-features pt-100 pb-10 bg-light-subtle">
             <div class="container bg-secondary">
                 <div class="row justify-content-center">
@@ -127,12 +130,14 @@
                                 </p>
                             </div>
                             <a href="service-single.html" class="link-with-icon text-decoration-none">Explore More <i class="fas fa-arrow-right"></i></a>
+
                         </div>
                     </div>
                 </div>
             </div>
         </section>
 <!-- 2 sec end -->
+
 
 
 
@@ -190,11 +195,13 @@
                             <p>
                             After receiving the ITA, candidates need to submit a complete application for PR to the Immigration.
                             </p>
+
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+
         <!-- 3rd appli ed -->
 
         <!-- 4 sec strat -->
@@ -209,6 +216,7 @@
                     <div class="col-md-12 col-lg-6">
                         <div class="section-heading text-center mb-5">
                            
+
                         </div>
                     </div>
                 </div>
@@ -218,9 +226,10 @@
                    
                     <div class="section-heading ">
                       
+
                     <h3 class="text-primary"> Eligibility Criteria for the Canadian Experience Class (CEC):</h3>
                      <p>The Canadian Experience Class (CEC) is one of the immigration pathways under the Express Entry system, designed for individuals who have gained valuable work experience in Canada and wish to become permanent residents. To be eligible for the CEC, applicants must meet specific criteria.</p>
-                   
+   
                    </div>
                    
                     </div>
@@ -232,49 +241,63 @@
                                 <div class="accordion-item border border-2 rounded">
                                     <h5 class="accordion-header" id="faq-2">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false">
+
                                         Skilled Work Experience in Canada:
+
                                         </button>
                                     </h5>
                                     <div id="collapse-2" class="accordion-collapse collapse" aria-labelledby="faq-2" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
+
                                             <ul>
                                         <li>Candidates must have at least 12 months of full-time skilled work experience in Canada within the past three years before applying.</li>
                                         <li>Part-time work experience will be considered, but it should be equivalent to 12 months of full-time work.</li>
                                        </ul> 
                                     </div>
+
                                     </div>
                                 </div>
                                 <div class="accordion-item border border-2 rounded">
                                     <h5 class="accordion-header" id="faq-3">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false">
+
                                         Type of Work Experience:
+
                                         </button>
                                     </h5>
                                     <div id="collapse-3" class="accordion-collapse collapse" aria-labelledby="faq-3" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
+
                                         The work experience must be under one or more National Occupational Classification (NOC) skill type 0 (managerial occupations) or skill level A (professional occupations) or B (technical or skilled trades).
+
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item border border-2 rounded">
                                     <h5 class="accordion-header" id="faq-4">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false">
+
                                         Language Proficiency Requirements:
+
                                         </button>
                                     </h5>
                                     <div id="collapse-4" class="accordion-collapse collapse" aria-labelledby="faq-4" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
+
                                         <ul>
                                         <li>Applicants must demonstrate proficiency in either English or French.</li>
                                         <li>They need to take a standardized language test approved by the Canadian government, such as IELTS (International English Language Testing System) for English or TEF for French./li>
                                         <li>The test results must meet the minimum language threshold set by the Canadian government.</li>
                                         </ul>
+
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
+
+
                 </div>
                 
                 <!-- 2start -->
@@ -285,7 +308,9 @@
                          <div class="section-heading ">
                         
                         <h2 class="mb-4 text-primary">Placement Services</h2>
+
                        <p>Meeting these eligibility criteria is essential for being considered under the Canadian Experience Class (CEC) for permanent residence in Canada. Applicants who meet the requirements and receive an Invitation to Apply (ITA) can proceed with the final stage of their application by submitting their documents and completing the necessary forms to become Canadian permanent residents.</p>
+
                       
                    </div>
                    
@@ -298,42 +323,55 @@
                                 <div class="accordion-item border border-2 rounded">
                                     <h5 class="accordion-header" id="faq-2">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false">
+
                                         Intention to Live Outside Quebec:
+
                                         </button>
                                     </h5>
                                     <div id="collapse-2" class="accordion-collapse collapse" aria-labelledby="faq-2" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
+
                                         Quebec has its own immigration system. To apply for CEC, candidates must intend to reside in any province or territory in Canada except Quebec.
+
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item border border-2 rounded">
                                     <h5 class="accordion-header" id="faq-3">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false">
+
                                         Legal Status in Canada:
+
                                         </button>
                                     </h5>
                                     <div id="collapse-3" class="accordion-collapse collapse" aria-labelledby="faq-3" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
+
                                         Candidates must have legal temporary resident status while gaining their work experience in Canada.
+
 
                                     </div>
                                 </div>
                                 <div class="accordion-item border border-2 rounded">
                                     <h5 class="accordion-header" id="faq-4">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false">
+
                                         Valid Express Entry Profile:
+
                                         </button>
                                     </h5>
                                     <div id="collapse-4" class="accordion-collapse collapse" aria-labelledby="faq-4" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
+
                                         Candidates must have an active profile in the Express Entry system and meet the minimum Comprehensive Ranking System (CRS) score required for the CEC draw.
+
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
+
                     
                 </div>
                 <!-- 2end -->
@@ -376,15 +414,18 @@
                             </div> -->
                             <div class="cta-img position-absolute right-0 bottom-0">
                                 <img src="assets/img/e1.jpg" alt="cta img" class="img-fluid">
+
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+
 <!-- 5  features end -->
 
   
+
 
 
 <!-- testimonial end -->

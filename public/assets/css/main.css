@@ -13866,7 +13866,7 @@ fieldset:disabled .btn {
 
 .btn-primary {
     --bs-btn-color: #ffffff;
-    --bs-btn-bg: #631cdd;
+    --bs-btn-bg: #595560;
     --bs-btn-border-color: #3c0994;
     --bs-btn-hover-color: #ffffff;
     --bs-btn-hover-bg: #360b81;
@@ -29963,7 +29963,7 @@ dd {
 }
 
 .bg-primary-soft {
-    background-color: rgba(23, 92, 255, .2)
+    background-color: rgba(57, 75, 113, .2)
 }
 
 .bg-primary-light {
@@ -30087,6 +30087,12 @@ dd {
     background-color: #222
 }
 
+,p1 {
+    color: #000; /* Dark black color */
+    font-size: 16px; /* You can adjust the font size as needed */
+    line-height: 1.6; /* You can adjust the line height for better readability */
+    /* You can add more styles here like font-family, font-weight, etc. */
+  }
 .primary-bg-gradient {
     background: -webkit-gradient(linear, left top, right top, from(#111827), to(#631cdd)) !important;
     background: linear-gradient(90deg, #111827, #631cdd) !important
@@ -35869,7 +35875,7 @@ li.setup-process-item:not(:last-child):before {
 }
 
 .server-list {
-    background-color:#9ec5fe;
+    background-color:#3493f0;
     position: relative;
     padding: 25px 20px;
     border-radius: 6px;
@@ -64475,7 +64481,7 @@ span.mk-subtitle {
     inset-inline: 0;
     inset-block-end: 0;
     height: 25%;
-    background-color: #171717;
+    background-color:#FFFFFF;
     z-index: -1
 }
 
