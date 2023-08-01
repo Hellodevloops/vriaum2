@@ -35869,7 +35869,7 @@ li.setup-process-item:not(:last-child):before {
 }
 
 .server-list {
-    background-color:#9ec5fe;
+    background-color:#3493f0;
     position: relative;
     padding: 25px 20px;
     border-radius: 6px;
@@ -64475,7 +64475,7 @@ span.mk-subtitle {
     inset-inline: 0;
     inset-block-end: 0;
     height: 25%;
-    background-color: #171717;
+    background-color:#FFFFFF;
     z-index: -1
 }
 
