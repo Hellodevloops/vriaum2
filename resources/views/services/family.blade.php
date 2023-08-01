@@ -251,7 +251,7 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-10">
-                        <div class="section-heading text-center">
+                        <div class="section-heading text-center text-black">
                             <h2>With the Approaches You Need</h2>
                             <p>At VriAum, we believe that every individual and every business is unique. That's why we take a personalized approach to each staffing requirement:</p>
 
@@ -263,12 +263,15 @@
                     <div class="col-lg-6 mt-4">
                         <div class="position-relative d-flex flex-column h-100 flex-wrap bg-primary-soft p-5 rounded-custom">
                             <div class="cta-left-info mb-2">
-                                <h5>Canada Migration - IT Sector</h5>
-                                <p>Canada's technology sector is renowned for its innovation and growth, offering a multitude of opportunities for IT professionals seeking a dynamic and rewarding career. </p>
+                                <h5>Sponsor your spouse, partner or dependent children</h5>
+                                <p class="text-black">If you’re eligible, you can sponsor your spouse, partner or dependent children to become permanent residents of Canada.
+
+If you do, you must be able to:
+
+support them financially
+make sure they don’t need social assistance from the governmen. </p>
                             </div>
-                            <div class="mt-auto">
-                                <a href="{{ route('staffing')}}" class="btn btn-outline-primary btn-sm">More Information</a>
-                            </div>
+                            
                             <div class="cta-img position-absolute right-0 bottom-0">
                                 <img src="assets/img/cansec1.jpg" alt="cta img" class="img-fluid">
                             </div>
@@ -277,12 +280,10 @@
                     <div class="col-lg-6 mt-4">
                         <div class="position-relative d-flex flex-column h-100 flex-wrap bg-danger-soft p-5 rounded-custom">
                             <div class="cta-left-info mb-2">
-                                <h5>Canada Migration - Non-IT Sector</h5>
-                                <p>Canada is known for its diverse economy, offering a wide range of opportunities for professionals from various backgrounds. Our approach focuses on understanding the unique strengths and qualifications of non-IT candidates and pairing them with employers that value their skills and expertise.</p>
+                                <h5>Sponsor your parents and grandparents</h5>
+                                <p class="text-black">Canada is known for its diverse economy, offering a wide range of opportunities for professionals from various backgrounds. Our approach focuses on understanding the unique strengths and qualifications of non-IT candidates and pairing them with employers that value their skills and expertise.</p>
                             </div>
-                            <div class="mt-auto">
-                                <a href="{{ route('staffing')}}" class="btn btn-outline-primary btn-sm">More Information</a>
-                            </div>
+                           
                             <div class="cta-img position-absolute right-0 bottom-0">
                                 <img src="assets/img/cansec2.jpg.jpg" alt="cta img" class="img-fluid">
                             </div>
@@ -299,8 +300,8 @@
                     <div class="row justify-content-center">
                         <div class="col-md-10 col-xl-8">
                             <h3 class="heading-3 clr-text font-weight-semibold text-center mb-0">
-                                We Have Extensive Experience in
-                                Social <span class="clr-red">Media Marketing</span>
+                                Documents Require For 
+                                Immigration Process <span class="clr-red">For Family Sponsorship Includes:</span>
                             </h3>
                         </div>
                     </div>
@@ -316,7 +317,7 @@
                                 </span>
                                 <span class="d-inline-block font-weight-bold fs-20 clr-paragraph">
                                    
-                                EXPRESS ENTRY
+                               Spouse
                                 </span>
                             </a>
                             <a class="social-media-btn" data-bs-toggle="list" href="#digitalMarketing" aria-selected="false" role="tab" tabindex="-1">
@@ -324,7 +325,7 @@
                                     <i class="far fa-bell"></i>
                                 </span>
                                 <span class="d-inline-block font-weight-bold fs-20 clr-paragraph">
-                                    PNP
+                                  Parents Or Grandparents
                                 </span>
                             </a>
                             <a class="social-media-btn" data-bs-toggle="list" href="#emailMarketing" aria-selected="false" role="tab" tabindex="-1">
@@ -332,7 +333,7 @@
                                     <i class="far fa-envelope"></i>
                                 </span>
                                 <span class="d-inline-block font-weight-bold fs-20 clr-paragraph">
-                                    FAMILY SPONSORSHIP
+                                    Dependent child
                                 </span>
                             </a>
                             <a class="social-media-btn active" data-bs-toggle="list" href="#seoMarketing" aria-selected="true" role="tab">
@@ -343,6 +344,7 @@
                                     PR CARDS
                                 </span>
                             </a>
+                           
                         </div>
                         <div class="tab-content">
                             <div class="tab-pane fade" id="webDesign" role="tabpanel">
@@ -351,19 +353,17 @@
                                         <div class="row">
                                             <div class="col-lg-7 col-xl-6 col-xxl-5 ms-lg-auto">
                                                 <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
-                                                    Express Entry
+                                                Spouse
                                                 </h5>
-                                                <p class="clr-paragraph margin-bottom-8">
-                                                Express Entry is used to manage applications for permanent residence under these federal economic immigration programs:
-                                                </p>
+                                                
                                                 <ul class="list gap-3">
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
-                                                            Federal Skilled Worker Program.
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Sponsorship Application Forms.
                                                             </p>
                                                         </div>
                                                     </li>
@@ -372,8 +372,8 @@
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
-                                                            Federal Skilled Trades Program.
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Proof of Status.
                                                             </p>
                                                         </div>
                                                     </li>
@@ -382,8 +382,58 @@
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
-                                                            Canadian Experience Class.
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Relationship Proof.
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Identification Documents.
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Proof of Financial Support.
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Police Clearance Certificate.
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Medical Examination Reports.
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Other Supporting Documents.
                                                             </p>
                                                         </div>
                                                     </li>
@@ -399,19 +449,17 @@
                                         <div class="row">
                                             <div class="col-lg-7 col-xl-6 col-xxl-5 ms-lg-auto">
                                                 <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
-                                                Provincial Nominee Program (PNP).
+                                                Parents Or Grandparents.
                                                 </h5>
-                                                <p class="clr-paragraph margin-bottom-8">
-                                                Most provinces and territories in Canada can nominate immigrants through the Provincial Nominee Program (PNP). These immigrants must have the skills, education and work experience to contribute to the economy of that province or territory, and must want to live there.They includes:
-                                                </p>
+                                               
                                                 <ul class="list gap-3">
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
-                                                            Determine your eligibility
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Sponsorship Application Forms.
                                                             </p>
                                                         </div>
                                                     </li>
@@ -420,8 +468,8 @@
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
-                                                            Check processing times
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Proof of Status.
                                                             </p>
                                                         </div>
                                                     </li>
@@ -430,8 +478,8 @@
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
-                                                            After you apply: get next steps
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Relationship Proof.
                                                             </p>
                                                         </div>
                                                     </li>
@@ -440,8 +488,68 @@
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
-                                                            Prepare for arrival
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Identification Documents.
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Police Clearance Certificate.
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Photos.
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Family Composition.
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Letter of Invitation.
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Medical Examination Reports.
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Other Supporting Documents.
                                                             </p>
                                                         </div>
                                                     </li>
@@ -457,24 +565,17 @@
                                         <div class="row">
                                             <div class="col-lg-7 col-xl-6 col-xxl-5 ms-lg-auto">
                                                 <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
-                                                    Family Sponsorship
+                                                    Dependent Child
                                                 </h5>
-                                                <p class="clr-paragraph margin-bottom-8">
-                                                If you’re eligible, you can sponsor your spouse, partner or dependent children to become permanent residents of Canada.If you do, you must be able to:support them financially
-make sure they don’t need social assistance from the government
-
-
-
-
-                                                </p>
+                                               
                                                 <ul class="list gap-3">
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
-                                                            Sponsor your spouse, partner or dependent children
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Sponsorship Application Forms.
                                                             </p>
                                                         </div>
                                                     </li>
@@ -483,8 +584,8 @@ make sure they don’t need social assistance from the government
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
-                                                            Sponsor your parents and grandparents
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Consent from Non-Accompanying Parent.
                                                             </p>
                                                         </div>
                                                     </li>
@@ -493,8 +594,78 @@ make sure they don’t need social assistance from the government
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
-                                                            Parent and Grandparent Super Visa
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Custody or Guardianship Documents (if applicable).
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Identification Documents.
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Police Clearance Certificate.
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Photos.
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Family Composition.
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Sponsorship Undertaking.
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Medical Examination Reports.
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            Other Supporting Documents.
                                                             </p>
                                                         </div>
                                                     </li>
@@ -569,6 +740,113 @@ make sure they don’t need social assistance from the government
         </div>
         <!-- try end -->
 
+
+        <!-- pop ups -->
+
+
+        <section class="work-process ptb-120">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 col-md-10">
+                        <div class="section-heading text-center aos-init aos-animate" data-aos="fade-up">
+                            <h4 class="h5 text-primary">Services and information</h4>
+                            <p class="h4 text-black">Parents, Spouse or Child super visa:</p>
+                            <!-- <h6>Eligibility to apply for the Federal Skilled Trades Program (Express Entry)</h6> -->
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="row align-items-center justify-content-between">
+                <div class="col-lg-6 col-md-12 order-0 order-lg-1">
+                        <ul class="work-process-list list-unstyled">
+                         <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init" data-aos="fade-up" data-aos-delay="200">
+                                <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
+                                    <i class="fas fa-truck fa-2x"></i>
+                                </div>
+                                <div class="icon-content">
+                              
+                              <h3 class="h5 mb-2">Extend your stay</h3>
+                              <ul>
+                              <li class="text-black">If you want to extend your stay in Canada as a visitor (stay in Canada longer), you need to apply for a visitor record.
+                              </li>
+                              <li class="text-black">
+                              A visitor record
+
+                              is a document that allows you to stay in Canada longer as
+                              a visitor.
+                              </li>
+                              <li class="text-black">
+                              includes a new expiry date.
+                              </li>
+                            </ul>
+                          </div>
+                            </li>
+                            <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init" data-aos="fade-up" data-aos-delay="200">
+                                <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
+                                    <i class="fas fa-truck fa-2x"></i>
+                                </div>
+                                <div class="icon-content">
+                                
+                                    <h3 class="h5 mb-2">Apply for a super visa</h3>
+                                    <ul>
+                                    <li class="text-black">A super visa lets you visit your children or grandchildren for 5 years at a time. It’s a visa that provides multiple entries for a period up to 10 years.
+                                    </li>
+                                    <li class="text-black">
+                                    There are specific requirements for a super visa, including the need for medical insurance.
+                                    </li>
+                                    <li class="text-black">
+                                    If you want to stay for 6 months or less, apply for a visitor visa.
+                                    </li>
+                                  </ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6 col-md-12 order-0 order-lg-1">
+                        <ul class="work-process-list list-unstyled">
+                        <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init" data-aos="fade-up" data-aos-delay="200">
+                                <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
+                                    <i class="fas fa-truck fa-2x"></i>
+                                </div>
+                                <div class="icon-content">
+                               
+                                    <h3 class="h5 mb-2">Find out if you need an eTA or a visa</h3>
+                                  <ul>
+                                    <li class="text-black">Most people need a visa or an Electronic Travel Authorization (eTA) to travel to Canada - not both. Some people may only need their valid passport.
+                                    </li>
+                                    
+                                  </ul>
+                                </div>
+                            </li>
+                            <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init" data-aos="fade-up" data-aos-delay="200">
+                                <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
+                                    <i class="fas fa-truck fa-2x"></i>
+                                </div>
+                                <div class="icon-content">
+                                    
+                                    <h3 class="h5 mb-2">Letter of invitation</h3>
+                                    <ul>
+                                    <li class="text-black">Details of your family, such as names and dates of birth of your spouse and dependants (this is mandatory for the parent and grandparent super visa).
+
+                                    </li>
+                                    <li class="text-black">
+                                    For the parent and grandparent super visa only,a written and signed promise of your financial support for your parents or grandparents for their entire stay in Canada.
+                                    </li>
+                                    <li class="text-black">
+                                    proof that your income meets or is above the low-income cut-off (LICO) for the total number of people, including the visiting parents or grandparents.
+                                    </li>
+                                  </ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- 2st -->
+               
+                <!-- 2ed -->
+            </div>
+        </section>
+<!-- end popups -->
       
         <!--features grid section end-->
 <!-- tab features starts -->
@@ -589,61 +867,55 @@ make sure they don’t need social assistance from the government
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-10">
                         <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="50">
-                            <span class="faq-icon me-3"><i class="fas fa-copyright text-primary"></i></span>
+                            <!-- <span class="faq-icon me-3"><i class="fas fa-copyright text-primary"></i></span> -->
                             <div class="faq-info">
-                                <h5>Which license do I need to use an item in a commercial?</h5>
-                                <p class="mb-0">Collaboratively iterate high-payoff content via high standards in technology.
-                                    economically sound methodologies via corporate.</p>
+                                <h5>Who is eligible to sponsor a family member in Canada?</h5>
+                                <p class="mb-0 text-black">Canadian citizens and permanent residents who are at least 18 years old and can financially support the sponsored family member are eligible to sponsor.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-10">
                         <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                            <span class="faq-icon me-3"><i class="fas fa-credit-card text-primary"></i></span>
+                            <!-- <span class="faq-icon me-3"><i class="fas fa-credit-card text-primary"></i></span> -->
                             <div class="faq-info">
-                                <h5>What payment methods do you accept?</h5>
-                                <p class="mb-0">Globally e-enable plug-and-play imperatives and seamless e-markets. Intrinsicly
-                                    negotiate resource maximizing e-tailers after just in time.</p>
+                                <h5>Which family members can be sponsored under family sponsorship?</h5>
+                                <p class="mb-0 text-black">Spouses, common-law partners, conjugal partners, dependent children, parents, and grandparents can be sponsored under family sponsorship.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-10">
                         <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="150">
-                            <span class="faq-icon me-3"><i class="fas fa-file text-primary"></i></span>
+                            <!-- <span class="faq-icon me-3"><i class="fas fa-file text-primary"></i></span> -->
                             <div class="faq-info">
-                                <h5>How does the free trial work and what is included?</h5>
-                                <p class="mb-0">Economically sound supply chains through distributed
-                                    strategic theme areas. Appropriately cultivate innovative web-readiness whereas.</p>
+                                <h5>Are same-sex marriages recognized for family sponsorship?</h5>
+                                <p class="mb-0 text-black">Yes, same-sex marriages for family sponsorship, provided they are legally valid in the country where they occurred.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-10">
                         <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-                            <span class="faq-icon me-3"><i class="fas fa-microphone text-primary"></i></span>
+                            <!-- <span class="faq-icon me-3"><i class="fas fa-microphone text-primary"></i></span> -->
                             <div class="faq-info">
-                                <h5>What happens after my free trial ends?</h5>
-                                <p class="mb-0">Progressively pontificate quality vectors without resource maximizing
-                                    bandwidth. Conveniently maximize turnkey testing procedures for compelling.</p>
+                                <h5>What are the financial requirements for sponsors?   </h5>
+                                <p class="mb-0 text-black">Sponsors must meet minimum income requirements and sign an agreement to financially support the sponsored family member.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-10">
                         <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="250">
-                            <span class="faq-icon me-3"><i class="fas fa-play-circle text-primary"></i></span>
+                            <!-- <span class="faq-icon me-3"><i class="fas fa-play-circle text-primary"></i></span> -->
                             <div class="faq-info">
-                                <h5>Why do you ask for a video introduction?</h5>
-                                <p class="mb-0">Maximizing e-enable imperatives and seamless e-markets. Intrinsicly
-                                    negotiate resource quality vectors without after just in time.</p>
+                                <h5>Are there any limitations on sponsoring multiple family members?</h5>
+                                <p class="mb-0 text-black">Yes, there are specific guidelines and eligibility criteria for sponsoring multiple family members, which applicants must follow.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-10">
                         <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
-                            <span class="faq-icon me-3"><i class="fas fa-code-branch text-primary"></i></span>
+                            <!-- <span class="faq-icon me-3"><i class="fas fa-code-branch text-primary"></i></span> -->
                             <div class="faq-info">
-                                <h5>Can I work from anywhere?</h5>
-                                <p class="mb-0">Conveniently maximize turnkey sound supply chains through distributed
-                                    strategic theme areas. Appropriately cultivate innovative web-readiness whereas.</p>
+                                <h5>Can parents and grandparents be sponsored under family sponsorship?</h5>
+                                <p class="mb-0 text-black">Yes, permanent residents can sponsor their parents and grandparents for family reunification..</p>
                             </div>
                         </div>
                     </div>

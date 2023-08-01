@@ -2,138 +2,102 @@
 @section('content')
         
         <!--page header section start-->
-        <div class="hero-twelve">
-            <div class="swiper hero-slider swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
-                    <!-- <div class="swiper-wrapper" id="swiper-wrapper-8ff687418d9a74e1" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-6076px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="2" role="group" aria-label="3 / 3" style="width: 1519px;">
-                        <div class="slider-one slider" style="
-                        background: url('assets/img/prbanner1.jpg') no-repeat center
-                            center / cover;
-                        ">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="hero-content">
-                                            <h1 class="fw-bold display-5 text-white mb-4 aos-init aos-animate" data-aos="fade-up">
-                                                Reliable Hosting For Game
-                                                <span class="gr-text ms-lg-2">Solutions.</span>
-                                            </h1>
-                                            <p class="lead text-off-white m-0">
-                                                Give your Website the speed, security, and uptime it
-                                                deserves and become part of the fastest Web Hosting.
-                                            </p>
-                                            <a href="request-demo.html" class="btn-gradient mt-4 link-with-icon">
-                                                Order Now <i class="fas fa-arrow-right"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
+        <section class="cyber-features pt-120 pb-10 bg-light-subtle">
+            <div class="container ">
+                <div class="row justify-content-center">
+                <h2>Key Features of the Provincial Nominee Program:</h2>
+                <p class="text-black">PNPs play a significant role in Canadian immigration, facilitating regional economic development and diversification </p>
+                    <div class="col-md-8 col-lg-6">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="cyber-single-service bg-white rounded-custom mb-30">
+                            <div class="feature-icon pb-5 rounded bg-primary-soft text-primary mb-4">
+                                <i class="fas fa-list"></i>
                             </div>
-                        </div>
-                    </div> -->
-                    <!-- <div class="swiper-slide swiper-slide-duplicate-active" data-swiper-slide-index="0" role="group" aria-label="1 / 3" style="width: 1519px;">
-                        <div class="slider-one slider" style="background: url('assets/img/slider/sl-1-1.png') no-repeat
-                            center center / cover">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="hero-content">
-                                            <h1 class="fw-bold display-5 text-white mb-4 aos-init aos-animate" data-aos="fade-up">
-                                                Reliable Hosting For Game
-                                                <span class="gr-text ms-lg-2">Solutions.</span>
-                                            </h1>
-                                            <p class="lead text-off-white m-0">
-                                                Give your Website the speed, security, and uptime it
-                                                deserves and become part of the fastest Web Hosting.
-                                            </p>
-                                            <a href="request-demo.html" class="btn-gradient mt-4 link-with-icon">
-                                                Order Now <i class="fas fa-arrow-right"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="cyber feature-info-wrap">
+                                <h3 class="h5">Eligibility Criteria</h3>
+                                <p>
+                                The PNP allows provinces and territories to implement their regional immigration strategies based on their economic and demographic needs. 
+                                </p>
                             </div>
-                        </div>
-                    </div> -->
-                    <!-- <div class="swiper-slide" data-swiper-slide-index="1" role="group" aria-label="2 / 3" style="width: 1519px;">
-                        <div class="slider-one slider" style="
-                            background: url('assets/img/slider/sl-2-2.png') no-repeat center
-                                center / cover;
-                            ">
-                                        <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="hero-content">
-                                            <h1 class="fw-bold display-5 text-white mb-4 aos-init aos-animate" data-aos="fade-up">
-                                                Reliable Hosting For Game
-                                                <span class="gr-text ms-lg-2">Solutions.</span>
-                                            </h1>
-                                            <p class="lead text-off-white m-0">
-                                                Give your Website the speed, security, and uptime it
-                                                deserves and become part of the fastest Web Hosting.
-                                            </p>
-                                            <a href="request-demo.html" class="btn-gradient mt-4 link-with-icon">
-                                                Order Now <i class="fas fa-arrow-right"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
-                    <div class="swiper-slide swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="2" role="group" aria-label="3 / 3" style="width: 1519px;">
-                        <div class="slider-one slider" style="
-                            background: url('assets/img/prbanner2.jpg') no-repeat center
-                                center / cover;
-                            ">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="hero-content">
-                                            <h1 class="fw-bold display-5 text-white mb-4 aos-init aos-animate" data-aos="fade-up">
-                                                Reliable Hosting For Game
-                                                <span class="gr-text ms-lg-2">Solutions.</span>
-                                            </h1>
-                                            <p class="lead text-off-white m-0">
-                                                Give your Website the speed, security, and uptime it
-                                                deserves and become part of the fastest Web Hosting.
-                                            </p>
-                                            <a href="request-demo.html" class="btn-gradient mt-4 link-with-icon">
-                                                Order Now <i class="fas fa-arrow-right"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <!-- <a href="service-single.html" class="link-with-icon text-decoration-none">Explore More <i class="fas fa-arrow-right"></i></a> -->
                         </div>
                     </div>
-                <!-- <div class="swiper-slide swiper-slide-duplicate swiper-slide-active" data-swiper-slide-index="0" role="group" aria-label="1 / 3" style="width: 1519px;">
-                        <div class="slider-one slider" style="background: url('assets/img/slider/sl-1-1.png') no-repeat
-                            center center / cover">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="hero-content">
-                                            <h1 class="fw-bold display-5 text-white mb-4 aos-init aos-animate" data-aos="fade-up">
-                                                Reliable Hosting For Game
-                                                <span class="gr-text ms-lg-2">Solutions.</span>
-                                            </h1>
-                                            <p class="lead text-off-white m-0">
-                                                Give your Website the speed, security, and uptime it
-                                                deserves and become part of the fastest Web Hosting.
-                                            </p>
-                                            <a href="request-demo.html" class="btn-gradient mt-4 link-with-icon">
-                                                Order Now <i class="fas fa-arrow-right"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
+                    <div class="col-lg-4">
+                        <div class="cyber-single-service bg-white rounded-custom mb-30">
+                            <div class="feature-icon pb-5 rounded bg-primary-soft text-primary mb-4">
+                                <i class="fas fa-cloud"></i>
                             </div>
+                            <div class="cyber feature-info-wrap">
+                                <h3 class="h5">Family Sponsorship</h3>
+                                <p>
+                                PNPs often target specific occupations and skills that are in high demand in a particular province or territory.
+                                </p>
+                            </div>
+                            <!-- <a href="service-single.html" class="link-with-icon text-decoration-none">Explore More <i class="fas fa-arrow-right"></i></a> -->
                         </div>
-                    </div> -->
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="cyber-single-service bg-white rounded-custom mb-30">
+                            <div class="feature-icon pb-5 rounded bg-primary-soft text-primary mb-4">
+                                <i class="fas fa-database"></i>
+                            </div>
+                            <div class="cyber feature-info-wrap">
+                                <h3 class="h5">Fees and Costs</h3>
+                                <p>
+                                Some PNPs offer pathways for experienced business owners, entrepreneurs, and investors to establish in the province. 
+                                </p>
+                            </div>
+                            <!-- <a href="service-single.html" class="link-with-icon text-decoration-none">Explore More <i class="fas fa-arrow-right"></i></a> -->
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="cyber-single-service bg-white rounded-custom mb-30">
+                            <div class="feature-icon pb-5 rounded bg-primary-soft text-primary mb-4">
+                                <i class="fas fa-door-closed"></i>
+                            </div>
+                            <div class="cyber feature-info-wrap">
+                                <h3 class="h5">Application Process</h3>
+                                <p>
+                                Compared to other streams, PNPs often have faster processing times for applications, making it an attractive option for individuals .
+                                </p>
+                            </div>
+                            <!-- <a href="service-single.html" class="link-with-icon text-decoration-none">Explore More <i class="fas fa-arrow-right"></i></a> -->
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="cyber-single-service bg-white rounded-custom mb-30">
+                            <div class="feature-icon pb-5 rounded bg-primary-soft text-primary mb-4">
+                                <i class="fas fa-lock"></i>
+                            </div>
+                            <div class="cyber feature-info-wrap">
+                                <h3 class="h5">Employment-Based Immigration</h3>
+                                <p>
+                                Provincial support can facilitate a smoother and more successful transition to becoming a permanent resident.
+                                </p>
+                            </div>
+                            <!-- <a href="service-single.html" class="link-with-icon text-decoration-none">Explore More <i class="fas fa-arrow-right"></i></a> -->
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="cyber-single-service bg-white rounded-custom mb-30">
+                            <div class="feature-icon pb-5 rounded bg-primary-soft text-primary mb-4">
+                                <i class="fas fa-server"></i>
+                            </div>
+                            <div class="cyber feature-info-wrap">
+                                <h3 class="h5">Waiting Times and Processing Times</h3>
+                                <p>
+                                If a candidate is not selected in a particular PNP draw, they can usually reapply or apply to another province's PNP stream.
+                                </p>
+                            </div>
+                            <!-- <a href="service-single.html" class="link-with-icon text-decoration-none">Explore More <i class="fas fa-arrow-right"></i></a> -->
+                        </div>
+                    </div>
                 </div>
-                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
             </div>
-        </div>
+        </section>
         <!--page header section end-->
         <!-- start -->
         <div class="style-guide">
@@ -153,101 +117,13 @@
 
          
 <!-- 2 sec -->
-<section class="ptb-40">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-6">
-                        <div class="text-center mb-5">
-                            <h2 class="text-black mb-4">Most Popular Game Servers</h2>
-                            <p class="text-black">
-                                Give your Website the speed, security, and uptime it deserves and
-                                become part of the fastest Web Hosting Quiety.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="server-left position-relative z-5">
-                            <div class="server-list mb-3 z-5">
-                                <a href="index-2.html" class="text-decoration-none">
-                                    <div class="d-flex align-items-center">
-                                        
-                                        <h5 class="m-0 text-white fw-medium">Eligibility Criteria</h5>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="server-list mb-3">
-                                <a href="index-2.html" class="text-decoration-none">
-                                    <div class="d-flex align-items-center">
-                                      
-                                        <h5 class="m-0 text-white fw-medium">Family Sponsorship</h5>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="server-list mb-3">
-                                <a href="index-2.html" class="text-decoration-none">
-                                    <div class="d-flex align-items-center">
-                                        
-                                        <h5 class="m-0 text-white fw-medium">Fees and Costs</h5>
-                                    </div>
-                                </a>
-                            </div>
-                           
-                            <img src="assets/img/circle.png" class="server-circle z-2" alt="cicle">
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="game-card mb-3 mb-lg-0">
-                            <div class="card-top">
-                                <img src="assets/img/fs2.jpg" class="img-fluid w-100" alt="game">
-                                
-                                
-                            </div>
-                            
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="server-list mb-3">
-                            <a href="index-2.html" class="text-decoration-none">
-                                <div class="d-flex align-items-center">
-                                  
-                                    <h5 class="m-0 text-white fw-medium">Application Process</h5>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="server-list mb-3">
-                            <a href="index-2.html" class="text-decoration-none">
-                                <div class="d-flex align-items-center">
-                                   
-                                    <h5 class="m-0 text-white fw-medium">Employment-Based Immigration
 
-</h5>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="server-list mb-3">
-                            <a href="index-2.html" class="text-decoration-none">
-                                <div class="d-flex align-items-center">
-                                    
-                                    <h5 class="m-0 text-white fw-medium">Waiting Times and Processing Times
-
-</h5>
-                                </div>
-                            </a>
-                        </div>
-                        
-                    </div>
-                </div>
-                
-            </div>
-        </section>
 <!-- 2 sec end -->
 
 
 <!-- about service end -->
         <!--features grid section start--> 
-        <section class="feature-promo ptb-120 bg-light-subtle my-section">
+        <section class="feature-promo ptb-60 bg-light-subtle my-section">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-10">
@@ -263,12 +139,10 @@
                     <div class="col-lg-6 mt-4">
                         <div class="position-relative d-flex flex-column h-100 flex-wrap bg-primary-soft p-5 rounded-custom">
                             <div class="cta-left-info mb-2">
-                                <h5>Canada Migration - IT Sector</h5>
-                                <p>Canada's technology sector is renowned for its innovation and growth, offering a multitude of opportunities for IT professionals seeking a dynamic and rewarding career. </p>
+                                <h5>Nomination:</h5>
+                                <p1><span class="text-black">After the application is submitted and assessed by the province, successful candidates are nominated for permanent residence in Canada. This nomination adds additional points to the candidate's Express Entry CRS score, significantly increasing their chances of receiving an ITA in the federal Express Entry draws.</span> </p1>
                             </div>
-                            <div class="mt-auto">
-                                <a href="{{ route('staffing')}}" class="btn btn-outline-primary btn-sm">More Information</a>
-                            </div>
+                            
                             <div class="cta-img position-absolute right-0 bottom-0">
                                 <img src="assets/img/cansec1.jpg" alt="cta img" class="img-fluid">
                             </div>
@@ -277,12 +151,10 @@
                     <div class="col-lg-6 mt-4">
                         <div class="position-relative d-flex flex-column h-100 flex-wrap bg-danger-soft p-5 rounded-custom">
                             <div class="cta-left-info mb-2">
-                                <h5>Canada Migration - Non-IT Sector</h5>
-                                <p>Canada is known for its diverse economy, offering a wide range of opportunities for professionals from various backgrounds. Our approach focuses on understanding the unique strengths and qualifications of non-IT candidates and pairing them with employers that value their skills and expertise.</p>
+                                <h5>Applying for Permanent Residence</h5>
+                                <p1><span class="text-black">Once nominated by the province, candidates submit their application for permanent residence to Immigration, Refugees, and Citizenship Canada (IRCC). The federal government reviews the application for medical and security checks before issuing permanent resident visas</span>.</p1>
                             </div>
-                            <div class="mt-auto">
-                                <a href="{{ route('staffing')}}" class="btn btn-outline-primary btn-sm">More Information</a>
-                            </div>
+                            
                             <div class="cta-img position-absolute right-0 bottom-0">
                                 <img src="assets/img/cansec2.jpg.jpg" alt="cta img" class="img-fluid">
                             </div>
@@ -353,16 +225,16 @@
                                                 <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
                                                     Express Entry
                                                 </h5>
-                                                <p class="clr-paragraph margin-bottom-8">
+                                                <p class="clr-paragraph margin-bottom-8 text-black">
                                                 Express Entry is used to manage applications for permanent residence under these federal economic immigration programs:
                                                 </p>
-                                                <ul class="list gap-3">
+                                                <ul class="list gap-3 ">
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
+                                                            <p class="mb-0 flex-grow-1 text-black">
                                                             Federal Skilled Worker Program.
                                                             </p>
                                                         </div>
@@ -372,7 +244,7 @@
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
+                                                            <p class="mb-0 flex-grow-1 text-black">
                                                             Federal Skilled Trades Program.
                                                             </p>
                                                         </div>
@@ -382,7 +254,7 @@
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
+                                                            <p class="mb-0 flex-grow-1 text-black">
                                                             Canadian Experience Class.
                                                             </p>
                                                         </div>
@@ -401,7 +273,7 @@
                                                 <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
                                                 Provincial Nominee Program (PNP).
                                                 </h5>
-                                                <p class="clr-paragraph margin-bottom-8">
+                                                <p class="clr-paragraph margin-bottom-8 text-black">
                                                 Most provinces and territories in Canada can nominate immigrants through the Provincial Nominee Program (PNP). These immigrants must have the skills, education and work experience to contribute to the economy of that province or territory, and must want to live there.They includes:
                                                 </p>
                                                 <ul class="list gap-3">
@@ -410,7 +282,7 @@
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
+                                                            <p class="mb-0 flex-grow-1 text-black">
                                                             Determine your eligibility
                                                             </p>
                                                         </div>
@@ -420,7 +292,7 @@
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
+                                                            <p class="mb-0 flex-grow-1 text-black">
                                                             Check processing times
                                                             </p>
                                                         </div>
@@ -430,7 +302,7 @@
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
+                                                            <p class="mb-0 flex-grow-1 text-black">
                                                             After you apply: get next steps
                                                             </p>
                                                         </div>
@@ -440,7 +312,7 @@
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
+                                                            <p class="mb-0 flex-grow-1 text-black">
                                                             Prepare for arrival
                                                             </p>
                                                         </div>
@@ -459,7 +331,7 @@
                                                 <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
                                                     Family Sponsorship
                                                 </h5>
-                                                <p class="clr-paragraph margin-bottom-8">
+                                                <p class="clr-paragraph margin-bottom-8 text-black">
                                                 If you’re eligible, you can sponsor your spouse, partner or dependent children to become permanent residents of Canada.If you do, you must be able to:support them financially
 make sure they don’t need social assistance from the government
 
@@ -473,7 +345,7 @@ make sure they don’t need social assistance from the government
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
+                                                            <p class="mb-0 flex-grow-1 text-black">
                                                             Sponsor your spouse, partner or dependent children
                                                             </p>
                                                         </div>
@@ -483,7 +355,7 @@ make sure they don’t need social assistance from the government
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
+                                                            <p class="mb-0 flex-grow-1 text-black">
                                                             Sponsor your parents and grandparents
                                                             </p>
                                                         </div>
@@ -493,7 +365,7 @@ make sure they don’t need social assistance from the government
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
+                                                            <p class="mb-0 flex-grow-1 text-black">
                                                             Parent and Grandparent Super Visa
                                                             </p>
                                                         </div>
@@ -512,7 +384,7 @@ make sure they don’t need social assistance from the government
                                                 <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
                                                 Permanent Resident Cards
                                                 </h5>
-                                                <p class="clr-paragraph margin-bottom-8">
+                                                <p class="clr-paragraph margin-bottom-8 text-black">
                                                 A permanent resident is someone who has been given permanent resident status by immigrating to Canada, but is not a Canadian citizen. Permanent residents are citizens of other countries.This process includes:
                                                 </p>
                                                 <ul class="list gap-3">
@@ -521,7 +393,7 @@ make sure they don’t need social assistance from the government
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
+                                                            <p class="mb-0 flex-grow-1 text-black">
                                                             Apply for a PR card.
                                                             </p>
                                                         </div>
@@ -531,7 +403,7 @@ make sure they don’t need social assistance from the government
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
+                                                            <p class="mb-0 flex-grow-1 text-black">
                                                             Get a PR photo
                                                             </p>
                                                         </div>
@@ -541,7 +413,7 @@ make sure they don’t need social assistance from the government
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
+                                                            <p class="mb-0 flex-grow-1 text-black">
                                                             Permanent resident travel document
                                                             </p>
                                                         </div>
@@ -551,7 +423,7 @@ make sure they don’t need social assistance from the government
                                                             <div class="flex-shrink-0">
                                                                 <i class="far fa-check-circle"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1">
+                                                            <p class="mb-0 flex-grow-1 text-black">
                                                             Check application status
                                                             </p>
                                                         </div>
@@ -589,61 +461,55 @@ make sure they don’t need social assistance from the government
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-10">
                         <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="50">
-                            <span class="faq-icon me-3"><i class="fas fa-copyright text-primary"></i></span>
+                            <!-- <span class="faq-icon me-3"><i class="fas fa-copyright text-primary"></i></span> -->
                             <div class="faq-info">
-                                <h5>Which license do I need to use an item in a commercial?</h5>
-                                <p class="mb-0">Collaboratively iterate high-payoff content via high standards in technology.
-                                    economically sound methodologies via corporate.</p>
+                                <h5>How can I apply for permanent residence in Canada?</h5>
+                                <p class="mb-0 text-black">There are several pathways to apply for permanent residence in Canada, including Express Entry, Provincial Nominee Program (PNP), Family Sponsorship, and other specific immigration streams.   </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-10">
                         <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                            <span class="faq-icon me-3"><i class="fas fa-credit-card text-primary"></i></span>
+                            <!-- <span class="faq-icon me-3"><i class="fas fa-credit-card text-primary"></i></span> -->
                             <div class="faq-info">
-                                <h5>What payment methods do you accept?</h5>
-                                <p class="mb-0">Globally e-enable plug-and-play imperatives and seamless e-markets. Intrinsicly
-                                    negotiate resource maximizing e-tailers after just in time.</p>
+                                <h5>How long does it take to process a PRapplication?</h5>
+                                <p class="mb-0 text-black">Processing times vary depending on the immigration program and individual circumstances. It is essential to check the most up-to-date processing times on the official government website</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-10">
                         <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="150">
-                            <span class="faq-icon me-3"><i class="fas fa-file text-primary"></i></span>
+                            <!-- <span class="faq-icon me-3"><i class="fas fa-file text-primary"></i></span> -->
                             <div class="faq-info">
-                                <h5>How does the free trial work and what is included?</h5>
-                                <p class="mb-0">Economically sound supply chains through distributed
-                                    strategic theme areas. Appropriately cultivate innovative web-readiness whereas.</p>
+                                <h5>Can I apply for permanent residence as a skilled worker?</h5>
+                                <p class="mb-0 text-black">Yes, skilled workers with in-demand qualifications and work experience may be eligible to apply for permanent residence through various economic immigration programs.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-10">
                         <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-                            <span class="faq-icon me-3"><i class="fas fa-microphone text-primary"></i></span>
+                            <!-- <span class="faq-icon me-3"><i class="fas fa-microphone text-primary"></i></span> -->
                             <div class="faq-info">
-                                <h5>What happens after my free trial ends?</h5>
-                                <p class="mb-0">Progressively pontificate quality vectors without resource maximizing
-                                    bandwidth. Conveniently maximize turnkey testing procedures for compelling.</p>
+                                <h5>Can I include my family members in my permanent residence application?</h5>
+                                <p class="mb-0 text-black">Yes, you can include your spouse or common-law partner and dependent children in your permanent residence application.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-10">
                         <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="250">
-                            <span class="faq-icon me-3"><i class="fas fa-play-circle text-primary"></i></span>
+                            <!-- <span class="faq-icon me-3"><i class="fas fa-play-circle text-primary"></i></span> -->
                             <div class="faq-info">
-                                <h5>Why do you ask for a video introduction?</h5>
-                                <p class="mb-0">Maximizing e-enable imperatives and seamless e-markets. Intrinsicly
-                                    negotiate resource quality vectors without after just in time.</p>
+                                <h5>Do I need to show proof of funds for my permanent residence application?</h5>
+                                <p class="mb-0 text-black">Yes, most immigration programs require applicants to demonstrate that they have enough funds to support themselves and their family members during their initial period.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-10">
                         <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
-                            <span class="faq-icon me-3"><i class="fas fa-code-branch text-primary"></i></span>
+                            <!-- <span class="faq-icon me-3"><i class="fas fa-code-branch text-primary"></i></span> -->
                             <div class="faq-info">
-                                <h5>Can I work from anywhere?</h5>
-                                <p class="mb-0">Conveniently maximize turnkey sound supply chains through distributed
-                                    strategic theme areas. Appropriately cultivate innovative web-readiness whereas.</p>
+                                <h5>Is it mandatory to have a job offer to apply for permanent residence?</h5>
+                                <p class="mb-0 text-black">While some immigration streams require a valid job offer, many pathways, such as Express Entry, do not require a job offer to be eligible for permanent residence</p>
                             </div>
                         </div>
                     </div>
