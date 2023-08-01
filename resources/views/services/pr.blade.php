@@ -4,9 +4,9 @@
         <!--page header section start-->
         <div class="hero-twelve">
             <div class="swiper hero-slider swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
-                <div class="swiper-wrapper" id="swiper-wrapper-8ff687418d9a74e1" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-6076px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="2" role="group" aria-label="3 / 3" style="width: 1519px;">
+                    <!-- <div class="swiper-wrapper" id="swiper-wrapper-8ff687418d9a74e1" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-6076px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="2" role="group" aria-label="3 / 3" style="width: 1519px;">
                         <div class="slider-one slider" style="
-                        background: url('assets/img/slider/sl-1-1.png') no-repeat center
+                        background: url('assets/img/prbanner1.jpg') no-repeat center
                             center / cover;
                         ">
                             <div class="container">
@@ -29,7 +29,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- <div class="swiper-slide swiper-slide-duplicate-active" data-swiper-slide-index="0" role="group" aria-label="1 / 3" style="width: 1519px;">
                         <div class="slider-one slider" style="background: url('assets/img/slider/sl-1-1.png') no-repeat
                             center center / cover">
@@ -82,7 +82,7 @@
                     </div> -->
                     <div class="swiper-slide swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="2" role="group" aria-label="3 / 3" style="width: 1519px;">
                         <div class="slider-one slider" style="
-                            background: url('assets/img/slider/sl-1-1.png') no-repeat center
+                            background: url('assets/img/prbanner2.jpg') no-repeat center
                                 center / cover;
                             ">
                             <div class="container">
@@ -153,13 +153,13 @@
 
          
 <!-- 2 sec -->
-<section class="ptb-70">
+<section class="ptb-40">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-6">
                         <div class="text-center mb-5">
-                            <h2 class="text-white mb-4">Most Popular Game Servers</h2>
-                            <p class="text-off-white">
+                            <h2 class="text-black mb-4">Most Popular Game Servers</h2>
+                            <p class="text-black">
                                 Give your Website the speed, security, and uptime it deserves and
                                 become part of the fastest Web Hosting Quiety.
                             </p>
@@ -172,125 +172,74 @@
                             <div class="server-list mb-3 z-5">
                                 <a href="index-2.html" class="text-decoration-none">
                                     <div class="d-flex align-items-center">
-                                        <img src="assets/img/server/s1.png" class="img-fluid me-3" alt="server">
-                                        <h5 class="m-0 text-white fw-medium">7 Days to Die</h5>
+                                        
+                                        <h5 class="m-0 text-white fw-medium">Eligibility Criteria</h5>
                                     </div>
                                 </a>
                             </div>
                             <div class="server-list mb-3">
                                 <a href="index-2.html" class="text-decoration-none">
                                     <div class="d-flex align-items-center">
-                                        <img src="assets/img/server/s2.png" class="img-fluid me-3" alt="server">
-                                        <h5 class="m-0 text-white fw-medium">Ark Survival Evolved</h5>
+                                      
+                                        <h5 class="m-0 text-white fw-medium">Family Sponsorship</h5>
                                     </div>
                                 </a>
                             </div>
                             <div class="server-list mb-3">
                                 <a href="index-2.html" class="text-decoration-none">
                                     <div class="d-flex align-items-center">
-                                        <img src="assets/img/server/s3.png" class="img-fluid me-3" alt="server">
-                                        <h5 class="m-0 text-white fw-medium">Counter Strike GO</h5>
+                                        
+                                        <h5 class="m-0 text-white fw-medium">Fees and Costs</h5>
                                     </div>
                                 </a>
                             </div>
-                            <div class="server-list mb-3">
-                                <a href="index-2.html" class="text-decoration-none">
-                                    <div class="d-flex align-items-center">
-                                        <img src="assets/img/server/s4.png" class="img-fluid me-3" alt="server">
-                                        <h5 class="m-0 text-white fw-medium">Call of Duty</h5>
-                                    </div>
-                                </a>
-                            </div>
+                           
                             <img src="assets/img/circle.png" class="server-circle z-2" alt="cicle">
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
                         <div class="game-card mb-3 mb-lg-0">
                             <div class="card-top">
-                                <img src="assets/img/server/card-img.png" class="img-fluid w-100" alt="game">
-                                <h4 class="mt-4 mb-3">
-                                    Battlefield Bad Company-2 Ranked Servers.
-                                </h4>
-                                <p class="m-0 text-off-white">
-                                    Our custom control panel allows you to configure and customize &amp;
-                                    Administrators.
-                                </p>
+                                <img src="assets/img/fs2.jpg" class="img-fluid w-100" alt="game">
+                                
+                                
                             </div>
-                            <div class="card-bottom">
-                                <a href="index-2.html" class="d-flex justify-content-between">
-                                    From $6.00/GB Per Month
-                                    <img src="assets/img/server/arrows.svg" alt="">
-                                </a>
-                            </div>
+                            
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
                         <div class="server-list mb-3">
                             <a href="index-2.html" class="text-decoration-none">
                                 <div class="d-flex align-items-center">
-                                    <img src="assets/img/server/s5.png" class="img-fluid me-3" alt="server">
-                                    <h5 class="m-0 text-white fw-medium">7 Days to Die</h5>
+                                  
+                                    <h5 class="m-0 text-white fw-medium">Application Process</h5>
                                 </div>
                             </a>
                         </div>
                         <div class="server-list mb-3">
                             <a href="index-2.html" class="text-decoration-none">
                                 <div class="d-flex align-items-center">
-                                    <img src="assets/img/server/s6.png" class="img-fluid me-3" alt="server">
-                                    <h5 class="m-0 text-white fw-medium">Ark Survival Evolved</h5>
+                                   
+                                    <h5 class="m-0 text-white fw-medium">Employment-Based Immigration
+
+</h5>
                                 </div>
                             </a>
                         </div>
                         <div class="server-list mb-3">
                             <a href="index-2.html" class="text-decoration-none">
                                 <div class="d-flex align-items-center">
-                                    <img src="assets/img/server/s1.png" class="img-fluid me-3" alt="server">
-                                    <h5 class="m-0 text-white fw-medium">Unreal Tournament 3</h5>
+                                    
+                                    <h5 class="m-0 text-white fw-medium">Waiting Times and Processing Times
+
+</h5>
                                 </div>
                             </a>
                         </div>
-                        <div class="server-list mb-3">
-                            <a href="index-2.html" class="text-decoration-none">
-                                <div class="d-flex align-items-center">
-                                    <img src="assets/img/server/s8.png" class="img-fluid me-3" alt="server">
-                                    <h5 class="m-0 text-white fw-medium">Garry's Mod</h5>
-                                </div>
-                            </a>
-                        </div>
+                        
                     </div>
                 </div>
-                <div class="row justify-content-center align-items-center mt-4">
-                    <div class="col-lg-4 col-md-7">
-                        <div class="game-server-lists d-flex align-items-center justify-content-between">
-                            <div class="d-none d-md-block">
-                                <img src="assets/img/server/c-arrow.png" alt="shape">
-                            </div>
-                            <ul class="list-unstyled d-flex game-img">
-                                <li>
-                                    <a href="index-2.html">
-                                        <img src="assets/img/server/e1.png" alt="game">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index-2.html">
-                                        <img src="assets/img/server/e2.png" alt="game">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index-2.html">
-                                        <img src="assets/img/server/e3.png" alt="game">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index-2.html">
-                                        <img src="assets/img/server/e4.png" alt="game">
-                                    </a>
-                                </li>
-                            </ul>
-                            <a href="index-2.html" class="fw-medium text-white"> More Games </a>
-                        </div>
-                    </div>
-                </div>
+                
             </div>
         </section>
 <!-- 2 sec end -->
@@ -344,440 +293,380 @@
         </section>
 
         <!-- try strat -->
-        <section class="cyber-faq pt-120 pb-60 my-section">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-12 col-lg-6">
-                        <div class="section-heading text-center mb-5">
-                            <h2 class="h2 text-primary">The Approaches We Have</h2>
-                            
-                            <p class="h6">
-                            At VriAum, We believe in empowering individuals to achieve their career goals by providing a comprehensive learning experience that encompasses internship opportunities, job placement, and assistance in migrating to Canada.
-                            </p>
+        <div class="social-media-section section-space--sm bgc-background">
+            <div class="section-space--sm-bottom">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-md-10 col-xl-8">
+                            <h3 class="heading-3 clr-text font-weight-semibold text-center mb-0">
+                                We Have Extensive Experience in
+                                Social <span class="clr-red">Media Marketing</span>
+                            </h3>
                         </div>
                     </div>
                 </div>
-                <div class="row">
-                <div class="col-lg-6">
-                 <div class="pt-1">
-                   
-                    <div class="section-heading ">
-                      
-                    <h2 class="mb-4 text-primary"> Learning Opportunities:</h2>
-                     <p>Our internship program offers a dynamic platform for candidates to gain hands-on experience in their chosen fields. We partner with leading companies in various industries, including IT and non-IT sectors, to provide enriching internship opportunities. Through carefully curated internship projects, candidates can apply their theoretical knowledge to real-world scenarios, develop industry-relevant skills, and enhance their professional profiles.</p>
-                   
-                   </div>
-                   
-                    </div>
-                 </div>
-                    <div class="col-lg-6 col-md-12">
-                        <div class="cyber-faq-wrapper">
-                            <div class="accordion faq-accordion" id="accordionExample">
-                               
-                                <div class="accordion-item border border-2 rounded">
-                                    <h5 class="accordion-header" id="faq-2">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false">
-                                        Tailored Internship Placements
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-2" class="accordion-collapse collapse" aria-labelledby="faq-2" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                        We match candidates with internship opportunities that align with their interests and career aspirations, ensuring a meaningful and productive experience.
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item border border-2 rounded">
-                                    <h5 class="accordion-header" id="faq-3">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false">
-                                        Mentorship and Guidance
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-3" class="accordion-collapse collapse" aria-labelledby="faq-3" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                        Our expert mentors provide guidance and support throughout the internship journey, helping candidates make the most of their learning experience.
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item border border-2 rounded">
-                                    <h5 class="accordion-header" id="faq-4">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false">
-                                        Networking Opportunities
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-4" class="accordion-collapse collapse" aria-labelledby="faq-4" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                        Interns have the chance to build valuable connections with industry professionals and potential employers, enhancing their career prospects.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- <div class="col-lg-6">
-                 <div class="pt-1">
-                   
-                    <div class="section-heading ">
-                      
-                    <h2 class="mb-4 text-primary"> Learning Opportunities:</h2>
-                     <p>Our internship program offers a dynamic platform for candidates to gain hands-on experience in their chosen fields. We partner with leading companies in various industries, including IT and non-IT sectors, to provide enriching internship opportunities. Through carefully curated internship projects, candidates can apply their theoretical knowledge to real-world scenarios, develop industry-relevant skills, and enhance their professional profiles.</p>
-                   
-                   </div>
-                   
-                    </div>
-                 </div> -->
-                </div>
-                
-                <!-- 2start -->
-                <div class="row my-section">
-                <div class="col-lg-6">
-                          <div class="pt-1">
-                            
-                         <div class="section-heading ">
-                        
-                        <h2 class="mb-4 text-primary">Placement Services</h2>
-                       <p>Upon successful completion of the internship, candidates have the opportunity to transition into the job placement phase. Our dedicated team works closely with candidates to identify suitable job openings and connect them with reputable organizations seeking their skills and expertise.</p>
-                      
-                   </div>
-                   
-                     </div>
-                 </div>
-                    <div class="col-lg-6 col-md-12">
-                        <div class="cyber-faq-wrapper">
-                            <div class="accordion faq-accordion" id="accordionExample">
-                                
-                                <div class="accordion-item border border-2 rounded">
-                                    <h5 class="accordion-header" id="faq-2">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false">
-                                        Industry-Specific Placement
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-2" class="accordion-collapse collapse" aria-labelledby="faq-2" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                        We have an extensive network of employers across Canada's industries, enabling us to match candidates with organizations that suit their career goals and talents.
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item border border-2 rounded">
-                                    <h5 class="accordion-header" id="faq-3">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false">
-                                        Personalized Approach
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-3" class="accordion-collapse collapse" aria-labelledby="faq-3" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                        ur team understands the unique strengths of each candidate and tailors the placement process to ensure a perfect fit for both candidates and employers.
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item border border-2 rounded">
-                                    <h5 class="accordion-header" id="faq-4">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false">
-                                        In-Demand Industries and Occupations
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-4" class="accordion-collapse collapse" aria-labelledby="faq-4" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                        Certain industries and occupations are in high demand in Canada, creating better prospects for staffing migration. Our team stays updated with the current labor market needs and provides guidance on the industries and occupations that are likely to offer better opportunities.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- <div class="col-lg-6">
-                          <div class="pt-1">
-                            
-                         <div class="section-heading ">
-                        
-                        <h2 class="mb-4 text-primary">Placement Services</h2>
-                       <p>Upon successful completion of the internship, candidates have the opportunity to transition into the job placement phase. Our dedicated team works closely with candidates to identify suitable job openings and connect them with reputable organizations seeking their skills and expertise.</p>
-                      
-                   </div>
-                   
-                     </div>
-                 </div> -->
-                </div>
-                <!-- 2end -->
-                
-                <!-- 3st -->
-                <div class="row my-section">
-                <div class="col-lg-6">
-                 <div class="pt-1">
-                    
-                    <div class="section-heading ">
-                       
-                    <h2 class="mb-4 text-primary">Migration to Canada</h2>
-                     <p>For candidates who aspire to build a long-term career in Canada, we offer migration services that extend beyond job placement. Our experienced immigration consultants provide expert guidance and assistance in navigating the Canadian immigration process, including obtaining <span class="text-primary h5">Permanent Residency (PR) status</span>.</p>
-                   
-                   </div>
-                   
-                    </div>
-                 </div>
-                    <div class="col-lg-6 col-md-12 ">
-                        <div class="cyber-faq-wrapper">
-                            <div class="accordion faq-accordion" id="accordionExample">
-                                
-                                <div class="accordion-item border border-2 rounded">
-                                    <h5 class="accordion-header" id="faq-2">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false">
-                                        Comprehensive Immigration Support
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-2" class="accordion-collapse collapse" aria-labelledby="faq-2" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                        Our immigration experts handle the entire application process, from assessing eligibility to preparing documentation and submission.
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item border border-2 rounded">
-                                    <h5 class="accordion-header" id="faq-3">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false">
-                                        Settlement Assistance
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-3" class="accordion-collapse collapse" aria-labelledby="faq-3" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                        We assist candidates in settling into their new life in Canada, providing valuable information on housing, healthcare, education, and community resources.
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item border border-2 rounded">
-                                    <h5 class="accordion-header" id="faq-4">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false">
-                                        Long-Term Career Path
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-4" class="accordion-collapse collapse" aria-labelledby="faq-4" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                        Our focus is on ensuring candidates have a sustainable and successful career in Canada, allowing them to contribute to Canada's thriving economy and multicultural society.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- <div class="col-lg-6">
-                 <div class="pt-1">
-                    
-                    <div class="section-heading ">
-                       
-                    <h2 class="mb-4 text-primary">Migration to Canada</h2>
-                     <p>For candidates who aspire to build a long-term career in Canada, we offer migration services that extend beyond job placement. Our experienced immigration consultants provide expert guidance and assistance in navigating the Canadian immigration process, including obtaining <span class="text-primary h5">Permanent Residency (PR) status</span>.</p>
-                   
-                   </div>
-                   
-                    </div>
-                 </div> -->
-                </div>
-                <!-- 3ed -->
             </div>
-        </section>
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="list-group flex-row flex-wrap justify-content-center margin-bottom-13" role="tablist">
+                            <a class="social-media-btn" data-bs-toggle="list" href="#webDesign" aria-selected="false" role="tab" tabindex="-1">
+                                <span class="d-grid place-content-center width-12 height-12 rounded-circle bgc-text-1 clr-paragraph flex-shrink-0 fs-20">
+                                    <i class="fas fa-cog"></i>
+                                </span>
+                                <span class="d-inline-block font-weight-bold fs-20 clr-paragraph">
+                                   
+                                EXPRESS ENTRY
+                                </span>
+                            </a>
+                            <a class="social-media-btn" data-bs-toggle="list" href="#digitalMarketing" aria-selected="false" role="tab" tabindex="-1">
+                                <span class="d-grid place-content-center width-12 height-12 rounded-circle bgc-text-1 clr-paragraph flex-shrink-0 fs-20">
+                                    <i class="far fa-bell"></i>
+                                </span>
+                                <span class="d-inline-block font-weight-bold fs-20 clr-paragraph">
+                                    PNP
+                                </span>
+                            </a>
+                            <a class="social-media-btn" data-bs-toggle="list" href="#emailMarketing" aria-selected="false" role="tab" tabindex="-1">
+                                <span class="d-grid place-content-center width-12 height-12 rounded-circle bgc-text-1 clr-paragraph flex-shrink-0 fs-20">
+                                    <i class="far fa-envelope"></i>
+                                </span>
+                                <span class="d-inline-block font-weight-bold fs-20 clr-paragraph">
+                                    FAMILY SPONSORSHIP
+                                </span>
+                            </a>
+                            <a class="social-media-btn active" data-bs-toggle="list" href="#seoMarketing" aria-selected="true" role="tab">
+                                <span class="d-grid place-content-center width-12 height-12 rounded-circle bgc-text-1 clr-paragraph flex-shrink-0 fs-20">
+                                    <i class="far fa-chart-bar"></i>
+                                </span>
+                                <span class="d-inline-block font-weight-bold fs-20 clr-paragraph">
+                                    PR CARDS
+                                </span>
+                            </a>
+                        </div>
+                        <div class="tab-content">
+                            <div class="tab-pane fade" id="webDesign" role="tabpanel">
+                                <div class="border border-red-clr rounded-4 padding-4">
+                                    <div class="social-media-content bgc-white rounded-4 section-space padding-x-2 padding-x-xsm-4 padding-x-sm-8 padding-x-md-12 padding-end-xxl-25">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-xl-6 col-xxl-5 ms-lg-auto">
+                                                <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
+                                                    Express Entry
+                                                </h5>
+                                                <p class="clr-paragraph margin-bottom-8">
+                                                Express Entry is used to manage applications for permanent residence under these federal economic immigration programs:
+                                                </p>
+                                                <ul class="list gap-3">
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1">
+                                                            Federal Skilled Worker Program.
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1">
+                                                            Federal Skilled Trades Program.
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1">
+                                                            Canadian Experience Class.
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="digitalMarketing" role="tabpanel">
+                                <div class="border border-red-clr rounded-4 padding-4">
+                                    <div class="social-media-content bgc-white rounded-4 section-space padding-x-2 padding-x-xsm-4 padding-x-sm-8 padding-x-md-12 padding-end-xxl-25">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-xl-6 col-xxl-5 ms-lg-auto">
+                                                <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
+                                                Provincial Nominee Program (PNP).
+                                                </h5>
+                                                <p class="clr-paragraph margin-bottom-8">
+                                                Most provinces and territories in Canada can nominate immigrants through the Provincial Nominee Program (PNP). These immigrants must have the skills, education and work experience to contribute to the economy of that province or territory, and must want to live there.They includes:
+                                                </p>
+                                                <ul class="list gap-3">
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1">
+                                                            Determine your eligibility
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1">
+                                                            Check processing times
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1">
+                                                            After you apply: get next steps
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1">
+                                                            Prepare for arrival
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="emailMarketing" role="tabpanel">
+                                <div class="border border-red-clr rounded-4 padding-4">
+                                    <div class="social-media-content bgc-white rounded-4 section-space padding-x-2 padding-x-xsm-4 padding-x-sm-8 padding-x-md-12 padding-end-xxl-25">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-xl-6 col-xxl-5 ms-lg-auto">
+                                                <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
+                                                    Family Sponsorship
+                                                </h5>
+                                                <p class="clr-paragraph margin-bottom-8">
+                                                If you’re eligible, you can sponsor your spouse, partner or dependent children to become permanent residents of Canada.If you do, you must be able to:support them financially
+make sure they don’t need social assistance from the government
+
+
+
+
+                                                </p>
+                                                <ul class="list gap-3">
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1">
+                                                            Sponsor your spouse, partner or dependent children
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1">
+                                                            Sponsor your parents and grandparents
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1">
+                                                            Parent and Grandparent Super Visa
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade active show" id="seoMarketing" role="tabpanel">
+                                <div class="border border-red-clr rounded-4 padding-4">
+                                    <div class="social-media-content bgc-white rounded-4 section-space padding-x-2 padding-x-xsm-4 padding-x-sm-8 padding-x-md-12 padding-end-xxl-25">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-xl-6 col-xxl-5 ms-lg-auto">
+                                                <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
+                                                Permanent Resident Cards
+                                                </h5>
+                                                <p class="clr-paragraph margin-bottom-8">
+                                                A permanent resident is someone who has been given permanent resident status by immigrating to Canada, but is not a Canadian citizen. Permanent residents are citizens of other countries.This process includes:
+                                                </p>
+                                                <ul class="list gap-3">
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1">
+                                                            Apply for a PR card.
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1">
+                                                            Get a PR photo
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1">
+                                                            Permanent resident travel document
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="d-flex gap-2 align-items-center clr-paragraph">
+                                                            <div class="flex-shrink-0">
+                                                                <i class="far fa-check-circle"></i>
+                                                            </div>
+                                                            <p class="mb-0 flex-grow-1">
+                                                            Check application status
+                                                            </p>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!-- try end -->
 
       
         <!--features grid section end-->
-<!-- tab features strats -->
-<section class="services-icon ptb-12">
+<!-- tab features starts -->
+
+<!-- tab features end -->
+<!-- faq start -->
+<section class="faq-section ptb-120">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-lg-6 col-md-10">
-                        <div class="section-heading text-center">
-                        <p class="h3">Why Choose VriAum for Internship and Migrating Staffing to Canada</p>
-                        <p>Choosing VriAum means gaining a reliable partner who values your success. Here are some reasons why we stand out </p>
+                    <div class="col-lg-6 col-md-12">
+                        <div class="section-heading text-center aos-init aos-animate" data-aos="fade-up">
+                            <h4 class="h5 text-primary">FAQ</h4>
+                            <h2>Frequently Asked Questions</h2>
+                            <p>Efficiently network cross-unit paradigms for premier technologies scale 24/7 paradigms for process-centric data interoperable.</p>
                         </div>
-                        ,
                     </div>
                 </div>
                 <div class="row justify-content-center">
-                    <div class="col-lg-4 col-md-6 p-0">
-                        <div class="single-service p-lg-5 p-4 text-center mt-3 border-bottom border-end">
-                            <div class="service-icon icon-center">
-                                <img src="assets/img/service/coding.png" alt="service icon" width="65" height="65">
-                            </div>
-                            <div class="service-info-wrap">
-                                <h4 class="h5">Expertise in Canada's Immigration Landscape</h4>
-                                <p>
-                                Our dedicated team of immigration experts is well-versed in the intricacies of the immigration process.
-                                </p>
+                    <div class="col-lg-6 col-md-10">
+                        <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="50">
+                            <span class="faq-icon me-3"><i class="fas fa-copyright text-primary"></i></span>
+                            <div class="faq-info">
+                                <h5>Which license do I need to use an item in a commercial?</h5>
+                                <p class="mb-0">Collaboratively iterate high-payoff content via high standards in technology.
+                                    economically sound methodologies via corporate.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 p-0">
-                        <div class="single-service p-lg-5 p-4 text-center mt-3 border-bottom border-end">
-                            <div class="service-icon icon-center">
-                                <img src="assets/img/service/app-development.png" alt="service icon" width="65" height="65">
-                            </div>
-                            <div class="service-info-wrap">
-                            <h4 class="h5">Extensive Network of Employers in IT and Non-IT Industries</h4>
-                                <p>
-                                We take pride across diverse industries in Canada, including the thriving IT sector and various non-IT sectors. 
-                                </p>
+                    <div class="col-lg-6 col-md-10">
+                        <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                            <span class="faq-icon me-3"><i class="fas fa-credit-card text-primary"></i></span>
+                            <div class="faq-info">
+                                <h5>What payment methods do you accept?</h5>
+                                <p class="mb-0">Globally e-enable plug-and-play imperatives and seamless e-markets. Intrinsicly
+                                    negotiate resource maximizing e-tailers after just in time.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 p-0">
-                        <div class="single-service p-lg-5 p-4 text-center mt-3 border-bottom">
-                        <div class="service-icon icon-center">
-                                <img src="assets/img/service/graphic-design.png" alt="service icon" width="65" height="65">
-                            </div>
-                            
-                            <div class="service-info-wrap">
-                            <h4 class="h5">Personalized Support and Settlement Assistance</h4>
-                                <p>
-                                When you choose VriAum for Canada Placement Staffing, you become a part of our family.
-                                </p>
+                    <div class="col-lg-6 col-md-10">
+                        <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="150">
+                            <span class="faq-icon me-3"><i class="fas fa-file text-primary"></i></span>
+                            <div class="faq-info">
+                                <h5>How does the free trial work and what is included?</h5>
+                                <p class="mb-0">Economically sound supply chains through distributed
+                                    strategic theme areas. Appropriately cultivate innovative web-readiness whereas.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 p-0">
-                        <div class="single-service p-lg-5 p-4 text-center border-end">
-                            <div class="service-icon icon-center">
-                                <img src="assets/img/service/curve.png" alt="service icon" width="65" height="65">
-                            </div>
-                            <div class="feature-info-wrap">
-                            <h4 class="h5">Comprehensive Pre-Departure Preparation</h4>
-                                <p>
-                                At VriAum, we believe that preparation is key to a successful migration. 
-                                </p>
+                    <div class="col-lg-6 col-md-10">
+                        <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+                            <span class="faq-icon me-3"><i class="fas fa-microphone text-primary"></i></span>
+                            <div class="faq-info">
+                                <h5>What happens after my free trial ends?</h5>
+                                <p class="mb-0">Progressively pontificate quality vectors without resource maximizing
+                                    bandwidth. Conveniently maximize turnkey testing procedures for compelling.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 p-0">
-                        <div class="single-service p-lg-5 p-4 text-center border-end">
-                        <div class="service-icon icon-center">
-                                <img src="assets/img/service/shield.png" alt="service icon" width="65" height="65">
-                            </div>
-                            <div class="feature-info-wrap">
-                            <h4 class="h5">Transparent and Ethical Practices</h4>
-                                <p>
-                                At VriAum, transparency and ethical practices are at the core of everything we do. 
-                                </p>
+                    <div class="col-lg-6 col-md-10">
+                        <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="250">
+                            <span class="faq-icon me-3"><i class="fas fa-play-circle text-primary"></i></span>
+                            <div class="faq-info">
+                                <h5>Why do you ask for a video introduction?</h5>
+                                <p class="mb-0">Maximizing e-enable imperatives and seamless e-markets. Intrinsicly
+                                    negotiate resource quality vectors without after just in time.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 p-0">
-                        <div class="single-service p-lg-5 p-4 text-center">
-                            <div class="service-icon icon-center">
-                                <img src="assets/img/service/promotion.png" alt="service icon" width="65" height="65">
+                    <div class="col-lg-6 col-md-10">
+                        <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
+                            <span class="faq-icon me-3"><i class="fas fa-code-branch text-primary"></i></span>
+                            <div class="faq-info">
+                                <h5>Can I work from anywhere?</h5>
+                                <p class="mb-0">Conveniently maximize turnkey sound supply chains through distributed
+                                    strategic theme areas. Appropriately cultivate innovative web-readiness whereas.</p>
                             </div>
-                            <div class="feature-info-wrap">
-                            <h4 class="h5">Tailored Job Placement Services</h4>
-                                <p>
-                                We understand that each individual's career aspirations and skill sets are unique.
-                                </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="bg-dark shadow-lg p-5 rounded-custom mt-lg-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="250">
+                    <div class="row align-items-center justify-content-between">
+                        <div class="col-lg-7">
+                            <div class="cta-content">
+                                <h3 class="mb-2">Have More Questions?</h3>
+                                <p class="mb-lg-0 mb-xl-0">Drop us a note and we’ll get back to you soon</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3">
+                            <div class="text-lg-end">
+                                <a href="contact-us.html" class="btn btn-secondary">Get in Touch</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-<!-- tab features end -->
-<!-- faq start -->
-<section class="faq-section ptb-120 my-section">
-                <div class="container">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-7 col-12">
-                            <div class="section-heading mb-5 text-center">
-                                <h5 class="h6 text-primary">FAQ</h5>
-                                <h2>Frequently Asked Questions</h2>
-                                <p>It is an excellent opportunity to address common queries and provide valuable information.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row justify-content-center">
-                        <div class="col-lg-7 col-12">
-                            <div class="accordion faq-accordion" id="accordionExample">
-                                <div class="accordion-item border border-2 active">
-                                    <h5 class="accordion-header" id="faq-1">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false">
-                                        What are the benefits of participating in the internship program?
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-1" class="accordion-collapse collapse" aria-labelledby="faq-1" data-bs-parent="#accordionExample" style="">
-                                        <div class="accordion-body">
-                                        Participants can apply their theoretical knowledge to real-world projects, enhance their skills, and build a strong foundation for their future careers.
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- <div class="accordion-item border border-2">
-                                    <h5 class="accordion-header" id="faq-5">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false">
-                                        Can you help with staffing and immigration to both the USA and Canada?
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-5" class="accordion-collapse collapse" aria-labelledby="faq-5" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                        Yes, we provide assistance with staffing and immigration services for both the USA and Canada.
-                                        </div>
-                                    </div>
-                                </div> -->
-                                <div class="accordion-item border border-2">
-                                    <h5 class="accordion-header" id="faq-2">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false">
-                                        Are internships available in both IT and non-IT sectors?
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-2" class="accordion-collapse collapse" aria-labelledby="faq-2" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">Yes, we offer internship opportunities in various industries, including IT and non-IT sectors.  We stay updated with the latest immigration laws and regulations, and our team works closely with applicants to understand their specific circumstances, providing personalized advice and support throughout the entire process.
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item border border-2">
-                                    <h5 class="accordion-header" id="faq-3">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false">
-                                        How does the migration staffing process work?
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-3" class="accordion-collapse collapse" aria-labelledby="faq-3" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                        Once qualified, we connect candidates with prospective employers in Canada who are seeking their specific expertise and skills.
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="accordion-item border border-2">
-                                    <h5 class="accordion-header" id="faq-4">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false">
-                                        What are the basic eligibility criteria for participating in the migration staffing program?
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-4" class="accordion-collapse collapse" aria-labelledby="faq-4" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">Eligibility criteria may vary depending on the specific immigration pathway or internship program.  We provide a supportive learning environment, where beginners receive foundational knowledge and practical guidance, while experienced participants can delve into more advanced topics and industry-specific skills.
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="accordion-item border border-2">
-                                    <h5 class="accordion-header" id="faq-5">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false">
-                                        What is your company's job placement success rate for candidates migrating to Canada?
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-5" class="accordion-collapse collapse" aria-labelledby="faq-5" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                        Our personalized approach to job placement, in-depth understanding of the Canadian job market.
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- <div class="accordion-item border border-2">
-                                    <h5 class="accordion-header" id="faq-5">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false">
-                                        How long do the internships typically last?
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-5" class="accordion-collapse collapse" aria-labelledby="faq-5" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                        The duration of internships can vary. Some internships may span a few weeks, while others may last several months. To get the exact duration please contact VriAum.
-                                        </div>
-                                    </div>
-                                </div> -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
 <!-- faq end -->
   
 <!-- integrate companies  -->
