@@ -4,7 +4,7 @@
         <!--page header section start-->
 
         <section class="crm-integration bg-white pt-120 pb-80">
-            <div class="container">
+            <div class="container pt-60">
                 <div class="row justify-content-between align-items-center g-4">
                     <div class="col-lg-6">
                         <div class="crm-appss-circle">
@@ -15,7 +15,7 @@
                         <div class="crm-integration-content">
                             <div class="crm-title">
                                 <span class="crm-subtitle">PROVINCIAL NOMINEE PROGRAM (PNP)<img src="assets/img/shape/arrow-red.png" alt="arrow" class="ms-1"></span>
-                                <h2 class="mt-2 mb-3">Integrated with Quiety <br> Used Software</h2>
+                                <h2 class="mt-2 mb-3">Understanding the Provincial Nominee Program (PNP)</h2>
                                 <p class="text-black">The Provincial Nominee Program (PNP) is a Canadian immigration pathway that allows provinces and territories to nominate individuals with specific skills, work experience, or connections to their region for permanent residence in Canada. The PNP is designed to address the unique economic and labor market needs of different provinces and territories, making it an attractive option for individuals seeking Canadian immigration opportunities.</p>
                                
                             </div>
@@ -39,7 +39,7 @@
          
 <!-- 2 sec -->
 
-<section class="cyber-features pt-100 pb-10 bg-light-subtle">
+<section class="cyber-features  bg-light-subtle">
             <div class="container bg-secondary">
                 <div class="row justify-content-center">
                 <h2>Key Features of the Provincial Nominee Program:</h2>
@@ -50,8 +50,11 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-primary-soft text-primary mb-4">
-                                <i class="fas fa-list"></i>
+                            <div class="feature-icon pb-5 rounded bg-danger-soft text-danger mb-4">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-app-indicator" viewBox="0 0 20 20">
+  <path d="M5.5 2A3.5 3.5 0 0 0 2 5.5v5A3.5 3.5 0 0 0 5.5 14h5a3.5 3.5 0 0 0 3.5-3.5V8a.5.5 0 0 1 1 0v2.5a4.5 4.5 0 0 1-4.5 4.5h-5A4.5 4.5 0 0 1 1 10.5v-5A4.5 4.5 0 0 1 5.5 1H8a.5.5 0 0 1 0 1H5.5z"/>
+  <path d="M16 3a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
+</svg>
                             </div>
                             <div class="cyber feature-info-wrap">
                                 <h3 class="h5">Regional Immigration Strategies</h3>
@@ -64,8 +67,10 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-primary-soft text-primary mb-4">
-                                <i class="fas fa-cloud"></i>
+                            <div class="feature-icon pb-5 rounded bg-danger-soft text-danger mb-4">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-arrow-down-right" viewBox="0 0 20 20">
+  <path fill-rule="evenodd" d="M14 13.5a.5.5 0 0 1-.5.5h-6a.5.5 0 0 1 0-1h4.793L2.146 2.854a.5.5 0 1 1 .708-.708L13 12.293V7.5a.5.5 0 0 1 1 0v6z"/>
+</svg>
                             </div>
                             <div class="cyber feature-info-wrap">
                                 <h3 class="h5">Targeted Occupations and Skills</h3>
@@ -78,8 +83,12 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-primary-soft text-primary mb-4">
-                                <i class="fas fa-database"></i>
+                            <div class="feature-icon pb-5 rounded bg-danger-soft text-danger mb-4">
+                           
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-bag-fill" viewBox="0 0 20 20">
+  <path d="M8 1a2.5 2.5 0 0 1 2.5 2.5V4h-5v-.5A2.5 2.5 0 0 1 8 1zm3.5 3v-.5a3.5 3.5 0 1 0-7 0V4H1v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V4h-3.5z"/>
+</svg>
+
                             </div>
                             <div class="cyber feature-info-wrap">
                                 <h3 class="h5">Business Immigration Streams:</h3>
@@ -92,8 +101,10 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-primary-soft text-primary mb-4">
-                                <i class="fas fa-door-closed"></i>
+                            <div class="feature-icon pb-5 rounded bg-danger-soft text-danger mb-4">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-amd" viewBox="0 0 20 20">
+  <path d="m.334 0 4.358 4.359h7.15v7.15l4.358 4.358V0H.334ZM.2 9.72l4.487-4.488v6.281h6.28L6.48 16H.2V9.72Z"/>
+</svg>
                             </div>
                             <div class="cyber feature-info-wrap">
                                 <h3 class="h5">Faster Processing Times</h3>
@@ -106,8 +117,10 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-primary-soft text-primary mb-4">
-                                <i class="fas fa-lock"></i>
+                            <div class="feature-icon pb-5 rounded bg-danger-soft text-danger mb-4">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-bar-chart" viewBox="0 0 20 20">
+  <path d="M4 11H2v3h2v-3zm5-4H7v7h2V7zm5-5v12h-2V2h2zm-2-1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1h-2zM6 7a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V7zm-5 4a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1v-3z"/>
+</svg>
                             </div>
                             <div class="cyber feature-info-wrap">
                                 <h3 class="h5">Provincial Support and Nomination</h3>
@@ -120,8 +133,10 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-primary-soft text-primary mb-4">
-                                <i class="fas fa-server"></i>
+                            <div class="feature-icon pb-5 rounded bg-danger-soft text-danger mb-4">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-bounding-box" viewBox="0 0 20 20">
+  <path d="M5 2V0H0v5h2v6H0v5h5v-2h6v2h5v-5h-2V5h2V0h-5v2H5zm6 1v2h2v6h-2v2H5v-2H3V5h2V3h6zm1-2h3v3h-3V1zm3 11v3h-3v-3h3zM4 15H1v-3h3v3zM1 4V1h3v3H1z"/>
+</svg>
                             </div>
                             <div class="cyber feature-info-wrap">
                                 <h3 class="h5">Ability to Apply Multiple Times</h3>
@@ -155,9 +170,7 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-6">
                         <div class="crypto-timeline bg-soft-black mb-4 mb-lg-0">
-                            <div class="crypto-timeline-icon">
-                                <img src="assets/img/Padlock.svg" alt="Padlock">
-                            </div>
+                            
                             <h3 class="text-white">Eligibility Assessment</h3>
                             <p>
                             Applicants interested in the PNP need to check the eligibility criteria of the specific stream of the province they wish to apply to. 
@@ -166,9 +179,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="crypto-timeline bg-soft-black mb-4 mb-lg-0">
-                            <div class="crypto-timeline-icon">
-                                <img src="assets/img/star.svg" alt="Padlock">
-                            </div>
+                            
                             <h3 class="text-white">Submission of Expression of Interest</h3>
                             <p>
                             This allows the province to assess their potential for meeting the labor market needs and suitability for the PNP.
@@ -177,9 +188,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="crypto-timeline bg-soft-black mb-4 mb-lg-0">
-                            <div class="crypto-timeline-icon">
-                                <img src="assets/img/bitcoin.svg" alt="Padlock">
-                            </div>
+                           
                             <h3 class="text-white">Nomination and Invitation</h3>
                             <p>
                             If selected, candidates will receive a provincial nomination, which may lead to additional CRS points in the Express Entry system. 
@@ -188,9 +197,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="crypto-timeline bg-soft-black">
-                            <div class="crypto-timeline-icon">
-                                <img src="assets/img/glowing-star.svg" alt="Padlock">
-                            </div>
+                            
                             <h3 class="text-white">Application for Permanent Residence</h3>
                             <p>
                             After receiving the ITA, candidates need to submit a complete application for PR to the Immigration.
@@ -205,217 +212,114 @@
         <!-- 3rd appli ed -->
 
         <!-- 4 sec strat -->
-        <section class="cyber-faq pt-120 pb-60 my-section">
-            <div class="container bg-secondary-light">
-        
-                <div class="row justify-content-center bg-secondary">
-                    <h2> Canadian Experience Class.</h2>
-            <p class="h6">
-            Canadian Experience Class (CEC): Your Pathway to Permanent Residence in Canada.
-                            </p>
-                    <div class="col-md-12 col-lg-6">
-                        <div class="section-heading text-center mb-5">
-                           
-
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                <div class="col-lg-6">
-                 <div class="pt-1">
-                   
-                    <div class="section-heading ">
-                      
-
-                    <h3 class="text-primary"> Eligibility Criteria for the Canadian Experience Class (CEC):</h3>
-                     <p>The Canadian Experience Class (CEC) is one of the immigration pathways under the Express Entry system, designed for individuals who have gained valuable work experience in Canada and wish to become permanent residents. To be eligible for the CEC, applicants must meet specific criteria.</p>
-   
-                   </div>
-                   
-                    </div>
-                 </div>
-                    <div class="col-lg-6 col-md-12">
-                        <div class="cyber-faq-wrapper">
-                            <div class="accordion faq-accordion" id="accordionExample">
-                               
-                                <div class="accordion-item border border-2 rounded">
-                                    <h5 class="accordion-header" id="faq-2">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false">
-
-                                        Skilled Work Experience in Canada:
-
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-2" class="accordion-collapse collapse" aria-labelledby="faq-2" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-
-                                            <ul>
-                                        <li>Candidates must have at least 12 months of full-time skilled work experience in Canada within the past three years before applying.</li>
-                                        <li>Part-time work experience will be considered, but it should be equivalent to 12 months of full-time work.</li>
-                                       </ul> 
-                                    </div>
-
-                                    </div>
-                                </div>
-                                <div class="accordion-item border border-2 rounded">
-                                    <h5 class="accordion-header" id="faq-3">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false">
-
-                                        Type of Work Experience:
-
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-3" class="accordion-collapse collapse" aria-labelledby="faq-3" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-
-                                        The work experience must be under one or more National Occupational Classification (NOC) skill type 0 (managerial occupations) or skill level A (professional occupations) or B (technical or skilled trades).
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item border border-2 rounded">
-                                    <h5 class="accordion-header" id="faq-4">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false">
-
-                                        Language Proficiency Requirements:
-
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-4" class="accordion-collapse collapse" aria-labelledby="faq-4" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-
-                                        <ul>
-                                        <li>Applicants must demonstrate proficiency in either English or French.</li>
-                                        <li>They need to take a standardized language test approved by the Canadian government, such as IELTS (International English Language Testing System) for English or TEF for French./li>
-                                        <li>The test results must meet the minimum language threshold set by the Canadian government.</li>
-                                        </ul>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-                </div>
-                
-                <!-- 2start -->
-                <div class="row my-section">
-                <div class="col-lg-6">
-                          <div class="pt-1">
+        <section class="work-process pt-100 pb-60">
+            <div class="container">
+                <div class="row justify-content-center">
+                <h2 class="h2 text-danger">Why Choose PNP Canada?</h4>
                             
-                         <div class="section-heading ">
-                        
-                        <h2 class="mb-4 text-primary">Placement Services</h2>
-
-                       <p>Meeting these eligibility criteria is essential for being considered under the Canadian Experience Class (CEC) for permanent residence in Canada. Applicants who meet the requirements and receive an Invitation to Apply (ITA) can proceed with the final stage of their application by submitting their documents and completing the necessary forms to become Canadian permanent residents.</p>
-
-                      
-                   </div>
-                   
-                     </div>
-                 </div>
-                    <div class="col-lg-6 col-md-12">
-                        <div class="cyber-faq-wrapper">
-                            <div class="accordion faq-accordion" id="accordionExample">
-                                
-                                <div class="accordion-item border border-2 rounded">
-                                    <h5 class="accordion-header" id="faq-2">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false">
-
-                                        Intention to Live Outside Quebec:
-
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-2" class="accordion-collapse collapse" aria-labelledby="faq-2" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-
-                                        Quebec has its own immigration system. To apply for CEC, candidates must intend to reside in any province or territory in Canada except Quebec.
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item border border-2 rounded">
-                                    <h5 class="accordion-header" id="faq-3">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false">
-
-                                        Legal Status in Canada:
-
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-3" class="accordion-collapse collapse" aria-labelledby="faq-3" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-
-                                        Candidates must have legal temporary resident status while gaining their work experience in Canada.
-
-
-                                    </div>
-                                </div>
-                                <div class="accordion-item border border-2 rounded">
-                                    <h5 class="accordion-header" id="faq-4">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false">
-
-                                        Valid Express Entry Profile:
-
-                                        </button>
-                                    </h5>
-                                    <div id="collapse-4" class="accordion-collapse collapse" aria-labelledby="faq-4" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-
-                                        Candidates must have an active profile in the Express Entry system and meet the minimum Comprehensive Ranking System (CRS) score required for the CEC draw.
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <p class="text-black">The Provincial Nominee Program (PNP) offers several advantages to immigration candidates:</p>
+                    <div class="col-lg-6 col-md-10">
+                        <div class="section-heading text-center aos-init aos-animate" data-aos="fade-up">
+                            
                         </div>
                     </div>
-
-                    
                 </div>
-                <!-- 2end -->
-            
+                <div class="row align-items-center justify-content-between">
+                    <div class="col-lg-5 col-md-12 order-1 order-lg-0">
+                        <div class="img-wrap aos-init aos-animate pb-120" data-aos="fade-up" data-aos-delay="50">
+                            <img src="assets/img/whyc.jpg" alt="work process" class="img-fluid rounded-custom">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 order-0 order-lg-1">
+                        <ul class="work-process-list list-unstyled">
+                            <li class="d-flex align-items-start mb-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="50">
+                                <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-box-fill" viewBox="0 0 20 20">
+  <path fill-rule="evenodd" d="M15.528 2.973a.75.75 0 0 1 .472.696v8.662a.75.75 0 0 1-.472.696l-7.25 2.9a.75.75 0 0 1-.557 0l-7.25-2.9A.75.75 0 0 1 0 12.331V3.669a.75.75 0 0 1 .471-.696L7.443.184l.004-.001.274-.11a.75.75 0 0 1 .558 0l.274.11.004.001 6.971 2.789Zm-1.374.527L8 5.962 1.846 3.5 1 3.839v.4l6.5 2.6v7.922l.5.2.5-.2V6.84l6.5-2.6v-.4l-.846-.339Z"/>
+</svg>
+                                </div>
+                                <div class="icon-content">
+                                    <span class="text-danger h6">1</span>
+                                    <h3 class="h5 mb-2">Customized Immigration Pathways:</h3>
+                                    <p class="text-black">Each province and territory has its own PNP streams tailored to address specific labor market needs and economic priorities.
+                                    </p>
+                                </div>
+                            </li>
+                            <li class="d-flex align-items-start mb-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                                <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-box-fill" viewBox="0 0 20 20">
+  <path fill-rule="evenodd" d="M15.528 2.973a.75.75 0 0 1 .472.696v8.662a.75.75 0 0 1-.472.696l-7.25 2.9a.75.75 0 0 1-.557 0l-7.25-2.9A.75.75 0 0 1 0 12.331V3.669a.75.75 0 0 1 .471-.696L7.443.184l.004-.001.274-.11a.75.75 0 0 1 .558 0l.274.11.004.001 6.971 2.789Zm-1.374.527L8 5.962 1.846 3.5 1 3.839v.4l6.5 2.6v7.922l.5.2.5-.2V6.84l6.5-2.6v-.4l-.846-.339Z"/>
+</svg>
+                                </div>
+                                <div class="icon-content">
+                                    <span class="text-danger h6">2</span>
+                                    <h3 class="h5 mb-2">Potential for Faster Processing Times:</h3>
+                                    <p class="text-black">PNP applications often have faster processing times compared to other immigration streams, providing a quicker route to permanent residence.
+                                    </p>
+                                </div>
+                            </li>
+                            <li class="d-flex align-items-start mb-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="150">
+                                <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-box-fill" viewBox="0 0 20 20">
+  <path fill-rule="evenodd" d="M15.528 2.973a.75.75 0 0 1 .472.696v8.662a.75.75 0 0 1-.472.696l-7.25 2.9a.75.75 0 0 1-.557 0l-7.25-2.9A.75.75 0 0 1 0 12.331V3.669a.75.75 0 0 1 .471-.696L7.443.184l.004-.001.274-.11a.75.75 0 0 1 .558 0l.274.11.004.001 6.971 2.789Zm-1.374.527L8 5.962 1.846 3.5 1 3.839v.4l6.5 2.6v7.922l.5.2.5-.2V6.84l6.5-2.6v-.4l-.846-.339Z"/>
+</svg>
+                                </div>
+                                <div class="icon-content">
+                                    <span class="text-danger h6">3</span>
+                                    <h3 class="h5 mb-2">Additional CRS Points for Express Entry Candidates:</h3>
+                                    <p class="text-black">Express Entry-aligned PNPs can grant additional Comprehensive Ranking System (CRS) points, increasing the likelihood of receiving an Invitation to Apply (ITA) for permanent residence.
+                                    </p>
+                                </div>
+                            </li>
+                            <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+                                <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-box-fill" viewBox="0 0 20 20">
+  <path fill-rule="evenodd" d="M15.528 2.973a.75.75 0 0 1 .472.696v8.662a.75.75 0 0 1-.472.696l-7.25 2.9a.75.75 0 0 1-.557 0l-7.25-2.9A.75.75 0 0 1 0 12.331V3.669a.75.75 0 0 1 .471-.696L7.443.184l.004-.001.274-.11a.75.75 0 0 1 .558 0l.274.11.004.001 6.971 2.789Zm-1.374.527L8 5.962 1.846 3.5 1 3.839v.4l6.5 2.6v7.922l.5.2.5-.2V6.84l6.5-2.6v-.4l-.846-.339Z"/>
+</svg>
+                                </div>
+                                <div class="icon-content">
+                                    <span class="text-danger h6"> 4</span>
+                                    <h3 class="h5 mb-2">In-Demand Occupation Lists:</h3>
+                                    <p class="text-black">Many PNPs have in-demand occupation lists, giving priority to candidates working in occupations facing labor shortages in the region.
+                                    </p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
             </div>
         </section>
         <!-- 4 sec end -->
 
       
         <!--features grid section end-->
-<!-- 5 features strats -->
-<section class="services-icon ptb-12">
+<!-- 5 pnp eligibility strats -->
+<section class="why-choose-us pt-60 pb-60">
             <div class="container">
-                <div class="row justify-content-center">
-                <p class="h3">The Express Entry system has two steps:</p>
-                         </div>
-                <div class="row pt-lg-5 pt-3">
-                    <div class="col-lg-6 mt-4">
-                        <div class="position-relative d-flex flex-column h-100 flex-wrap bg-danger-soft p-5 rounded-custom">
-                            <div class="cta-left-info mb-2">
-                                <h5>Potential candidates complete an online Express Entry profile</h5>
-                                <p>Those who meet the criteria of one of the federal immigration programs listed will be accepted into a pool of candidates.Candidates are also encouraged to promote themselves to employers in other ways, such as using job boards, recruiters etc.For a job offer to be valid in Express Entry and receive points, employers will need an LMIA from ESDC. The LMIA process ensures employers have made an effort to hire Canadians and permanent residents for available jobs. There will be no LMIA fee for permanent resident applications. </p>
+                <div class="row justify-content-lg-between align-items-center">
+                <h2>PNP Streams and Eligibility Criteria</h2>
+                            <p class="text-black">The Provincial Nominee Program (PNP) offers a variety of streams, each with its own set of eligibility criteria. Common factors assessed during the application process include:</p>
+                    <div class="col-lg-5 col-12">
+                        <div class="why-choose-content">
+                            <div class="icon-box rounded-custom bg-danger-light shadow-sm d-inline-block">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" fill="currentColor" class="bi bi-boxes" viewBox="0 0 16 16">
+  <path d="M7.752.066a.5.5 0 0 1 .496 0l3.75 2.143a.5.5 0 0 1 .252.434v3.995l3.498 2A.5.5 0 0 1 16 9.07v4.286a.5.5 0 0 1-.252.434l-3.75 2.143a.5.5 0 0 1-.496 0l-3.502-2-3.502 2.001a.5.5 0 0 1-.496 0l-3.75-2.143A.5.5 0 0 1 0 13.357V9.071a.5.5 0 0 1 .252-.434L3.75 6.638V2.643a.5.5 0 0 1 .252-.434L7.752.066ZM4.25 7.504 1.508 9.071l2.742 1.567 2.742-1.567L4.25 7.504ZM7.5 9.933l-2.75 1.571v3.134l2.75-1.571V9.933Zm1 3.134 2.75 1.571v-3.134L8.5 9.933v3.134Zm.508-3.996 2.742 1.567 2.742-1.567-2.742-1.567-2.742 1.567Zm2.242-2.433V3.504L8.5 5.076V8.21l2.75-1.572ZM7.5 8.21V5.076L4.75 3.504v3.134L7.5 8.21ZM5.258 2.643 8 4.21l2.742-1.567L8 1.076 5.258 2.643ZM15 9.933l-2.75 1.571v3.134L15 13.067V9.933ZM3.75 14.638v-3.134L1 9.933v3.134l2.75 1.571Z"/>
+</svg>
                             </div>
-                            <!-- <div class="mt-auto">
-                                <a href="request-demo.html" class="btn btn-outline-primary btn-sm">Start For Free</a>
-                            </div> -->
-                            <div class="cta-img position-absolute right-0 bottom-0">
-                                <img src="assets/img/e2.jpg" alt="cta img" class="img-fluid">
-                            </div>
+                           
+                            <ul class="list-unstyled d-flex flex-wrap list-two-col mt-4 mb-4">
+                                <li class="py-1"><i class="fas fa-check-circle me-2 text-danger"></i>Work Experience:</li>
+                                <li class="py-1"><i class="fas fa-check-circle me-2 text-danger"></i>Language Proficiency:</li>
+                                <li class="py-1"><i class="fas fa-check-circle me-2 text-danger"></i>Educational Qualifications:</li>
+                                <li class="py-1"><i class="fas fa-check-circle me-2 text-danger"></i>Connection to the Province:</li>
+
+                            </ul>
+                            
                         </div>
                     </div>
-                    <div class="col-lg-6 mt-4">
-                        <div class="position-relative d-flex flex-column h-100 flex-wrap bg-primary-soft p-5 rounded-custom">
-                            <div class="cta-left-info mb-2">
-                                <h5>The highest-ranking candidates in the pool will be invited to apply for permanent residence</h5>
-                                <p>Candidates will be ranked against others in the pool using a point-based system called the Comprehensive Ranking System. Points are awarded using the information in their profile.Candidates with the highest scores in the pool will be issued an Invitation to Apply. If someone is invited to apply, they will have 60 days to submit an online application for permanent residence.Citizenship and Immigration Canada will process the majority of complete applications in six months or less. </p>
-                            </div>
-                            <!-- <div class="mt-auto">
-                                <a href="request-demo.html" class="btn btn-outline-primary btn-sm">Start For Free</a>
-                            </div> -->
-                            <div class="cta-img position-absolute right-0 bottom-0">
-                                <img src="assets/img/e1.jpg" alt="cta img" class="img-fluid">
-
-                            </div>
+                    <div class="col-lg-6 col-12">
+                        <div class="feature-img-holder mt-4 mt-lg-0 mt-xl-0 pt-20 pb-20">
+                            <img src="assets/img/pnps.jpg" class="img-fluid" alt="feature-image">
                         </div>
                     </div>
                 </div>
@@ -425,7 +329,52 @@
 <!-- 5  features end -->
 
   
+<!--6 why str -->
+<section class="faq-section ptb-120 bg-light-subtle">
+            <div class="container">
+                <div class="row justify-content-center">
+                <h3 class="h3 text-danger">How to Apply for PNP Canada</h3>
+                            <p class="text-black">The application process for the Provincial Nominee Program (PNP) may vary depending on the province and the specific stream. Generally, the process involves the following steps.</p>
+                    <div class="col-md-10 col-lg-6">
+                        <div class="section-heading text-center">
 
+                        </div>
+                    </div>
+                </div>
+                <div class="row align-items-center justify-content-between">
+                    <div class="col-lg-5 col-12">
+                        <div class="faq-wrapper">
+                            <div class="faq-item mb-5">
+                                <h5><span class="h3 text-danger me-2">1.</span> Check Eligibility:</h5>
+                                <p class="text-black">Determine eligibility for the PNP stream of interest by reviewing the specific requirements and criteria set by the province or territory.</p>
+                            </div>
+                            <div class="faq-item mb-5">
+                                <h5><span class="h3 text-danger  me-2">2.</span> Create an Express Entry Profile (If Applicable):</h5>
+                                <p class="text-black">For Express Entry-aligned PNPs, create an Express Entry profile and indicate your interest in the province or territory's PNP. </p>
+                            </div>
+                            <div class="faq-item mb-5">
+                                <h5><span class="h3 text-danger  me-2">3.</span>Submit an Expression of Interest (EOI) or Provincial Application:</h5>
+                                <p class="text-black"> Submit your Expression of Interest (EOI) or a provincial application to the relevant provincial immigration authority.</p>
+                            </div>
+                            <div class="faq-item mb-5">
+                                <h5><span class="h3 text-danger me-2">4.</span> Receive a Provincial Nomination:</h5>
+                                <p class="text-black">If selected, you will receive a provincial nomination, which may grant additional CRS points for Express Entry candidates.</p>
+                            </div>
+                            <div class="faq-item">
+                                <h5><span class="h3 text-danger me-2">5.</span>Complete Your Permanent Residence Application:</h5>
+                                <p class="text-black"> After receiving a provincial nomination, submit a complete application for permanent residence to the federal government.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="text-center mt-4 mt-lg-0 mt-md-0">
+                            <img src="assets/img/howc.jpg" alt="faq" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+<!-- 6 y end -->
 
 
 <!-- testimonial end -->
