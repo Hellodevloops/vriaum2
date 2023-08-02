@@ -19,6 +19,38 @@
         <!-- end -->
 <!-- about service start -->
 
+<!-- hero s -->
+
+<section class="dg-cta-section pt-120 pb-70position-relative overflow-hidden z-1">
+            <img src="assets/img/digital-agency/cta-curve-left.png" alt="curve shape" class="position-absolute ct-curve left top-0 h-100 z--1 d-none d-xxl-block">
+            <img src="assets/img/digital-agency/cta-curve-right.png" alt="curve shape" class="position-absolute ct-curve right top-0 h-100 z--1 d-none d-xxl-block">
+            <div class="container">
+                <div class="row g-4 justify-content-between align-items-center">
+                    <div class="col-lg-6">
+                        <div class="dg-cta-content">
+                            <span class="text-dg-primary fw-bold">Permanent Residence Cards</span>
+                            <h2 class="mt-2 mb-3 heading-dg-color">Permanent Residence Cards of Canada</h2>
+                            <p class="mb-40 heading-dg-color">Next Steps:Permanent Residence Cards.</p>
+                            
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="dg-cta-imgs d-flex mt-5 mt-lg-0">
+                            <div class="thumb align-self-end">
+                                <img src="assets/img/ee11.jpg" alt="not found" class="img-fluid rounded-4">
+                            </div>
+                            <div class="thumb align-self-end">
+                                <img src="assets/img/prbanner2.jpg" alt="not found" class="img-fluid rounded-4">
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+<!-- hero end -->
+
 
 
 
@@ -31,7 +63,7 @@
                     <div class="col-lg-6 col-md-10">
                         <div class="section-heading text-center text-black">
                             <h2>With the Approaches You Need</h2>
-                            <p>At VriAum, we believe that every individual and every business is unique. That's why we take a personalized approach to each staffing requirement:</p>
+                            <p class="text-danger">Secure Your Family's Future: Applying for Permanent Residence Cards Through Family Sponsorship</p>
 
                         </div>
                     </div>
@@ -42,11 +74,11 @@
                         <div class="position-relative d-flex flex-column h-100 flex-wrap bg-primary-soft p-5 rounded-custom">
                             <div class="cta-left-info mb-2">
                                 <h5>Residency Obligations:</h5>
-                                <p class="text-black">As a permanent resident in Canada, it is essential to meet the residency obligations to maintain your PR status. This means you must be physically present in Canada for at least 730 days (two years) out of every five-year period. Failing to meet this requirement could lead to the loss of your PR status and the PR card. </p>
+                                <p class="text-black">As a permanent resident in Canada, it is essential to meet the residency obligations to maintain your PR status. This means <span class="text-danger">you must be physically present in Canada for at least 730 days (two years) out of every five-year period</span>. Failing to meet this requirement could lead to the loss of your PR status and the PR card. </p>
                             </div>
                             
                             <div class="cta-img position-absolute right-0 bottom-0">
-                                <img src="assets/img/cansec1.jpg" alt="cta img" class="img-fluid">
+                                <img src="assets/img/ro.jpg" alt="cta img" class="img-fluid">
                             </div>
                         </div>
                     </div>
@@ -54,11 +86,11 @@
                         <div class="position-relative d-flex flex-column h-100 flex-wrap bg-danger-soft p-5 rounded-custom">
                             <div class="cta-left-info mb-2">
                                 <h5>Travel Document for Re-entry:</h5>
-                                <p class="text-black">The PR card serves as a travel document for permanent residents returning to Canada. It is essential to carry the PR card whenever you travel outside Canada and intend to return, as it serves as evidence of your status and allows for smooth re-entry into the country.</p>
+                                <p class="text-black">The <span class="text-danger">PR card serves as a travel document for permanent residents</span> returning to Canada. It is essential to carry the PR card whenever you travel outside Canada and intend to return, <span class="text-danger">as it serves as evidence of your status and allows for smooth re-entry into the country</span>.</p>
                             </div>
                            
                             <div class="cta-img position-absolute right-0 bottom-0">
-                                <img src="assets/img/cansec2.jpg.jpg" alt="cta img" class="img-fluid">
+                                <img src="assets/img/travel.jpg" alt="cta img" class="img-fluid">
                             </div>
                         </div>
                     </div>
@@ -73,25 +105,23 @@
                 <div class="row justify-content-lg-between align-items-center">
                     <div class="col-lg-5 col-12">
                         <div class="why-choose-content">
-                            <div class="icon-box rounded-custom bg-primary shadow-sm d-inline-block">
-                                <i class="fas fa-bug fa-2x text-white"></i>
-                            </div>
-                            <h2>Advanced Analytics, Understand Business</h2>
-                            <p>Distinctively promote parallel vortals with ubiquitous e-markets. Proactively benchmark turnkey optimize next-generation strategic leadership without resource sucking ideas.</p>
+                            
+                            <h2>process of <span class="text-danger">Permanent Residence Cards</span> For Immigration In Canada</h2>
+                            <p class="text-black">Navigate the PR card process: from eligibility to approval, securing your Canadian permanent residency</p>
                             <ul class="list-unstyled d-flex flex-wrap list-two-col mt-4 mb-4">
-                                <li class="py-1"><i class="fas fa-check-circle me-2 text-primary"></i>Thought leadership</li>
-                                <li class="py-1"><i class="fas fa-check-circle me-2 text-primary"></i>Personal branding</li>
-                                <li class="py-1"><i class="fas fa-check-circle me-2 text-primary"></i>Modernized prospecting</li>
-                                <li class="py-1"><i class="fas fa-check-circle me-2 text-primary"></i>Better win rates</li>
-                                <li class="py-1"><i class="fas fa-check-circle me-2 text-primary"></i>Showcasing success</li>
-                                <li class="py-1"><i class="fas fa-check-circle me-2 text-primary"></i>Sales compliance</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-danger"></i> Application Submission</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-danger"></i>Biometrics Appointment</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-danger"></i>Application Processing</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-danger"></i>Approval and Card Issuance</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-danger"></i>Receiving Your PR Card</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-danger"></i> Renewal of PR Card</li>
                             </ul>
-                            <a href="about-us.html" class="read-more-link text-decoration-none">Know More About Us <i class="fas fa-arrow-right ms-2"></i></a>
+                            
                         </div>
                     </div>
                     <div class="col-lg-6 col-12">
                         <div class="feature-img-holder mt-4 mt-lg-0 mt-xl-0">
-                            <img src="assets/img/screen/widget-11.png" class="img-fluid" alt="feature-image">
+                            <img src="assets/img/processcard.jpg" class="img-fluid" alt="feature-image">
                         </div>
                     </div>
                 </div>
@@ -109,7 +139,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-10">
                         <div class="section-heading text-center aos-init aos-animate" data-aos="fade-up">
-                            <h4 class="h5 text-primary">Process And documents Require</h4>
+                            <h4 class="h5 text-danger">Process And documents Require</h4>
                             <p class="h4 text-black">Permanent Resident Cards:</p>
                             <h6>The official proof that you are a permanent resident of Canada</h6>
                             
@@ -121,10 +151,13 @@
                         <ul class="work-process-list list-unstyled">
                          <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init" data-aos="fade-up" data-aos-delay="200">
                                 <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
-                                    <i class="fas fa-truck fa-2x"></i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-person-badge" viewBox="0 0 16 16">
+  <path d="M6.5 2a.5.5 0 0 0 0 1h3a.5.5 0 0 0 0-1h-3zM11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
+  <path d="M4.5 0A2.5 2.5 0 0 0 2 2.5V14a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V2.5A2.5 2.5 0 0 0 11.5 0h-7zM3 2.5A1.5 1.5 0 0 1 4.5 1h7A1.5 1.5 0 0 1 13 2.5v10.795a4.2 4.2 0 0 0-.776-.492C11.392 12.387 10.063 12 8 12s-3.392.387-4.224.803a4.2 4.2 0 0 0-.776.492V2.5z"/>
+</svg>
                                 </div>
                                 <div class="icon-content">
-                                <!-- <span class="text-primary h6">Step 2</span> -->
+                                <!-- <span class="text-danger h6">Step 2</span> -->
                                     <h3 class="h5 mb-2">Apply for a PR card</h3>
                                   <ul>
                                     <li class="text-black">As a permanent resident, you get most social benefits that Canadian citizens receive, including health care coverage,live, work or study anywhere in Canada,.
@@ -141,10 +174,13 @@
                             </li>
                             <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init" data-aos="fade-up" data-aos-delay="200">
                                 <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
-                                    <i class="fas fa-truck fa-2x"></i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-check2-all" viewBox="0 0 16 16">
+  <path d="M12.354 4.354a.5.5 0 0 0-.708-.708L5 10.293 1.854 7.146a.5.5 0 1 0-.708.708l3.5 3.5a.5.5 0 0 0 .708 0l7-7zm-4.208 7-.896-.897.707-.707.543.543 6.646-6.647a.5.5 0 0 1 .708.708l-7 7a.5.5 0 0 1-.708 0z"/>
+  <path d="m5.354 7.146.896.897-.707.707-.897-.896a.5.5 0 1 1 .708-.708z"/>
+</svg>
                                 </div>
                                 <div class="icon-content">
-                                <!-- <span class="text-primary h6">Step 2</span> -->
+                                <!-- <span class="text-danger h6">Step 2</span> -->
                                     <h3 class="h5 mb-2">Correct a mistake</h3>
                                     <ul>
                                     <li class="text-black">To keep your permanent resident status, you must have been in Canada for at least 730 days during the last five years.
@@ -162,11 +198,15 @@
                         <ul class="work-process-list list-unstyled">
                         <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init" data-aos="fade-up" data-aos-delay="200">
                                 <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
-                                    <i class="fas fa-truck fa-2x"></i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-clipboard2-check" viewBox="0 0 16 16">
+  <path d="M9.5 0a.5.5 0 0 1 .5.5.5.5 0 0 0 .5.5.5.5 0 0 1 .5.5V2a.5.5 0 0 1-.5.5h-5A.5.5 0 0 1 5 2v-.5a.5.5 0 0 1 .5-.5.5.5 0 0 0 .5-.5.5.5 0 0 1 .5-.5h3Z"/>
+  <path d="M3 2.5a.5.5 0 0 1 .5-.5H4a.5.5 0 0 0 0-1h-.5A1.5 1.5 0 0 0 2 2.5v12A1.5 1.5 0 0 0 3.5 16h9a1.5 1.5 0 0 0 1.5-1.5v-12A1.5 1.5 0 0 0 12.5 1H12a.5.5 0 0 0 0 1h.5a.5.5 0 0 1 .5.5v12a.5.5 0 0 1-.5.5h-9a.5.5 0 0 1-.5-.5v-12Z"/>
+  <path d="M10.854 7.854a.5.5 0 0 0-.708-.708L7.5 9.793 6.354 8.646a.5.5 0 1 0-.708.708l1.5 1.5a.5.5 0 0 0 .708 0l3-3Z"/>
+</svg>
                                 </div>
                                 <div class="icon-content">
-                                <!-- <span class="text-primary h6">Step 2</span> -->
-                                    <h3 class="h5 mb-2">Change your adress</h3>
+                                <!-- <span class="text-danger h6">Step 2</span> -->
+                                    <h3 class="h5 mb-2">Change your address</h3>
                                     <ul>
                                     <li class="text-black">You can tell us your Canadian address within 180 days of arriving to get your permanent resident (PR) card delivered to you.
                                     </li>
@@ -181,10 +221,12 @@
                             </li>
                             <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init" data-aos="fade-up" data-aos-delay="200">
                                 <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
-                                    <i class="fas fa-truck fa-2x"></i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-image-alt" viewBox="0 0 16 16">
+  <path d="M7 2.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0zm4.225 4.053a.5.5 0 0 0-.577.093l-3.71 4.71-2.66-2.772a.5.5 0 0 0-.63.062L.002 13v2a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-4.5l-4.777-3.947z"/>
+</svg>
                                 </div>
                                 <div class="icon-content">
-                                    <!-- <span class="text-primary h6">Step 2</span> -->
+                                    <!-- <span class="text-danger h6">Step 2</span> -->
                                     <h3 class="h5 mb-2">Get a PR photo</h3>
                                     <ul>
                                     <li class="text-black">If you are correcting your name, the name on your PR card must match your foreign passport. 
@@ -206,7 +248,11 @@
                         <ul class="work-process-list list-unstyled">
                         <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init" data-aos="fade-up" data-aos-delay="200">
                                 <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
-                                    <i class="fas fa-truck fa-2x"></i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-journal-arrow-up" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M8 11a.5.5 0 0 0 .5-.5V6.707l1.146 1.147a.5.5 0 0 0 .708-.708l-2-2a.5.5 0 0 0-.708 0l-2 2a.5.5 0 1 0 .708.708L7.5 6.707V10.5a.5.5 0 0 0 .5.5z"/>
+  <path d="M3 0h10a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-1h1v1a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H3a1 1 0 0 0-1 1v1H1V2a2 2 0 0 1 2-2z"/>
+  <path d="M1 5v-.5a.5.5 0 0 1 1 0V5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1zm0 3v-.5a.5.5 0 0 1 1 0V8h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1zm0 3v-.5a.5.5 0 0 1 1 0v.5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1z"/>
+</svg>
                                 </div>
                                 <div class="icon-content">
                                 <!-- <span class="text-primary h6">Step 2</span> -->
@@ -230,7 +276,9 @@
                             
                             <li class="d-flex align-items-start mb-4 aos-init" data-aos="fade-up" data-aos-delay="150">
                                 <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
-                                    <i class="fas fa-layer-group fa-2x"></i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-up-right-square" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M15 2a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2zM0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2zm5.854 8.803a.5.5 0 1 1-.708-.707L9.243 6H6.475a.5.5 0 1 1 0-1h3.975a.5.5 0 0 1 .5.5v3.975a.5.5 0 1 1-1 0V6.707l-4.096 4.096z"/>
+</svg>
                                 </div>
                                 <div class="icon-content">
                                     
@@ -261,14 +309,14 @@
 
 <!-- tab features end -->
 <!-- faq start -->
-<section class="faq-section ptb-120">
+<section class="faq-section ptb-90">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="section-heading text-center aos-init aos-animate" data-aos="fade-up">
-                            <h4 class="h5 text-primary">FAQ</h4>
+                            <h4 class="h5 text-danger">FAQ</h4>
                             <h2>Frequently Asked Questions</h2>
-                            <p>Efficiently network cross-unit paradigms for premier technologies scale 24/7 paradigms for process-centric data interoperable.</p>
+                            <p class="text-danger">Efficiently network cross-unit paradigms for premier technologies scale 24/7 paradigms for process-centric data interoperable.</p>
                         </div>
                     </div>
                 </div>
@@ -388,7 +436,7 @@
                                                 </div> -->
 
                                                 <blockquote class="blockquote">
-                                                    <p> I'm grateful for their dedication and expertise in making my dream of working in Canada come true.</p>
+                                                    <p> My PR card has been my passport to exploring the beauty of Canada and beyond. It's incredible how this small document holds the power to unlock so many opportunities.</p>
                                                 </blockquote>
                                                 <div class="author-info mt-4">
                                                     <h6 class="mb-0">Joe Richard</h6>
@@ -430,7 +478,7 @@
                                                     </ul>
                                                 </div> -->
                                                 <blockquote class="blockquote">
-                                                    <p>They were there every step of the way, assisting me with visa applications and settlement advice and now I'm working in my desired marketing role in Canada. </p>
+                                                    <p>Securing PR cards for my family was the best decision. Now we have the freedom to live, work, and build a life together, strengthening our bonds and creating cherished memories </p>
                                                 </blockquote>
                                                 <div class="author-info mt-4">
                                                     <h6 class="mb-0">Rupan Oberoi</h6>
@@ -473,7 +521,7 @@
                                                 </div> -->
                                                 <blockquote class="blockquote">
                                                     <p>
-                                                    Their dedication to finding the right fit for both candidates and employers is remarkable. Thanks to their efforts, I am now thriving in my career in Canada.
+                                                    With my PR card, I've gained access to world-class education and endless career prospects. The journey to obtaining it was well worth the incredible experiences that followed
                                                     </p>
                                                 </blockquote>
                                                 <div class="author-info mt-4">
@@ -516,7 +564,7 @@
                                                     </ul>
                                                 </div> -->
                                                 <blockquote class="blockquote">
-                                                    <p>Today, I'm successfully working in my desired finance role in Canada, all thanks to their exceptional services.</p>
+                                                    <p>My PR card has opened doors for my business aspirations. The ease of mobility and the stability it provides have been vital in nurturing my entrepreneurial dreams.</p>
                                                 </blockquote>
                                                 <div class="author-info mt-4">
                                                     <h6 class="mb-0">Hanry Luice</h6>
@@ -558,7 +606,7 @@
                                                     </ul>
                                                 </div> -->
                                                 <blockquote class="blockquote">
-                                                    <p>From preparing the necessary documents to guiding me through interviews, they were there at every step. Their personalized support and expertise made my migration experience stress-free. </p>
+                                                    <p>Receiving my PR card was the moment I truly felt like a part of Canada. It symbolizes my commitment to this country, where I can contribute, thrive, and call it home.</p>
                                                 </blockquote>
                                                 <div class="author-info mt-4">
                                                     <h6 class="mb-0">Ami Nijai</h6>
@@ -592,7 +640,7 @@
                                         </div>
                                         <div class="author-info">
                                             <h6 class="mb-0">Joe Richard</h6>
-                                            <span>Visual Designer</span>
+                                            
                                         </div>
                                     </div>
                                 </li>
@@ -603,7 +651,7 @@
                                         </div>
                                         <div class="author-info">
                                             <h6 class="mb-0">Rupan Oberoi</h6>
-                                            <span>Web Designer</span>
+                                          
                                         </div>
                                     </div>
 
@@ -615,7 +663,7 @@
                                         </div>
                                         <div class="author-info">
                                             <h6 class="mb-0">Jon Doe</h6>
-                                            <span>Software Engineer</span>
+                                            
                                         </div>
                                     </div>
                                 </li>
@@ -626,7 +674,7 @@
                                         </div>
                                         <div class="author-info">
                                             <h6 class="mb-0">Hanry Luice</h6>
-                                            <span>App Developer</span>
+                                           
                                         </div>
                                     </div>
                                 </li>
@@ -637,7 +685,7 @@
                                         </div>
                                         <div class="author-info">
                                             <h6 class="mb-0">Ami Nijai</h6>
-                                            <span>Customer Support</span>
+                                            
                                         </div>
                                     </div>
                                 </li>
