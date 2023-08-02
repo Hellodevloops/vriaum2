@@ -1,247 +1,38 @@
 @extends('layouts.app')
 @section('content')
-    <!--page header section start-->
-    {{-- <div class="hero-twelve">
-            <div class="swiper hero-slider swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
-                    <!-- <div class="swiper-wrapper" id="swiper-wrapper-8ff687418d9a74e1" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-6076px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="2" role="group" aria-label="3 / 3" style="width: 1519px;">
-                        <div class="slider-one slider" style="
-                        background: url('assets/img/prbanner1.jpg') no-repeat center
-                            center / cover;
-                        ">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="hero-content">
-                                            <h1 class="fw-bold display-5 text-white mb-4 aos-init aos-animate" data-aos="fade-up">
-                                                Reliable Hosting For Game
-                                                <span class="gr-text ms-lg-2">Solutions.</span>
-                                            </h1>
-                                            <p class="lead text-off-white m-0">
-                                                Give your Website the speed, security, and uptime it
-                                                deserves and become part of the fastest Web Hosting.
-                                            </p>
-                                            <a href="request-demo.html" class="btn-gradient mt-4 link-with-icon">
-                                                Order Now <i class="fas fa-arrow-right"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
-                    <!-- <div class="swiper-slide swiper-slide-duplicate-active" data-swiper-slide-index="0" role="group" aria-label="1 / 3" style="width: 1519px;">
-                        <div class="slider-one slider" style="background: url('assets/img/slider/sl-1-1.png') no-repeat
-                            center center / cover">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="hero-content">
-                                            <h1 class="fw-bold display-5 text-white mb-4 aos-init aos-animate" data-aos="fade-up">
-                                                Reliable Hosting For Game
-                                                <span class="gr-text ms-lg-2">Solutions.</span>
-                                            </h1>
-                                            <p class="lead text-off-white m-0">
-                                                Give your Website the speed, security, and uptime it
-                                                deserves and become part of the fastest Web Hosting.
-                                            </p>
-                                            <a href="request-demo.html" class="btn-gradient mt-4 link-with-icon">
-                                                Order Now <i class="fas fa-arrow-right"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
-                    <!-- <div class="swiper-slide" data-swiper-slide-index="1" role="group" aria-label="2 / 3" style="width: 1519px;">
-                        <div class="slider-one slider" style="
-                            background: url('assets/img/slider/sl-2-2.png') no-repeat center
-                                center / cover;
-                            ">
-                                        <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="hero-content">
-                                            <h1 class="fw-bold display-5 text-white mb-4 aos-init aos-animate" data-aos="fade-up">
-                                                Reliable Hosting For Game
-                                                <span class="gr-text ms-lg-2">Solutions.</span>
-                                            </h1>
-                                            <p class="lead text-off-white m-0">
-                                                Give your Website the speed, security, and uptime it
-                                                deserves and become part of the fastest Web Hosting.
-                                            </p>
-                                            <a href="request-demo.html" class="btn-gradient mt-4 link-with-icon">
-                                                Order Now <i class="fas fa-arrow-right"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
-                    <div class="swiper-slide swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="2" role="group" aria-label="3 / 3" style="width: 1519px;">
-                        <div class="slider-one slider" style="
-                            background: url('assets/img/fs2.jpg') no-repeat center
-                                center / cover;
-                            ">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="hero-content">
-                                            <h1 class="fw-bold display-5 text-white mb-4 aos-init aos-animate" data-aos="fade-up">
-                                                Reliable Hosting For Game
-                                                <span class="gr-text ms-lg-2">Solutions.</span>
-                                            </h1>
-                                            <p class="lead text-off-white m-0">
-                                                Give your Website the speed, security, and uptime it
-                                                deserves and become part of the fastest Web Hosting.
-                                            </p>
-                                            <a href="request-demo.html" class="btn-gradient mt-4 link-with-icon">
-                                                Order Now <i class="fas fa-arrow-right"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+
+<!-- hero s-->
+
+<section class="dg-cta-section pt-120 pb-70position-relative overflow-hidden z-1">
+            <img src="assets/img/digital-agency/cta-curve-left.png" alt="curve shape" class="position-absolute ct-curve left top-0 h-100 z--1 d-none d-xxl-block">
+            <img src="assets/img/digital-agency/cta-curve-right.png" alt="curve shape" class="position-absolute ct-curve right top-0 h-100 z--1 d-none d-xxl-block">
+            <div class="container pt-60">
+                <div class="row g-4 justify-content-between align-items-center">
+                    <div class="col-lg-6">
+                        <div class="dg-cta-content">
+                            <span class="text-dg-primary fw-bold">Family Sponsorship</span>
+                            <h2 class="mt-2 mb-3 heading-dg-color">Family Sponsorship Immigration to Canada</h2>
+                            <p class="mb-40 heading-dg-color">Next Steps: Applying for Family Sponsorship.</p>
+                            
                         </div>
                     </div>
-                <!-- <div class="swiper-slide swiper-slide-duplicate swiper-slide-active" data-swiper-slide-index="0" role="group" aria-label="1 / 3" style="width: 1519px;">
-                        <div class="slider-one slider" style="background: url('assets/img/slider/sl-1-1.png') no-repeat
-                            center center / cover">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="hero-content">
-                                            <h1 class="fw-bold display-5 text-white mb-4 aos-init aos-animate" data-aos="fade-up">
-                                                Reliable Hosting For Game
-                                                <span class="gr-text ms-lg-2">Solutions.</span>
-                                            </h1>
-                                            <p class="lead text-off-white m-0">
-                                                Give your Website the speed, security, and uptime it
-                                                deserves and become part of the fastest Web Hosting.
-                                            </p>
-                                            <a href="request-demo.html" class="btn-gradient mt-4 link-with-icon">
-                                                Order Now <i class="fas fa-arrow-right"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
+                    <div class="col-lg-6">
+                        <div class="dg-cta-imgs d-flex mt-5 mt-lg-0">
+                            <div class="thumb align-self-end">
+                                <img src="assets/img/pr2.jpg" alt="not found" class="img-fluid rounded-4">
                             </div>
+                            <div class="thumb align-self-end">
+                                <img src="assets/img/fs2.jpg" alt="not found" class="img-fluid rounded-4">
+                            </div>
+                            
                         </div>
-                    </div> -->
-                </div>
-                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-            </div>
-        </div> --}}
-    <!--page header section end-->
-    <!-- start -->
-    {{-- <div class="style-guide">
-           
-
-            <!--cat section start-->
-           
-            <!--cat section end-->
-
-        </div> --}}
-
-
-
-    <!-- end -->
-    <!-- about service start -->
-
-
-
-    <!-- 2 sec -->
-    {{-- <section class="ptb-40">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-6">
-                    <div class="text-center mb-5">
-                        <h2 class="text-black mb-4">Most Popular Game Servers</h2>
-                        <p class="text-black">
-                            Give your Website the speed, security, and uptime it deserves and
-                            become part of the fastest Web Hosting Quiety.
-                        </p>
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-4 col-md-6">
-                    <div class="server-left position-relative z-5">
-                        <div class="server-list mb-3 z-5">
-                            <a href="index-2.html" class="text-decoration-none">
-                                <div class="d-flex align-items-center">
+        </section>
 
-                                    <h5 class="m-0 text-white fw-medium">Eligibility and Requirements</h5>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="server-list mb-3">
-                            <a href="index-2.html" class="text-decoration-none">
-                                <div class="d-flex align-items-center">
-
-                                    <h5 class="m-0 text-white fw-medium">Affidavit of Support</h5>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="server-list mb-3">
-                            <a href="index-2.html" class="text-decoration-none">
-                                <div class="d-flex align-items-center">
-
-                                    <h5 class="m-0 text-white fw-medium">Waiting Times and Processing</h5>
-                                </div>
-                            </a>
-                        </div>
-
-                        <img src="assets/img/circle.png" class="server-circle z-2" alt="cicle">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="game-card mb-3 mb-lg-0">
-                        <div class="card-top">
-                            <img src="assets/img/server/card-img.png" class="img-fluid w-100" alt="game">
-
-
-                        </div>
-
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="server-list mb-3">
-                        <a href="index-2.html" class="text-decoration-none">
-                            <div class="d-flex align-items-center">
-
-                                <h5 class="m-0 text-white fw-medium">Sponsorship Categories</h5>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="server-list mb-3">
-                        <a href="index-2.html" class="text-decoration-none">
-                            <div class="d-flex align-items-center">
-
-                                <h5 class="m-0 text-white fw-medium">Application Process
-
-                                </h5>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="server-list mb-3">
-                        <a href="index-2.html" class="text-decoration-none">
-                            <div class="d-flex align-items-center">
-
-                                <h5 class="m-0 text-white fw-medium">Petition Denials and Appeals
-
-                                </h5>
-                            </div>
-                        </a>
-                    </div>
-
-                </div>
-            </div>
-
-        </div>
-    </section> --}}
-    <!-- 2 sec end -->
+<!-- hero end -->
+    
 
 
     <!-- about service end -->
@@ -252,7 +43,7 @@
                 <div class="col-lg-6 col-md-10">
                     <div class="section-heading text-center text-black">
                         <h2>With the Approaches You Need</h2>
-                        <p>At VriAum, we believe that every individual and every business is unique. That's why we take a
+                        <p class="text-danger">At VriAum, we believe that every individual and every business is unique. That's why we take a
                             personalized approach to each staffing requirement:</p>
 
                     </div>
@@ -270,11 +61,11 @@
                                 If you do, you must be able to:
 
                                 support them financially
-                                make sure they don’t need social assistance from the governmen. </p>
+                               <span class="text-danger"> make sure they don’t need social assistance from the government.</span> </p>
                         </div>
 
                         <div class="cta-img position-absolute right-0 bottom-0">
-                            <img src="assets/img/cansec1.jpg" alt="cta img" class="img-fluid">
+                            <img src="assets/img/spouse.jpg" alt="cta img" class="img-fluid">
                         </div>
                     </div>
                 </div>
@@ -282,14 +73,12 @@
                     <div class="position-relative d-flex flex-column h-100 flex-wrap bg-danger-soft p-5 rounded-custom">
                         <div class="cta-left-info mb-2">
                             <h5>Sponsor your parents and grandparents</h5>
-                            <p class="text-black">Canada is known for its diverse economy, offering a wide range of
-                                opportunities for professionals from various backgrounds. Our approach focuses on
-                                understanding the unique strengths and qualifications of non-IT candidates and pairing them
-                                with employers that value their skills and expertise.</p>
+                            <p class="text-black">Canada is known for its diverse economy. Bring your family closer to home. 
+                            <span class="text-danger">  Initiate the immigration process for your parents and grandparents </span>to join you in Canada, building a future rich with cherished moments and shared joy</p>
                         </div>
 
                         <div class="cta-img position-absolute right-0 bottom-0">
-                            <img src="assets/img/cansec2.jpg.jpg" alt="cta img" class="img-fluid">
+                            <img src="assets/img/grandp.jpg" alt="cta img" class="img-fluid">
                         </div>
                     </div>
                 </div>
@@ -298,15 +87,17 @@
     </section>
 
     <!-- try strat -->
-    <div class="social-media-section section-space--sm bgc-background">
+    <!-- <div class="social-media-section section-space--sm bgc-background"> -->
         <div class="section-space--sm-bottom">
             <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-10 col-xl-8">
-                        <h3 class="heading-3 clr-text font-weight-semibold text-center mb-0">
+            <h3 class="heading-3 clr-text font-weight-semibold text-center mb-0">
                             Documents Require For
                             Immigration Process <span class="clr-red">For Family Sponsorship Includes:</span>
                         </h3>
+                <div class="row justify-content-center">
+                
+                    <div class="col-md-10 col-xl-8">
+                       
                     </div>
                 </div>
             </div>
@@ -319,7 +110,9 @@
                             role="tab" tabindex="-1">
                             <span
                                 class="d-grid place-content-center width-12 height-12 rounded-circle bgc-text-1 clr-paragraph flex-shrink-0 fs-20">
-                                <i class="fas fa-cog"></i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box2-heart-fill" viewBox="0 0 16 16">
+                                <path d="M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5ZM8.5 4h6l.5.667V5H1v-.333L1.5 4h6V1h1v3ZM8 7.993c1.664-1.711 5.825 1.283 0 5.132-5.825-3.85-1.664-6.843 0-5.132Z"/>
+                                </svg>
                             </span>
                             <span class="d-inline-block font-weight-bold fs-20 clr-paragraph">
 
@@ -330,8 +123,11 @@
                             role="tab" tabindex="-1">
                             <span
                                 class="d-grid place-content-center width-12 height-12 rounded-circle bgc-text-1 clr-paragraph flex-shrink-0 fs-20">
-                                <i class="far fa-bell"></i>
-                            </span>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-person" viewBox="0 0 16 16">
+                                        <path d="M12 1a1 1 0 0 1 1 1v10.755S12 11 8 11s-5 1.755-5 1.755V2a1 1 0 0 1 1-1h8zM4 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H4z"/>
+                                        <path d="M8 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+                                        </svg>
+                                                                    </span>
                             <span class="d-inline-block font-weight-bold fs-20 clr-paragraph">
                                 Parents Or Grandparents
                             </span>
@@ -340,7 +136,9 @@
                             role="tab" tabindex="-1">
                             <span
                                 class="d-grid place-content-center width-12 height-12 rounded-circle bgc-text-1 clr-paragraph flex-shrink-0 fs-20">
-                                <i class="far fa-envelope"></i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-diagram-2-fill" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd" d="M6 3.5A1.5 1.5 0 0 1 7.5 2h1A1.5 1.5 0 0 1 10 3.5v1A1.5 1.5 0 0 1 8.5 6v1H11a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-1 0V8h-5v.5a.5.5 0 0 1-1 0v-1A.5.5 0 0 1 5 7h2.5V6A1.5 1.5 0 0 1 6 4.5v-1zm-3 8A1.5 1.5 0 0 1 4.5 10h1A1.5 1.5 0 0 1 7 11.5v1A1.5 1.5 0 0 1 5.5 14h-1A1.5 1.5 0 0 1 3 12.5v-1zm6 0a1.5 1.5 0 0 1 1.5-1.5h1a1.5 1.5 0 0 1 1.5 1.5v1a1.5 1.5 0 0 1-1.5 1.5h-1A1.5 1.5 0 0 1 9 12.5v-1z"/>
+                                        </svg>
                             </span>
                             <span class="d-inline-block font-weight-bold fs-20 clr-paragraph">
                                 Dependent child
@@ -348,13 +146,8 @@
                         </a>
                         <a class="social-media-btn active" data-bs-toggle="list" href="#seoMarketing"
                             aria-selected="true" role="tab">
-                            <span
-                                class="d-grid place-content-center width-12 height-12 rounded-circle bgc-text-1 clr-paragraph flex-shrink-0 fs-20">
-                                <i class="far fa-chart-bar"></i>
-                            </span>
-                            <span class="d-inline-block font-weight-bold fs-20 clr-paragraph">
-                                PR CARDS
-                            </span>
+                            
+                            
                         </a>
 
                     </div>
@@ -364,7 +157,7 @@
                                 <div
                                     class="social-media-content bgc-white rounded-4 section-space padding-x-2 padding-x-xsm-4 padding-x-sm-8 padding-x-md-12 padding-end-xxl-25">
                                     <div class="row">
-                                        <div class="col-lg-7 col-xl-6 col-xxl-5 ms-lg-auto">
+                                        <div class="col-lg-5 col-xl-6 col-xxl-7 ms-lg-auto">
                                             <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
                                                 Spouse
                                             </h5>
@@ -373,7 +166,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Sponsorship Application Forms.
@@ -383,7 +176,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Proof of Status.
@@ -393,7 +186,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Relationship Proof.
@@ -403,7 +196,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Identification Documents.
@@ -413,7 +206,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Proof of Financial Support.
@@ -423,7 +216,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Police Clearance Certificate.
@@ -433,7 +226,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Medical Examination Reports.
@@ -443,7 +236,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Other Supporting Documents.
@@ -461,7 +254,7 @@
                                 <div
                                     class="social-media-content bgc-white rounded-4 section-space padding-x-2 padding-x-xsm-4 padding-x-sm-8 padding-x-md-12 padding-end-xxl-25">
                                     <div class="row">
-                                        <div class="col-lg-7 col-xl-6 col-xxl-5 ms-lg-auto">
+                                        <div class="col-lg-5 col-xl-6 col-xxl-7 ms-lg-auto">
                                             <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
                                                 Parents Or Grandparents.
                                             </h5>
@@ -470,7 +263,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Sponsorship Application Forms.
@@ -480,7 +273,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Proof of Status.
@@ -490,7 +283,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Relationship Proof.
@@ -500,7 +293,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Identification Documents.
@@ -510,7 +303,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Police Clearance Certificate.
@@ -520,7 +313,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Photos.
@@ -530,7 +323,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Family Composition.
@@ -540,7 +333,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Letter of Invitation.
@@ -550,7 +343,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Medical Examination Reports.
@@ -560,7 +353,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Other Supporting Documents.
@@ -578,7 +371,7 @@
                                 <div
                                     class="social-media-content bgc-white rounded-4 section-space padding-x-2 padding-x-xsm-4 padding-x-sm-8 padding-x-md-12 padding-end-xxl-25">
                                     <div class="row">
-                                        <div class="col-lg-7 col-xl-6 col-xxl-5 ms-lg-auto">
+                                        <div class="col-lg-5 col-xl-6 col-xxl-7 ms-lg-auto">
                                             <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
                                                 Dependent Child
                                             </h5>
@@ -587,7 +380,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Sponsorship Application Forms.
@@ -597,7 +390,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Consent from Non-Accompanying Parent.
@@ -607,7 +400,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Custody or Guardianship Documents (if applicable).
@@ -617,7 +410,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Identification Documents.
@@ -627,7 +420,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Police Clearance Certificate.
@@ -637,7 +430,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Photos.
@@ -647,7 +440,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Family Composition.
@@ -657,7 +450,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Sponsorship Undertaking.
@@ -667,7 +460,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Medical Examination Reports.
@@ -677,7 +470,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Other Supporting Documents.
@@ -708,7 +501,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1">
                                                             Apply for a PR card.
@@ -718,7 +511,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1">
                                                             Get a PR photo
@@ -728,7 +521,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1">
                                                             Permanent resident travel document
@@ -738,7 +531,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle"></i>
+                                                            <i class="far fa-check-circle text-danger"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1">
                                                             Check application status
@@ -755,7 +548,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    <!-- </div> -->
     <!-- try end -->
 
 
@@ -767,7 +560,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-10">
                     <div class="section-heading text-center aos-init aos-animate" data-aos="fade-up">
-                        <h4 class="h5 text-primary">Services and information</h4>
+                        <h4 class="h5 text-danger">Services and information</h4>
                         <p class="h4 text-black">Parents, Spouse or Child super visa:</p>
                         <!-- <h6>Eligibility to apply for the Federal Skilled Trades Program (Express Entry)</h6> -->
 
@@ -780,23 +573,20 @@
                         <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init" data-aos="fade-up"
                             data-aos-delay="200">
                             <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
-                                <i class="fas fa-truck fa-2x"></i>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-bar-up" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M8 10a.5.5 0 0 0 .5-.5V3.707l2.146 2.147a.5.5 0 0 0 .708-.708l-3-3a.5.5 0 0 0-.708 0l-3 3a.5.5 0 1 0 .708.708L7.5 3.707V9.5a.5.5 0 0 0 .5.5zm-7 2.5a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 0 1h-13a.5.5 0 0 1-.5-.5z"/>
+</svg>
                             </div>
                             <div class="icon-content">
 
-                                <h3 class="h5 mb-2">Extend your stay</h3>
+                                <h3 class="h5 mb-2">Find out if you need an eTA or a visa</h3>
                                 <ul>
-                                    <li class="text-black">If you want to extend your stay in Canada as a visitor (stay in
-                                        Canada longer), you need to apply for a visitor record.
+                                    <li class="text-black">Most people need a visa or an Electronic Travel Authorization
+                                        (eTA) to travel to Canada - not both. Some people may only need their valid
+                                        passport.
                                     </li>
                                     <li class="text-black">
-                                        A visitor record
-
-                                        is a document that allows you to stay in Canada longer as
-                                        a visitor.
-                                    </li>
-                                    <li class="text-black">
-                                        includes a new expiry date.
+                                    Clarify your entry requirements by identifying whether your purpose of visit mandates an eTA or a visa application before traveling to your desired destination.
                                     </li>
                                 </ul>
                             </div>
@@ -804,7 +594,9 @@
                         <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init" data-aos="fade-up"
                             data-aos-delay="200">
                             <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
-                                <i class="fas fa-truck fa-2x"></i>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-ui-checks-grid" viewBox="0 0 16 16">
+  <path d="M2 10h3a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1zm9-9h3a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-3a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1zm0 9a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1h-3zm0-10a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h3a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2h-3zM2 9a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h3a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H2zm7 2a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2h-3a2 2 0 0 1-2-2v-3zM0 2a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2zm5.354.854a.5.5 0 1 0-.708-.708L3 3.793l-.646-.647a.5.5 0 1 0-.708.708l1 1a.5.5 0 0 0 .708 0l2-2z"/>
+</svg>
                             </div>
                             <div class="icon-content">
 
@@ -831,25 +623,37 @@
                         <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init" data-aos="fade-up"
                             data-aos-delay="200">
                             <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
-                                <i class="fas fa-truck fa-2x"></i>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-textarea-resize" viewBox="0 0 16 16">
+                                                    <path d="M0 4.5A2.5 2.5 0 0 1 2.5 2h11A2.5 2.5 0 0 1 16 4.5v7a2.5 2.5 0 0 1-2.5 2.5h-11A2.5 2.5 0 0 1 0 11.5v-7zM2.5 3A1.5 1.5 0 0 0 1 4.5v7A1.5 1.5 0 0 0 2.5 13h11a1.5 1.5 0 0 0 1.5-1.5v-7A1.5 1.5 0 0 0 13.5 3h-11zm10.854 4.646a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708l3-3a.5.5 0 0 1 .708 0zm0 2.5a.5.5 0 0 1 0 .708l-.5.5a.5.5 0 0 1-.708-.708l.5-.5a.5.5 0 0 1 .708 0z"/>
+                                                    </svg>
                             </div>
                             <div class="icon-content">
 
-                                <h3 class="h5 mb-2">Find out if you need an eTA or a visa</h3>
-                                <ul>
-                                    <li class="text-black">Most people need a visa or an Electronic Travel Authorization
-                                        (eTA) to travel to Canada - not both. Some people may only need their valid
-                                        passport.
-                                    </li>
+                                    <h3 class="h5 mb-2">Extend your stay</h3>
+                                    <ul>
+                                        <li class="text-black">If you want to extend your stay in Canada as a visitor (stay in
+                                            Canada longer), you need to apply for a visitor record.
+                                        </li>
+                                        <li class="text-black">
+                                            A visitor record
 
-                                </ul>
-                            </div>
-                        </li>
-                        <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init" data-aos="fade-up"
+                                            is a document that allows you to stay in Canada longer as
+                                            a visitor.
+                                        </li>
+                                        <li class="text-black">
+                                            includes a new expiry date.
+                                        </li>
+                                    </ul>
+                             </div>
+                                                            </li>
+                                                            <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init" data-aos="fade-up"
                             data-aos-delay="200">
                             <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
-                                <i class="fas fa-truck fa-2x"></i>
-                            </div>
+                            <svg xmlns="http://www.w3.org/2000/svg-2x" width="32" height="32" fill="currentColor" class="bi bi-card-text" viewBox="0 0 16 16">
+                                                            <path d="M14.5 3a.5.5 0 0 1 .5.5v9a.5.5 0 0 1-.5.5h-13a.5.5 0 0 1-.5-.5v-9a.5.5 0 0 1 .5-.5h13zm-13-1A1.5 1.5 0 0 0 0 3.5v9A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5v-9A1.5 1.5 0 0 0 14.5 2h-13z"/>
+                                                            <path d="M3 5.5a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5zM3 8a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9A.5.5 0 0 1 3 8zm0 2.5a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5z"/>
+                                                            </svg>
+                </div>
                             <div class="icon-content">
 
                                 <h3 class="h5 mb-2">Letter of invitation</h3>
@@ -884,15 +688,14 @@
 
     <!-- tab features end -->
     <!-- faq start -->
-    <section class="faq-section ptb-120">
+    <section class="faq-section ptb-90">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="section-heading text-center aos-init aos-animate" data-aos="fade-up">
-                        <h4 class="h5 text-primary">FAQ</h4>
+                        <h4 class="h5 text-danger">FAQ</h4>
                         <h2>Frequently Asked Questions</h2>
-                        <p>Efficiently network cross-unit paradigms for premier technologies scale 24/7 paradigms for
-                            process-centric data interoperable.</p>
+                       
                     </div>
                 </div>
             </div>
@@ -900,7 +703,7 @@
                 <div class="col-lg-6 col-md-10">
                     <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up"
                         data-aos-delay="50">
-                        <!-- <span class="faq-icon me-3"><i class="fas fa-copyright text-primary"></i></span> -->
+                        <!-- <span class="faq-icon me-3"><i class="fas fa-copyright text-danger"></i></span> -->
                         <div class="faq-info">
                             <h5>Who is eligible to sponsor a family member in Canada?</h5>
                             <p class="mb-0 text-black">Canadian citizens and permanent residents who are at least 18 years
@@ -911,7 +714,7 @@
                 <div class="col-lg-6 col-md-10">
                     <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up"
                         data-aos-delay="100">
-                        <!-- <span class="faq-icon me-3"><i class="fas fa-credit-card text-primary"></i></span> -->
+                        <!-- <span class="faq-icon me-3"><i class="fas fa-credit-card text-danger"></i></span> -->
                         <div class="faq-info">
                             <h5>Which family members can be sponsored under family sponsorship?</h5>
                             <p class="mb-0 text-black">Spouses, common-law partners, conjugal partners, dependent children,
@@ -922,7 +725,7 @@
                 <div class="col-lg-6 col-md-10">
                     <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up"
                         data-aos-delay="150">
-                        <!-- <span class="faq-icon me-3"><i class="fas fa-file text-primary"></i></span> -->
+                        <!-- <span class="faq-icon me-3"><i class="fas fa-file text-danger"></i></span> -->
                         <div class="faq-info">
                             <h5>Are same-sex marriages recognized for family sponsorship?</h5>
                             <p class="mb-0 text-black">Yes, same-sex marriages for family sponsorship, provided they are
@@ -933,7 +736,7 @@
                 <div class="col-lg-6 col-md-10">
                     <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up"
                         data-aos-delay="200">
-                        <!-- <span class="faq-icon me-3"><i class="fas fa-microphone text-primary"></i></span> -->
+                        <!-- <span class="faq-icon me-3"><i class="fas fa-microphone text-danger"></i></span> -->
                         <div class="faq-info">
                             <h5>What are the financial requirements for sponsors? </h5>
                             <p class="mb-0 text-black">Sponsors must meet minimum income requirements and sign an agreement
@@ -944,7 +747,7 @@
                 <div class="col-lg-6 col-md-10">
                     <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up"
                         data-aos-delay="250">
-                        <!-- <span class="faq-icon me-3"><i class="fas fa-play-circle text-primary"></i></span> -->
+                        <!-- <span class="faq-icon me-3"><i class="fas fa-play-circle text-danger"></i></span> -->
                         <div class="faq-info">
                             <h5>Are there any limitations on sponsoring multiple family members?</h5>
                             <p class="mb-0 text-black">Yes, there are specific guidelines and eligibility criteria for
@@ -955,7 +758,7 @@
                 <div class="col-lg-6 col-md-10">
                     <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up"
                         data-aos-delay="300">
-                        <!-- <span class="faq-icon me-3"><i class="fas fa-code-branch text-primary"></i></span> -->
+                        <!-- <span class="faq-icon me-3"><i class="fas fa-code-branch text-danger"></i></span> -->
                         <div class="faq-info">
                             <h5>Can parents and grandparents be sponsored under family sponsorship?</h5>
                             <p class="mb-0 text-black">Yes, permanent residents can sponsor their parents and grandparents
@@ -992,7 +795,7 @@
             <div class="row justify-content-center align-content-center">
                 <div class="col-md-10 col-lg-6">
                     <div class="section-heading text-center">
-                        <h4 class="h5 text-primary">Testimonial</h4>
+                        <h4 class="h5 text-danger">Testimonial</h4>
                         <h2>What They Say About Us</h2>
                         <p>Uniquely promote adaptive quality vectors rather than stand-alone e-markets. pontificate
                             alternative architectures whereas iterate.</p>
@@ -1026,12 +829,11 @@
                                                     </div> -->
 
                                         <blockquote class="blockquote">
-                                            <p> I'm grateful for their dedication and expertise in making my dream of
-                                                working in Canada come true.</p>
+                                            <p>Thanks to family sponsorship, I could finally reunite with my parents after years apart. The immigration process was smoother than I anticipated, and now we're building new memories together in Canada. Forever grateful!</p>
                                         </blockquote>
                                         <div class="author-info mt-4">
-                                            <h6 class="mb-0">Joe Richard</h6>
-                                            <!-- <span>Visual Designer</span> -->
+                                            <h6 class="mb-0">Jay</h6>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -1073,13 +875,11 @@
                                                         </ul>
                                                     </div> -->
                                         <blockquote class="blockquote">
-                                            <p>They were there every step of the way, assisting me with visa applications
-                                                and settlement advice and now I'm working in my desired marketing role in
-                                                Canada. </p>
+                                            <p>Sponsoring my spouse was a journey of love and determination. The guidance and support provided during the immigration process made it possible for us to start a new chapter together in a welcoming country. </p>
                                         </blockquote>
                                         <div class="author-info mt-4">
-                                            <h6 class="mb-0">Rupan Oberoi</h6>
-                                            <!-- <span>Web Designer</span> -->
+                                            <h6 class="mb-0">Rupesh</h6>
+                                           
                                         </div>
                                     </div>
                                 </div>
@@ -1122,13 +922,11 @@
                                                     </div> -->
                                         <blockquote class="blockquote">
                                             <p>
-                                                Their dedication to finding the right fit for both candidates and employers
-                                                is remarkable. Thanks to their efforts, I am now thriving in my career in
-                                                Canada.
+                                            Sponsoring my grandparents allowed them to experience the joy of being part of our lives. The team's expertise in navigating complex immigration rules made our family complete again.
                                             </p>
                                         </blockquote>
                                         <div class="author-info mt-4">
-                                            <h6 class="mb-0">Jon Doe</h6>
+                                            <h6 class="mb-0">Jone</h6>
                                             <!-- <span>Software Engineer</span> -->
                                         </div>
                                     </div>
@@ -1171,11 +969,10 @@
                                                         </ul>
                                                     </div> -->
                                         <blockquote class="blockquote">
-                                            <p>Today, I'm successfully working in my desired finance role in Canada, all
-                                                thanks to their exceptional services.</p>
+                                            <p>Immigrating with extended family members seemed daunting, but family sponsorship made it achievable. The detailed guidance and prompt assistance throughout the process were invaluable.</p>
                                         </blockquote>
                                         <div class="author-info mt-4">
-                                            <h6 class="mb-0">Hanry Luice</h6>
+                                            <h6 class="mb-0">Herry</h6>
                                             <!-- <span>App Developer</span> -->
                                         </div>
                                     </div>
@@ -1218,12 +1015,10 @@
                                                         </ul>
                                                     </div> -->
                                         <blockquote class="blockquote">
-                                            <p>From preparing the necessary documents to guiding me through interviews, they
-                                                were there at every step. Their personalized support and expertise made my
-                                                migration experience stress-free. </p>
+                                            <p>As a parent, sponsoring my child to join me in Canada was a dream come true. The step-by-step support and personalized attention ensured a seamless immigration journey for our family </p>
                                         </blockquote>
                                         <div class="author-info mt-4">
-                                            <h6 class="mb-0">Ami Nijai</h6>
+                                            <h6 class="mb-0">Amisha</h6>
                                             <!-- <span>Customer Support</span> -->
                                         </div>
                                     </div>
@@ -1259,8 +1054,8 @@
                                         alt="testimonial thumb">
                                 </div>
                                 <div class="author-info">
-                                    <h6 class="mb-0">Joe Richard</h6>
-                                    <span>Visual Designer</span>
+                                    <h6 class="mb-0">Jay</h6>
+                                  
                                 </div>
                             </div>
                         </li>
@@ -1273,8 +1068,8 @@
                                         alt="testimonial thumb">
                                 </div>
                                 <div class="author-info">
-                                    <h6 class="mb-0">Rupan Oberoi</h6>
-                                    <span>Web Designer</span>
+                                    <h6 class="mb-0">Rupesh</h6>
+                                    <!-- <span>Web Designer</span> -->
                                 </div>
                             </div>
 
@@ -1288,8 +1083,8 @@
                                         alt="testimonial thumb">
                                 </div>
                                 <div class="author-info">
-                                    <h6 class="mb-0">Jon Doe</h6>
-                                    <span>Software Engineer</span>
+                                    <h6 class="mb-0">Jone</h6>
+                                   
                                 </div>
                             </div>
                         </li>
@@ -1302,8 +1097,8 @@
                                         alt="testimonial thumb">
                                 </div>
                                 <div class="author-info">
-                                    <h6 class="mb-0">Hanry Luice</h6>
-                                    <span>App Developer</span>
+                                    <h6 class="mb-0">Herry</h6>
+                                  
                                 </div>
                             </div>
                         </li>
@@ -1316,8 +1111,8 @@
                                         alt="testimonial thumb">
                                 </div>
                                 <div class="author-info">
-                                    <h6 class="mb-0">Ami Nijai</h6>
-                                    <span>Customer Support</span>
+                                    <h6 class="mb-0">Amisha</h6>
+                                   
                                 </div>
                             </div>
                         </li>
@@ -1336,7 +1131,7 @@
             <div class="row justify-content-between">
                 <div class="col-xl-5 col-lg-5 col-md-12">
                     <div class="section-heading aos-init aos-animate" data-aos="fade-up">
-                        <h4 class="h5 text-primary">Quick Support</h4>
+                        <h4 class="h5 text-danger">Quick Support</h4>
                         <h2>Get in Touch Today!</h2>
                         <p> Consultancy Contact for Career Opportunities and Migration Services.</p>
                     </div>
@@ -1344,7 +1139,7 @@
                         <div class="col-sm-6 mb-4 mb-md-0 mb-lg-0 aos-init aos-animate" data-aos="fade-up"
                             data-aos-delay="50">
                             <div class="icon-box d-inline-block rounded-circle bg-primary-soft">
-                                <i class="fas fa-phone fa-2x text-primary"></i>
+                                <i class="fas fa-phone fa-2x text-danger"></i>
                             </div>
                             <div class="contact-info">
                                 <h5>Call Us</h5>
