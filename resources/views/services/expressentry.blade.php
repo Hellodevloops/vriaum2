@@ -3,30 +3,24 @@
         
         <!--page header section start-->
 
-        <section class="dg-cta-section ptb-120 position-relative overflow-hidden z-1">
-            <img src="assets/img/digital-agency/cta-curve-left.png" alt="curve shape" class="position-absolute ct-curve left top-0 h-100 z--1 d-none d-xxl-block">
-            <img src="assets/img/digital-agency/cta-curve-right.png" alt="curve shape" class="position-absolute ct-curve right top-0 h-100 z--1 d-none d-xxl-block">
-            <img src="assets/img/digital-agency/cta-line.png" alt="cta line" class="position-absolute start-50 bottom-0 translate-middle-x z--1 d-none d-md-block">
-            <span class="dg-circle-style-1 position-absolute z--1 dg-circle rounded-circle start-50"></span>
-            <div class="container">
-                <div class="row g-4 justify-content-between align-items-center">
+        <section class="crm-integration bg-white pt-120 ">
+            <div class="container pt-60">
+                <div class="row justify-content-between align-items-center g-4">
+                   
                     <div class="col-lg-6">
-                        <div class="dg-cta-content">
-                            <span class="text-dg-primary fw-bold">Express Entry</span>
-                            <h2 class="mt-2 mb-3 heading-dg-color">Express Entry Immigration to Canada</h2>
-                            <p class="mb-40 heading-dg-color">Next Steps: Applying for Express Entry.</p>
-                            
+                        <div class="crm-integration-content">
+                            <div class="crm-title">
+                                <span class="crm-subtitle">Canadian Experience Class (CEC)</span>
+                                <h3 class="mt-2 mb-3">Eligibility Criteria for the Canadian Experience Class (CEC)</h3>
+                                <p class="text-black">The Canadian Experience Class (CEC) is a popular immigration pathway under the Express Entry system, offering an excellent opportunity for individuals with valuable Canadian work experience to obtain permanent residence in Canada. The CEC is designed for those who have already integrated into the Canadian labor market, making it an attractive option for international graduates and skilled workers who wish to make Canada their permanent home.</p>
+                               
+                            </div>
+                            <!-- <a href="#" class="btn crm-secondary-btn mt-4">Browse All Service</a> -->
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div class="dg-cta-imgs d-flex mt-5 mt-lg-0">
-                            <div class="thumb align-self-end">
-                                <img src="assets/img/ee11.jpg" alt="not found" class="img-fluid rounded-4">
-                            </div>
-                            <div class="thumb align-self-end">
-                                <img src="assets/img/ee21.jpg" alt="not found" class="img-fluid rounded-4">
-                            </div>
-                            
+                        <div class="crm-appss-circle">
+                            <img src="assets/img/ee21.jpg" alt="apps" class="img-fluid">
                         </div>
                     </div>
                 </div>
@@ -63,7 +57,9 @@
                         <ul class="work-process-list list-unstyled">
                          <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init" data-aos="fade-up" data-aos-delay="200">
                                 <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
-                                    <i class="fas fa-truck fa-2x"></i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+  <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
+</svg>
                                 </div>
                                 <div class="icon-content">
                                 <span class="text-primary h6">Step 1</span>
@@ -82,7 +78,9 @@
                             </li>
                             <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init" data-aos="fade-up" data-aos-delay="200">
                                 <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
-                                    <i class="fas fa-truck fa-2x"></i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+  <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
+</svg>
                                 </div>
                                 <div class="icon-content">
                                 <span class="text-primary h6">Step 2</span>
@@ -105,7 +103,9 @@
                         <ul class="work-process-list list-unstyled">
                         <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init" data-aos="fade-up" data-aos-delay="200">
                                 <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
-                                    <i class="fas fa-truck fa-2x"></i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+  <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
+</svg>
                                 </div>
                                 <div class="icon-content">
                                 <span class="text-primary h6">Step 3</span>
@@ -124,7 +124,9 @@
                             </li>
                             <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init" data-aos="fade-up" data-aos-delay="200">
                                 <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
-                                    <i class="fas fa-truck fa-2x"></i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+  <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
+</svg>
                                 </div>
                                 <div class="icon-content">
                                     <span class="text-primary h6">Step 4</span>
@@ -151,10 +153,12 @@
                         <ul class="work-process-list list-unstyled">
                         <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init" data-aos="fade-up" data-aos-delay="200">
                                 <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
-                                    <i class="fas fa-truck fa-2x"></i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+  <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
+</svg>
                                 </div>
                                 <div class="icon-content">
-                                <span class="text-primary h6">Step 2</span>
+                                <span class="text-primary h6">Step 5</span>
                                     <h3 class="h5 mb-2">Admissibility</h3>
                                     <ul>
                                     <li class="text-black">A Canadian immigration officer will decide if you can enter Canada when you.
@@ -170,10 +174,12 @@
                             </li>
                             <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init" data-aos="fade-up" data-aos-delay="200">
                                 <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
-                                    <i class="fas fa-truck fa-2x"></i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+  <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
+</svg>
                                 </div>
                                 <div class="icon-content">
-                                <span class="text-primary h6">Step 1</span>
+                                <span class="text-primary h6">Step 6</span>
                                     <h3 class="h5 mb-2">Proof of funds</h3>
                                   <ul>
                                     <li class="text-black">You must have enough money to settle in Canada.
@@ -196,10 +202,12 @@
                             
                             <li class="d-flex align-items-start mb-4 aos-init" data-aos="fade-up" data-aos-delay="150">
                                 <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
-                                    <i class="fas fa-layer-group fa-2x"></i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+  <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
+</svg>
                                 </div>
                                 <div class="icon-content">
-                                    <span class="text-primary h6">Step 3</span>
+                                    <span class="text-primary h6">Step 7</span>
                                     <h3 class="h5 mb-2">Where you can live in Canada</h3>
                                     <ul>
                                     <li class="text-black">This is the application process for skilled workers who want to become permanent residents of Canada and live in anny city.
@@ -215,10 +223,12 @@
                             </li>
                             <li class="d-flex align-items-start mb-4 mb-lg-0 aos-init" data-aos="fade-up" data-aos-delay="200">
                                 <div class="process-icon-2 border border-2 rounded-custom bg-white me-4 mt-2">
-                                    <i class="fas fa-truck fa-2x"></i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+  <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
+</svg>
                                 </div>
                                 <div class="icon-content">
-                                    <span class="text-primary h6">Step 4</span>
+                                    <span class="text-primary h6">Step 8</span>
                                     <h3 class="h5 mb-2">Get assessed by the province or territory</h3>
                                     <ul>
                                     <li class="text-black">You’ll likely have to go to the province or territory for your trade. 
@@ -527,7 +537,7 @@
                             
                          <div class="section-heading ">
                         
-                        <h2 class="mb-4 text-primary">Placement Services</h2>
+                        <h2 class="mb-4 text-primary">Eligibility Criteria for the Canadian Experience Class (CEC):</h2>
 
                        <p>Meeting these eligibility criteria is essential for being considered under the Canadian Experience Class (CEC) for permanent residence in Canada. Applicants who meet the requirements and receive an Invitation to Apply (ITA) can proceed with the final stage of their application by submitting their documents and completing the necessary forms to become Canadian permanent residents.</p>
 

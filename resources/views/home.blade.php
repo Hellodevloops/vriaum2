@@ -3,19 +3,18 @@
 @section('content')
 
         <!--hero section start-->
-        <section class="hero-it-solution hero-nine-bg ptb-120"
-            style="background: url('assets/img/hero-9-img.png')no-repeat center center">
+        <section class="hero-it-solution hero-nine-bg ptb-120">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-7 col-md-10">
                         <div class="hero-content-wrap mt-5 mt-lg-0 mt-xl-0">
-                            <h1 class="fw-bold display-5 mt-5">Driving Growth through Seamless 
-                            <span class="fw-bold display-5 text-primary"> IT Solutions and Agile Staffing.</span>
+                            <h1 class="fw-bold display-5 mt-5">Immigration Options
+                            <span class="fw-bold display-5 text-danger"> Your Pathway to a New Life.</span>
                         </h1>
-                            <p class="lead mt-5">
+                            <p class="text-black">
                                
 
-                                "Unleash your business potential with our IT solutions and staffing expertise, igniting growth and surpassing goals."
+                                "Welcome to our comprehensive platform dedicated to guiding you on your journey to a new life in Canada and the USA. Whether you're seeking better career opportunities, world-class education, or a safe and welcoming environment, our team of immigration experts is here to help you navigate the complexities of immigration processes and make your dream of moving to Canada or the USA a reality."
                             </p>
                             <div class="action-btn mt-5 align-items-center d-block d-sm-flex d-lg-flex d-md-flex">
                                 <a href="{{ route('iot')}}" class="btn btn-primary me-3">Explore Solutions</a>
@@ -28,196 +27,212 @@
                     </div>
                     <div class="col-lg-5">
                         <div class="hero-img position-relative mt-5 mt-lg-0">
-                            <img src="assets/img/banner_image.png" alt="hero hero-it-solution " class="img-fluid">
-                            <div class="dots">
-                                <img src="assets/img/banner_dot.png" alt="dot" class="dot-1">
-                                <img src="assets/img/banner_dot.png" alt="dot" class="dot-2">
-                            </div>
-                            <div class="bubble">
-                                <span class="bubble-1"></span>
-                                <span class="bubble-2"></span>
-                            </div>
+                            <img src="assets/img/home.jpg" alt="hero hero-it-solution " class="img-fluid">
+                
                         </div>
                     </div>
                 </div>
             </div>
         </section><!--hero section end-->
 
-        <!--customer section start-->
-        <!-- <div class="customer-section pb-80 hero-nine-bg hero-it-solution"
-            style="background: url('assets/img/hero-9-img.png')no-repeat center center">
+        <!--About us start-->
+        <section class="feature-section pt-20 pb-60  bg-light-subtle">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-lg-8 col-12">
-                        <ul class="customer-logos-grid text-center list-unstyled mb-0">
-                            <li>
-                                <img src="assets/img/clients/client-logo-1.svg" width="150" alt="clients logo"
-                                    class="img-fluid customer-logo p-1 p-md-2 p-lg-3 m-auto" data-aos="fade-up"
-                                    data-aos-delay="50">
-                            </li>
-                            <li>
-                                <img src="assets/img/clients/client-logo-2.svg" width="150" alt="clients logo"
-                                    class="img-fluid customer-logo p-1 p-md-2 p-lg-3 m-auto" data-aos="fade-up"
-                                    data-aos-delay="50">
-                            </li>
-                            <li>
-                                <img src="assets/img/clients/client-logo-3.svg" width="150" alt="clients logo"
-                                    class="img-fluid customer-logo p-1 p-md-2 p-lg-3 m-auto" data-aos="fade-up"
-                                    data-aos-delay="50">
-                            </li>
-                            <li>
-                                <img src="assets/img/clients/client-logo-4.svg" width="150" alt="clients logo"
-                                    class="img-fluid customer-logo p-1 p-md-2 p-lg-3 m-auto" data-aos="fade-up"
-                                    data-aos-delay="50">
-                            </li>
-                            <li>
-                                <img src="assets/img/clients/client-logo-5.svg" width="150" alt="clients logo"
-                                    class="img-fluid customer-logo p-1 p-md-2 p-lg-3 m-auto" data-aos="fade-up"
-                                    data-aos-delay="100">
-                            </li>
-                            <li>
-                                <img src="assets/img/clients/client-logo-6.svg" width="150" alt="clients logo"
-                                    class="img-fluid customer-logo p-1 p-md-2 p-lg-3 m-auto" data-aos="fade-up"
-                                    data-aos-delay="100">
-                            </li>
-                            <li>
-                                <img src="assets/img/clients/client-logo-7.svg" width="150" alt="clients logo"
-                                    class="img-fluid customer-logo p-1 p-md-2 p-lg-3 m-auto" data-aos="fade-up"
-                                    data-aos-delay="100">
-                            </li>
-                            <li>
-                                <img src="assets/img/clients/client-logo-8.svg" width="150" alt="clients logo"
-                                    class="img-fluid customer-logo p-1 p-md-2 p-lg-3 m-auto" data-aos="fade-up"
-                                    data-aos-delay="100">
-                            </li>
-                        </ul>
-                        <p class="text-center mt-lg-5 mt-4 mb-0" data-aos="fade-up" data-aos-delay="200">Trusted More
-                            than 25,00+ Companies Around the World</p>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-        <!--customer section end-->
-        <!--About us start-->
-        <section class="ptb-120">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-6">
-                        <div class="about-left text-lg-center mb-32 mb-lg-0">
-                            <img src="assets/img/about.jpg" alt="" class="img-fluid">
+                <h2 class="text-danger">ABOUT US</h2>
+                            <p class="text-black">Welcome to Your Immigration Hub, your trusted partner on your journey to Canada and the USA. We are a team of experienced immigration professionals dedicated to helping individuals and families achieve their immigration goals and build a better future in these two vibrant countries.</p>
+                    <div class="col-lg-6 col-md-10">
+                        <div class="section-heading text-center aos-init aos-animate" data-aos="fade-up">
+        
                         </div>
                     </div>
-                    <div class="col-lg-6">
-                        <div class="about-right">
-                            <h2 class="mb-4">
-                                About Us
-                            </h2>
-                            <h4 class="text-primary h5 mb-3">Crafting Future-Focused Solutions</h4>
-                            <p>
-                                At <span class="text-primary">VriAum Technologies LLC</span>, we are passionate about leveraging technology to drive innovation and empower businesses to thrive in the digital age. With a deep understanding of the ever-evolving software landscape and a team of highly skilled professionals,<span class="text-primary"> we are dedicated to delivering cutting-edge solutions that meet our clients' </span>unique needs.
-                            </p>
-                            <p>
-                                Our software solutions span across a wide range of domains, <span class="text-primary">including enterprise applications, web and mobile development, and the Internet of Things </span>. Whether our clients require a simple mobile app or a complex enterprise system, we have the expertise to deliver scalable, secure, and user-friendly software solutions that align with their unique requirements.
-                            </p>
-                            <p>
-                                In addition to our software solutions, we also provide top-notch staffing services. We understand the critical role that talented professionals play in driving business success. With our extensive network and industry expertise, we connect our clients with exceptional candidates who possess the skills and experience necessary to excel in their organizations.
-                            </p>
-                            {{-- <ul class="list-unstyled d-flex flex-wrap list-two-col mt-4 mb-4">
-                                <li class="py-1">
-                                    <i class="fas fa-check-circle me-2 text-primary"></i>
-                                    Discovery
-                                </li>
-                                <li class="py-1">
-                                    <i class="fas fa-check-circle me-2 text-primary"></i>
-                                    Planning
-                                </li>
-                                <li class="py-1">
-                                    <i class="fas fa-check-circle me-2 text-primary"></i>
-                                    Event Execute
-                                </li>
-                                <li class="py-1">
-                                    <i class="fas fa-check-circle me-2 text-primary"></i>
-                                    Deliver
-                                </li>
-                            </ul> --}}
-                            <a href="{{route('about')}}" class="link-with-icon text-decoration-none mt-3 btn btn-primary">
-                                Know More
-                                <i class="fas fa-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                    </div>
                 </div>
-            </div>
-        </section> <!--About us end-->
-        <!--Why choose us start-->
-        <section class="feature-section-two pt-60  pb-60 "
-            style="background: url('assets/img/hero-9-img.png')no-repeat center center;">
-            <div class="container">
-                <div class="row align-items-center justify-content-lg-between justify-content-center">
-                <h1>We are development experts on all technologies</h1>
-                <div class="section-heading">
-                               
-                    <p class="dark-text">With our deep expertise in a wide range of technologies, we empower businesses to harness the full potential of digital transformation, driving growth and success in the ever-evolving tech landscape.</p>
-                </div>
-                    <div class="col-lg-6 col-md-12">
-                        <div class="feature-content-wrap">
-                           
-                            <ul class="list-unstyled mb-0">
-                                <li class="d-flex align-items-start mb-4">
-                                    <div class="icon-box bg-primary rounded me-4">
-                                        <i class="fas fa-bezier-curve text-white"></i>
-                                    </div>
-                                    <div class="icon-content">
-                                        <h3 class="h3">Pixel Perfect Design</h3>
-                                        <p class="dark-text">Expertise lies in maintaining consistency, achieving precision, and ensuring optimal user experience across different browsers and devices.
-                                        </p>
-                                    </div>
-                                </li>
-                                <li class="d-flex align-items-start mb-4">
-                                <div class="icon-box bg-primary rounded me-4">
-                                <i class="fas fa-layer-group text-white"></i>
-                                    </div>
-                               
-                                    <div class="icon-content">
-                                        <h3 class="h3">Unique &amp; Minimal Design</h3>
-                                        <p class="dark-text">Stay updated with the latest developments and experiment with innovative design approaches to create fresh and captivating web experiences.
-                                        </p>
-                                    </div>
-                                </li>
-                                <li class="d-flex align-items-start mb-4 mb-lg-0">
-                                <div class="icon-box bg-primary rounded me-4">
-                                <i class="fas fa-headset text-white"></i>
-                                    </div>
-                                    
-                                    <div class="icon-content">
-                                        <h3 class="h3">24/7 Free Online Support</h3>
-                                        <p class="dark-text">Get peace of mind <span class="text-primary">with our 24/7 free online support</span>, ensuring prompt assistance and uninterrupted service whenever you need it.
-                                        </p>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-7">
-                        <div class="pr-lg-4">
-                            <div class="bg-light-subtle text-center rounded-custom overflow-hidden p-lg-5 p-3 mx-lg-auto"
-                                data-aos="fade-up" data-aos-delay="50">
-                                <img src="assets/img/homedev1.jpg" alt="" class="img-fluid">
-                                <div
-                                    class="position-absolute bg-primary-dark z--1 dot-mask dm-size-16 dm-wh-350 top--40 right--40 top-right">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="feature-grid">
+                            <div class="feature-card bg-white shadow-sm highlight-card rounded-custom p-5 aos-init aos-animate bg-secondary" data-aos="fade-up" data-aos-delay="50">
+                                <div class="icon-box d-inline-block rounded-circle bg-dark-soft mb-32">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-box-seam-fill" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M15.528 2.973a.75.75 0 0 1 .472.696v8.662a.75.75 0 0 1-.472.696l-7.25 2.9a.75.75 0 0 1-.557 0l-7.25-2.9A.75.75 0 0 1 0 12.331V3.669a.75.75 0 0 1 .471-.696L7.443.184l.01-.003.268-.108a.75.75 0 0 1 .558 0l.269.108.01.003 6.97 2.789ZM10.404 2 4.25 4.461 1.846 3.5 1 3.839v.4l6.5 2.6v7.922l.5.2.5-.2V6.84l6.5-2.6v-.4l-.846-.339L8 5.961 5.596 5l6.154-2.461L10.404 2Z"/>
+</svg>
                                 </div>
+                                <div class="feature-content">
+                                    <h3 class="h5">Our Mission:</h3>
+                                    <p class="text-black">At Your Immigration Hub, our mission is to provide accurate, up-to-date, and reliable information on immigration to Canada and the USA. We understand that the immigration process can be overwhelming, with complex procedures and ever-changing regulations. That's why we are committed to offering comprehensive guidance and support at every step of your immigration journey.</p>
+                                    
+                                    <h6 class="mt-4">Included with...</h6>
+                                    <ul class="list-unstyled mb-0">
+                                        <li class="py-1 text-black"><i class="far fa-check-circle me-2 text-danger"></i>Empowering Dreams</li>
+                                        <li class="py-1 text-black"><i class="far fa-check-circle me-2 text-danger"></i>Personalized Support</li>
+                                        <li class="py-1 text-black"><i class="far fa-check-circle me-2 text-danger"></i>Transparency and Trust</li>
+                                        <li class="py-1 text-black"><i class="far fa-check-circle me-2 text-danger"></i>Expertise and Knowledge</li>
+                                        <li class="py-1 text-black"><i class="far fa-check-circle me-2 text-danger"></i>Comprehensive Services</li>
+                                        <li class="py-1 text-black"><i class="far fa-check-circle me-2 text-danger"></i>Facilitating Success:</li>
+                                    </ul>
+                                </div>
+                                <a href="service-single.html" class="link-with-icon text-decoration-none mt-3">View Details <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                            <div class="feature-card bg-white shadow-sm rounded-custom p-5 aos-init aos-animate bg-secondary" data-aos="fade-up" data-aos-delay="50">
+                                <div class="icon-box d-inline-block rounded-circle bg-dark-soft mb-32">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-app-indicator" viewBox="0 0 16 16">
+  <path d="M5.5 2A3.5 3.5 0 0 0 2 5.5v5A3.5 3.5 0 0 0 5.5 14h5a3.5 3.5 0 0 0 3.5-3.5V8a.5.5 0 0 1 1 0v2.5a4.5 4.5 0 0 1-4.5 4.5h-5A4.5 4.5 0 0 1 1 10.5v-5A4.5 4.5 0 0 1 5.5 1H8a.5.5 0 0 1 0 1H5.5z"/>
+  <path d="M16 3a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
+</svg>
+                                </div>
+                                <div class="feature-content">
+                                    <h3 class="h5">Our Expertise:</h3>
+                                    <p class="text-black">Our team of immigration experts brings a wealth of knowledge and expertise in Canadian and US immigration laws, policies, and procedures. Whether you are a skilled worker, international student, entrepreneur, or looking to reunite with family members, we have the expertise to address your unique immigration needs.</p>
+                                </div>
+                                <a href="service-single.html" class="link-with-icon text-decoration-none mt-3">View Details <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                            <div class="feature-card bg-white shadow-sm rounded-custom p-5 aos-init aos-animate bg-secondary" data-aos="fade-up" data-aos-delay="50">
+                                <div class="icon-box d-inline-block rounded-circle bg-dark-soft mb-32">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
+  <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6Zm2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0Zm4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4Zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10Z"/>
+</svg>
+                                </div>
+                                <div class="feature-content">
+                                    <h3 class="h5">Personalized Approach:</h3>
+                                    <p class="text-black">We believe that each individual's immigration journey is unique, and we take a personalized approach to meet your specific requirements. Our team will carefully assess your qualifications, preferences, and aspirations to recommend the most suitable immigration pathway for you and your family.</p>
+                                </div>
+                                <a href="service-single.html" class="link-with-icon text-decoration-none mt-3">View Details <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                            <div class="feature-card bg-white shadow-sm rounded-custom p-5 aos-init aos-animate bg-secondary" data-aos="fade-up" data-aos-delay="50">
+                                <div class="icon-box d-inline-block rounded-circle bg-dark-soft mb-32">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-asterisk" viewBox="0 0 16 16">
+  <path d="M8 0a1 1 0 0 1 1 1v5.268l4.562-2.634a1 1 0 1 1 1 1.732L10 8l4.562 2.634a1 1 0 1 1-1 1.732L9 9.732V15a1 1 0 1 1-2 0V9.732l-4.562 2.634a1 1 0 1 1-1-1.732L6 8 1.438 5.366a1 1 0 0 1 1-1.732L7 6.268V1a1 1 0 0 1 1-1z"/>
+</svg>
+                                </div>
+                                <div class="feature-content">
+                                    <h3 class="h5">Comprehensive Services:</h3>
+                                    <p class="text-black">Your Immigration Hub offers a wide range of services, including consultation, application preparation, document review, and support throughout the immigration process. We ensure that your application is accurate, complete, and submitted in a timely manner, giving you the best chance of success.</p>
+                                </div>
+                                <a href="service-single.html" class="link-with-icon text-decoration-none mt-3">View Details <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                            <div class="feature-card bg-white shadow-sm rounded-custom p-5 aos-init aos-animate bg-secondary" data-aos="fade-up" data-aos-delay="50">
+                                <div class="icon-box d-inline-block rounded-circle bg-dark-soft mb-32">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-blockquote-right" viewBox="0 0 16 16">
+  <path d="M2.5 3a.5.5 0 0 0 0 1h11a.5.5 0 0 0 0-1h-11zm0 3a.5.5 0 0 0 0 1h6a.5.5 0 0 0 0-1h-6zm0 3a.5.5 0 0 0 0 1h6a.5.5 0 0 0 0-1h-6zm0 3a.5.5 0 0 0 0 1h11a.5.5 0 0 0 0-1h-11zm10.113-5.373a6.59 6.59 0 0 0-.445-.275l.21-.352c.122.074.272.17.452.287.18.117.35.26.51.428.156.164.289.351.398.562.11.207.164.438.164.692 0 .36-.072.65-.216.873-.145.219-.385.328-.721.328-.215 0-.383-.07-.504-.211a.697.697 0 0 1-.188-.463c0-.23.07-.404.211-.521.137-.121.326-.182.569-.182h.281a1.686 1.686 0 0 0-.123-.498 1.379 1.379 0 0 0-.252-.37 1.94 1.94 0 0 0-.346-.298zm-2.168 0A6.59 6.59 0 0 0 10 6.352L10.21 6c.122.074.272.17.452.287.18.117.35.26.51.428.156.164.289.351.398.562.11.207.164.438.164.692 0 .36-.072.65-.216.873-.145.219-.385.328-.721.328-.215 0-.383-.07-.504-.211a.697.697 0 0 1-.188-.463c0-.23.07-.404.211-.521.137-.121.327-.182.569-.182h.281a1.749 1.749 0 0 0-.117-.492 1.402 1.402 0 0 0-.258-.375 1.94 1.94 0 0 0-.346-.3z"/>
+</svg>
+                                </div>
+                                <div class="feature-content">
+                                    <h3 class="h5">Start Your Journey with Us:</h3>
+                                    <p class="text-black">Whether you are just beginning to explore immigration options or have specific questions about your application, we are here to assist you. Contact us today to schedule a consultation and take the first step towards a brighter future in Canada or the USA.</p>
+                                </div>
+                                <a href="service-single.html" class="link-with-icon text-decoration-none mt-3">View Details <i class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
-                        {{-- <div class="feature-img-wrap">
-                            <img src="assets/img/homedev1.jpg" alt="feature image" class="img-fluid rounded-custom">
-                        </div> --}}
                     </div>
                 </div>
             </div>
         </section>
+        <!--can or us start-->
+        <section class="pt-20 pb-60">
+            <div class="container">
+                <div class="row justify-content-center">
+                <h2 class="text-dark-black mb-4">Why Choose Canada or the USA?</h2>
+                            <p class="text-dark-black">
+                            Canada and the USA are two of the most sought-after destinations for immigrants worldwide, attracting individuals and families from diverse backgrounds and aspirations. 
+                            </p>
+                    <div class="col-lg-6">
+                        <div class="text-center mb-5">
+                           
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="server-left position-relative z-5">
+                            <div class="server-list mb-3 z-5  bg-danger">
+                               
+                                    <div class="d-flex align-items-center">
+                                        
+                                        <h5 class="m-0 text-white fw-medium">Economic Opportunities</h5>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="server-list mb-3  bg-danger">
+                               
+                                    <div class="d-flex align-items-center">
+                                       
+                                        <h5 class="m-0 text-white fw-medium">High-Quality Education</h5>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="server-list mb-3  bg-danger">
+                               
+                                    <div class="d-flex align-items-center">
+                                        
+                                        <h5 class="m-0 text-white fw-medium">Quality Healthcare</h5>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="server-list mb-3  bg-danger">
+                               
+                                    <div class="d-flex align-items-center">
+                                        
+                                        <h5 class="m-0 text-white fw-medium">Safety and Security</h5>
+                                    </div>
+                                </a>
+                            </div>
+                           
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="game-card mb-3 mb-lg-0">
+                            <div class="card-top">
+                                <img src="assets/img/homeuc.jpg" class="img-fluid w-100" alt="game">
+                                <h4 class="mt-4 mb-3">
+                                Both countries offer unique opportunities and benefits.
+                                </h4>
+                                <!-- <p class="m-0 text-off-white">
+                                Here are some compelling reasons why you might choose Canada or the USA for your immigration journey.
+                                </p> -->
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="server-list mb-3  bg-danger">
+                           
+                                <div class="d-flex align-items-center">
+                                    
+                                    <h5 class="m-0 text-white fw-medium">Access to Social Benefits</h5>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="server-list mb-3  bg-danger">
+                           
+                                <div class="d-flex align-items-center">
+                                    
+                                    <h5 class="m-0 text-white fw-medium">Pathway to Citizenship</h5>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="server-list mb-3 bg-danger">
+                           
+                                <div class="d-flex align-items-center">
+                                    
+                                    <h5 class="m-0 text-white fw-medium">Family Reunification</h5>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="server-list mb-3  bg-danger">
+                           
+                                <div class="d-flex align-items-center">
+                                    
+                                    <h5 class="m-0 text-white fw-medium">Natural Beauty and Outdoor Activities</h5>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+               
+            </div>
+        </section>
 
-        <!-- why choose us end -->
+        <!-- can or usa end -->
+
         <!-- services start -->
         <section class="services-icon ptb-80">
             <div class="container">
@@ -226,8 +241,7 @@
                         <div class="text-center">
                             <h2>Services We Provide</h2>
                             <p>
-                                Our company is delivering innovative software solutions to streamline business
-                                operations and enhance productivity.
+                            At Your Immigration Journey, we are dedicated to providing comprehensive immigration services tailored to your unique needs:
                             </p>
                         </div>
                     </div>
@@ -239,10 +253,9 @@
                                 <img src="assets/img/service/coding.png" alt="service icon" width="65" height="65">
                             </div>
                             <div class="service-info-wrap">
-                                <h3 class="h5">Software Development</h3>
+                                <h3 class="h5">Immigration</h3>
                                 <p>
-                                    Unlocking innovation through custom software solutions tailored to your business
-                                    needs.
+                                Receive personalized advice and explore suitable immigration pathways based on your qualifications and aspirations.
                                 </p>
                             </div>
                         </div>
@@ -254,10 +267,9 @@
                                     height="65">
                             </div>
                             <div class="service-info-wrap">
-                                <h3 class="h5">App Development</h3>
+                                <h3 class="h5">Application Assistance</h3>
                                 <p>
-                                    Transforming ideas into engaging and intuitive mobile applications that captivate
-                                    users.
+                                Our experts will guide you through the application process, ensuring your submissions are accurate, and timely.
                                 </p>
                             </div>
                         </div>
@@ -270,10 +282,9 @@
                                     height="65">
                             </div>
                             <div class="feature-info-wrap">
-                                <h3 class="h5">Internet Of Things</h3>
+                                <h3 class="h5">Document Review</h3>
                                 <p>
-                                    Connecting the physical and digital worlds through IoT solutions and data-driven
-                                    insights.
+                                We meticulously review your documents to make sure eliminate errors and maximize your chances of a successful outcome.
                                 </p>
                             </div>
                         </div>
@@ -284,10 +295,9 @@
                                 <img src="assets/img/service/promotion.png" alt="service icon" width="65" height="65">
                             </div>
                             <div class="feature-info-wrap">
-                                <h3 class="h5">Recruitment</h3>
+                                <h3 class="h5">Ongoing Support</h3>
                                 <p>
-                                    Simplify and streamline your hiring process with our comprehensive recruitment
-                                    solutions.
+                                Our commitment does't end with the application. We continue to support until your immigration journey reaches its destination.
                                 </p>
                             </div>
                         </div>
@@ -296,43 +306,85 @@
             </div>
         </section>
         <!-- services end -->
-        <!-- 2nd features start -->
-        <section class="feature-section pt-60 pb-120"
-            style="background: url('assets/img/hero-9-img.png')no-repeat center center;">
+
+        <!-- explore start -->
+        <section class="game-faq ptb-100">
             <div class="container">
-                <div class="row align-items-lg-center justify-content-between">
-                    <div class="col-lg-5 order-lg-2 mb-7 mb-lg-0">
-                        <div class="mb-4" data-aos="fade-up">
-                            <h2>Experience High-Quality Work by Our Software Company</h2>
-                            <p>At <span class="text-primary">Vriaum Technologies </span>, we pride ourselves on delivering nothing short of exceptional
-                                quality in our work. With a team of<b> highly skilled professionals and a commitment to
-                                excellence</b>, we ensure that our clients receive top-notch software solutions tailored to
-                                their unique needs.</p>
+                <div class="row justify-content-center">
+                <h2 class="mb-3 text-white">Explore Your Immigration Options.</h2>
+                    <div class="col-lg-6">
+                        <div class="text-center mb-5">
+                            
+                            
                         </div>
-                        <ul class="list-unstyled d-flex flex-wrap list-two-col mt-5" data-aos="fade-up"
-                            data-aos-delay="50">
-                            <li>
-                                <span class="d-block mb-4"><i class="fas fa-clock fa-2x text-primary"></i></span>
-                                <h3 class="h5">High-Quality Deliverables</h3>
-                                <p> We are committed to delivering software solutions that are of the highest quality,
-                                    meeting and surpassing industry standards.</p>
-                            </li>
-                            <li>
-                                <span class="d-block mb-4"><i class="fas fa-user fa-2x text-primary"></i></span>
-                                <h3 class="h5">Expertise and Innovation</h3>
-                                <p>Our team of experienced professionals stays up-to-date with the latest technologies
-                                    and industry trends
-                                    edge. </p>
-                            </li>
-                        </ul>
                     </div>
-                    <div class="col-lg-6 order-lg-1">
-                        <div class="pr-lg-4">
-                            <div class="bg-light-subtle text-center rounded-custom overflow-hidden p-lg-5 p-3 mx-lg-auto"
-                                data-aos="fade-up" data-aos-delay="50">
-                                <img src="assets/img/hsc2n.jpg" alt="" class="img-fluid">
-                                <div
-                                    class="position-absolute bg-primary-dark z--1 dot-mask dm-size-16 dm-wh-350 top--40 left--40 top-left">
+                </div>
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="game-faq-img mb-5 mb-lg-0 text-center text-lg-start">
+                            <img src="assets/img/questions.png" alt="illustration" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <div class="game-accordion">
+                            <div class="accordion accordion-flush" id="accordionFlushExample">
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="flush-headingOne">
+                                        <button class="accordion-button collapsed shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                                        Express Entry to Canada
+                                        </button>
+                                    </h2>
+                                    <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                                        <div class="accordion-body">
+                                            <p class="text-off-white m-0">
+                                            Discover the streamlined Express Entry system, a popular pathway for skilled workers to obtain permanent residency in Canada. Learn about the Comprehensive Ranking System (CRS) and how to improve your CRS score for a better chance of receiving an Invitation to Apply (ITA).
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="flush-headingTwo">
+                                        <button class="accordion-button collapsed shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                                        Provincial Nominee Program (PNP)
+                                        </button>
+                                    </h2>
+                                    <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+                                        <div class="accordion-body">
+                                            <p class="text-off-white m-0">
+                                            Uncover the various Provincial Nominee Programs available across Canada, each tailored to address regional labor market needs. Explore the different streams and eligibility criteria for provincial nominations.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="flush-headingThree">
+                                        <button class="accordion-button shadow-none collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                                        Family Sponsorship
+                                        </button>
+                                    </h2>
+                                    <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample" style="">
+                                        <div class="accordion-body">
+                                            <p class="text-off-white m-0">
+                                            Learn about the process of sponsoring your spouse, partner, children, or parents to join you in Canada, fostering family reunification in a welcoming environment.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="flush-headingFour">
+                                        <button class="accordion-button collapsed shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+                                        Work Permits
+                                        </button>
+                                    </h2>
+                                    <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
+                                        <div class="accordion-body">
+                                            <p class="text-off-white m-0">
+                                            Understand the different work permit options available for skilled workers, temporary workers, and international graduates seeking employment in Canada.
+                                            </p>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -340,76 +392,10 @@
                 </div>
             </div>
         </section>
-        <!--2nd feature section end-->
+        <!--explore end-->
 
 
-
-        <!--work process section start-->
-        <section class="work-process ptb-80">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-10 col-lg-6">
-                        <div class="section-heading text-center" data-aos="fade-up">
-                            <h4 class="h5 text-primary">End To End Support</h4>
-                            <h2>We Follow Our Work Process</h2>
-                            <p>We follow a systematic and efficient four-step delivery process to ensure the successful
-                                implementation and deployment of your software solutions.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row d-flex align-items-center">
-                    <div class="col-md-6 col-lg-3">
-                        <div class="process-card text-center px-4 py-lg-5 py-4 rounded-custom shadow-hover mb-3 mb-lg-0"
-                            data-aos="fade-up" data-aos-delay="50">
-                            <div class="process-icon border border-light bg-custom-light rounded-custom p-3">
-                                <span class="h2 mb-0 text-primary fw-bold">1</span>
-                            </div>
-                            <h3 class="h5">Planning</h3>
-                            <p class="mb-0">Understanding your goals, defining scope, and creating a roadmap for
-                                successful software development.</p>
-                        </div>
-                    </div>
-                    <div class="dots-line first"></div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="process-card text-center px-4 py-lg-5 py-4 rounded-custom shadow-hover mb-3 mb-lg-0"
-                            data-aos="fade-up" data-aos-delay="100">
-                            <div class="process-icon border border-light bg-custom-light rounded-custom p-3">
-                                <span class="h2 mb-0 text-primary fw-bold">2</span>
-                            </div>
-                            <h3 class="h5">Development</h3>
-                            <p class="mb-0">Building robust, scalable software solutions tailored to your needs with
-                                iterative feedback and collaboration.</p>
-                        </div>
-                    </div>
-                    <div class="dots-line first"></div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="process-card text-center px-4 py-lg-5 py-4 rounded-custom shadow-hover mb-3 mb-lg-0 mb-md-0"
-                            data-aos="fade-up" data-aos-delay="150">
-                            <div class="process-icon border border-light bg-custom-light rounded-custom p-3">
-                                <span class="h2 mb-0 text-primary fw-bold">3</span>
-                            </div>
-                            <h3 class="h5">Testing </h3>
-                            <p class="mb-0">Ensuring error-free, high-performance software through rigorous testing and
-                                adherence to industry standards.</p>
-                        </div>
-                    </div>
-                    <div class="dots-line first"></div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="process-card text-center px-4 py-lg-5 py-4 rounded-custom shadow-hover mb-0"
-                            data-aos="fade-up" data-aos-delay="200">
-                            <div class="process-icon border border-light bg-custom-light rounded-custom p-3">
-                                <span class="h2 mb-0 text-primary fw-bold">4</span>
-                            </div>
-                            <h3 class="h5">Deployment </h3>
-                            <p class="mb-0">Seamlessly deploying and maintaining your software solution for long-term
-                                success and customer satisfaction.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> <!--work process section end-->
-
-       
+       <!-- test styart -->
         <section class="testimonial-section pb-120 pb-50 bg-light-subtle">
             <div class="container">
                 <div class="row justify-content-center align-content-center">
@@ -434,16 +420,13 @@
                                                 <img src="assets/img/testimonial/1.jpg" class="img-fluid me-3 rounded"
                                                     width="60" alt="user">
                                                 <div class="author-info">
-                                                    <h6 class="mb-0">Mr.Atul Oberoi</h6>
+                                                    <h6 class="mb-0">John and Emily</h6>
                                                     <!-- <small>Founder and CEO </small> -->
                                                 </div>
                                             </div>
                                             <blockquote>
-                                                <h6>One of the best experience ever</h6>
-                                                Working with<span class="text-primary"> Vriaum Technologies </span>was a game-changer for our business.
-                                                Their expertise and dedication in developing our custom software
-                                                solution surpassed our expectations. We experienced improved efficiency,
-                                                streamlined processes, and ultimately, significant business growth.
+                                                <h6>Express Entry Success Story</h6>
+                                                After months of uncertainty and confusion, we decided to seek professional guidance from Your Immigration Journey. They patiently explained the Express Entry process, assessed our profile, and helped us improve our CRS score. Thanks to their expertise, we received an Invitation to Apply (ITA) within weeks!
                                             </blockquote>
                                             <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
                                                 <li class="list-inline-item"><i class="fas fa-star text-warning"></i>
@@ -469,13 +452,13 @@
                                                 <img src="assets/img/testimonial/3.jpg" class="img-fluid me-3 rounded"
                                                     width="60" alt="user">
                                                 <div class="author-info">
-                                                    <h6 class="mb-0">Mr. Sagar Patel</h6>
+                                                    <h6 class="mb-0">Maria </h6>
                                                     <!-- <small>CEO at Herbs</small> -->
                                                 </div>
                                             </div>
                                             <blockquote>
-                                                <h6>BEST IOT SOLUTIONS.</h6>
-                                                The IoT solutions provided by <span class="text-primary">VriAum Technologies</span> is renowned for delivering exceptional IoT solutions that seamlessly integrate devices, data analytics, and connectivity to create smart ecosystems. Their innovative approach, combined with a strong focus on security and scalability.
+                                                <h6>Study Permit Approval.</h6>
+                                                pplying for a study permit in Canada seemed like a daunting task. Luckily, I came across Your Immigration Journey, and it made all the difference. They provided comprehensive guidance, from selecting the right study program to preparing my application and their attention to detail and prompt responses
 
 
 
@@ -505,13 +488,13 @@
                                                 <img src="assets/img/testimonial/2.jpg" class="img-fluid me-3 rounded"
                                                     width="60" alt="user">
                                                 <div class="author-info">
-                                                    <h6 class="mb-0">Mr.Jayesh Shah</h6>
+                                                    <h6 class="mb-0">Michael</h6>
                                                     <!-- <small>Founder and CEO</small> -->
                                                 </div>
                                             </div>
                                             <blockquote>
-                                                <h6>Amazing Experience!</h6>
-                                                We entrusted <span class="text-primary"> Vriaum Technologies </span> with our recruitment process, and it was the best decision we made. Their comprehensive recruitment solutions simplified our hiring process, resulting in top-tier talent acquisition. Their team went above and beyond to understand our needs and deliver outstanding results.
+                                                <h6>USA Green Card Success</h6>
+                                                Obtaining a Green Card in the USA was my lifelong dream. Your Immigration Journey made that dream a reality. Their team guided me through the complex process, ensuring I met all the requirements for employment-based immigration. I received my Green Card, and now I am proudly contributing to the growth of the country.
                                             </blockquote>
                                             <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
                                                 <li class="list-inline-item"><i class="fas fa-star text-warning"></i>
@@ -537,13 +520,13 @@
                                                 <img src="assets/img/testimonial/4.jpg" class="img-fluid me-3 rounded"
                                                     width="60" alt="user">
                                                 <div class="author-info">
-                                                    <h6 class="mb-0">Neha Sharma</h6>
+                                                    <h6 class="mb-0">Anna </h6>
                                                     <!-- <small>Founder and CTO</small> -->
                                                 </div>
                                             </div>
                                             <blockquote>
-                                                <h6>Best Software company in the town</h6>
-                                                The app developed by <span class="text-primary"> Vriaum technologies </span> exceeded our expectations. Its intuitive interface and smooth functionality have captivated our users and significantly enhanced our brand's mobile presence. We are thrilled with the end product and the exceptional service we received throughout the development process
+                                                <h6>Family Sponsorship</h6>
+                                                I was overjoyed to reunite with my parents in Canada, all thanks to Your Immigration Journey. The process of sponsoring my parents seemed overwhelming, but their team meticulously prepared our application and guided us through every step and they kept us informed throughout the process.
                                             </blockquote>
                                             <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
                                                 <li class="list-inline-item"><i class="fas fa-star text-warning"></i>
@@ -570,13 +553,13 @@
                                                 <img src="assets/img/testimonial/5.jpg" class="img-fluid me-3 rounded"
                                                     width="60" alt="user">
                                                 <div class="author-info">
-                                                    <h6 class="mb-0">Priya Verma</h6>
+                                                    <h6 class="mb-0">David</h6>
                                                     <!-- <small>Lead Developer</small> -->
                                                 </div>
                                             </div>
                                             <blockquote>
-                                                <h6>It is undeniably good!</h6>
-                                                We can't thank <span class="text-primary"> Vriaum Technologies </span> enough for their exceptional service and transformative solutions. Their custom software development empowered us to optimize our operations, improve customer experiences, and achieve substantial growth. The team's professionalism, expertise, and dedication were truly remarkable
+                                                <h6>Canada Work Visa</h6>
+                                                As an international professional seeking a work visa in the CANADA, I faced challenges in understanding the visa categories and requirements. Your Immigration Journey provided clear explanations and assisted me in preparing my application. Their dedication and knowledge made the process smooth and stress-free. 
                                             </blockquote>
                                             <ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
                                                 <li class="list-inline-item"><i class="fas fa-star text-warning"></i>
