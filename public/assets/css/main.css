@@ -65015,12 +65015,15 @@ span.mk-subtitle {
         inset-block: 0;
         inset-inline-start: 0;
         inset-inline-end: 58%;
-        background-image: url(../img/creative-agency/social-content-bg.png);
+        background-image: url(../img/ee.jpg);
         background-size: contain;
         background-position: left bottom;
         background-repeat: no-repeat
     }
 }
+/* 2nd */
+
+
 
 @media(min-width: 1200px) {
     .social-media-content::after {
