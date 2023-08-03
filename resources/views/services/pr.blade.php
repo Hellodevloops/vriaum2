@@ -2,24 +2,28 @@
 @section('content')
         
         <!--page header section start-->
-        <section class="cyber-features pt-120 pb-10 bg-light-subtle">
-            <div class="container ">
+        <section class="cyber-features pt-120  bg-light-subtle">
+            <div class="container pt-60">
                 <div class="row justify-content-center">
-                <h2>Key Features of the Provincial Nominee Program:</h2>
+                <h2>Key Features of the Permanent residence Program:</h2>
                 <p class="text-black">PNPs play a significant role in Canadian immigration, facilitating regional economic development and diversification </p>
                     <div class="col-md-8 col-lg-6">
                     </div>
                 </div>
-                <div class="row">
+                <div class="row ">
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-primary-soft text-primary mb-4">
-                                <i class="fas fa-list"></i>
+                            <div class="feature-icon pb-5 rounded bg-primary-soft text-danger mb-4">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-pencil-square" viewBox="0 0 16 16">
+  <path d="M15.502 1.94a.5.5 0 0 1 0 .706L14.459 3.69l-2-2L13.502.646a.5.5 0 0 1 .707 0l1.293 1.293zm-1.75 2.456-2-2L4.939 9.21a.5.5 0 0 0-.121.196l-.805 2.414a.25.25 0 0 0 .316.316l2.414-.805a.5.5 0 0 0 .196-.12l6.813-6.814z"/>
+  <path fill-rule="evenodd" d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5v11z"/>
+</svg>
+
                             </div>
                             <div class="cyber feature-info-wrap">
                                 <h3 class="h5">Eligibility Criteria</h3>
-                                <p>
-                                The PNP allows provinces and territories to implement their regional immigration strategies based on their economic and demographic needs. 
+                                <p class="text-black">
+                                Fulfill residency duration and language proficiency requirements for PR eligibility. 
                                 </p>
                             </div>
                             <!-- <a href="service-single.html" class="link-with-icon text-decoration-none">Explore More <i class="fas fa-arrow-right"></i></a> -->
@@ -27,13 +31,15 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-primary-soft text-primary mb-4">
-                                <i class="fas fa-cloud"></i>
+                            <div class="feature-icon pb-5 rounded bg-primary-soft text-danger mb-4">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-people" viewBox="0 0 16 16">
+  <path d="M15 14s1 0 1-1-1-4-5-4-5 3-5 4 1 1 1 1h8Zm-7.978-1A.261.261 0 0 1 7 12.996c.001-.264.167-1.03.76-1.72C8.312 10.629 9.282 10 11 10c1.717 0 2.687.63 3.24 1.276.593.69.758 1.457.76 1.72l-.008.002a.274.274 0 0 1-.014.002H7.022ZM11 7a2 2 0 1 0 0-4 2 2 0 0 0 0 4Zm3-2a3 3 0 1 1-6 0 3 3 0 0 1 6 0ZM6.936 9.28a5.88 5.88 0 0 0-1.23-.247A7.35 7.35 0 0 0 5 9c-4 0-5 3-5 4 0 .667.333 1 1 1h4.216A2.238 2.238 0 0 1 5 13c0-1.01.377-2.042 1.09-2.904.243-.294.526-.569.846-.816ZM4.92 10A5.493 5.493 0 0 0 4 13H1c0-.26.164-1.03.76-1.724.545-.636 1.492-1.256 3.16-1.275ZM1.5 5.5a3 3 0 1 1 6 0 3 3 0 0 1-6 0Zm3-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4Z"/>
+</svg>
                             </div>
                             <div class="cyber feature-info-wrap">
                                 <h3 class="h5">Family Sponsorship</h3>
-                                <p>
-                                PNPs often target specific occupations and skills that are in high demand in a particular province or territory.
+                                <p class="text-black">
+                                Sponsor eligible family members for PR through established immigration pathways.
                                 </p>
                             </div>
                             <!-- <a href="service-single.html" class="link-with-icon text-decoration-none">Explore More <i class="fas fa-arrow-right"></i></a> -->
@@ -41,13 +47,18 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-primary-soft text-primary mb-4">
-                                <i class="fas fa-database"></i>
+                            <div class="feature-icon pb-5 rounded bg-primary-soft text-danger mb-4">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-cash-coin" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M11 15a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm5-4a5 5 0 1 1-10 0 5 5 0 0 1 10 0z"/>
+  <path d="M9.438 11.944c.047.596.518 1.06 1.363 1.116v.44h.375v-.443c.875-.061 1.386-.529 1.386-1.207 0-.618-.39-.936-1.09-1.1l-.296-.07v-1.2c.376.043.614.248.671.532h.658c-.047-.575-.54-1.024-1.329-1.073V8.5h-.375v.45c-.747.073-1.255.522-1.255 1.158 0 .562.378.92 1.007 1.066l.248.061v1.272c-.384-.058-.639-.27-.696-.563h-.668zm1.36-1.354c-.369-.085-.569-.26-.569-.522 0-.294.216-.514.572-.578v1.1h-.003zm.432.746c.449.104.655.272.655.569 0 .339-.257.571-.709.614v-1.195l.054.012z"/>
+  <path d="M1 0a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h4.083c.058-.344.145-.678.258-1H3a2 2 0 0 0-2-2V3a2 2 0 0 0 2-2h10a2 2 0 0 0 2 2v3.528c.38.34.717.728 1 1.154V1a1 1 0 0 0-1-1H1z"/>
+  <path d="M9.998 5.083 10 5a2 2 0 1 0-3.132 1.65 5.982 5.982 0 0 1 3.13-1.567z"/>
+</svg>
                             </div>
                             <div class="cyber feature-info-wrap">
                                 <h3 class="h5">Fees and Costs</h3>
-                                <p>
-                                Some PNPs offer pathways for experienced business owners, entrepreneurs, and investors to establish in the province. 
+                                <p class="text-black">
+                                Understand and budget for the fess & cost involved in the PR application process.. 
                                 </p>
                             </div>
                             <!-- <a href="service-single.html" class="link-with-icon text-decoration-none">Explore More <i class="fas fa-arrow-right"></i></a> -->
@@ -55,13 +66,15 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-primary-soft text-primary mb-4">
-                                <i class="fas fa-door-closed"></i>
+                            <div class="feature-icon pb-5 rounded bg-primary-soft text-danger mb-4">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-bar-up" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M8 10a.5.5 0 0 0 .5-.5V3.707l2.146 2.147a.5.5 0 0 0 .708-.708l-3-3a.5.5 0 0 0-.708 0l-3 3a.5.5 0 1 0 .708.708L7.5 3.707V9.5a.5.5 0 0 0 .5.5zm-7 2.5a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 0 1h-13a.5.5 0 0 1-.5-.5z"/>
+</svg>
                             </div>
                             <div class="cyber feature-info-wrap">
                                 <h3 class="h5">Application Process</h3>
-                                <p>
-                                Compared to other streams, PNPs often have faster processing times for applications, making it an attractive option for individuals .
+                                <p class="text-black">
+                                Follow a step-by-step application process, including document submission and assessments, to apply for PR..
                                 </p>
                             </div>
                             <!-- <a href="service-single.html" class="link-with-icon text-decoration-none">Explore More <i class="fas fa-arrow-right"></i></a> -->
@@ -69,13 +82,16 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-primary-soft text-primary mb-4">
-                                <i class="fas fa-lock"></i>
+                            <div class="feature-icon pb-5 rounded bg-primary-soft text-danger mb-4">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-person-check-fill" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M15.854 5.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 0 1 .708-.708L12.5 7.793l2.646-2.647a.5.5 0 0 1 .708 0z"/>
+  <path d="M1 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H1zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+</svg>
                             </div>
                             <div class="cyber feature-info-wrap">
                                 <h3 class="h5">Employment-Based Immigration</h3>
-                                <p>
-                                Provincial support can facilitate a smoother and more successful transition to becoming a permanent resident.
+                                <p class="text-black">
+                                Secure Permanent Residency through employer-sponsored immigration routes based on skills and contributions..
                                 </p>
                             </div>
                             <!-- <a href="service-single.html" class="link-with-icon text-decoration-none">Explore More <i class="fas fa-arrow-right"></i></a> -->
@@ -83,13 +99,16 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-primary-soft text-primary mb-4">
-                                <i class="fas fa-server"></i>
+                            <div class="feature-icon pb-5 rounded bg-primary-soft text-danger mb-4">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-calendar-check" viewBox="0 0 16 16">
+  <path d="M10.854 7.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 9.793l2.646-2.647a.5.5 0 0 1 .708 0z"/>
+  <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM1 4v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4H1z"/>
+</svg>
                             </div>
                             <div class="cyber feature-info-wrap">
                                 <h3 class="h5">Waiting Times and Processing Times</h3>
-                                <p>
-                                If a candidate is not selected in a particular PNP draw, they can usually reapply or apply to another province's PNP stream.
+                                <p class="text-black">
+                                Anticipate varying waiting and processing times throughout the Permanent Residency application journey..
                                 </p>
                             </div>
                             <!-- <a href="service-single.html" class="link-with-icon text-decoration-none">Explore More <i class="fas fa-arrow-right"></i></a> -->
@@ -100,14 +119,7 @@
         </section>
         <!--page header section end-->
         <!-- start -->
-        <div class="style-guide">
-           
-
-            <!--cat section start-->
-           
-            <!--cat section end-->
-
-        </div>
+        
 
 
 
@@ -123,13 +135,13 @@
 
 <!-- about service end -->
         <!--features grid section start--> 
-        <section class="feature-promo ptb-60 bg-light-subtle my-section">
+        <section class="feature-promo  bg-light-subtle ">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-10">
                         <div class="section-heading text-center">
                             <h2>With the Approaches You Need</h2>
-                            <p>At VriAum, we believe that every individual and every business is unique. That's why we take a personalized approach to each staffing requirement:</p>
+                            <p class="text-black">Navigating Permanent Residency: Essential Strategies and Insights</p>
 
                         </div>
                     </div>
@@ -140,11 +152,11 @@
                         <div class="position-relative d-flex flex-column h-100 flex-wrap bg-primary-soft p-5 rounded-custom">
                             <div class="cta-left-info mb-2">
                                 <h5>Nomination:</h5>
-                                <p1><span class="text-black">After the application is submitted and assessed by the province, successful candidates are nominated for permanent residence in Canada. This nomination adds additional points to the candidate's Express Entry CRS score, significantly increasing their chances of receiving an ITA in the federal Express Entry draws.</span> </p1>
+                                <p1><span class="text-black">After the application is submitted and assessed by the province, successful candidates are nominated for permanent residence in Canada. This<span class="text-danger"> nomination adds additional points to the candidate's Express Entry CRS score</span>, significantly increasing their chances of receiving an ITA in the federal Express Entry draws.</span> </p1>
                             </div>
                             
                             <div class="cta-img position-absolute right-0 bottom-0">
-                                <img src="assets/img/cansec1.jpg" alt="cta img" class="img-fluid">
+                                <img src="assets/img/nom.jpg" alt="cta img" class="img-fluid">
                             </div>
                         </div>
                     </div>
@@ -152,11 +164,11 @@
                         <div class="position-relative d-flex flex-column h-100 flex-wrap bg-danger-soft p-5 rounded-custom">
                             <div class="cta-left-info mb-2">
                                 <h5>Applying for Permanent Residence</h5>
-                                <p1><span class="text-black">Once nominated by the province, candidates submit their application for permanent residence to Immigration, Refugees, and Citizenship Canada (IRCC). The federal government reviews the application for medical and security checks before issuing permanent resident visas</span>.</p1>
+                                <p1><span class="text-black">Once nominated by the province, candidates <span class="text-danger">submit their application for permanent residence to Immigration, Refugees, and Citizenship Canada (IRCC)</span>. The federal government reviews the application for medical and security checks before issuing permanent resident visas</span>.</p1>
                             </div>
                             
                             <div class="cta-img position-absolute right-0 bottom-0">
-                                <img src="assets/img/cansec2.jpg.jpg" alt="cta img" class="img-fluid">
+                                <img src="assets/img/pr2.jpg" alt="cta img" class="img-fluid">
                             </div>
                         </div>
                     </div>
@@ -184,7 +196,9 @@
                         <div class="list-group flex-row flex-wrap justify-content-center margin-bottom-13" role="tablist">
                             <a class="social-media-btn" data-bs-toggle="list" href="#webDesign" aria-selected="false" role="tab" tabindex="-1">
                                 <span class="d-grid place-content-center width-12 height-12 rounded-circle bgc-text-1 clr-paragraph flex-shrink-0 fs-20">
-                                    <i class="fas fa-cog"></i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-bar-right" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M6 8a.5.5 0 0 0 .5.5h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 0 0-.708.708L12.293 7.5H6.5A.5.5 0 0 0 6 8Zm-2.5 7a.5.5 0 0 1-.5-.5v-13a.5.5 0 0 1 1 0v13a.5.5 0 0 1-.5.5Z"/>
+</svg>
                                 </span>
                                 <span class="d-inline-block font-weight-bold fs-20 clr-paragraph">
                                    
@@ -193,7 +207,9 @@
                             </a>
                             <a class="social-media-btn" data-bs-toggle="list" href="#digitalMarketing" aria-selected="false" role="tab" tabindex="-1">
                                 <span class="d-grid place-content-center width-12 height-12 rounded-circle bgc-text-1 clr-paragraph flex-shrink-0 fs-20">
-                                    <i class="far fa-bell"></i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-ui-checks" viewBox="0 0 16 16">
+  <path d="M7 2.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1zM2 1a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2H2zm0 8a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-2a2 2 0 0 0-2-2H2zm.854-3.646a.5.5 0 0 1-.708 0l-1-1a.5.5 0 1 1 .708-.708l.646.647 1.646-1.647a.5.5 0 1 1 .708.708l-2 2zm0 8a.5.5 0 0 1-.708 0l-1-1a.5.5 0 0 1 .708-.708l.646.647 1.646-1.647a.5.5 0 0 1 .708.708l-2 2zM7 10.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1zm0-5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0 8a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5z"/>
+</svg>
                                 </span>
                                 <span class="d-inline-block font-weight-bold fs-20 clr-paragraph">
                                     PNP
@@ -201,7 +217,9 @@
                             </a>
                             <a class="social-media-btn" data-bs-toggle="list" href="#emailMarketing" aria-selected="false" role="tab" tabindex="-1">
                                 <span class="d-grid place-content-center width-12 height-12 rounded-circle bgc-text-1 clr-paragraph flex-shrink-0 fs-20">
-                                    <i class="far fa-envelope"></i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-person-lines-fill" viewBox="0 0 16 16">
+  <path d="M6 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-5 6s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H1zM11 3.5a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 0 1h-4a.5.5 0 0 1-.5-.5zm.5 2.5a.5.5 0 0 0 0 1h4a.5.5 0 0 0 0-1h-4zm2 3a.5.5 0 0 0 0 1h2a.5.5 0 0 0 0-1h-2zm0 3a.5.5 0 0 0 0 1h2a.5.5 0 0 0 0-1h-2z"/>
+</svg>
                                 </span>
                                 <span class="d-inline-block font-weight-bold fs-20 clr-paragraph">
                                     FAMILY SPONSORSHIP
@@ -209,7 +227,10 @@
                             </a>
                             <a class="social-media-btn active" data-bs-toggle="list" href="#seoMarketing" aria-selected="true" role="tab">
                                 <span class="d-grid place-content-center width-12 height-12 rounded-circle bgc-text-1 clr-paragraph flex-shrink-0 fs-20">
-                                    <i class="far fa-chart-bar"></i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-card-list" viewBox="0 0 16 16">
+  <path d="M14.5 3a.5.5 0 0 1 .5.5v9a.5.5 0 0 1-.5.5h-13a.5.5 0 0 1-.5-.5v-9a.5.5 0 0 1 .5-.5h13zm-13-1A1.5 1.5 0 0 0 0 3.5v9A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5v-9A1.5 1.5 0 0 0 14.5 2h-13z"/>
+  <path d="M5 8a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7A.5.5 0 0 1 5 8zm0-2.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm0 5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm-1-5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0zM4 8a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0zm0 2.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0z"/>
+</svg>
                                 </span>
                                 <span class="d-inline-block font-weight-bold fs-20 clr-paragraph">
                                     PR CARDS
@@ -221,7 +242,7 @@
                                 <div class="border border-red-clr rounded-4 padding-4">
                                     <div class="social-media-content bgc-white rounded-4 section-space padding-x-2 padding-x-xsm-4 padding-x-sm-8 padding-x-md-12 padding-end-xxl-25">
                                         <div class="row">
-                                            <div class="col-lg-7 col-xl-6 col-xxl-5 ms-lg-auto">
+                                            <div class="col-lg-5 col-xl-6 col-xxl-7 ms-lg-auto">
                                                 <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
                                                     Express Entry
                                                 </h5>
@@ -232,7 +253,7 @@
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle"></i>
+                                                                <i class="far fa-check-circle text-danger"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Federal Skilled Worker Program.
@@ -242,7 +263,7 @@
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle"></i>
+                                                                <i class="far fa-check-circle text-danger"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Federal Skilled Trades Program.
@@ -252,7 +273,7 @@
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle"></i>
+                                                                <i class="far fa-check-circle text-danger"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Canadian Experience Class.
@@ -269,7 +290,7 @@
                                 <div class="border border-red-clr rounded-4 padding-4">
                                     <div class="social-media-content bgc-white rounded-4 section-space padding-x-2 padding-x-xsm-4 padding-x-sm-8 padding-x-md-12 padding-end-xxl-25">
                                         <div class="row">
-                                            <div class="col-lg-7 col-xl-6 col-xxl-5 ms-lg-auto">
+                                            <div class="col-lg-5 col-xl-6 col-xxl-7 ms-lg-auto">
                                                 <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
                                                 Provincial Nominee Program (PNP).
                                                 </h5>
@@ -280,7 +301,7 @@
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle"></i>
+                                                                <i class="far fa-check-circle text-danger"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Determine your eligibility
@@ -290,7 +311,7 @@
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle"></i>
+                                                                <i class="far fa-check-circle text-danger"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Check processing times
@@ -300,7 +321,7 @@
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle"></i>
+                                                                <i class="far fa-check-circle text-danger"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             After you apply: get next steps
@@ -310,7 +331,7 @@
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle"></i>
+                                                                <i class="far fa-check-circle text-danger"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Prepare for arrival
@@ -327,7 +348,7 @@
                                 <div class="border border-red-clr rounded-4 padding-4">
                                     <div class="social-media-content bgc-white rounded-4 section-space padding-x-2 padding-x-xsm-4 padding-x-sm-8 padding-x-md-12 padding-end-xxl-25">
                                         <div class="row">
-                                            <div class="col-lg-7 col-xl-6 col-xxl-5 ms-lg-auto">
+                                            <div class="col-lg-5 col-xl-6 col-xxl-7 ms-lg-auto">
                                                 <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
                                                     Family Sponsorship
                                                 </h5>
@@ -343,7 +364,7 @@ make sure they don’t need social assistance from the government
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle"></i>
+                                                                <i class="far fa-check-circle text-danger"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Sponsor your spouse, partner or dependent children
@@ -353,9 +374,9 @@ make sure they don’t need social assistance from the government
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle"></i>
+                                                                <i class="far fa-check-circle text-danger"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            <p class="mb-0 flex-grow-1 text-black ">
                                                             Sponsor your parents and grandparents
                                                             </p>
                                                         </div>
@@ -363,7 +384,7 @@ make sure they don’t need social assistance from the government
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle"></i>
+                                                                <i class="far fa-check-circle text-danger"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Parent and Grandparent Super Visa
@@ -380,7 +401,7 @@ make sure they don’t need social assistance from the government
                                 <div class="border border-red-clr rounded-4 padding-4">
                                     <div class="social-media-content bgc-white rounded-4 section-space padding-x-2 padding-x-xsm-4 padding-x-sm-8 padding-x-md-12 padding-end-xxl-25">
                                         <div class="row">
-                                            <div class="col-lg-7 col-xl-6 col-xxl-5 ms-lg-auto">
+                                            <div class="col-lg-5 col-xl-6 col-xxl-7 ms-lg-auto">
                                                 <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
                                                 Permanent Resident Cards
                                                 </h5>
@@ -391,7 +412,7 @@ make sure they don’t need social assistance from the government
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle"></i>
+                                                                <i class="far fa-check-circle text-danger"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Apply for a PR card.
@@ -401,7 +422,7 @@ make sure they don’t need social assistance from the government
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle"></i>
+                                                                <i class="far fa-check-circle text-danger"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Get a PR photo
@@ -411,9 +432,9 @@ make sure they don’t need social assistance from the government
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle"></i>
+                                                                <i class="far fa-check-circle text-danger"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1 text-black">
+                                                            <p class="mb-0 flex-grow-1 text-black text-danger">
                                                             Permanent resident travel document
                                                             </p>
                                                         </div>
@@ -421,7 +442,7 @@ make sure they don’t need social assistance from the government
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle"></i>
+                                                                <i class="far fa-check-circle text-danger"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Check application status
@@ -452,7 +473,7 @@ make sure they don’t need social assistance from the government
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="section-heading text-center aos-init aos-animate" data-aos="fade-up">
-                            <h4 class="h5 text-primary">FAQ</h4>
+                            <h4 class="h5 text-danger">FAQ</h4>
                             <h2>Frequently Asked Questions</h2>
                             <p>Efficiently network cross-unit paradigms for premier technologies scale 24/7 paradigms for process-centric data interoperable.</p>
                         </div>
@@ -536,7 +557,7 @@ make sure they don’t need social assistance from the government
 <!-- faq end -->
   
 <!-- integrate companies  -->
-<section class="customer-review-tab ptb-120 bg-light-subtle position-relative z-2">
+<section class="customer-review-tab ptb-80 bg-light-subtle position-relative z-2">
                 <div class="container">
                     <div class="row justify-content-center align-content-center">
                         <div class="col-md-10 col-lg-6">
@@ -574,10 +595,10 @@ make sure they don’t need social assistance from the government
                                                 </div> -->
 
                                                 <blockquote class="blockquote">
-                                                    <p> I'm grateful for their dedication and expertise in making my dream of working in Canada come true.</p>
+                                                    <p>Canada's permanent residency program not only provided us with a secure future but also a welcoming community. The process was well-guided, and we're now proud to call Canada our forever home.</p>
                                                 </blockquote>
                                                 <div class="author-info mt-4">
-                                                    <h6 class="mb-0">Joe Richard</h6>
+                                                    <h6 class="mb-0">John D.</h6>
                                                     <!-- <span>Visual Designer</span> -->
                                                 </div>
                                             </div>
@@ -616,10 +637,10 @@ make sure they don’t need social assistance from the government
                                                     </ul>
                                                 </div> -->
                                                 <blockquote class="blockquote">
-                                                    <p>They were there every step of the way, assisting me with visa applications and settlement advice and now I'm working in my desired marketing role in Canada. </p>
+                                                    <p>I can't express how grateful I am for achieving permanent residency in the USA. The endless possibilities and quality of life have transformed my aspirations into reality </p>
                                                 </blockquote>
                                                 <div class="author-info mt-4">
-                                                    <h6 class="mb-0">Rupan Oberoi</h6>
+                                                    <h6 class="mb-0">Sarah and Michael T.</h6>
                                                     <!-- <span>Web Designer</span> -->
                                                 </div>
                                             </div>
@@ -659,11 +680,11 @@ make sure they don’t need social assistance from the government
                                                 </div> -->
                                                 <blockquote class="blockquote">
                                                     <p>
-                                                    Their dedication to finding the right fit for both candidates and employers is remarkable. Thanks to their efforts, I am now thriving in my career in Canada.
+                                                    Canada's permanent residency offered us stability, excellent healthcare, and a safe environment to raise our children. We're so thankful for this chance to build a better future
                                                     </p>
                                                 </blockquote>
                                                 <div class="author-info mt-4">
-                                                    <h6 class="mb-0">Jon Doe</h6>
+                                                    <h6 class="mb-0">Priya M.</h6>
                                                     <!-- <span>Software Engineer</span> -->
                                                 </div>
                                             </div>
@@ -702,7 +723,7 @@ make sure they don’t need social assistance from the government
                                                     </ul>
                                                 </div> -->
                                                 <blockquote class="blockquote">
-                                                    <p>Today, I'm successfully working in my desired finance role in Canada, all thanks to their exceptional services.</p>
+                                                    <p>Obtaining permanent residency in the USA was a significant achievement, unlocking endless opportunities for personal and career growth. The decision was life-changing.</p>
                                                 </blockquote>
                                                 <div class="author-info mt-4">
                                                     <h6 class="mb-0">Hanry Luice</h6>
@@ -744,10 +765,10 @@ make sure they don’t need social assistance from the government
                                                     </ul>
                                                 </div> -->
                                                 <blockquote class="blockquote">
-                                                    <p>From preparing the necessary documents to guiding me through interviews, they were there at every step. Their personalized support and expertise made my migration experience stress-free. </p>
+                                                    <p>Canada's permanent residency process was straightforward, and the benefits are immeasurable. Our family has found a new home where our dreams can flourish</p>
                                                 </blockquote>
                                                 <div class="author-info mt-4">
-                                                    <h6 class="mb-0">Ami Nijai</h6>
+                                                    <h6 class="mb-0">Daniel B.</h6>
                                                     <!-- <span>Customer Support</span> -->
                                                 </div>
                                             </div>
@@ -777,8 +798,8 @@ make sure they don’t need social assistance from the government
                                             <img src="assets/img/dummy.jpeg" width="50" class="rounded-circle" alt="testimonial thumb">
                                         </div>
                                         <div class="author-info">
-                                            <h6 class="mb-0">Joe Richard</h6>
-                                            <span>Visual Designer</span>
+                                            <h6 class="mb-0">John D.</h6>
+                                            
                                         </div>
                                     </div>
                                 </li>
@@ -788,8 +809,8 @@ make sure they don’t need social assistance from the government
                                             <img src="assets/img/dummy.jpeg" width="50" class="rounded-circle" alt="testimonial thumb">
                                         </div>
                                         <div class="author-info">
-                                            <h6 class="mb-0">Rupan Oberoi</h6>
-                                            <span>Web Designer</span>
+                                            <h6 class="mb-0">Sarah and Michael T.</h6>
+                                            
                                         </div>
                                     </div>
 
@@ -800,8 +821,8 @@ make sure they don’t need social assistance from the government
                                             <img src="assets/img/dummy.jpeg" width="50" class="rounded-circle" alt="testimonial thumb">
                                         </div>
                                         <div class="author-info">
-                                            <h6 class="mb-0">Jon Doe</h6>
-                                            <span>Software Engineer</span>
+                                            <h6 class="mb-0">priya M.</h6>
+                                          
                                         </div>
                                     </div>
                                 </li>
@@ -812,7 +833,7 @@ make sure they don’t need social assistance from the government
                                         </div>
                                         <div class="author-info">
                                             <h6 class="mb-0">Hanry Luice</h6>
-                                            <span>App Developer</span>
+                                           
                                         </div>
                                     </div>
                                 </li>
@@ -822,8 +843,8 @@ make sure they don’t need social assistance from the government
                                             <img src="assets/img/dummy.jpeg" width="50" class="rounded-circle" alt="testimonial thumb">
                                         </div>
                                         <div class="author-info">
-                                            <h6 class="mb-0">Ami Nijai</h6>
-                                            <span>Customer Support</span>
+                                            <h6 class="mb-0">Daniel B.</h6>
+                                           
                                         </div>
                                     </div>
                                 </li>
