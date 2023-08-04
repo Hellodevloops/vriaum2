@@ -171,7 +171,7 @@
                                                 <div class="drop-title">Staffing</div>
                                             </a>
 
-                                            <a href="{{ route('placement') }}" class="dropdown-link px-0">
+                                            <!-- <a href="{{ route('placement') }}" class="dropdown-link px-0">
                                                 <span class="me-2">
                                                     <svg xmlns="http://www.w3.org/2000/svg" width="16"
                                                         height="16" fill="currentColor" class="bi bi-check2-circle"
@@ -183,8 +183,22 @@
                                                     </svg>
                                                 </span>
                                                 <div class="drop-title">Placement</div>
-                                            </a>
-                                            <a href="{{ route('recruitment') }}" class="dropdown-link px-0">
+                                            </a> -->
+
+                                            <a href="{{ route('ip') }}" class="dropdown-link">
+                                             <span class="me-2">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16"
+                                                        height="16" fill="currentColor" class="bi bi-check2-circle"
+                                                        viewBox="0 0 16 16">
+                                                        <path
+                                                            d="M2.5 8a5.5 5.5 0 0 1 8.25-4.764.5.5 0 0 0 .5-.866A6.5 6.5 0 1 0 14.5 8a.5.5 0 0 0-1 0 5.5 5.5 0 1 1-11 0z" />
+                                                        <path
+                                                            d="M15.354 3.354a.5.5 0 0 0-.708-.708L8 9.293 5.354 6.646a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l7-7z" />
+                                                    </svg>
+                                                </span>
+                                            <div class="drop-title">International programs</div>
+                                        </a>
+                                            <!-- <a href="{{ route('recruitment') }}" class="dropdown-link px-0">
                                                 <span class="me-2">
                                                     <svg xmlns="http://www.w3.org/2000/svg" width="16"
                                                         height="16" fill="currentColor"
@@ -194,6 +208,17 @@
                                                     </svg>
                                                 </span>
                                                 <div class="drop-title">Recruitment</div>
+                                            </a> -->
+                                            <a href="{{ route('immserve') }}" class="dropdown-link px-0">
+                                                <span class="me-2">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16"
+                                                        height="16" fill="currentColor"
+                                                        class="bi bi-file-earmark-person-fill" viewBox="0 0 16 16">
+                                                        <path
+                                                            d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0zM9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1zM11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0zm2 5.755V14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v-.245S4 12 8 12s5 1.755 5 1.755z" />
+                                                    </svg>
+                                                </span>
+                                                <div class="drop-title">Immigration Services</div>
                                             </a>
                                           
 
@@ -325,8 +350,8 @@
                                                 </span>
                                             <div class="drop-title">Staffing</div>
                                         </a>
-                                        <a href="{{ route('placement') }}" class="dropdown-link">
-                                        <span class="me-2">
+                                        <!-- <a href="{{ route('placement') }}" class="dropdown-link">
+                                             <span class="me-2">
                                                     <svg xmlns="http://www.w3.org/2000/svg" width="16"
                                                         height="16" fill="currentColor" class="bi bi-check2-circle"
                                                         viewBox="0 0 16 16">
@@ -337,8 +362,22 @@
                                                     </svg>
                                                 </span>
                                             <div class="drop-title">Placement</div>
+                                        </a> -->
+
+                                        <a href="{{ route('ip') }}" class="dropdown-link">
+                                             <span class="me-2">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16"
+                                                        height="16" fill="currentColor" class="bi bi-check2-circle"
+                                                        viewBox="0 0 16 16">
+                                                        <path
+                                                            d="M2.5 8a5.5 5.5 0 0 1 8.25-4.764.5.5 0 0 0 .5-.866A6.5 6.5 0 1 0 14.5 8a.5.5 0 0 0-1 0 5.5 5.5 0 1 1-11 0z" />
+                                                        <path
+                                                            d="M15.354 3.354a.5.5 0 0 0-.708-.708L8 9.293 5.354 6.646a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l7-7z" />
+                                                    </svg>
+                                                </span>
+                                            <div class="drop-title">International programs</div>
                                         </a>
-                                        <a href="{{ route('recruitment') }}" class="dropdown-link">
+                                        <!-- <a href="{{ route('recruitment') }}" class="dropdown-link">
                                         <span class="me-2">
                                                     <svg xmlns="http://www.w3.org/2000/svg" width="16"
                                                         height="16" fill="currentColor"
@@ -348,6 +387,17 @@
                                                     </svg>
                                                 </span>
                                             <div class="drop-title">Recruitment</div>
+                                        </a> -->
+                                        <a href="{{ route('immserve') }}" class="dropdown-link">
+                                        <span class="me-2">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16"
+                                                        height="16" fill="currentColor"
+                                                        class="bi bi-file-earmark-person-fill" viewBox="0 0 16 16">
+                                                        <path
+                                                            d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0zM9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1zM11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0zm2 5.755V14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v-.245S4 12 8 12s5 1.755 5 1.755z" />
+                                                    </svg>
+                                                </span>
+                                            <div class="drop-title">Immigration Services</div>
                                         </a>
 
                                     </div>
