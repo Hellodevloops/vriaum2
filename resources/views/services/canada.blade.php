@@ -2,50 +2,37 @@
 @section('content')
         
         <!--page header section start-->
-        <section class="hero-it-solution hero-nine-bg ptb-120" style="background: url('assets/img/hero-9-img.png')no-repeat center center">
+        <div class="ca-agency-hero bgc-background">
             <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-10">
-                        <div class="hero-content-wrap mt-5 mt-lg-0 mt-xl-0">
-                        <h1>About </h1>
-                        <p class="h5  ">VriAum is a leading staffing agency dedicated to helping businesses find the right talent to thrive in the competitive job market of Canada. With years of experience and a vast network of qualified candidates, we provide end-to-end staffing solutions tailored to your specific industry and organizational requirements.</p>
-            <p class=" h5 ">Our team of experienced recruiters understands the unique challenges faced by employers in today's fast-paced business environment. We are committed to delivering personalized staffing services that match the right candidates with the right positions, ensuring a seamless integration into your organization.</p>
-            
-                            <!-- <div class="action-btn mt-5 align-items-center d-block d-sm-flex d-lg-flex d-md-flex">
-                                <a href="request-demo.html" class="btn btn-primary me-3">Request For Demo</a>
-                                <a href="http://www.youtube.com/watch?v=hAP2QF--2Dg" class="text-decoration-none popup-youtube d-inline-flex align-items-center watch-now-btn mt-3 mt-lg-0 mt-md-0 text-primary">
-                                    <i class="fas fa-play text-primary border-2 border-primary"></i>
-                                    Watch Demo
-                                </a>
-                            </div> -->
+                <div class="row g-4 gy-5 gx-xl-5">
+                    <div class="col-xl-11 col-xxl-10">
+                        <h1 class="ca-agency-hero__heading heading-1 clr-white font-weight-semibold mb-0">
+                        Connecting You with 
+                        Top <span class="clr-red">Canadian Employers</span>
+                        </h1>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="border border-red-clr rounded-4 padding-5 position-relative z-1">
+                            <div class="rounded-4 overflow-hidden">
+                            <img src="assets/img/home.jpg" alt="hero hero-it-solution " class="img-fluid">
+                            </div>
+                            
                         </div>
                     </div>
-                    <div class="col-lg-6">
-                        <div class="hero-img position-relative mt-5 mt-lg-0 ">
-                            <img src="assets/img/canrr.jpg" alt="hero hero-it-solution " class="img-fluid">
-                            <!-- <div class="dots">
-                                <img src="assets/img/banner_dot.png" alt="dot" class="dot-1">
-                                <img src="assets/img/banner_dot.png" alt="dot" class="dot-2">
-                            </div> -->
-                            <!-- <div class="bubble">
-                                <span class="bubble-1"></span>
-                                <span class="bubble-2"></span>
-                            </div> -->
+                    <div class="col-md-4">
+                        <div class="margin-top-xl-20">
+                           
+                            <p class="mb-0 clr-white">
+                            Canadian employers play a crucial role in the country's thriving economy, offering diverse career opportunities across various industries.They are an essential part of the Canadian workforce and contribute significantly to the country's growth and development. 
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
+        </div>
         <!--page header section end-->
         <!-- start -->
-        <div class="style-guide">
-           
-
-            <!--cat section start-->
-           
-            <!--cat section end-->
-
-        </div>
+       
 
 
 
@@ -55,160 +42,85 @@
 
          
 <!-- 2 sec -->
-<section class="pt-50 pb-50 bg-dark my-section">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-6 col-md-6 pt-60">
-                        <div class="text-center">
-                            <h2>Our Services</h2>
-                            <p>
-                                Credibly grow premier ideas rather than bricks-and-clicks strategic
-                                theme areas distributed for stand-alone web-readiness.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-lg-5">
-                        <div class="service-tabs">
-                            <ul class="nav nav-pills d-flex justify-content-center" id="pills-tab" role="tablist">
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link active me-4" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-exclude" viewBox="0 0 16 16">
-  <path d="M0 2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v2h2a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-2H2a2 2 0 0 1-2-2V2zm12 2H5a1 1 0 0 0-1 1v7h7a1 1 0 0 0 1-1V4z"/>
-</svg>
-                                        <span>Temporary </span>
-                                    </button>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link me-4" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false" tabindex="-1">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-exclude" viewBox="0 0 16 16">
-  <path d="M0 2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v2h2a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-2H2a2 2 0 0 1-2-2V2zm12 2H5a1 1 0 0 0-1 1v7h7a1 1 0 0 0 1-1V4z"/>
-</svg>
-                                        <span>Permanent </span>
-                                    </button>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact" aria-selected="false" tabindex="-1">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-exclude" viewBox="0 0 16 16">
-  <path d="M0 2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v2h2a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-2H2a2 2 0 0 1-2-2V2zm12 2H5a1 1 0 0 0-1 1v7h7a1 1 0 0 0 1-1V4z"/>
-</svg>
-                                        <span>Contract-To-Hire</span>
-                                    </button>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="tab-content" id="pills-tabContent">
-                        <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
-                            <div class="tab-content-wrapper pt-60 pb-60">
-                                <div class="row align-items-center">
-                                    <div class="col-md-6">
-                                        <div class="text-center mb-5 mb-lg-0">
-                                            <img src="assets/img/cantemp.jpg" alt="" class="img-fluid">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6 pb-50">
-                                        <div class="tab-right-content">
-                                            <h2>
-                                                Temporary Staffing
-                                            </h2>
-                                            <p>Temporary staffing is an ideal solution for businesses seeking to scale their operations without committing to permanent hires. It allows you to maintain workforce flexibility, reduce overhead costs, and respond swiftly to market fluctuations.</p>
-                </li></p>
-                                            <ul class="list-unstyled">
-                                                <li>
-                                                    <i class="fas fa-check text-primary"></i>
-                                                    <span>Placement and Onboarding</span>
-                                                </li>
-                                                <li>
-                                                    <i class="fas fa-check text-primary"></i>
-                                                    <span>Interview and Selection
-
-                                                    </span>
-                                                </li>
-                                                <li>
-                                                    <i class="fas fa-check text-primary"></i>
-                                                    <span>Candidate Sourcing</span>
-                                                </li>
-                                            </ul>
-                                            <a href="{{ route('staffing')}}" class="text-white link-with-icon text-decoration-none">
-                                                Know More About Us
-                                                <i class="fas fa-arrow-right"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
+<section class="game-services ptb-100">
+            <div class="game-service-bg pt-60 pb-60">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-lg-5 col-md-8">
+                            <div class="section-title mb-5 mb-lg-0">
+                                <h2 class="text-white mb-4">
+                                    Why Choose Quiety Popular Game Servers.
+                                </h2>
+                                <p class="mb-2 text-off-white">
+                                    Give your Website the speed, security, and uptime it eserves &amp;
+                                    become part of the fastest Web Hosting.
+                                </p>
+                                <a href="services.html" class="game-btn-mdm text-white mt-4">
+                                    Explore More
+                                </a>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
-                            <div class="tab-content-wrapper pt-60 pb-60">
-                                <div class="row align-items-center">
-                                    <div class="col-md-6">
-                                        <div class="pe-5 mb-5 mb-lg-0">
-                                            <img src="assets/img/canper.jpg" alt="" class="img-fluid">
+                        <div class="col-lg-7 col-md-12">
+                            <div class="game-service-right">
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="row mb--200">
+                                            <div class="col-lg-12 col-md-6">
+                                                <div class="game-service-wrapper mb-4">
+                                                    <div class="game-service-icon mb-2">
+                                                        <img src="assets/img/gs1.png" alt="icon">
+                                                    </div>
+                                                    <h4 class="h5 text-white fw-medium m-0 py-3">
+                                                        24/7 Fast Support
+                                                    </h4>
+                                                    <p class="m-0 text-off-white">
+                                                    Are you facing challenges in the labor market and need solutions? Look no further, as we are here to assist you! By completing a simple request form, you can learn about the various options and resources available to address your specific needs. So why wait? Start exploring your possibilities today!
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-12 col-md-6">
+                                                <div class="game-service-wrapper mb-4">
+                                                    <div class="game-service-icon mb-2">
+                                                        <img src="assets/img/gs2.png" alt="icon">
+                                                    </div>
+                                                    <h4 class="h5 text-white fw-medium m-0 py-3">
+                                                        DDOS Protection
+                                                    </h4>
+                                                    <p class="m-0 text-off-white">
+                                                    Are you facing challenges in the labor market and need solutions? Look no further, as we are here to assist you! By completing a simple request form, you can learn about the various options and resources available to address your specific needs. So why wait? Start exploring your possibilities today!
+                                                    </p>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-6 pb-50">
-                                        <div class="tab-right-content">
-                                            <h2>Permanent Staffing</h2>
-                                            <p>Our permanent placement services focus on understanding on company culture and needs to match you with candidates who not only have the right qualifications but also align with values and goals.Enables us to deliver candidates who have the potential to become valuable assets for your company</p>
-                                            <ul class="list-unstyled">
-                                                <li>
-                                                    <i class="fas fa-check text-primary"></i>
-                                                    <span>Succession Planning</span>
-                                                </li>
-                                                <li>
-                                                    <i class="fas fa-check text-primary"></i>
-                                                    <span>Enhanced Team Stability</span>
-                                                </li>
-                                                <li>
-                                                    <i class="fas fa-check text-primary"></i>
-                                                    <span>Employee Loyalty</span>
-                                                </li>
-                                            </ul>
-                                            <a href="{{ route('staffing')}}" class="text-white link-with-icon text-decoration-none">
-                                                Know More About Us
-                                                <i class="fas fa-arrow-right"></i>
-                                            </a>
-                                            <!-- t -->
-                                            <!-- t -->
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
-                            <div class="tab-content-wrapper pt-60 pb-60">
-                                <div class="row align-items-center">
-                                    <div class="col-md-6">
-                                        <div class="mb-5 mb-lg-0">
-                                            <img src="assets/img/cancontract.jpg" alt="" class="img-fluid">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6 pb-50">
-                                        <div class="tab-right-content">
-                                            <h2>Contract-To-Hire</h2>
-                                            <p>This unique approach to hiring ensures that you bring the best-fit talent into your organization. It offers both employers and candidates the opportunity to work together, assess compatibility, and make mutually beneficial decisions for long-term success.</p>
-                                            <ul class="list-unstyled">
-                                                <li>
-                                                    <i class="fas fa-check text-primary"></i>
-                                                    <span>Initial Contract Agreement</span>
-                                                </li>
-                                                <li>
-                                                    <i class="fas fa-check text-primary"></i>
-                                                    <span>Performance Assessment</span>
-                                                </li>
-                                                <li>
-                                                    <i class="fas fa-check text-primary"></i>
-                                                    <span>Feedback and Collaboration</span>
-                                                </li>
-                                            </ul>
-                                            <a href="{{ route('staffing')}}" class="text-white link-with-icon text-decoration-none">
-                                                Know More About Us
-                                                <i class="fas fa-arrow-right"></i>
-                                            </a>
+                                    <div class="col-lg-6">
+                                        <div class="row mt--200">
+                                            <div class="col-lg-12 col-md-6">
+                                                <div class="game-service-wrapper mb-4">
+                                                    <div class="game-service-icon mb-2">
+                                                        <img src="assets/img/gs2.png" alt="icon">
+                                                    </div>
+                                                    <h4 class="h5 text-white fw-medium m-0 py-3">
+                                                        1 Click Install
+                                                    </h4>
+                                                    <p class="m-0 text-off-white">
+                                                    Are you facing challenges in the labor market and need solutions? Look no further, as we are here to assist you! By completing a simple request form, you can learn about the various options and resources available to address your specific needs. So why wait? Start exploring your possibilities today!
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-12 col-md-6">
+                                                <div class="game-service-wrapper mb-4">
+                                                    <div class="game-service-icon mb-2">
+                                                        <img src="assets/img/gs4.png" alt="icon">
+                                                    </div>
+                                                    <h4 class="h5 text-white fw-medium m-0 py-3">
+                                                        Fast Game Servers
+                                                    </h4>
+                                                    <p class="m-0 text-off-white">
+                                                    Are you facing challenges in the labor market and need solutions? Look no further, as we are here to assist you! By completing a simple request form, you can learn about the various options and resources available to address your specific needs. So why wait? Start exploring your possibilities today!
+                                                    </p>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>

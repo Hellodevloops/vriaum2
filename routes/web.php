@@ -59,9 +59,18 @@ Route::get('/placement', function () {
     return view('services.placement');
 })->name('placement'); 
 
+
+Route::get('/ip', function () {
+    return view('services.ip');
+})->name('ip'); 
+
 Route::get('/recruitment', function () {
     return view('services.recruitment');
 })->name('recruitment');
+
+Route::get('/immserve', function () {
+    return view('services.immserve');
+})->name('immserve');
 
 Route::get('/usa', function () {
     return view('services.usa');
