@@ -65021,7 +65021,7 @@ span.mk-subtitle {
         background-repeat: no-repeat
     }
 }
-/* 2nd */
+
 
 
 
@@ -65034,6 +65034,43 @@ span.mk-subtitle {
 @media(min-width: 1400px) {
     .social-media-content::after {
         inset-inline-end: 45%
+    }
+}
+
+/* 2nd */
+
+.social-media-c {
+    position: relative;
+    isolation: isolate;
+    overflow: hidden
+}
+
+@media(min-width: 992px) {
+    .social-media-c::after {
+        content: "";
+        position: absolute;
+        inset-block: 0;
+        inset-inline-start: 0;
+        inset-inline-end: 58%;
+        background-image: url(../img/team-1n.jpg);
+        background-size: contain;
+        background-position: left bottom;
+        background-repeat: no-repeat
+    }
+}
+
+
+
+
+@media(min-width: 1200px) {
+    .social-media-ct::after {
+        inset-inline-end: 30%
+    }
+}
+
+@media(min-width: 1400px) {
+    .social-media-c::after {
+        inset-inline-end: 25%
     }
 }
 
