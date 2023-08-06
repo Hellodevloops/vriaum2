@@ -41,7 +41,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <div class="single-product position-relative mb-30">
                             <div class="product-img">
-                                <img src="assets/img/iot3n.jpg" alt="product photo" class="img-fluid">
+                                <img src="assets/img/spouse.jpg" alt="product photo" class="img-fluid">
                             </div>
                             <!-- <div class="product-cart-wishlist-icon">
                                 <div class="cart">
@@ -62,7 +62,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <div class="single-product position-relative mb-30">
                             <div class="product-img">
-                                <img src="assets/img/webdevn.jpg" alt="product photo" class="img-fluid">
+                                <img src="assets/img/nom.jpg" alt="product photo" class="img-fluid">
                             </div>
                             <!-- <span class="bg-primary text-white px-2 rounded sale-badge">Sale!</span> -->
                             <!-- <div class="product-cart-wishlist-icon">
@@ -85,7 +85,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <div class="single-product position-relative mb-30">
                             <div class="product-img">
-                                <img src="assets/img/engee3.jpg" alt="product photo" class="img-fluid">
+                                <img src="assets/img/interview.jpg" alt="product photo" class="img-fluid">
                             </div>
 
                             <!-- <div class="product-cart-wishlist-icon">
@@ -98,7 +98,7 @@
                             </div> -->
                             <div class="bg-white text-center shadow-sm py-4 product-info">
                                 <h6>
-                                    <a href="" class="text-decoration-none text-danger">Interview Preparation</a>
+                                    <a href="" class="text-decoration-none text-danger">Legal Advice and Guidance</a>
                                 </h6>
                                 <!-- <span class="fw-bold">175.00$ </span>
                                 <span class="text-decoration-line-through"> 150.00$</span> -->
@@ -120,7 +120,7 @@
                             </div> -->
                             <div class="bg-white text-center shadow-sm py-4 product-info">
                                 <h6>
-                                    <a href="" class="text-decoration-none text-danger">Legal Advice and Guidance</a>
+                                    <a href="" class="text-decoration-none text-danger">Interview preparation</a>
                                 </h6>
                                 <!-- <span class="fw-bold">175.00$ </span>
                                 <span class="text-decoration-line-through"> 150.00$</span> -->
@@ -139,8 +139,8 @@
                 <div class="row g-5 align-items-center">
                     <div class="col-xl-6 col-lg-6">
                         <div class="sc-about-left position-relative z-1">
-                            <img src="assets/img/software-company/ab-1.png" alt="not found" class="img-fluid">
-                            <img src="assets/img/software-company/ab-shape.png" alt="shape image" class="position-absolute ab-shape z--1 img-fluid">
+                            <img src="assets/img/whychoose.jpg" alt="not found" class="img-fluid">
+                            <!-- <img src="assets/img/software-company/ab-shape.png" alt="shape image" class="position-absolute ab-shape z--1 img-fluid"> -->
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6">
@@ -357,10 +357,10 @@
                                                 </div> -->
 
                                                 <blockquote class="blockquote">
-                                                    <p> I'm grateful for their dedication and expertise in making my dream of working in Canada come true.</p>
+                                                    <p> Their expert guidance and unwavering support transformed what could have been a daunting process into a smooth journey. From visa applications to settling in a new country, their personalized approach made all the difference.</p>
                                                 </blockquote>
                                                 <div class="author-info mt-4">
-                                                    <h6 class="mb-0">Joe Richard</h6>
+                                                    <h6 class="mb-0"> Sarah Thompson</h6>
                                                     <!-- <span>Visual Designer</span> -->
                                                 </div>
                                             </div>
@@ -399,10 +399,10 @@
                                                     </ul>
                                                 </div> -->
                                                 <blockquote class="blockquote">
-                                                    <p>They were there every step of the way, assisting me with visa applications and settlement advice and now I'm working in my desired marketing role in Canada. </p>
+                                                    <p>Their comprehensive services, including legal assistance and cultural integration, ensured that my transition was not only successful but also enriching. I owe my new beginning to GlobalPath! </p>
                                                 </blockquote>
                                                 <div class="author-info mt-4">
-                                                    <h6 class="mb-0">Rupan Oberoi</h6>
+                                                    <h6 class="mb-0"> Alejandro Ramirez</h6>
                                                     <!-- <span>Web Designer</span> -->
                                                 </div>
                                             </div>
@@ -442,11 +442,11 @@
                                                 </div> -->
                                                 <blockquote class="blockquote">
                                                     <p>
-                                                    Their dedication to finding the right fit for both candidates and employers is remarkable. Thanks to their efforts, I am now thriving in my career in Canada.
+                                                    I am immensely grateful to vriaum for their exceptional guidance throughout my immigration journey. Their team of experts meticulously handled every aspect, ensuring a hassle-free process. 
                                                     </p>
                                                 </blockquote>
                                                 <div class="author-info mt-4">
-                                                    <h6 class="mb-0">Jon Doe</h6>
+                                                    <h6 class="mb-0">Emily Chen</h6>
                                                     <!-- <span>Software Engineer</span> -->
                                                 </div>
                                             </div>
@@ -485,10 +485,10 @@
                                                     </ul>
                                                 </div> -->
                                                 <blockquote class="blockquote">
-                                                    <p>Today, I'm successfully working in my desired finance role in Canada, all thanks to their exceptional services.</p>
+                                                    <p>vriaum immigration program treated me with personalized care, addressing my unique needs at every step. Their attention to detail and commitment to my success made the entire process smooth and stress-free.</p>
                                                 </blockquote>
                                                 <div class="author-info mt-4">
-                                                    <h6 class="mb-0">Hanry Luice</h6>
+                                                    <h6 class="mb-0">Raj Gupta</h6>
                                                     <!-- <span>App Developer</span> -->
                                                 </div>
                                             </div>
@@ -527,10 +527,10 @@
                                                     </ul>
                                                 </div> -->
                                                 <blockquote class="blockquote">
-                                                    <p>From preparing the necessary documents to guiding me through interviews, they were there at every step. Their personalized support and expertise made my migration experience stress-free. </p>
+                                                    <p>vriaumi mmigration program stood by me through challenges, turning them into stepping stones. Their proactive approach and problem-solving skills were invaluable. I am now flourishing in a new country, all thanks to Vriaum dedication. </p>
                                                 </blockquote>
                                                 <div class="author-info mt-4">
-                                                    <h6 class="mb-0">Ami Nijai</h6>
+                                                    <h6 class="mb-0">Liam Anderson</h6>
                                                     <!-- <span>Customer Support</span> -->
                                                 </div>
                                             </div>
@@ -560,8 +560,8 @@
                                             <img src="assets/img/dummy.jpeg" width="50" class="rounded-circle" alt="testimonial thumb">
                                         </div>
                                         <div class="author-info">
-                                            <h6 class="mb-0">Joe Richard</h6>
-                                            <span>Visual Designer</span>
+                                            <h6 class="mb-0"> Sarah Thompson</h6>
+                                            
                                         </div>
                                     </div>
                                 </li>
@@ -571,8 +571,8 @@
                                             <img src="assets/img/dummy.jpeg" width="50" class="rounded-circle" alt="testimonial thumb">
                                         </div>
                                         <div class="author-info">
-                                            <h6 class="mb-0">Rupan Oberoi</h6>
-                                            <span>Web Designer</span>
+                                            <h6 class="mb-0">Alejandro Ramirez</h6>
+                                            
                                         </div>
                                     </div>
 
@@ -583,8 +583,8 @@
                                             <img src="assets/img/dummy.jpeg" width="50" class="rounded-circle" alt="testimonial thumb">
                                         </div>
                                         <div class="author-info">
-                                            <h6 class="mb-0">Jon Doe</h6>
-                                            <span>Software Engineer</span>
+                                            <h6 class="mb-0">Emily Chen</h6>
+                                           
                                         </div>
                                     </div>
                                 </li>
@@ -594,8 +594,8 @@
                                             <img src="assets/img/dummy.jpeg" width="50" class="rounded-circle" alt="testimonial thumb">
                                         </div>
                                         <div class="author-info">
-                                            <h6 class="mb-0">Hanry Luice</h6>
-                                            <span>App Developer</span>
+                                            <h6 class="mb-0">Raj Gupta</h6>
+                                            
                                         </div>
                                     </div>
                                 </li>
@@ -605,8 +605,8 @@
                                             <img src="assets/img/dummy.jpeg" width="50" class="rounded-circle" alt="testimonial thumb">
                                         </div>
                                         <div class="author-info">
-                                            <h6 class="mb-0">Ami Nijai</h6>
-                                            <span>Customer Support</span>
+                                            <h6 class="mb-0"> Liam Anderson</h6>
+                                           
                                         </div>
                                     </div>
                                 </li>
