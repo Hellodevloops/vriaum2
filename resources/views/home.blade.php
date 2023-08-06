@@ -18,7 +18,7 @@
                                 "Welcome to our comprehensive platform dedicated to guiding you on your journey to a new life in Canada and the USA. Whether you're seeking better career opportunities, world-class education, or a safe and welcoming environment, our team of immigration experts is here to help you navigate the complexities of immigration processes and make your dream of moving to Canada or the USA a reality."
                             </p>
                             <div class="action-btn mt-5 align-items-center d-block d-sm-flex d-lg-flex d-md-flex">
-                                <a href="{{ route('iot')}}" class="btn btn-primary me-3">Explore Solutions</a>
+                                <a href="{{ route('contact.index')}}" class="btn btn-primary me-3">Get Started</a>
                                 {{-- <a href="http://www.youtube.com/watch?v=hAP2QF--2Dg" class="text-decoration-none popup-youtube d-inline-flex align-items-center watch-now-btn mt-3 mt-lg-0 mt-md-0 text-primary">
                                     <i class="fas fa-play text-primary border-2 border-primary"></i>
                                     Watch Demo
@@ -70,79 +70,7 @@
                 </div>
             </section>
 
-<!-- services start -->
-<section class="services-icon ptb-80">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-6 col-md-10">
-                        <div class="text-center">
-                            <h2>Services We Provide</h2>
-                            <p>
-                            At Your Immigration Journey, we are dedicated to providing comprehensive immigration services tailored to your unique needs:
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-lg-3 col-md-3 p-0">
-                        <div class="single-service p-lg-5 p-4 text-center mt-3 border-bottom border-end">
-                            <div class="service-icon icon-center">
-                                <img src="assets/img/service/coding.png" alt="service icon" width="65" height="65">
-                            </div>
-                            <div class="service-info-wrap">
-                                <h3 class="h5">Immigration</h3>
-                                <p>
-                                Receive personalized advice and explore suitable immigration pathways based on your qualifications and aspirations.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 p-0">
-                        <div class="single-service p-lg-5 p-4 text-center mt-3 border-bottom border-end">
-                            <div class="service-icon icon-center">
-                                <img src="assets/img/service/app-development.png" alt="service icon" width="65"
-                                    height="65">
-                            </div>
-                            <div class="service-info-wrap">
-                                <h3 class="h5">Application Assistance</h3>
-                                <p>
-                                Our experts will guide you through the application process, ensuring your submissions are accurate, and timely.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
 
-                    <div class="col-lg-3 col-md-3 p-0">
-                        <div class="single-service p-lg-5 p-4 text-center mt-3 border-bottom border-end">
-                            <div class="service-icon icon-center">
-                                <img src="assets/img/service/graphic-design.png" alt="service icon" width="65"
-                                    height="65">
-                            </div>
-                            <div class="feature-info-wrap">
-                                <h3 class="h5">Document Review</h3>
-                                <p>
-                                We meticulously review your documents to make sure eliminate errors and maximize your chances of a successful outcome.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 p-0">
-                        <div class="single-service p-lg-5 p-4 text-center border-bottom mt-3">
-                            <div class="service-icon icon-center">
-                                <img src="assets/img/service/promotion.png" alt="service icon" width="65" height="65">
-                            </div>
-                            <div class="feature-info-wrap">
-                                <h3 class="h5">Ongoing Support</h3>
-                                <p>
-                                Our commitment does't end with the application. We continue to support until your immigration journey reaches its destination.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- services end -->
 
         <!--3 start-->
         <section class="feature-section " style="background: url('assets/img/white.jpg')no-repeat center center;">
