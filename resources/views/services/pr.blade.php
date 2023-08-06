@@ -240,9 +240,10 @@
                         <div class="tab-content">
                             <div class="tab-pane fade" id="webDesign" role="tabpanel">
                                 <div class="border border-red-clr rounded-4 padding-4">
-                                    <div class="social-media-content bgc-white rounded-4 section-space padding-x-2 padding-x-xsm-4 padding-x-sm-8 padding-x-md-12 padding-end-xxl-25">
+                                    <div class="social-media-c bgc-white rounded-4 section-space padding-x-2 padding-x-xsm-4 padding-x-sm-8 padding-x-md-12 padding-end-xxl-25">
                                         <div class="row">
                                             <div class="col-lg-5 col-xl-6 col-xxl-7 ms-lg-auto">
+                                            
                                                 <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
                                                     Express Entry
                                                 </h5>
