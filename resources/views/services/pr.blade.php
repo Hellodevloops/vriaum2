@@ -347,7 +347,7 @@
                             </div>
                             <div class="tab-pane fade" id="emailMarketing" role="tabpanel">
                                 <div class="border border-red-clr rounded-4 padding-4">
-                                    <div class="social-media-content bgc-white rounded-4 section-space padding-x-2 padding-x-xsm-4 padding-x-sm-8 padding-x-md-12 padding-end-xxl-25">
+                                    <div class="social-media-con bgc-white rounded-4 section-space padding-x-2 padding-x-xsm-4 padding-x-sm-8 padding-x-md-12 padding-end-xxl-25">
                                         <div class="row">
                                             <div class="col-lg-5 col-xl-6 col-xxl-7 ms-lg-auto">
                                                 <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
@@ -355,7 +355,7 @@
                                                 </h5>
                                                 <p class="clr-paragraph margin-bottom-8 text-black">
                                                 If you’re eligible, you can sponsor your spouse, partner or dependent children to become permanent residents of Canada.If you do, you must be able to:support them financially
-make sure they don’t need social assistance from the government
+                                                make sure they don’t need social assistance from the government
 
 
 

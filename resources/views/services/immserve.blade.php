@@ -32,7 +32,7 @@
                 <div class="row g-4 justify-content-between">
                     <div class="col-xl-5 col-lg-6">
                         <div class="dg-about-left pe-4">
-                            <img src="assets/img/digital-agency/ab-1.jpg" class="rounded-4 img-fluid">
+                            <img src="assets/img/is1.jpg" class="rounded-4 img-fluid">
                         </div>
                     </div>
                     <div class="col-xl-7 col-lg-6">
@@ -43,7 +43,7 @@
                             <!-- <a href="services.html" class="btn dg-outline-btn rounded-pill">Browse all Service</a> -->
                             <div class="dg-about-bottom position-relative mt-70">
                               
-                                <img src="assets/img/ab-2n.jpg" alt="not found" class="rounded-4 img-fluid">
+                                <img src="assets/img/is2.jpg" alt="not found" class="rounded-4 img-fluid">
                             </div>
                         </div>
                     </div>
@@ -240,7 +240,11 @@
                 <div class="row justify-content-lg-between align-items-center">
                     <div class="col-lg-6 col-12 order-1 order-lg-0">
                         <div class="feature-img-holder mt-5 mt-lg-0 mt-xl-0">
-                            <img src="assets/img/benefitsrn.jpg" class="img-fluid" alt="feature-image">
+                        <div class="bg-light-subtle text-center rounded-custom overflow-hidden p-lg-5 p-3 mx-lg-auto aos-init aos-animate" data-aos="fade-up" data-aos-delay="50">
+                                <img src="assets/img/is3.jpg" alt="" class="img-fluid">
+                                <div class="position-absolute bg-primary-dark z--1 dot-mask dm-size-16 dm-wh-350 top--40 right--40 top-right">
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <div class="col-lg-5 col-12">
