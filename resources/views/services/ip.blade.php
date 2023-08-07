@@ -2,13 +2,13 @@
 @section('content')
 
         <!--hero section start-->
-        <section class="hero-it-solution hero-nine-bg ptb-120" style="background: url('assets/img/imservebg.jpg')no-repeat center center">
+        <section class="hero-it-solution hero-nine-bg ptb-120" style="background: url('assets/img/prbanner2.jpg')no-repeat center center">
             <div class="px-5">
                 <div class="row gx-5">
                    
                     <div class="col-lg-6 col-md-10">
                         <div class="hero-content-wrap mt-5 mt-lg-0 mt-xl-0">
-                            <h4 class="text-danger   h5 mb-2"> Exploring International Programs </h4>
+                            <h4 class="text-danger  text-dark   h5 mb-2"> Exploring International Programs </h4>
                             <h2 class="mb-4">Broaden Your Horizons through International Opportunities</h2>
                         
                         <!-- <p class=" text-dark">Welcome to VriAum for USA staffing, your reliable partner in connecting top talent with excellent opportunities. Our mission is to bridge the gap between job seekers and employers, making the recruitment process smooth and efficient.</p>
@@ -29,7 +29,7 @@
                         <div class="col-md-8 col-lg-6">
                             <div class="section-heading text-center mb-5">
                                 <!-- <h5 class="h6 text-white">Online Store</h5> -->
-                                <h6 class="text-danger">services</h6>
+                                <h6 class="text-danger  text-dark">services</h6>
                                 <h5 class="text-black"><b>Immigration Programm Services Takes Place Are:-</b> </h5>
                             </div>
                         </div>
@@ -53,7 +53,7 @@
                             </div> -->
                             <div class="bg-white text-center shadow-sm py-4 product-info">
                                 <h6>
-                                    <a href="" class="text-decoration-none text-danger">Consultation and Assessment</a>
+                                    <a href="" class="text-decoration-none text-danger  text-dark">Consultation and Assessment</a>
                                 </h6>
                                 <!-- <span class="fw-bold">120.00$ </span> -->
                             </div>
@@ -75,7 +75,7 @@
                             </div> -->
                             <div class="bg-white text-center shadow-sm py-4 product-info">
                                 <h6>
-                                    <a href="" class="text-decoration-none text-danger">Application Submission
+                                    <a href="" class="text-decoration-none text-danger  text-dark">Application Submission
                                     </a>
                                 </h6>
                                 <!-- <span class="fw-bold">56.00$ </span> -->
@@ -98,7 +98,7 @@
                             </div> -->
                             <div class="bg-white text-center shadow-sm py-4 product-info">
                                 <h6>
-                                    <a href="" class="text-decoration-none text-danger">Legal Advice and Guidance</a>
+                                    <a href="" class="text-decoration-none text-danger  text-dark">Legal Advice and Guidance</a>
                                 </h6>
                                 <!-- <span class="fw-bold">175.00$ </span>
                                 <span class="text-decoration-line-through"> 150.00$</span> -->
@@ -120,7 +120,7 @@
                             </div> -->
                             <div class="bg-white text-center shadow-sm py-4 product-info">
                                 <h6>
-                                    <a href="" class="text-decoration-none text-danger">Interview preparation</a>
+                                    <a href="" class="text-decoration-none text-danger  text-dark">Interview preparation</a>
                                 </h6>
                                 <!-- <span class="fw-bold">175.00$ </span>
                                 <span class="text-decoration-line-through"> 150.00$</span> -->
@@ -145,7 +145,7 @@
                     </div>
                     <div class="col-xl-6 col-lg-6">
                         <div class="sc-about-right">
-                            <h3 class="sc-heading-color mb-4 text-danger">Why Choose Us for Your International Program Journey?</h3>
+                            <h3 class="sc-heading-color mb-4 text-danger  text-dark">Why Choose Us for Your International Program Journey?</h3>
                             <p class="text-black text-dark"> <b>Assisting You Every Step of the Way</b></p>
                             <p class="mb-0 text-black">Our experienced team understands that your journey is unique. We offer a diverse range of international programs that cater to various interests, ensuring that your experience is tailored to align with your goals. With our expertise, we're equipped to provide insightful guidance on the most suitable program for you, maximizing your chance of a fulfilling adventure <br><br>
                             you're embarking on a life-changing experience that will broaden your horizons, forge lasting connections, and leave you with memories that last a lifetime. Choose us to be your partner in this incredible journey.</p>
@@ -174,11 +174,9 @@
                         <div class="crm-cr-content pe-3">
                             <div class="crm-title mb-5">
                                 <!-- <span class="crm-subtitle">Integration Software <img src="assets/img/shape/arrow-red.png" alt="arrow" class="ms-1"></span> -->
-                                <h5 class="mt-2 mb-3">Training Program <img src="assets/img/shape/arrow-red.png" alt="arrow" class="ms-1"></h5>
-                                <p1  class="text-danger text-dark">Empowering Success through our Training Programs</p1>
-                                <p class="mb-0 text-black"><b>Our training program is designed to equip you with the skills and knowledge needed to excel in your chosen field.
-                                <span class="text-danger">We offer hands-on training led by industry professionals</span> who have extensive experience in the USA and Canada job
-                                markets. Our program covers a wide range of topics, including:</p>
+                                <h5 class="mt-2 mb-3">Foreign Worker Recruitment<img src="assets/img/shape/arrow-red.png" alt="arrow" class="ms-1"></h5>
+                                <p1  class="text-danger  text-dark text-dark">Vriaum Technologies Canada and USA Inc</p1>
+                                <p class="mb-0 text-black"><b>recruitment strategy extends internationally where we utilize our worldwide network of partner agencies and <span class="text-danger  text-dark text-dark"> recruiting professionals to fill the following types of positions in Canada and USA with foreign workers</span>:</p>
                                 <ul class="mk-pricing-list list-unstyled text-primary">
                                     <li class="text-black">
                                         <span class="me-2">
@@ -186,7 +184,7 @@
                                               <path d="M1 5.26667L4.73333 9L12.2 1" stroke="#FF724B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
                                           </svg>    
                                       </span>
-                                      Technical skills development
+                                      Professionals
                                     </li>
                                     <li class="text-black">
                                         <span class="me-2">
@@ -194,7 +192,7 @@
                                               <path d="M1 5.26667L4.73333 9L12.2 1" stroke="#FF724B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
                                           </svg>    
                                       </span>
-                                      Industry-specific knowledge
+                                      Skilled Positions
                                     </li>
                                     <li class="text-black">
                                         <span class="me-2">
@@ -202,7 +200,7 @@
                                               <path d="M1 5.26667L4.73333 9L12.2 1" stroke="#FF724B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
                                           </svg>    
                                       </span>
-                                      Professional communication
+                                      Low-Skilled Positions
                                     </li>
                                     <li class="text-black">
                                         <span class="me-2">
@@ -210,24 +208,30 @@
                                               <path d="M1 5.26667L4.73333 9L12.2 1" stroke="#FF724B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
                                           </svg>    
                                       </span>
-                                      Job search strategies</b>
+                                      Contracts
                                     </li>
-                                    <!-- <li>
+                                    <li class="text-black">
                                         <span class="me-2">
                                           <svg width="13" height="10" viewBox="0 0 13 10" fill="none" xmlns="http://www.w3.org/2000/svg">
                                               <path d="M1 5.26667L4.73333 9L12.2 1" stroke="#FF724B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
                                           </svg>    
                                       </span>
-                                        Every corner of the business
-                                    </li> -->
-                                    <!-- <li>
+                                      Foreign Recruitment
+                                    </li>
+                                    <li class="text-black">
                                         <span class="me-2">
                                           <svg width="13" height="10" viewBox="0 0 13 10" fill="none" xmlns="http://www.w3.org/2000/svg">
                                               <path d="M1 5.26667L4.73333 9L12.2 1" stroke="#FF724B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
                                           </svg>    
                                       </span>
-                                        Better investment decisions
-                                    </li> -->
+                                      Interviews</b>
+                                    </li>
+                                    
+                                   
+                                   
+                                        
+                                      
+                                   
                                 </ul>
                             </div>
                             <!-- <a href="#" class="btn crm-secondary-btn">Read More <span class="ms-1"><i class="fa-solid fa-arrow-right"></i></span></a> -->
@@ -235,7 +239,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="crm-feature-img">
-                            <img src="assets/img/girljt.jpg" alt="girl" class="img-fluid">
+                            <img src="assets/img/ip1.jpg" alt="girl" class="img-fluid">
                         </div>
                     </div>
                 </div>
@@ -253,20 +257,20 @@
                                     <img src="assets/img/creative-agency/tech-img-1.png" alt="image" class="img-fluid w-100 object-fit-cover">
                                 </div>
                                 <div class="tech-img__item align-self-end">
-                                    <img src="assets/img/creative-agency/tech-img-2.png" alt="image" class="img-fluid w-100 object-fit-cover">
+                                    <img src="assets/img/ip3.jpg" alt="image" class="img-fluid w-100 object-fit-cover">
                                 </div>
                             </div>
-
+<!-- 
                             <span class="width-30 height-30 rounded-circle bgc-warning position-absolute top-0 end-25p d-none d-lg-inline-block"></span>
-                            <span class="width-30 height-30 rounded-circle bgc-secondary position-absolute bottom-0 start-25p d-none d-lg-inline-block"></span>
+                            <span class="width-30 height-30 rounded-circle bgc-secondary position-absolute bottom-0 start-25p d-none d-lg-inline-block"></span> -->
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <h6 class="heading-4 margin-bottom-8 clr-text">
-                        Explore Endless Opportunities: Job Placements in the USA and Canada
+                        Immigration Program FAQs:-
                         </h6>
-                        <p1 class="clr-paragraph margin-bottom-10 text-danger   ">
-                        Unlock Your Potential with Transcontinental Placements: Your Gateway to Success in the USA and Canada.
+                        <p1 class="clr-paragraph margin-bottom-10 text-danger  text-dark   ">
+                        Answers to Common Questions About Our Immigration Program.
 </p1>
                         <!-- <a href="#" class="link d-inline-flex padding-y-3 padding-x-10 margin-bottom-10 text-center rounded-pill bgc-primary font-weight-bold clr-white :clr-white">
                             More About Us
@@ -275,40 +279,36 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne" fdprocessedid="t9pue">
-                                        What types of placements do you offer?
+                                    What are the key benefits of participating in the immigration program?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#technologicalQuery" style="">
                                     <div class="accordion-body text-black">
-                                    We offer a wide range of placements in Canada and the USA, including internships, full-time job placements, and
-                                    industry-specific training programs.
+                                    Participating in our immigration program offers various advantages, such as enhanced career opportunities, access to quality education and healthcare, and the chance to contribute to a diverse and vibrant community.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" fdprocessedid="6db9i">
-                                    How do you match candidates with placements?
+                                    How long does the immigration process typically take from application to approval?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#technologicalQuery" style="">
                                     <div class="accordion-body text-black">
-                                    Our matching process involves assessing candidates' skills, qualifications, and preferences. We take into account
-                                     your educational background, experience, and career aspirations to find the best-fit placements.
+                                    The processing time can vary depending on factors such as the volume of applications, the accuracy and completeness of submitted documents, and the specific immigration pathway. We strive to provide timely updates throughout the process.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree" fdprocessedid="g5bmyf">
-                                    What kind of support do you provide during placements?
+                                    Are family members allowed to accompany the applicant through the immigration program?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse show" data-bs-parent="#technologicalQuery" style="">
                                     <div class="accordion-body text-black">
-                                    We offer comprehensive support throughout the placement process. This includes assistance with resume and cover
-                                        letter writing, interview preparation, and guidance on navigating the local job market. During your placement,
-                                        we maintain regular communication to ensure everything is progressing smoothly.
+                                    Yes, eligible family members can often accompany the primary applicant. Spouses, children, and other dependents may be included in the application, allowing families to relocate and settle together.
                                     </div>
                                 </div>
                             </div>
@@ -621,34 +621,34 @@
                 <div class="row justify-content-between">
                     <div class="col-xl-5 col-lg-5 col-md-12">
                         <div class="section-heading aos-init aos-animate" data-aos="fade-up">
-                            <h4 class="h5 text-primary">Quick Support</h4>
+                            <h4 class="h5 text-danger text-dark">Quick Support</h4>
                             <h2>Get in Touch Today!</h2>
                             <p> Consultancy Contact for Career Opportunities and Migration Services.</p>
                         </div>
                         <div class="row justify-content-between pb-5">
                             <div class="col-sm-6 mb-4 mb-md-0 mb-lg-0 aos-init aos-animate" data-aos="fade-up"
                                 data-aos-delay="50">
-                                <div class="icon-box d-inline-block rounded-circle bg-primary-soft">
-                                    <i class="fas fa-phone fa-2x text-primary"></i>
+                                <div class="icon-box d-inline-block rounded-circle bg-danger-soft">
+                                    <i class="fas fa-phone fa-2x text-danger text-dark"></i>
                                 </div>
                                 <div class="contact-info">
                                     <h5>Call Us</h5>
                                     <p>Questions about our product or pricing? Call for support</p>
-                                    <a href="tel:+16464795816" class="read-more-link text-decoration-none"><i
-                                            class="fas fa-phone me-2"></i>+1 (646)4795816</a>
+                                    <a href="tel:+16464795816" class="read-more-link text-decoration-none text-danger text-dark"><i
+                                            class="fas fa-phone me-2 text-danger"></i>+1 (646)4795816</a>
                                 </div>
                             </div>
                             <div class="col-sm-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                                 <div class="icon-box d-inline-block rounded-circle bg-danger-soft">
-                                    <i class="fas fa-headset fa-2x text-danger"></i>
+                                    <i class="fas fa-headset fa-2x text-danger  text-dark"></i>
                                 </div>
                                 <div class="contact-info">
                                     <h5>Chat Us</h5>
                                     <p>Our support will help you from
                                         <strong>9am to 5pm EST.</strong>
                                     </p>
-                                    <a href="#crisp-chatbox" class="read-more-link text-decoration-none"><i
-                                            class="fas fa-comment me-2"></i> Live Chat Now</a>
+                                    <a href="#crisp-chatbox" class="read-more-link text-decoration-none text-danger text-dark"><i
+                                            class="fas fa-comment me-2 text-danger text-dark"></i> Live Chat Now</a>
                                 </div>
                             </div>
                         </div>
@@ -667,7 +667,7 @@
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <label for="firstName" class="mb-1">First name <span
-                                                class="text-danger">*</span></label>
+                                                class="text-danger  text-dark">*</span></label>
                                         <div class="input-group mb-3">
                                             <input type="text" class="form-control" name="name" value=""
                                                 id="firstName" required="" placeholder="First name"
@@ -685,7 +685,7 @@
                                         </div>
                                     </div>
                                     <div class="col-sm-6">
-                                        <label for="phone" class="mb-1">Phone <span class="text-danger">*</span></label>
+                                        <label for="phone" class="mb-1">Phone <span class="text-danger  text-dark">*</span></label>
                                         <div class="input-group mb-3">
                                             <input type="tel" name="phone" class="form-control" value=""
                                                 required="" placeholder="Phone" aria-label="Phone"
@@ -696,7 +696,7 @@
                                         @enderror
                                     </div>
                                     <div class="col-sm-6">
-                                        <label for="email" class="mb-1">Email<span class="text-danger">*</span></label>
+                                        <label for="email" class="mb-1">Email<span class="text-danger  text-dark">*</span></label>
                                         <div class="input-group mb-3">
                                             <input type="email" name="email" class="form-control" value=""
                                                 required="" placeholder="Email" aria-label="Email"
@@ -705,7 +705,7 @@
                                     </div>
                                     <div class="col-12">
                                         <label for="yourMessage" class="mb-1">Message <span
-                                                class="text-danger">*</span></label>
+                                                class="text-danger  text-dark">*</span></label>
                                         <div class="input-group mb-3">
                                             <textarea name="message" class="form-control" placeholder="Message"></textarea>
                                         </div>
