@@ -9,10 +9,10 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
                         <div class="contact-us-promo p-5 bg-white rounded-custom custom-shadow text-center d-flex flex-column h-100">
-                            <span class="fas fa-comment fa-3x text-primary"></span>
+                            <span class="fas fa-comment fa-3x text-danger"></span>
                             <div class="contact-promo-info mb-4">
                                 <h5>Chat with us</h5>
-                                <p>Chat with Us Live for Real-time Assistance <strong>Monday to Friday</strong> from
+                                <p class="text-black">Chat with Us Live for Real-time Assistance <strong>Monday to Friday</strong> from
                                     <strong>9am to 6pm .</strong>
                                 </p>
                             </div>
@@ -21,10 +21,10 @@
                     </div>
                     <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
                         <div class="contact-us-promo p-5 bg-white rounded-custom custom-shadow text-center d-flex flex-column h-100">
-                            <span class="fas fa-envelope fa-3x text-primary"></span>
+                            <span class="fas fa-envelope fa-3x text-danger"></span>
                             <div class="contact-promo-info mb-4">
                                 <h5>Email Us</h5>
-                                <p>Simple drop us an email at <strong>admin@vriaum.com</strong>
+                                <p class="text-black">Simple drop us an email at <strong>admin@vriaum.com</strong>
                                     and you'll receive a reply within 24 hours</p>
                             </div>
                             <a href="mailto:admin@vriaum.com" class="btn btn-primary mt-auto">Email Us</a>
@@ -32,10 +32,10 @@
                     </div>
                     <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
                         <div class="contact-us-promo p-5 bg-white rounded-custom custom-shadow text-center d-flex flex-column h-100">
-                            <span class="fas fa-phone fa-3x text-primary"></span>
+                            <span class="fas fa-phone fa-3x text-danger"></span>
                             <div class="contact-promo-info mb-4">
                                 <h5>Give us a call</h5>
-                                <p>Give us a ring.Our Experts are standing by <strong>monday to friday</strong> from
+                                <p class="text-black">Give us a ring.Our Experts are standing by <strong>monday to friday</strong> from
                                     <strong>9am to 6pm.</strong>
                                 </p>
                             </div>
@@ -53,7 +53,7 @@
                 <div class="row justify-content-between">
                     <div class="col-xl-5 col-lg-5 col-md-12">
                         <div class="section-heading aos-init aos-animate" data-aos="fade-up">
-                            <h4 class="h5 text-primary">Quick Support</h4>
+                            <h4 class="h5 text-danger">Quick Support</h4>
                             <h2>Get in Touch Today!</h2>
                             <p> Consultancy Contact for Career Opportunities and Migration Services.</p>
                         </div>
@@ -61,13 +61,13 @@
                             <div class="col-sm-6 mb-4 mb-md-0 mb-lg-0 aos-init aos-animate" data-aos="fade-up"
                                 data-aos-delay="50">
                                 <div class="icon-box d-inline-block rounded-circle bg-primary-soft">
-                                    <i class="fas fa-phone fa-2x text-primary"></i>
+                                    <i class="fas fa-phone fa-2x text-danger"></i>
                                 </div>
                                 <div class="contact-info">
                                     <h5>Call Us</h5>
                                     <p>Questions about our product or pricing? Call for support</p>
-                                    <a href="tel:+16464795816" class="read-more-link text-decoration-none"><i
-                                            class="fas fa-phone me-2"></i>+1 (646)4795816</a>
+                                    <a href="tel:+16464795816" class="read-more-link text-decoration-none text-danger"><i
+                                            class="fas fa-phone me-2 danger"></i>+1 (646)4795816</a>
                                 </div>
                             </div>
                             <div class="col-sm-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
@@ -79,8 +79,8 @@
                                     <p>Our support will help you from
                                         <strong>9am to 5pm EST.</strong>
                                     </p>
-                                    <a href="#crisp-chatbox" class="read-more-link text-decoration-none"><i
-                                            class="fas fa-comment me-2"></i> Live Chat Now</a>
+                                    <a href="#crisp-chatbox" class="read-more-link text-decoration-none text-danger"><i
+                                            class="fas fa-comment me-2 "></i> Live Chat Now</a>
                                 </div>
                             </div>
                         </div>
