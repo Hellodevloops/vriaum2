@@ -52,7 +52,7 @@
     <!--preloader start-->
     <div id="preloader" class="bg-light-subtle">
         <div class="preloader-wrap">
-            <img src="assets/img/Vri_logo_preview.png" alt="logo" class="img-fluid preloader-icon">
+            <img src="assets/img/mainlogo.png" alt="logo" class="img-fluid preloader-icon">
             <div class="loading-bar"></div>
         </div>
     </div>
@@ -65,8 +65,8 @@
             <nav class="navbar navbar-expand-xl navbar-light sticky-header">
                 <div class="container d-flex align-items-center justify-content-lg-between position-relative">
                     <a href="{{ route('home') }}" class="navbar-brand d-flex align-items-center mb-md-0 text-black">
-                        <img src="assets/img/vgloblogo.png" alt="logo" class="img-fluid logo-header logo-white" />
-                        <img src="assets/img/vgloblogo.png" alt="logo" class="img-fluid logo-header logo-color" />
+                        <img src="assets/img/mainlogo.png" alt="logo" class="img-fluid logo-header logo-white" />
+                        <img src="assets/img/mainlogo.png" alt="logo" class="img-fluid logo-header logo-color" />
                     </a>
 
                     <a class="navbar-toggler position-absolute right-0 border-0" href="#offcanvasWithBackdrop"
@@ -245,7 +245,7 @@
                             <div class="tt-theme-dark" data-bs-toggle="tooltip" data-bs-placement="left"
                                 data-bs-title="Dark"><i class="flaticon-moon-1 fs-lg"></i></div>
                         </a> --}}
-                        <a href="contact.html" class="btn btn-primary">Download Brochure</a>
+                        <a href="contact.html" class="btn btn-red">Download Brochure</a>
                     </div>
                 </div>
             </nav>
@@ -430,16 +430,16 @@
             <!--footer top start-->
             <!--for light footer add .footer-light class and for dark footer add .bg-dark .text-white class-->
             <div class="footer-top footer-light ptb-120 hero-it-solution hero-nine-bg ptb-120"
-                style="background: url('assets/img/hero-9-img.png')no-repeat center center">
+                style="background: url('assets/img/white2.jpg')no-repeat center center">
                 <div class="container">
                     <div class="row justify-content-between">
                         <div class="col-md-8 col-lg-4 mb-md-4 mb-lg-0">
                             <div class="footer-single-col">
                                 <div class="footer-single-col mb-4">
                                     <a href="{{ route('home') }}">
-                                        <img src="assets/img/vgloblogo.png" alt="logo"
+                                        <img src="assets/img/mainlogo.png" alt="logo"
                                             class="img-fluid logo-footer logo-white" style="width: 350px;" />
-                                        <img src="assets/img/vgloblogo.png" alt="logo"
+                                        <img src="assets/img/mainlogo.png" alt="logo"
                                             class="img-fluid logo-footer logo-color" style="width: 320px;" />
                                     </a>
                                 </div>
@@ -477,7 +477,7 @@
                                                 <div class="d-flex ">
                                                     <div class="flex-shrink-0">
                                                         <button type="button"
-                                                            class="btn btn-sm btn-primary btn-icon"><i
+                                                            class="btn btn-sm btn-red btn-icon"><i
                                                                 class="fas fa-phone"></i></button>
 
                                                     </div>
@@ -492,7 +492,7 @@
                                                 <div class="d-flex ">
                                                     <div class="flex-shrink-0">
                                                         <button type="button"
-                                                            class="btn btn-sm btn-primary btn-icon"><i
+                                                            class="btn btn-sm btn-red btn-icon"><i
                                                                 class="fas fa-map-marker-alt"></i></button>
 
                                                     </div>
@@ -546,7 +546,7 @@
                                                 <div class="d-flex ">
                                                     <div class="flex-shrink-0">
                                                         <button type="button"
-                                                            class="btn btn-sm btn-primary btn-icon"><i
+                                                            class="btn btn-sm btn-red btn-icon"><i
                                                                 class="fas fa-envelope-open"></i></button>
 
                                                     </div>
@@ -562,7 +562,7 @@
                                                 <div class="d-flex ">
                                                     <div class="flex-shrink-0">
                                                         <button type="button"
-                                                            class="btn btn-sm btn-primary btn-icon"><i
+                                                            class="btn btn-sm btn-red btn-icon"><i
                                                                 class="fas fa-map-marker-alt"></i></button>
 
                                                     </div>
@@ -609,7 +609,7 @@
 
             <!--footer bottom start-->
             <div class="footer-bottom footer-light py-4  hero-it-solution hero-nine-bg ptb-120"
-                style="background: url('assets/img/hero-9-img.png')no-repeat center center">
+                style="background: url('assets/img/white2.jpg')no-repeat center center">
                 <div class="container">
                     <div class="row justify-content-between align-items-center">
                         <div class="col-md-7 col-lg-7">
