@@ -2,7 +2,7 @@
 @section('content')
 
         <!--hero section start-->
-        <section class="hero-it-solution hero-nine-bg ptb-120" style="background: url('assets/img/imservebg.jpg')no-repeat center center">
+        <section class="hero-it-solution hero-nine-bg ptb-120" style="background: url('assets/img/ip1.jpg')no-repeat center center">
             <div class="px-5">
                 <div class="row gx-5">
                    

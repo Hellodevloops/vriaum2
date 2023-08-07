@@ -65023,6 +65023,20 @@ span.mk-subtitle {
 }
 /* 2nd */
 
+/* pr */
+/* @media(min-width: 992px) {
+    .social-media-con::after {
+        content: "";
+        position: absolute;
+        inset-block: 0;
+        inset-inline-start: 0;
+        inset-inline-end: 58%;
+        background-image: url(../img/fm.jpg);
+        background-size: contain;
+        background-position: left bottom;
+        background-repeat: no-repeat
+    }
+} */
 
 
 @media(min-width: 1200px) {
@@ -65031,11 +65045,25 @@ span.mk-subtitle {
     }
 }
 
+/* pr */
+/* @media(min-width: 1200px) {
+    .social-media-con::after {
+        inset-inline-end: 50%
+    }
+} */
+
 @media(min-width: 1400px) {
     .social-media-content::after {
         inset-inline-end: 45%
     }
 }
+
+/* pr */
+/* @media(min-width: 1400px) {
+    .social-media-con::after {
+        inset-inline-end: 45%
+    }
+} */
 
 .ca-digital-service-card {
     border: 1px solid rgba(239, 62, 62, .15)

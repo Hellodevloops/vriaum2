@@ -153,7 +153,7 @@
             
                     <div class="col-lg-5">
                       <div class="bg-light-subtle text-center rounded-custom overflow-hidden p-lg-5 p-3 mx-lg-auto aos-init aos-animate" data-aos="fade-up" data-aos-delay="50">
-                                <img src="assets/img/abouth.jpg" alt="" class="img-fluid">
+                                <img src="assets/img/hl.jpg" alt="" class="img-fluid">
                                 <div class="position-absolute bg-primary-dark z--1 dot-mask dm-size-16 dm-wh-350 top--40 left--40 top-left">
                                 </div>
                             </div>
@@ -272,7 +272,7 @@
                     <div class="col-lg-6 col-md-7">
                         <div class="pr-lg-4">
                             <div class="bg-light-subtle text-center rounded-custom overflow-hidden p-lg-5 p-3 mx-lg-auto aos-init aos-animate" data-aos="fade-up" data-aos-delay="50">
-                                <img src="assets/img/thewy.jpg" alt="" class="img-fluid">
+                                <img src="assets/img/non.jpg" alt="" class="img-fluid">
                                 <div class="position-absolute bg-primary-dark z--1 dot-mask dm-size-16 dm-wh-350 top--40 right--40 top-right">
                                 </div>
                             </div>
@@ -304,7 +304,7 @@
                                 <span class="h2 mb-0 text-primary fw-bold">1</span>
                             </div>
                             <h3 class="h5">Express Entry to Canada</h3>
-                            <p class="mb-0">A popular pathway for skilled workers to obtain PR in Canada.The Comprehensive Ranking System (CRS) and how to improve your CRS score for a better chance of receiving an Invitation to Apply.</p>
+                            <p class="mb-0">A popular pathway for skilled workers to obtain PR in Canada.The CRS and for a better chance of receiving an Invitation to Apply.</p>
                         </div>
                     </div>
                     <div class="dots-line first"></div>
@@ -313,7 +313,7 @@
                             <div class="process-icon border border-light bg-custom-light rounded-custom p-3">
                                 <span class="h2 mb-0 text-primary fw-bold">2</span>
                             </div>
-                            <h5 class="h5">Provincial Nominee Program </h5>
+                            <h5 class="h5">PNP </h5>
                             <p class="mb-0">Uncover the various Programs available across Canada, each tailored to address regional labor market needs. Explore the different streams and eligibility.</p>
                         </div>
                     </div>
@@ -324,7 +324,7 @@
                                 <span class="h2 mb-0 text-primary fw-bold">3</span>
                             </div>
                             <h3 class="h5">Family Sponsorship </h3>
-                            <p class="mb-0"> Learn about the process of sponsoring your spouse, partner, children, or parents to join you in Canada, fostering family reunification in a welcoming environment.</p>
+                            <p class="mb-0">The process of sponsoring your spouse, partner, children, or parents to join you in Canada, fostering family reunification in a welcoming environment.</p>
                         </div>
                     </div>
                     <div class="dots-line first"></div>
