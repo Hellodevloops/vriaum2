@@ -50,7 +50,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-danger-soft text-danger mb-4">
+                            <div class="feature-icon pb-5 rounded bg-danger-soft text-danger  text-dark mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-app-indicator" viewBox="0 0 20 20">
   <path d="M5.5 2A3.5 3.5 0 0 0 2 5.5v5A3.5 3.5 0 0 0 5.5 14h5a3.5 3.5 0 0 0 3.5-3.5V8a.5.5 0 0 1 1 0v2.5a4.5 4.5 0 0 1-4.5 4.5h-5A4.5 4.5 0 0 1 1 10.5v-5A4.5 4.5 0 0 1 5.5 1H8a.5.5 0 0 1 0 1H5.5z"/>
   <path d="M16 3a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
@@ -67,7 +67,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-danger-soft text-danger mb-4">
+                            <div class="feature-icon pb-5 rounded bg-danger-soft text-danger  text-dark mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-arrow-down-right" viewBox="0 0 20 20">
   <path fill-rule="evenodd" d="M14 13.5a.5.5 0 0 1-.5.5h-6a.5.5 0 0 1 0-1h4.793L2.146 2.854a.5.5 0 1 1 .708-.708L13 12.293V7.5a.5.5 0 0 1 1 0v6z"/>
 </svg>
@@ -83,7 +83,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-danger-soft text-danger mb-4">
+                            <div class="feature-icon pb-5 rounded bg-danger-soft text-danger  text-dark mb-4">
                            
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-bag-fill" viewBox="0 0 20 20">
   <path d="M8 1a2.5 2.5 0 0 1 2.5 2.5V4h-5v-.5A2.5 2.5 0 0 1 8 1zm3.5 3v-.5a3.5 3.5 0 1 0-7 0V4H1v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V4h-3.5z"/>
@@ -101,7 +101,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-danger-soft text-danger mb-4">
+                            <div class="feature-icon pb-5 rounded bg-danger-soft text-danger  text-dark mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-amd" viewBox="0 0 20 20">
   <path d="m.334 0 4.358 4.359h7.15v7.15l4.358 4.358V0H.334ZM.2 9.72l4.487-4.488v6.281h6.28L6.48 16H.2V9.72Z"/>
 </svg>
@@ -117,7 +117,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-danger-soft text-danger mb-4">
+                            <div class="feature-icon pb-5 rounded bg-danger-soft text-danger  text-dark mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-bar-chart" viewBox="0 0 20 20">
   <path d="M4 11H2v3h2v-3zm5-4H7v7h2V7zm5-5v12h-2V2h2zm-2-1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1h-2zM6 7a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V7zm-5 4a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1v-3z"/>
 </svg>
@@ -133,7 +133,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-danger-soft text-danger mb-4">
+                            <div class="feature-icon pb-5 rounded bg-danger-soft text-danger  text-dark mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-bounding-box" viewBox="0 0 20 20">
   <path d="M5 2V0H0v5h2v6H0v5h5v-2h6v2h5v-5h-2V5h2V0h-5v2H5zm6 1v2h2v6h-2v2H5v-2H3V5h2V3h6zm1-2h3v3h-3V1zm3 11v3h-3v-3h3zM4 15H1v-3h3v3zM1 4V1h3v3H1z"/>
 </svg>
@@ -215,7 +215,7 @@
         <section class="work-process pt-100 pb-60">
             <div class="container">
                 <div class="row justify-content-center">
-                <h2 class="h2 text-danger">Why Choose PNP Canada?</h4>
+                <h2 class="h2 text-danger  text-dark">Why Choose PNP Canada?</h4>
                             
                             <p class="text-black">The Provincial Nominee Program (PNP) offers several advantages to immigration candidates:</p>
                     <div class="col-lg-6 col-md-10">
@@ -239,7 +239,7 @@
 </svg>
                                 </div>
                                 <div class="icon-content">
-                                    <span class="text-danger h6">1</span>
+                                    <span class="text-danger  text-dark h6">1</span>
                                     <h3 class="h5 mb-2">Customized Immigration Pathways:</h3>
                                     <p class="text-black">Each province and territory has its own PNP streams tailored to address specific labor market needs and economic priorities.
                                     </p>
@@ -252,7 +252,7 @@
 </svg>
                                 </div>
                                 <div class="icon-content">
-                                    <span class="text-danger h6">2</span>
+                                    <span class="text-danger  text-dark h6">2</span>
                                     <h3 class="h5 mb-2">Potential for Faster Processing Times:</h3>
                                     <p class="text-black">PNP applications often have faster processing times compared to other immigration streams, providing a quicker route to permanent residence.
                                     </p>
@@ -265,7 +265,7 @@
 </svg>
                                 </div>
                                 <div class="icon-content">
-                                    <span class="text-danger h6">3</span>
+                                    <span class="text-danger  text-dark h6">3</span>
                                     <h3 class="h5 mb-2">Additional CRS Points for Express Entry Candidates:</h3>
                                     <p class="text-black">Express Entry-aligned PNPs can grant additional Comprehensive Ranking System (CRS) points, increasing the likelihood of receiving an Invitation to Apply (ITA) for permanent residence.
                                     </p>
@@ -278,7 +278,7 @@
 </svg>
                                 </div>
                                 <div class="icon-content">
-                                    <span class="text-danger h6"> 4</span>
+                                    <span class="text-danger  text-dark h6"> 4</span>
                                     <h3 class="h5 mb-2">In-Demand Occupation Lists:</h3>
                                     <p class="text-black">Many PNPs have in-demand occupation lists, giving priority to candidates working in occupations facing labor shortages in the region.
                                     </p>
@@ -308,10 +308,10 @@
                             </div>
                            
                             <ul class="list-unstyled d-flex flex-wrap list-two-col mt-4 mb-4">
-                                <li class="py-1"><i class="fas fa-check-circle me-2 text-danger"></i>Work Experience:</li>
-                                <li class="py-1"><i class="fas fa-check-circle me-2 text-danger"></i>Language Proficiency:</li>
-                                <li class="py-1"><i class="fas fa-check-circle me-2 text-danger"></i>Educational Qualifications:</li>
-                                <li class="py-1"><i class="fas fa-check-circle me-2 text-danger"></i>Connection to the Province:</li>
+                                <li class="py-1"><i class="fas fa-check-circle me-2 text-danger  text-dark"></i>Work Experience:</li>
+                                <li class="py-1"><i class="fas fa-check-circle me-2 text-danger  text-dark"></i>Language Proficiency:</li>
+                                <li class="py-1"><i class="fas fa-check-circle me-2 text-danger  text-dark"></i>Educational Qualifications:</li>
+                                <li class="py-1"><i class="fas fa-check-circle me-2 text-danger  text-dark"></i>Connection to the Province:</li>
 
                             </ul>
                             
@@ -333,7 +333,7 @@
 <section class="faq-section ptb-120 bg-light-subtle">
             <div class="container">
                 <div class="row justify-content-center">
-                <h3 class="h3 text-danger">How to Apply for PNP Canada</h3>
+                <h3 class="h3 text-danger  text-dark">How to Apply for PNP Canada</h3>
                             <p class="text-black">The application process for the Provincial Nominee Program (PNP) may vary depending on the province and the specific stream. Generally, the process involves the following steps.</p>
                     <div class="col-md-10 col-lg-6">
                         <div class="section-heading text-center">
@@ -345,23 +345,23 @@
                     <div class="col-lg-5 col-12">
                         <div class="faq-wrapper">
                             <div class="faq-item mb-5">
-                                <h5><span class="h3 text-danger me-2">1.</span> Check Eligibility:</h5>
+                                <h5><span class="h3 text-danger  text-dark me-2">1.</span> Check Eligibility:</h5>
                                 <p class="text-black">Determine eligibility for the PNP stream of interest by reviewing the specific requirements and criteria set by the province or territory.</p>
                             </div>
                             <div class="faq-item mb-5">
-                                <h5><span class="h3 text-danger  me-2">2.</span> Create an Express Entry Profile (If Applicable):</h5>
+                                <h5><span class="h3 text-danger  text-dark  me-2">2.</span> Create an Express Entry Profile (If Applicable):</h5>
                                 <p class="text-black">For Express Entry-aligned PNPs, create an Express Entry profile and indicate your interest in the province or territory's PNP. </p>
                             </div>
                             <div class="faq-item mb-5">
-                                <h5><span class="h3 text-danger  me-2">3.</span>Submit an Expression of Interest (EOI) or Provincial Application:</h5>
+                                <h5><span class="h3 text-danger  text-dark  me-2">3.</span>Submit an Expression of Interest (EOI) or Provincial Application:</h5>
                                 <p class="text-black"> Submit your Expression of Interest (EOI) or a provincial application to the relevant provincial immigration authority.</p>
                             </div>
                             <div class="faq-item mb-5">
-                                <h5><span class="h3 text-danger me-2">4.</span> Receive a Provincial Nomination:</h5>
+                                <h5><span class="h3 text-danger  text-dark me-2">4.</span> Receive a Provincial Nomination:</h5>
                                 <p class="text-black">If selected, you will receive a provincial nomination, which may grant additional CRS points for Express Entry candidates.</p>
                             </div>
                             <div class="faq-item">
-                                <h5><span class="h3 text-danger me-2">5.</span>Complete Your Permanent Residence Application:</h5>
+                                <h5><span class="h3 text-danger  text-dark me-2">5.</span>Complete Your Permanent Residence Application:</h5>
                                 <p class="text-black"> After receiving a provincial nomination, submit a complete application for permanent residence to the federal government.</p>
                             </div>
                         </div>
@@ -384,7 +384,7 @@
         <div class="row justify-content-between">
             <div class="col-xl-5 col-lg-5 col-md-12">
                 <div class="section-heading aos-init aos-animate" data-aos="fade-up">
-                    <h4 class="h5 text-primary">Quick Support</h4>
+                    <h4 class="h5 text-danger  text-dark">Quick Support</h4>
                     <h2>Get in Touch Today!</h2>
                     <p> Consultancy Contact for Career Opportunities and Migration Services.</p>
                 </div>
@@ -392,25 +392,25 @@
                     <div class="col-sm-6 mb-4 mb-md-0 mb-lg-0 aos-init aos-animate" data-aos="fade-up"
                         data-aos-delay="50">
                         <div class="icon-box d-inline-block rounded-circle bg-primary-soft">
-                            <i class="fas fa-phone fa-2x text-primary"></i>
+                            <i class="fas fa-phone fa-2x text-danger  text-dark"></i>
                         </div>
                         <div class="contact-info">
                             <h5>Call Us</h5>
                             <p>Questions about our product or pricing? Call for support</p>
-                            <a href="tel:+16464795816" class="read-more-link text-decoration-none"><i
-                                    class="fas fa-phone me-2"></i>+1 (646)4795816</a>
+                            <a href="tel:+16464795816" class="read-more-link text-decoration-none text-danger  text-dark"><i
+                                    class="fas fa-phone me-2 text-danger  text-dark"></i>+1 (646)4795816</a>
                         </div>
                     </div>
                     <div class="col-sm-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                         <div class="icon-box d-inline-block rounded-circle bg-danger-soft">
-                            <i class="fas fa-headset fa-2x text-danger"></i>
+                            <i class="fas fa-headset fa-2x text-danger  text-dark"></i>
                         </div>
                         <div class="contact-info">
                             <h5>Chat Us</h5>
                             <p>Our support will help you from
                                 <strong>9am to 5pm EST.</strong>
                             </p>
-                            <a href="#crisp-chatbox" class="read-more-link text-decoration-none"><i
+                            <a href="#crisp-chatbox" class="read-more-link text-decoration-none text-danger  text-dark"><i
                                     class="fas fa-comment me-2"></i> Live Chat Now</a>
                         </div>
                     </div>
@@ -430,7 +430,7 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <label for="firstName" class="mb-1">First name <span
-                                        class="text-danger">*</span></label>
+                                        class="text-danger  text-dark">*</span></label>
                                 <div class="input-group mb-3">
                                     <input type="text" class="form-control" name="name" value=""
                                         id="firstName" required="" placeholder="First name"
@@ -448,7 +448,7 @@
                                 </div>
                             </div>
                             <div class="col-sm-6">
-                                <label for="phone" class="mb-1">Phone <span class="text-danger">*</span></label>
+                                <label for="phone" class="mb-1">Phone <span class="text-danger  text-dark">*</span></label>
                                 <div class="input-group mb-3">
                                     <input type="tel" name="phone" class="form-control" value=""
                                         required="" placeholder="Phone" aria-label="Phone"
@@ -459,7 +459,7 @@
                                 @enderror
                             </div>
                             <div class="col-sm-6">
-                                <label for="email" class="mb-1">Email<span class="text-danger">*</span></label>
+                                <label for="email" class="mb-1">Email<span class="text-danger  text-dark">*</span></label>
                                 <div class="input-group mb-3">
                                     <input type="email" name="email" class="form-control" value=""
                                         required="" placeholder="Email" aria-label="Email"
@@ -468,7 +468,7 @@
                             </div>
                             <div class="col-12">
                                 <label for="yourMessage" class="mb-1">Message <span
-                                        class="text-danger">*</span></label>
+                                        class="text-danger  text-dark">*</span></label>
                                 <div class="input-group mb-3">
                                     <textarea name="message" class="form-control" placeholder="Message"></textarea>
                                 </div>
