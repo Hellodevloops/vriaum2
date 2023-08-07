@@ -42,7 +42,7 @@
 <section class="work-process ptb-120">
             <div class="container">
                 <div class="row justify-content-center bg-secondary">
-                <h4 class="h5 text-primary">Process</h4>
+                <h4 class="h5 dark-red">Process</h4>
                 <p class="h2 text-black">Applications for permanent residence under these federal economic immigration programs:</p>
                 <h6>Eligibility to apply for the Federal Skilled Trades Program (Express Entry)</h6>
                     <div class="col-lg-6 col-md-10">
@@ -62,7 +62,7 @@
 </svg>
                                 </div>
                                 <div class="icon-content">
-                                <span class="text-primary h6">Step 1</span>
+                                <span class="dark-red h6">Step 1</span>
                                     <h3 class="h5 mb-2">Minimum requirements</h3>
                                   <ul>
                                     <li class="text-black">meet the required language levels for each language ability.
@@ -83,7 +83,7 @@
 </svg>
                                 </div>
                                 <div class="icon-content">
-                                <span class="text-primary h6">Step 2</span>
+                                <span class="dark-red h6">Step 2</span>
                                     <h3 class="h5 mb-2">Skilled work experience</h3>
                                     <ul>
                                     <li class="text-black">You must show that you performed the duties set out in the lead statement of the occupational description in the NOC.
@@ -108,7 +108,7 @@
 </svg>
                                 </div>
                                 <div class="icon-content">
-                                <span class="text-primary h6">Step 3</span>
+                                <span class="dark-red h6">Step 3</span>
                                     <h3 class="h5 mb-2">Education</h3>
                                     <ul>
                                     <li class="text-black">If you schooling in Canada, you get points for a certificate.
@@ -129,7 +129,7 @@
 </svg>
                                 </div>
                                 <div class="icon-content">
-                                    <span class="text-primary h6">Step 4</span>
+                                    <span class="dark-red h6">Step 4</span>
                                     <h3 class="h5 mb-2">Language ability</h3>
                                     <ul>
                                     <li class="text-black">Meet the minimum score of Benchmark 5 for speaking and listening,and Benchmark 4 for reading and writing.
@@ -158,7 +158,7 @@
 </svg>
                                 </div>
                                 <div class="icon-content">
-                                <span class="text-primary h6">Step 5</span>
+                                <span class="dark-red h6">Step 5</span>
                                     <h3 class="h5 mb-2">Admissibility</h3>
                                     <ul>
                                     <li class="text-black">A Canadian immigration officer will decide if you can enter Canada when you.
@@ -179,7 +179,7 @@
 </svg>
                                 </div>
                                 <div class="icon-content">
-                                <span class="text-primary h6">Step 6</span>
+                                <span class="dark-red h6">Step 6</span>
                                     <h3 class="h5 mb-2">Proof of funds</h3>
                                   <ul>
                                     <li class="text-black">You must have enough money to settle in Canada.
@@ -207,7 +207,7 @@
 </svg>
                                 </div>
                                 <div class="icon-content">
-                                    <span class="text-primary h6">Step 7</span>
+                                    <span class="dark-red h6">Step 7</span>
                                     <h3 class="h5 mb-2">Where you can live in Canada</h3>
                                     <ul>
                                     <li class="text-black">This is the application process for skilled workers who want to become permanent residents of Canada and live in anny city.
@@ -228,7 +228,7 @@
 </svg>
                                 </div>
                                 <div class="icon-content">
-                                    <span class="text-primary h6">Step 8</span>
+                                    <span class="dark-red h6">Step 8</span>
                                     <h3 class="h5 mb-2">Get assessed by the province or territory</h3>
                                     <ul>
                                     <li class="text-black">You’ll likely have to go to the province or territory for your trade. 
@@ -434,7 +434,7 @@
         <!-- 3rd ed -->
 
         <!-- 4 sec strat -->
-        <section class="cyber-faq pt-120 pb-60 my-section">
+        <section class="cyber-faq pt-30">
             <div class="container bg-secondary-light">
         
                 <div class="row justify-content-center bg-secondary">
@@ -456,7 +456,7 @@
                     <div class="section-heading ">
                       
 
-                    <h3 class="text-primary"> Eligibility Criteria for the Canadian Experience Class (CEC):</h3>
+                    <h3 class="dark-red"> Eligibility Criteria for the Canadian Experience Class (CEC):</h3>
                      <p>The Canadian Experience Class (CEC) is one of the immigration pathways under the Express Entry system, designed for individuals who have gained valuable work experience in Canada and wish to become permanent residents. To be eligible for the CEC, applicants must meet specific criteria.</p>
 
                    
@@ -537,7 +537,7 @@
                             
                          <div class="section-heading ">
                         
-                        <h2 class="mb-4 text-primary">Eligibility Criteria for the Canadian Experience Class (CEC):</h2>
+                        <h2 class="mb-4 dark-red">Eligibility Criteria for the Canadian Experience Class (CEC):</h2>
 
                        <p>Meeting these eligibility criteria is essential for being considered under the Canadian Experience Class (CEC) for permanent residence in Canada. Applicants who meet the requirements and receive an Invitation to Apply (ITA) can proceed with the final stage of their application by submitting their documents and completing the necessary forms to become Canadian permanent residents.</p>
 
@@ -613,7 +613,7 @@
       
         <!--features grid section end-->
 <!-- 5 features strats -->
-<section class="services-icon ptb-12">
+<section class="services-icon pt-30 pb-60">
             <div class="container">
                 <div class="row justify-content-center">
                 <p class="h3">The Express Entry system has two steps:</p>
