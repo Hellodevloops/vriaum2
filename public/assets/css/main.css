@@ -10150,7 +10150,7 @@ body {
     font-size: var(--bs-body-font-size);
     font-weight: var(--bs-body-font-weight);
     line-height: var(--bs-body-line-height);
-    color: var(--bs-body-color);
+    color: #0c0b0b;;
     text-align: var(--bs-body-text-align);
     background-color: var(--bs-body-bg);
     -webkit-text-size-adjust: 100%;
@@ -13879,6 +13879,24 @@ fieldset:disabled .btn {
     --bs-btn-disabled-color: #ffffff;
     --bs-btn-disabled-bg: #631cdd;
     --bs-btn-disabled-border-color: #631cdd
+}
+
+/* btn red */
+.btn-red {
+    --bs-btn-color: #ffffff;
+    --bs-btn-bg: #7e7d7e;
+    --bs-btn-border-color: #7b2020;
+    --bs-btn-hover-color: #ffffff;
+    --bs-btn-hover-bg: #7b2020;
+    --bs-btn-hover-border-color: #7b2020;
+    --bs-btn-focus-shadow-rgb: 58, 116, 255;
+    --bs-btn-active-color: #ffffff;
+    --bs-btn-active-bg: #7b2020;
+    --bs-btn-active-border-color: #7b2020;
+    --bs-btn-active-shadow: unset;
+    --bs-btn-disabled-color: #ffffff;
+    --bs-btn-disabled-bg: #d14750;
+    --bs-btn-disabled-border-color: #d14750
 }
 
 .btn-accent {
@@ -29974,6 +29992,11 @@ dd {
     background-color: #631cdd !important
 }
 
+/* for red */
+.bg-red {
+    background-color: #9e2e2e !important
+}
+
 .bg-primary-dark {
     background-color: #0044e3
 }
@@ -34585,7 +34608,7 @@ select.form-select {
 }
 
 .process-card:hover .process-icon {
-    background: #631cdd !important
+    background: #a14444 !important
 }
 
 .process-card:hover .process-icon span,
@@ -35018,7 +35041,7 @@ li.setup-process-item:not(:last-child):before {
 }
 
 .cyber-features {
-    padding-bottom: 160px
+    padding-bottom: 120px
 }
 
 .cyber-single-service {
@@ -65023,13 +65046,21 @@ span.mk-subtitle {
 }
 
 
-
+/* pr */
+/*  
 
 @media(min-width: 1200px) {
     .social-media-content::after {
         inset-inline-end: 50%
     }
 }
+
+/* pr */
+/* @media(min-width: 1200px) {
+    .social-media-con::after {
+        inset-inline-end: 50%
+    }
+} */
 
 @media(min-width: 1400px) {
     .social-media-content::after {
@@ -65391,6 +65422,15 @@ p1 {
     color: white;
   }
 
+  .dark-red {
+    color: #8B0000;
+  }
+
+  .red {
+    color: #FF0000;
+  }
+
+  
 /*# sourceMappingURL=scss */
 /*# sourceMappingURL=scss */
 /*# sourceMappingURL=main.css.map */
