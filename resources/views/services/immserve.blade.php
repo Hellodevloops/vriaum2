@@ -9,7 +9,7 @@
                    
                     <div class="col-lg-6 col-md-10">
                         <div class="hero-content-wrap mt-5 mt-lg-0 mt-xl-0">
-                            <h4 class="text-danger  text-dark   h5 mb-2">  Immigration Services in the USA and Canada</h4>
+                            <h4 class="dark-red   h5 mb-2">  Immigration Services in the USA and Canada</h4>
                             <h2 class="mb-4">Empowering Your Journey to a Better Tomorrow</h2>
                         
                         <!-- <p class=" text-dark">Welcome to VriAum for USA staffing, your reliable partner in connecting top talent with excellent opportunities. Our mission is to bridge the gap between job seekers and employers, making the recruitment process smooth and efficient.</p>
@@ -39,7 +39,7 @@
                         <div class="dg-about-right ps-lg-4">
                             <span class="fw-bold text-dg-primary">ABOUT COMPANY</span><br>
                             <p1 class="mt-2 mb-4 text-black"><b>Your Trusted Partners in Achieving Immigration Goals</b></p1>
-                            <p class="mb-5  text-black">Embarking on a new chapter in the United States or Canada is an exciting endeavor, and our immigration services are here to pave the way for your success. With a focus on personalized guidance and unwavering support, we are committed to helping you navigate the intricate immigration processes of these two great nations. <span class="text-danger  text-dark">Our mission is to provide you with the expertise, resources, and reassurance you need to seamlessly transition to a brighter future in the USA or Canada</span>.</p>
+                            <p class="mb-5  text-black">Embarking on a new chapter in the United States or Canada is an exciting endeavor, and our immigration services are here to pave the way for your success. With a focus on personalized guidance and unwavering support, we are committed to helping you navigate the intricate immigration processes of these two great nations. <span class="dark-red">Our mission is to provide you with the expertise, resources, and reassurance you need to seamlessly transition to a brighter future in the USA or Canada</span>.</p>
                             <!-- <a href="services.html" class="btn dg-outline-btn rounded-pill">Browse all Service</a> -->
                             <div class="dg-about-bottom position-relative mt-70">
                               
@@ -67,7 +67,7 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-5">
                         <div class="section-title text-center mb-5">
-                          <h4>  <span class=" text-danger  text-dark   ">IMMIGRATION SERVICES</h4></span>
+                          <h4>  <span class=" dark-red   ">IMMIGRATION SERVICES</h4></span>
                             <p1 class="mt-2 text-black display-lead tex--dark">We provide You A Temporary Residence & Permanent Residency (PR) in Canada</p1>
                         </div>
                     </div>
@@ -84,7 +84,7 @@
                               </span>
                             </div> -->
                             <a href="service-single.html">
-                                <h5 class="mt-4 mb-2 heading-dg-color text-danger  text-dark">Visit Canada</h5>
+                                <h5 class="mt-4 mb-2 heading-dg-color dark-red">Visit Canada</h5>
                             </a>
                             <p class="mb-3 text-black">Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa or transit through Canada.</p>
                             <span class="number-count position-relative color-1 fw-semibold">01</span>
@@ -102,7 +102,7 @@
                               </span>
                             </div> -->
                             <a href="service-single.html">
-                                <h5 class="mt-4 mb-2 heading-dg-color text-danger  text-dark">Study In <br>Canada</h5>
+                                <h5 class="mt-4 mb-2 heading-dg-color dark-red">Study In <br>Canada</h5>
                             </a>
                             <p class="mb-3 text-black">Find a School, Apply for Study Permit, Restore status as a studen in Canada and United States.</p>
                             <span class="number-count position-relative color-2 fw-semibold">02</span>
@@ -119,7 +119,7 @@
                               </span>
                             </div> -->
                             <a href="service-single.html">
-                                <h5 class="mt-4 mb-2 heading-dg-color text-danger  text-dark">Work In Canada</h5>
+                                <h5 class="mt-4 mb-2 heading-dg-color dark-red">Work In Canada</h5>
                             </a>
                             <p class="mb-3 text-black">Find a Job, Apply for Work Permit, Extend a Work Permit, Restore your status as a worker, Work permit & Study    .</p>
                             <span class="number-count position-relative color-3 fw-semibold">03</span>
@@ -135,7 +135,7 @@
                               </span>
                             </div> -->
                             <a href="service-single.html">
-                                <h5 class="mt-4 mb-2 heading-dg-color text-danger  text-dark">International Experience on Canada(IEC)</h5>
+                                <h5 class="mt-4 mb-2 heading-dg-color dark-red">International Experience on Canada(IEC)</h5>
                             </a>
                             <p class="mb-3 text-black">Embrace a world of international experiences in Canada's diverse and vibrant landscapes.</p>
                             <span class="number-count position-relative color-4 fw-semibold">04</span>
@@ -252,17 +252,17 @@
                             <div class="icon-box rounded-custom bg-primary shadow-sm d-inline-block">
                                 <i class="fas fa-shield fa-2x text-white"></i>
                             </div>
-                            <h5 class="text-danger  text-dark">Benefits of Choosing Our Company</h5>
+                            <h5 class="dark-red">Benefits of Choosing Our Company</h5>
                             <p1  class="text-black display-lead">Your Pathway to Seamless Immigration Journey </p1>  
 
                             <p class="text-black">With a dedicated team of experienced professionals, we offer expertise tailored to your unique immigration needs. Our comprehensive services encompass visa consultation, meticulous documentation, interview preparation, legal insights, and ongoing support.With a customer-centric approach and a proven track record, we ensure your transition to Canada or the USA is smooth, informed, and successful.</p>
                             <ul class="list-unstyled d-flex flex-wrap list-two-col mt-4 mb-4">
-                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-danger  text-dark"></i>Expertise and Experience</li>
-                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-danger  text-dark"></i>Legal Insight and Compliance</li>
-                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-danger  text-dark"></i>Time and Stress Savings</li>
-                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-danger  text-dark"></i>Enhanced Chances of Success</li>
-                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-danger  text-dark"></i>Legal Insight and Compliance</li>
-                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-danger  text-dark"></i>Customer-Centric Focus</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 dark-red"></i>Expertise and Experience</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 dark-red"></i>Legal Insight and Compliance</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 dark-red"></i>Time and Stress Savings</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 dark-red"></i>Enhanced Chances of Success</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 dark-red"></i>Legal Insight and Compliance</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 dark-red"></i>Customer-Centric Focus</li>
                             </ul>
                             <!-- <a href="about-us.html" class="read-more-link text-decoration-none">Know More About Us <i class="fas fa-arrow-right ms-2"></i></a> -->
                         </div>
@@ -278,7 +278,7 @@
                 <div class="row justify-content-center justify-content-xxl-start pb-80 pt-50">
                     <div class="col-xxl-6 col-lg-7">
                         <div class="section-title text-center text-xxl-start">
-                            <h6 class="mb-0 text-danger  text-dark">How to Apply</h6>
+                            <h6 class="mb-0 dark-red">How to Apply</h6>
                             <p1 class="text-black">Permanent Residence (PR) In Canada..!!</p1>
                         </div>
                     </div>
@@ -292,7 +292,7 @@
                                   <h4 class="mb-0 text-white position-absolute start-50 top-50 translate-middle">01</h4>
                                   <img src="assets/img/software-company/icon-shape-3.png" alt="icon">
                               </span>
-                                <h5 class="mb-0 ms-3 text-danger  text-dark">Express Entry</h5>
+                                <h5 class="mb-0 ms-3 dark-red">Express Entry</h5>
                             </div>
                             <p class="mb-0 mt-3 text-black"> Express Entry is used to manage applications for permanent residence under these federal economic immigration programs. </p>
                             <a href="{{ route('expressentry') }}" class="link-with-icon text-decoration-none mt-3">View Details <i class="fas fa-arrow-right text-black" aria-hidden="true"></i></a>
@@ -305,7 +305,7 @@
                                   <h4 class="mb-0 text-white position-absolute start-50 top-50 translate-middle">02</h4>
                                   <img src="assets/img/software-company/icon-shape-3.png" alt="icon">
                               </span>
-                                <h5 class="mb-0 ms-3 text-danger  text-dark">Provincial Nominee Program</h5>
+                                <h5 class="mb-0 ms-3 dark-red">Provincial Nominee Program</h5>
                             </div>
                             <p class="mb-0 mt-3 text-black">Provinces and territories in Canada can nominate immigrants through the Provincial Nominee Program (PNP).</p>
                             <a href="{{ route('pnp') }}" class="link-with-icon text-decoration-none mt-3">View Details <i class="fas fa-arrow-right text-black" aria-hidden="true"></i></a>
@@ -319,7 +319,7 @@
                                   <h4 class="mb-0 text-white position-absolute start-50 top-50 translate-middle">03</h4>
                                   <img src="assets/img/software-company/icon-shape-3.png" alt="icon">
                               </span>
-                                <h5 class="mb-0 ms-3 text-danger  text-dark">Family Sponsorship</h5>
+                                <h5 class="mb-0 ms-3 dark-red">Family Sponsorship</h5>
                             </div>
                             <p class="mb-0 mt-3 text-black">Spouse, Common-Law or Dependent Child, Parents and Grandparents, Adopted children and other relatives</p>
                             <a href="{{ route('family') }}" class="link-with-icon text-decoration-none mt-3">View Details <i class="fas fa-arrow-right text-black" aria-hidden="true"></i></a>
@@ -332,7 +332,7 @@
                                   <h4 class="mb-0 text-white position-absolute start-50 top-50 translate-middle">04</h4>
                                   <img src="assets/img/software-company/icon-shape-3.png" alt="icon">
                               </span>
-                                <h5 class="mb-0 ms-3 text-danger  text-dark">Permanent Residence Cards</h5>
+                                <h5 class="mb-0 ms-3 dark-red">Permanent Residence Cards</h5>
                             </div>
                             <p class="mb-0 mt-3 text-black">How to get a PR card, permanent resident rights, losing or renouncing your permanent resident status.</p>
                             <a href="{{ route('prcards') }}" class="link-with-icon text-decoration-none mt-3">View Details <i class="fas fa-arrow-right text-black" aria-hidden="true"></i></a>
@@ -349,7 +349,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="section-heading text-center aos-init aos-animate" data-aos="fade-up">
-                            <h4 class="h5 text-danger  text-dark">FAQ</h4>
+                            <h4 class="h5 dark-red">FAQ</h4>
                             <h2>Frequently Asked Questions</h2>
                             <p class="text-black">Answers to Your Immigration Services Queries.</p>
                         </div>
@@ -483,8 +483,8 @@
                                         </ul>
                                     </div>
                                     <div class="crm-feedback-single swiper-slide text-center swiper-slide-prev" data-swiper-slide-index="0" role="group" aria-label="1 / 5" style="width: 870px; margin-right: 10px;">
-                                        <p class="mb-4 text-white">“I was impressed by the recruitment team's professionalism and the emphasis they placed on cultural fit.”</p>
-                                        <h4 class="mb-0 text-white">Richa David</h4>
+                                        <p class="mb-4 text-white">“Their unwavering dedication, expertise, and personalized guidance have been instrumental in making my dreams of relocating to North America a reality.”</p>
+                                        <h4 class="mb-0 text-white">Richie k.</h4>
                                         <ul class="crm-stars d-inline-flex align-items-center p-0 m-0">
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
@@ -494,8 +494,8 @@
                                         </ul>
                                     </div>
                                     <div class="crm-feedback-single swiper-slide text-center swiper-slide-active" data-swiper-slide-index="1" role="group" aria-label="2 / 5" style="width: 870px; margin-right: 10px;">
-                                        <p class="mb-4 text-white ">“The recruitment process was one of the best I've encountered. The team was transparent about the role, the company's values, and growth opportunities.”</p>
-                                        <h4 class="mb-0 text-white">jery sheikh</h4>
+                                        <p class="mb-4 text-white ">“ Their comprehensive knowledge of the respective visa categories, requirements, and legal procedures ensured that I was well-prepared and informed at every step.”</p>
+                                        <h4 class="mb-0 text-white">Amar sheikh</h4>
                                         <ul class="crm-stars d-inline-flex align-items-center p-0 m-0">
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
@@ -505,8 +505,8 @@
                                         </ul>
                                     </div>
                                     <div class="crm-feedback-single swiper-slide text-center swiper-slide-next" data-swiper-slide-index="2" role="group" aria-label="3 / 5" style="width: 870px; margin-right: 10px;">
-                                        <p class="mb-4 text-white">“From the first interview to the final offer, the recruitment process was seamless. The team was efficient, communicative, and approachable.”</p>
-                                        <h4 class="mb-0 text-white">Mily shirus</h4>
+                                        <p class="mb-4 text-white">“The immigration services took the time to understand my unique background, skills, and aspirations, crafting a strategy that maximized my chances of success. ”</p>
+                                        <h4 class="mb-0 text-white">Mili sharma</h4>
                                         <ul class="crm-stars d-inline-flex align-items-center p-0 m-0">
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
@@ -516,8 +516,8 @@
                                         </ul>
                                     </div>
                                     <div class="crm-feedback-single swiper-slide text-center" data-swiper-slide-index="3" role="group" aria-label="4 / 5" style="width: 870px; margin-right: 10px;">
-                                        <p class="mb-4 text-white">“I felt at ease during the recruitment process, thanks to the friendly and supportive approach of the team.”</p>
-                                        <h4 class="mb-0 text-white">Prakash raj</h4>
+                                        <p class="mb-4 text-white">“ Whether it was answering my queries or providing updates on my application status, the team ensured that I was well-informed and never left in the dark.”</p>
+                                        <h4 class="mb-0 text-white">Prashant</h4>
                                         <ul class="crm-stars d-inline-flex align-items-center p-0 m-0">
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
@@ -538,8 +538,8 @@
                                         </ul>
                                     </div>
                                 <div class="crm-feedback-single swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="0" role="group" aria-label="1 / 5" style="width: 870px; margin-right: 10px;">
-                                        <p class="mb-4 text-white">“Easily organize your infrastructure with Projects. And with Teams, everyone can get their own account, with just the privileges they need to do their and we’rerunning a jobs. Our hosting costs have decreased by over 90% and we're running at about 25% of our capacity”</p>
-                                        <h4 class="mb-0 text-white">Jery sheikh</h4>
+                                        <p class="mb-4 text-white">“Thanks to the Vriaum immigration services' expertise and diligence, I successfully obtained visas for both Canada.”</p>
+                                        <h4 class="mb-0 text-white">amar sheikh</h4>
                                         <ul class="crm-stars d-inline-flex align-items-center p-0 m-0">
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
                                             <li class="list-inline"><i class="fa-solid fa-star"></i></li>
@@ -649,7 +649,7 @@
                     </div>
                     <div class="col-sm-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                         <div class="icon-box d-inline-block rounded-circle bg-danger-soft">
-                            <i class="fas fa-headset fa-2x text-danger  text-dark"></i>
+                            <i class="fas fa-headset fa-2x dark-red"></i>
                         </div>
                         <div class="contact-info">
                             <h5>Chat Us</h5>
@@ -676,7 +676,7 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <label for="firstName" class="mb-1">First name <span
-                                        class="text-danger  text-dark">*</span></label>
+                                        class="dark-red">*</span></label>
                                 <div class="input-group mb-3">
                                     <input type="text" class="form-control" name="name" value=""
                                         id="firstName" required="" placeholder="First name"
@@ -694,7 +694,7 @@
                                 </div>
                             </div>
                             <div class="col-sm-6">
-                                <label for="phone" class="mb-1">Phone <span class="text-danger  text-dark">*</span></label>
+                                <label for="phone" class="mb-1">Phone <span class="dark-red">*</span></label>
                                 <div class="input-group mb-3">
                                     <input type="tel" name="phone" class="form-control" value=""
                                         required="" placeholder="Phone" aria-label="Phone"
@@ -705,7 +705,7 @@
                                 @enderror
                             </div>
                             <div class="col-sm-6">
-                                <label for="email" class="mb-1">Email<span class="text-danger  text-dark">*</span></label>
+                                <label for="email" class="mb-1">Email<span class="dark-red">*</span></label>
                                 <div class="input-group mb-3">
                                     <input type="email" name="email" class="form-control" value=""
                                         required="" placeholder="Email" aria-label="Email"
@@ -714,13 +714,13 @@
                             </div>
                             <div class="col-12">
                                 <label for="yourMessage" class="mb-1">Message <span
-                                        class="text-danger  text-dark">*</span></label>
+                                        class="dark-red">*</span></label>
                                 <div class="input-group mb-3">
                                     <textarea name="message" class="form-control" placeholder="Message"></textarea>
                                 </div>
                             </div>
                         </div>
-                        <button type="submit" class="btn btn-primary mt-4" fdprocessedid="ri7lf">Get in
+                        <button type="submit" class="btn btn-red mt-4" fdprocessedid="ri7lf">Get in
                             Touch</button>
                     </form>
                     <div id="thankYouMessage" style="display: none;">

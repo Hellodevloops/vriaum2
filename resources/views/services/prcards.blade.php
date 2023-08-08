@@ -63,7 +63,7 @@
                     <div class="col-lg-6 col-md-10">
                         <div class="section-heading text-center text-black">
                             <h2>With the Approaches You Need</h2>
-                            <p class="text-danger  text-dark">Secure Your Family's Future: Applying for Permanent Residence Cards Through Family Sponsorship</p>
+                            <p class="dark-red">Secure Your Family's Future: Applying for Permanent Residence Cards Through Family Sponsorship</p>
 
                         </div>
                     </div>
@@ -74,7 +74,7 @@
                         <div class="position-relative d-flex flex-column h-100 flex-wrap bg-primary-soft p-5 rounded-custom">
                             <div class="cta-left-info mb-2">
                                 <h5>Residency Obligations:</h5>
-                                <p class="text-black">As a permanent resident in Canada, it is essential to meet the residency obligations to maintain your PR status. This means <span class="text-danger  text-dark">you must be physically present in Canada for at least 730 days (two years) out of every five-year period</span>. Failing to meet this requirement could lead to the loss of your PR status and the PR card. </p>
+                                <p class="text-black">As a permanent resident in Canada, it is essential to meet the residency obligations to maintain your PR status. This means <span class="dark-red">you must be physically present in Canada for at least 730 days (two years) out of every five-year period</span>. Failing to meet this requirement could lead to the loss of your PR status and the PR card. </p>
                             </div>
                             
                             <div class="cta-img position-absolute right-0 bottom-0">
@@ -86,7 +86,7 @@
                         <div class="position-relative d-flex flex-column h-100 flex-wrap bg-danger-soft p-5 rounded-custom">
                             <div class="cta-left-info mb-2">
                                 <h5>Travel Document for Re-entry:</h5>
-                                <p class="text-black">The <span class="text-danger  text-dark">PR card serves as a travel document for permanent residents</span> returning to Canada. It is essential to carry the PR card whenever you travel outside Canada and intend to return, <span class="text-danger  text-dark">as it serves as evidence of your status and allows for smooth re-entry into the country</span>.</p>
+                                <p class="text-black">The <span class="dark-red">PR card serves as a travel document for permanent residents</span> returning to Canada. It is essential to carry the PR card whenever you travel outside Canada and intend to return, <span class="dark-red">as it serves as evidence of your status and allows for smooth re-entry into the country</span>.</p>
                             </div>
                            
                             <div class="cta-img position-absolute right-0 bottom-0">
@@ -106,15 +106,15 @@
                     <div class="col-lg-5 col-12">
                         <div class="why-choose-content">
                             
-                            <h2>process of <span class="text-danger  text-dark">Permanent Residence Cards</span> For Immigration In Canada</h2>
+                            <h2>process of <span class="dark-red">Permanent Residence Cards</span> For Immigration In Canada</h2>
                             <p class="text-black">Navigate the PR card process: from eligibility to approval, securing your Canadian permanent residency</p>
                             <ul class="list-unstyled d-flex flex-wrap list-two-col mt-4 mb-4">
-                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-danger  text-dark"></i> Application Submission</li>
-                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-danger  text-dark"></i>Biometrics Appointment</li>
-                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-danger  text-dark"></i>Application Processing</li>
-                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-danger  text-dark"></i>Approval and Card Issuance</li>
-                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-danger  text-dark"></i>Receiving Your PR Card</li>
-                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 text-danger  text-dark"></i> Renewal of PR Card</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 dark-red"></i> Application Submission</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 dark-red"></i>Biometrics Appointment</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 dark-red"></i>Application Processing</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 dark-red"></i>Approval and Card Issuance</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 dark-red"></i>Receiving Your PR Card</li>
+                                <li class="py-1 text-black"><i class="fas fa-check-circle me-2 dark-red"></i> Renewal of PR Card</li>
                             </ul>
                             
                         </div>
@@ -139,7 +139,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-10">
                         <div class="section-heading text-center aos-init aos-animate" data-aos="fade-up">
-                            <h4 class="h5 text-danger  text-dark">Process And documents Require</h4>
+                            <h4 class="h5 dark-red">Process And documents Require</h4>
                             <p class="h4 text-black">Permanent Resident Cards:</p>
                             <h6>The official proof that you are a permanent resident of Canada</h6>
                             
@@ -157,7 +157,7 @@
 </svg>
                                 </div>
                                 <div class="icon-content">
-                                <!-- <span class="text-danger  text-dark h6">Step 2</span> -->
+                                <!-- <span class="dark-red h6">Step 2</span> -->
                                     <h3 class="h5 mb-2">Apply for a PR card</h3>
                                   <ul>
                                     <li class="text-black">As a permanent resident, you get most social benefits that Canadian citizens receive, including health care coverage,live, work or study anywhere in Canada,.
@@ -180,7 +180,7 @@
 </svg>
                                 </div>
                                 <div class="icon-content">
-                                <!-- <span class="text-danger  text-dark h6">Step 2</span> -->
+                                <!-- <span class="dark-red h6">Step 2</span> -->
                                     <h3 class="h5 mb-2">Correct a mistake</h3>
                                     <ul>
                                     <li class="text-black">To keep your permanent resident status, you must have been in Canada for at least 730 days during the last five years.
@@ -205,7 +205,7 @@
 </svg>
                                 </div>
                                 <div class="icon-content">
-                                <!-- <span class="text-danger  text-dark h6">Step 2</span> -->
+                                <!-- <span class="dark-red h6">Step 2</span> -->
                                     <h3 class="h5 mb-2">Change your address</h3>
                                     <ul>
                                     <li class="text-black">You can tell us your Canadian address within 180 days of arriving to get your permanent resident (PR) card delivered to you.
@@ -226,7 +226,7 @@
 </svg>
                                 </div>
                                 <div class="icon-content">
-                                    <!-- <span class="text-danger  text-dark h6">Step 2</span> -->
+                                    <!-- <span class="dark-red h6">Step 2</span> -->
                                     <h3 class="h5 mb-2">Get a PR photo</h3>
                                     <ul>
                                     <li class="text-black">If you are correcting your name, the name on your PR card must match your foreign passport. 
@@ -314,9 +314,9 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="section-heading text-center aos-init aos-animate" data-aos="fade-up">
-                            <h4 class="h5 text-danger  text-dark">FAQ</h4>
+                            <h4 class="h5 dark-red">FAQ</h4>
                             <h2>Frequently Asked Questions</h2>
-                            <p class="text-danger  text-dark">Efficiently network cross-unit paradigms for premier technologies scale 24/7 paradigms for process-centric data interoperable.</p>
+                            <p class="dark-red">Efficiently network cross-unit paradigms for premier technologies scale 24/7 paradigms for process-centric data interoperable.</p>
                         </div>
                     </div>
                 </div>
@@ -403,7 +403,7 @@
                     <div class="row justify-content-center align-content-center">
                         <div class="col-md-10 col-lg-6">
                             <div class="section-heading text-center">
-                                <h4 class="h5 text-danger  text-dark">Testimonial</h4>
+                                <h4 class="h5 dark-red">Testimonial</h4>
                                 <h2>What They Say About Us</h2>
                                 <p>Uniquely promote adaptive quality vectors rather than stand-alone e-markets. pontificate
                                     alternative architectures whereas iterate.</p>
@@ -704,7 +704,7 @@
         <div class="row justify-content-between">
             <div class="col-xl-5 col-lg-5 col-md-12">
                 <div class="section-heading aos-init aos-animate" data-aos="fade-up">
-                    <h4 class="h5 text-danger  text-dark">Quick Support</h4>
+                    <h4 class="h5 dark-red">Quick Support</h4>
                     <h2>Get in Touch Today!</h2>
                     <p> Consultancy Contact for Career Opportunities and Migration Services.</p>
                 </div>
@@ -712,25 +712,25 @@
                     <div class="col-sm-6 mb-4 mb-md-0 mb-lg-0 aos-init aos-animate" data-aos="fade-up"
                         data-aos-delay="50">
                         <div class="icon-box d-inline-block rounded-circle bg-danger-soft">
-                            <i class="fas fa-phone fa-2x text-danger  text-dark"></i>
+                            <i class="fas fa-phone fa-2x dark-red"></i>
                         </div>
                         <div class="contact-info">
                             <h5>Call Us</h5>
                             <p>Questions about our product or pricing? Call for support</p>
-                            <a href="tel:+16464795816" class="read-more-link text-decoration-none text-danger  text-dark"><i
-                                    class="fas fa-phone me-2 text-danger  text-dark"></i>+1 (646)4795816</a>
+                            <a href="tel:+16464795816" class="read-more-link text-decoration-none dark-red"><i
+                                    class="fas fa-phone me-2 dark-red"></i>+1 (646)4795816</a>
                         </div>
                     </div>
                     <div class="col-sm-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                         <div class="icon-box d-inline-block rounded-circle bg-danger-soft">
-                            <i class="fas fa-headset fa-2x text-danger  text-dark"></i>
+                            <i class="fas fa-headset fa-2x dark-red"></i>
                         </div>
                         <div class="contact-info">
                             <h5>Chat Us</h5>
                             <p>Our support will help you from
                                 <strong>9am to 5pm EST.</strong>
                             </p>
-                            <a href="#crisp-chatbox" class="read-more-link text-decoration-none text-danger  text-dark"><i
+                            <a href="#crisp-chatbox" class="read-more-link text-decoration-none dark-red"><i
                                     class="fas fa-comment me-2"></i> Live Chat Now</a>
                         </div>
                     </div>
@@ -750,7 +750,7 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <label for="firstName" class="mb-1">First name <span
-                                        class="text-danger  text-dark">*</span></label>
+                                        class="dark-red">*</span></label>
                                 <div class="input-group mb-3">
                                     <input type="text" class="form-control" name="name" value=""
                                         id="firstName" required="" placeholder="First name"
@@ -768,7 +768,7 @@
                                 </div>
                             </div>
                             <div class="col-sm-6">
-                                <label for="phone" class="mb-1">Phone <span class="text-danger  text-dark">*</span></label>
+                                <label for="phone" class="mb-1">Phone <span class="dark-red">*</span></label>
                                 <div class="input-group mb-3">
                                     <input type="tel" name="phone" class="form-control" value=""
                                         required="" placeholder="Phone" aria-label="Phone"
@@ -779,7 +779,7 @@
                                 @enderror
                             </div>
                             <div class="col-sm-6">
-                                <label for="email" class="mb-1">Email<span class="text-danger  text-dark">*</span></label>
+                                <label for="email" class="mb-1">Email<span class="dark-red">*</span></label>
                                 <div class="input-group mb-3">
                                     <input type="email" name="email" class="form-control" value=""
                                         required="" placeholder="Email" aria-label="Email"
@@ -788,13 +788,13 @@
                             </div>
                             <div class="col-12">
                                 <label for="yourMessage" class="mb-1">Message <span
-                                        class="text-danger  text-dark">*</span></label>
+                                        class="dark-red">*</span></label>
                                 <div class="input-group mb-3">
                                     <textarea name="message" class="form-control" placeholder="Message"></textarea>
                                 </div>
                             </div>
                         </div>
-                        <button type="submit" class="btn btn-primary mt-4" fdprocessedid="ri7lf">Get in
+                        <button type="submit" class="btn btn-red mt-4" fdprocessedid="ri7lf">Get in
                             Touch</button>
                     </form>
                     <div id="thankYouMessage" style="display: none;">

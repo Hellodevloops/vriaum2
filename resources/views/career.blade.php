@@ -9,7 +9,7 @@
             <div class="col-lg-4 col-md-12">
                 <div class="section-heading">
                     {{-- <h4 class="h5 text-primary">Our Jobs</h4> --}}
-                    <h2>Current Available Positions at <span class="text-danger">VriAum Technologies </span></h2>
+                    <h2>Current Available Positions at <span class="dark-red">VriAum Technologies </span></h2>
                 </div>
             </div>
             <div class="col-lg-7 col-md-12">
@@ -103,7 +103,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-6 col-md-12">
                 <div class="section-heading text-center">
-                    <h4 class="h5 text-danger">Why Join Us</h4>
+                    <h4 class="h5 dark-red">Why Join Us</h4>
                     <h2>Great Working Environment</h2>
                     <p class="text-black">Discover a Thriving Work Culture that Fosters Collaboration, Creativity, and Personal Growth - Your Ideal Destination for Professional Excellence.</p>
                 </div>
@@ -112,7 +112,7 @@
         <div class="row">
             <div class="col-md-6 col-lg-6">
                 <div class="single-feature d-flex mt-0 p-5 bg-white rounded-custom">
-                    <span class="fas fa-house-user fa-2x text-danger"></span>
+                    <span class="fas fa-house-user fa-2x dark-red"></span>
                     <div class="ms-4 mt-2">
                         <h5>Remote Working Facilities</h5>
                         <p class="mb-0">Experience Seamless Connectivity and Optimal Productivity with our State-of-the-Art Remote Working Facilities.</p>
@@ -121,7 +121,7 @@
             </div>
             <div class="col-md-6 col-lg-6">
                 <div class="single-feature d-flex mt-4 mt-xl-0 mt-lg-0 mt-md-0 p-5 bg-white rounded-custom">
-                    <span class="fas fa-clock fa-2x text-danger"></span>
+                    <span class="fas fa-clock fa-2x dark-red"></span>
                     <div class="ms-4 mt-2">
                         <h5>Flexible Working Hours</h5>
                         <p class="mb-0">Empower Your Work-Life Balance with Flexible Working Hours Tailored to Your Needs and Priorities. </p>
@@ -130,7 +130,7 @@
             </div>
             <div class="col-md-6 col-lg-6">
                 <div class="single-feature d-flex mt-4 p-5 bg-white rounded-custom">
-                    <span class="fas fa-user-friends fa-2x text-danger"></span>
+                    <span class="fas fa-user-friends fa-2x dark-red"></span>
                     <div class="ms-4 mt-2">
                         <h5>Friendly Skilled Team</h5>
                         <p class="mb-0">Join a Friendly and Skilled Team that Embodies Collaboration, Support, and Continuous Learning to enhance your core qaulities and valuable skils. </p>
@@ -139,7 +139,7 @@
             </div>
             <div class="col-md-6 col-lg-6">
                 <div class="single-feature d-flex mt-4 p-5 bg-white rounded-custom">
-                    <span class="fas fa-briefcase-medical fa-2x text-danger"></span>
+                    <span class="fas fa-briefcase-medical fa-2x dark-red"></span>
                     <div class="ms-4 mt-2">
                         <h5>Medical Insurance Facilities</h5>
                         <p class="mb-0">Enjoy Peace of Mind with Comprehensive Medical Insurance Facilities that Prioritize Your Health and Well-being. </p>
@@ -177,7 +177,7 @@
                     </div>
                     <div class="col-sm-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                         <div class="icon-box d-inline-block rounded-circle bg-danger-soft">
-                            <i class="fas fa-headset fa-2x text-danger"></i>
+                            <i class="fas fa-headset fa-2x dark-red"></i>
                         </div>
                         <div class="contact-info">
                             <h5>Chat Us</h5>
@@ -204,7 +204,7 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <label for="firstName" class="mb-1">First name <span
-                                        class="text-danger">*</span></label>
+                                        class="dark-red">*</span></label>
                                 <div class="input-group mb-3">
                                     <input type="text" class="form-control" name="name" value=""
                                         id="firstName" required="" placeholder="First name"
@@ -222,7 +222,7 @@
                                 </div>
                             </div>
                             <div class="col-sm-6">
-                                <label for="phone" class="mb-1">Phone <span class="text-danger">*</span></label>
+                                <label for="phone" class="mb-1">Phone <span class="dark-red">*</span></label>
                                 <div class="input-group mb-3">
                                     <input type="tel" name="phone" class="form-control" value=""
                                         required="" placeholder="Phone" aria-label="Phone"
@@ -233,7 +233,7 @@
                                 @enderror
                             </div>
                             <div class="col-sm-6">
-                                <label for="email" class="mb-1">Email<span class="text-danger">*</span></label>
+                                <label for="email" class="mb-1">Email<span class="dark-red">*</span></label>
                                 <div class="input-group mb-3">
                                     <input type="email" name="email" class="form-control" value=""
                                         required="" placeholder="Email" aria-label="Email"
@@ -242,7 +242,7 @@
                             </div>
                             <div class="col-12">
                                 <label for="yourMessage" class="mb-1">Message <span
-                                        class="text-danger">*</span></label>
+                                        class="dark-red">*</span></label>
                                 <div class="input-group mb-3">
                                     <textarea name="message" class="form-control" placeholder="Message"></textarea>
                                 </div>

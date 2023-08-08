@@ -3,14 +3,14 @@
 
         <!--hero section start-->
 
-        <section class="hero-it-solution hero-nine-bg ptb-120" style="background: url('assets/img/ip1.jpg')no-repeat center center">
+        <section class="hero-it-solution hero-nine-bg ptb-120" style="background: url('assets/img/prbanner2.jpg')no-repeat center center">
 
             <div class="px-5">
                 <div class="row gx-5">
                    
                     <div class="col-lg-6 col-md-10">
                         <div class="hero-content-wrap mt-5 mt-lg-0 mt-xl-0">
-                            <h4 class="text-danger  text-dark   h5 mb-2"> Exploring International Programs </h4>
+                            <h4 class="dark-red   h5 mb-2"> Exploring International Programs </h4>
                             <h2 class="mb-4">Broaden Your Horizons through International Opportunities</h2>
                         
                         <!-- <p class=" text-dark">Welcome to VriAum for USA staffing, your reliable partner in connecting top talent with excellent opportunities. Our mission is to bridge the gap between job seekers and employers, making the recruitment process smooth and efficient.</p>
@@ -31,7 +31,7 @@
                         <div class="col-md-8 col-lg-6">
                             <div class="section-heading text-center mb-5">
                                 <!-- <h5 class="h6 text-white">Online Store</h5> -->
-                                <h6 class="text-danger  text-dark">services</h6>
+                                <h6 class="dark-red">services</h6>
                                 <h5 class="text-black"><b>Immigration Programm Services Takes Place Are:-</b> </h5>
                             </div>
                         </div>
@@ -55,7 +55,7 @@
                             </div> -->
                             <div class="bg-white text-center shadow-sm py-4 product-info">
                                 <h6>
-                                    <a href="" class="text-decoration-none text-danger  text-dark">Consultation and Assessment</a>
+                                    <a href="" class="text-decoration-none dark-red">Consultation and Assessment</a>
                                 </h6>
                                 <!-- <span class="fw-bold">120.00$ </span> -->
                             </div>
@@ -77,7 +77,7 @@
                             </div> -->
                             <div class="bg-white text-center shadow-sm py-4 product-info">
                                 <h6>
-                                    <a href="" class="text-decoration-none text-danger  text-dark">Application Submission
+                                    <a href="" class="text-decoration-none dark-red">Application Submission
                                     </a>
                                 </h6>
                                 <!-- <span class="fw-bold">56.00$ </span> -->
@@ -100,7 +100,7 @@
                             </div> -->
                             <div class="bg-white text-center shadow-sm py-4 product-info">
                                 <h6>
-                                    <a href="" class="text-decoration-none text-danger  text-dark">Legal Advice and Guidance</a>
+                                    <a href="" class="text-decoration-none dark-red">Legal Advice and Guidance</a>
                                 </h6>
                                 <!-- <span class="fw-bold">175.00$ </span>
                                 <span class="text-decoration-line-through"> 150.00$</span> -->
@@ -122,7 +122,7 @@
                             </div> -->
                             <div class="bg-white text-center shadow-sm py-4 product-info">
                                 <h6>
-                                    <a href="" class="text-decoration-none text-danger  text-dark">Interview preparation</a>
+                                    <a href="" class="text-decoration-none dark-red">Interview preparation</a>
                                 </h6>
                                 <!-- <span class="fw-bold">175.00$ </span>
                                 <span class="text-decoration-line-through"> 150.00$</span> -->
@@ -147,7 +147,7 @@
                     </div>
                     <div class="col-xl-6 col-lg-6">
                         <div class="sc-about-right">
-                            <h3 class="sc-heading-color mb-4 text-danger  text-dark">Why Choose Us for Your International Program Journey?</h3>
+                            <h3 class="sc-heading-color mb-4 dark-red">Why Choose Us for Your International Program Journey?</h3>
                             <p class="text-black text-dark"> <b>Assisting You Every Step of the Way</b></p>
                             <p class="mb-0 text-black">Our experienced team understands that your journey is unique. We offer a diverse range of international programs that cater to various interests, ensuring that your experience is tailored to align with your goals. With our expertise, we're equipped to provide insightful guidance on the most suitable program for you, maximizing your chance of a fulfilling adventure <br><br>
                             you're embarking on a life-changing experience that will broaden your horizons, forge lasting connections, and leave you with memories that last a lifetime. Choose us to be your partner in this incredible journey.</p>
@@ -177,8 +177,8 @@
                             <div class="crm-title mb-5">
                                 <!-- <span class="crm-subtitle">Integration Software <img src="assets/img/shape/arrow-red.png" alt="arrow" class="ms-1"></span> -->
                                 <h5 class="mt-2 mb-3">Foreign Worker Recruitment<img src="assets/img/shape/arrow-red.png" alt="arrow" class="ms-1"></h5>
-                                <p1  class="text-danger  text-dark text-dark">Vriaum Technologies Canada and USA Inc</p1>
-                                <p class="mb-0 text-black"><b>recruitment strategy extends internationally where we utilize our worldwide network of partner agencies and <span class="text-danger  text-dark text-dark"> recruiting professionals to fill the following types of positions in Canada and USA with foreign workers</span>:</p>
+                                <p1  class="dark-red text-dark">Vriaum Technologies Canada and USA Inc</p1>
+                                <p class="mb-0 text-black"><b>recruitment strategy extends internationally where we utilize our worldwide network of partner agencies and <span class="dark-red text-dark"> recruiting professionals to fill the following types of positions in Canada and USA with foreign workers</span>:</p>
                                 <ul class="mk-pricing-list list-unstyled text-primary">
                                     <li class="text-black">
                                         <span class="me-2">
@@ -271,7 +271,7 @@
                         <h6 class="heading-4 margin-bottom-8 clr-text">
                         Immigration Program FAQs:-
                         </h6>
-                        <p1 class="clr-paragraph margin-bottom-10 text-danger  text-dark   ">
+                        <p1 class="clr-paragraph margin-bottom-10 dark-red   ">
                         Answers to Common Questions About Our Immigration Program.
 </p1>
                         <!-- <a href="#" class="link d-inline-flex padding-y-3 padding-x-10 margin-bottom-10 text-center rounded-pill bgc-primary font-weight-bold clr-white :clr-white">
@@ -326,7 +326,7 @@
                     <div class="row justify-content-center align-content-center">
                         <div class="col-md-10 col-lg-6">
                             <div class="section-heading text-center">
-                                <h4 class="h5 text-primary">Testimonial</h4>
+                                <h4 class="h5 dark-red">Testimonial</h4>
                                 <h2>What They Say About Us</h2>
                                 <p>Uniquely promote adaptive quality vectors rather than stand-alone e-markets. pontificate
                                     alternative architectures whereas iterate.</p>
@@ -642,7 +642,7 @@
                             </div>
                             <div class="col-sm-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                                 <div class="icon-box d-inline-block rounded-circle bg-danger-soft">
-                                    <i class="fas fa-headset fa-2x text-danger  text-dark"></i>
+                                    <i class="fas fa-headset fa-2x dark-red"></i>
                                 </div>
                                 <div class="contact-info">
                                     <h5>Chat Us</h5>
@@ -669,7 +669,7 @@
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <label for="firstName" class="mb-1">First name <span
-                                                class="text-danger  text-dark">*</span></label>
+                                                class="dark-red">*</span></label>
                                         <div class="input-group mb-3">
                                             <input type="text" class="form-control" name="name" value=""
                                                 id="firstName" required="" placeholder="First name"
@@ -687,7 +687,7 @@
                                         </div>
                                     </div>
                                     <div class="col-sm-6">
-                                        <label for="phone" class="mb-1">Phone <span class="text-danger  text-dark">*</span></label>
+                                        <label for="phone" class="mb-1">Phone <span class="dark-red">*</span></label>
                                         <div class="input-group mb-3">
                                             <input type="tel" name="phone" class="form-control" value=""
                                                 required="" placeholder="Phone" aria-label="Phone"
@@ -698,7 +698,7 @@
                                         @enderror
                                     </div>
                                     <div class="col-sm-6">
-                                        <label for="email" class="mb-1">Email<span class="text-danger  text-dark">*</span></label>
+                                        <label for="email" class="mb-1">Email<span class="dark-red">*</span></label>
                                         <div class="input-group mb-3">
                                             <input type="email" name="email" class="form-control" value=""
                                                 required="" placeholder="Email" aria-label="Email"
@@ -707,13 +707,13 @@
                                     </div>
                                     <div class="col-12">
                                         <label for="yourMessage" class="mb-1">Message <span
-                                                class="text-danger  text-dark">*</span></label>
+                                                class="dark-red">*</span></label>
                                         <div class="input-group mb-3">
                                             <textarea name="message" class="form-control" placeholder="Message"></textarea>
                                         </div>
                                     </div>
                                 </div>
-                                <button type="submit" class="btn btn-primary mt-4" fdprocessedid="ri7lf">Get in
+                                <button type="submit" class="btn btn-red mt-4" fdprocessedid="ri7lf">Get in
                                     Touch</button>
                             </form>
                             <div id="thankYouMessage" style="display: none;">
