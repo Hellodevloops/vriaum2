@@ -755,7 +755,7 @@
                                 </div>
                             </div>
                         </div>
-                        <button type="submit" class="btn btn-primary mt-4" fdprocessedid="ri7lf">Get in
+                        <button type="submit" class="btn btn-red mt-4" fdprocessedid="ri7lf">Get in
                             Touch</button>
                     </form>
                     <div id="thankYouMessage" style="display: none;">
@@ -807,3 +807,4 @@
     </div>
 </section>
  @endsection
+<!-- end -->
