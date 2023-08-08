@@ -43,7 +43,7 @@
                 <div class="col-lg-6 col-md-10">
                     <div class="section-heading text-center text-black">
                         <h2>With the Approaches You Need</h2>
-                        <p class="text-danger  text-dark text-dark">At VriAum, we believe that every individual and every business is unique. That's why we take a
+                        <p class="dark-red text-dark">At VriAum, we believe that every individual and every business is unique. That's why we take a
                             personalized approach to each staffing requirement:</p>
 
                     </div>
@@ -61,7 +61,7 @@
                                 If you do, you must be able to:
 
                                 support them financially
-                               <span class="text-danger  text-dark text-dark"> make sure they don’t need social assistance from the government.</span> </p>
+                               <span class="dark-red text-dark"> make sure they don’t need social assistance from the government.</span> </p>
                         </div>
 
                         <div class="cta-img position-absolute right-0 bottom-0">
@@ -74,7 +74,7 @@
                         <div class="cta-left-info mb-2">
                             <h5>Sponsor your parents and grandparents</h5>
                             <p class="text-black">Canada is known for its diverse economy. Bring your family closer to home. 
-                            <span class="text-danger  text-dark">  Initiate the immigration process for your parents and grandparents </span>to join you in Canada, building a future rich with cherished moments and shared joy</p>
+                            <span class="dark-red">  Initiate the immigration process for your parents and grandparents </span>to join you in Canada, building a future rich with cherished moments and shared joy</p>
                         </div>
 
                         <div class="cta-img position-absolute right-0 bottom-0">
@@ -166,7 +166,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Sponsorship Application Forms.
@@ -176,7 +176,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Proof of Status.
@@ -186,7 +186,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Relationship Proof.
@@ -196,7 +196,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Identification Documents.
@@ -206,7 +206,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Proof of Financial Support.
@@ -216,7 +216,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Police Clearance Certificate.
@@ -226,7 +226,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Medical Examination Reports.
@@ -236,7 +236,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Other Supporting Documents.
@@ -252,9 +252,9 @@
                         <div class="tab-pane fade" id="digitalMarketing" role="tabpanel">
                             <div class="border border-red-clr rounded-4 padding-4">
                                 <div
-                                    class="social-media-content bgc-white rounded-4 section-space padding-x-2 padding-x-xsm-4 padding-x-sm-8 padding-x-md-12 padding-end-xxl-25">
+                                    class="social-media-cont bgc-white rounded-4 section-space padding-x-2 padding-x-xsm-4 padding-x-sm-8 padding-x-md-12 padding-end-xxl-25">
                                     <div class="row">
-                                        <div class="col-lg-5 col-xl-6 col-xxl-7 ms-lg-auto">
+                                        <div class="col-lg-7 col-xl-6 col-xxl-5 ms-lg-auto">
                                             <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
                                                 Parents Or Grandparents.
                                             </h5>
@@ -263,7 +263,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Sponsorship Application Forms.
@@ -273,7 +273,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Proof of Status.
@@ -283,7 +283,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Relationship Proof.
@@ -293,7 +293,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Identification Documents.
@@ -303,7 +303,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Police Clearance Certificate.
@@ -313,7 +313,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Photos.
@@ -323,7 +323,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Family Composition.
@@ -333,7 +333,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Letter of Invitation.
@@ -343,7 +343,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Medical Examination Reports.
@@ -353,7 +353,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Other Supporting Documents.
@@ -369,7 +369,7 @@
                         <div class="tab-pane fade" id="emailMarketing" role="tabpanel">
                             <div class="border border-red-clr rounded-4 padding-4">
                                 <div
-                                    class="social-media-content bgc-white rounded-4 section-space padding-x-2 padding-x-xsm-4 padding-x-sm-8 padding-x-md-12 padding-end-xxl-25">
+                                    class="social-media-conte bgc-white rounded-4 section-space padding-x-2 padding-x-xsm-4 padding-x-sm-8 padding-x-md-12 padding-end-xxl-25">
                                     <div class="row">
                                         <div class="col-lg-5 col-xl-6 col-xxl-7 ms-lg-auto">
                                             <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
@@ -380,7 +380,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Sponsorship Application Forms.
@@ -390,7 +390,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Consent from Non-Accompanying Parent.
@@ -400,7 +400,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Custody or Guardianship Documents (if applicable).
@@ -410,7 +410,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Identification Documents.
@@ -420,7 +420,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Police Clearance Certificate.
@@ -430,7 +430,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Photos.
@@ -440,7 +440,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Family Composition.
@@ -450,7 +450,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Sponsorship Undertaking.
@@ -460,7 +460,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Medical Examination Reports.
@@ -470,7 +470,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1 text-black">
                                                             Other Supporting Documents.
@@ -501,7 +501,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1">
                                                             Apply for a PR card.
@@ -511,7 +511,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1">
                                                             Get a PR photo
@@ -521,7 +521,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1">
                                                             Permanent resident travel document
@@ -531,7 +531,7 @@
                                                 <li>
                                                     <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                         <div class="flex-shrink-0">
-                                                            <i class="far fa-check-circle text-danger  text-dark"></i>
+                                                            <i class="far fa-check-circle dark-red"></i>
                                                         </div>
                                                         <p class="mb-0 flex-grow-1">
                                                             Check application status
@@ -560,7 +560,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-10">
                     <div class="section-heading text-center aos-init aos-animate" data-aos="fade-up">
-                        <h4 class="h5 text-danger  text-dark">Services and information</h4>
+                        <h4 class="h5 dark-red">Services and information</h4>
                         <p class="h4 text-black">Parents, Spouse or Child super visa:</p>
                         <!-- <h6>Eligibility to apply for the Federal Skilled Trades Program (Express Entry)</h6> -->
 
@@ -693,7 +693,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="section-heading text-center aos-init aos-animate" data-aos="fade-up">
-                        <h4 class="h5 text-danger  text-dark">FAQ</h4>
+                        <h4 class="h5 dark-red">FAQ</h4>
                         <h2>Frequently Asked Questions</h2>
                        
                     </div>
@@ -703,7 +703,7 @@
                 <div class="col-lg-6 col-md-10">
                     <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up"
                         data-aos-delay="50">
-                        <!-- <span class="faq-icon me-3"><i class="fas fa-copyright text-danger  text-dark"></i></span> -->
+                        <!-- <span class="faq-icon me-3"><i class="fas fa-copyright dark-red"></i></span> -->
                         <div class="faq-info">
                             <h5>Who is eligible to sponsor a family member in Canada?</h5>
                             <p class="mb-0 text-black">Canadian citizens and permanent residents who are at least 18 years
@@ -714,7 +714,7 @@
                 <div class="col-lg-6 col-md-10">
                     <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up"
                         data-aos-delay="100">
-                        <!-- <span class="faq-icon me-3"><i class="fas fa-credit-card text-danger  text-dark"></i></span> -->
+                        <!-- <span class="faq-icon me-3"><i class="fas fa-credit-card dark-red"></i></span> -->
                         <div class="faq-info">
                             <h5>Which family members can be sponsored under family sponsorship?</h5>
                             <p class="mb-0 text-black">Spouses, common-law partners, conjugal partners, dependent children,
@@ -725,7 +725,7 @@
                 <div class="col-lg-6 col-md-10">
                     <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up"
                         data-aos-delay="150">
-                        <!-- <span class="faq-icon me-3"><i class="fas fa-file text-danger  text-dark"></i></span> -->
+                        <!-- <span class="faq-icon me-3"><i class="fas fa-file dark-red"></i></span> -->
                         <div class="faq-info">
                             <h5>Are same-sex marriages recognized for family sponsorship?</h5>
                             <p class="mb-0 text-black">Yes, same-sex marriages for family sponsorship, provided they are
@@ -736,7 +736,7 @@
                 <div class="col-lg-6 col-md-10">
                     <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up"
                         data-aos-delay="200">
-                        <!-- <span class="faq-icon me-3"><i class="fas fa-microphone text-danger  text-dark"></i></span> -->
+                        <!-- <span class="faq-icon me-3"><i class="fas fa-microphone dark-red"></i></span> -->
                         <div class="faq-info">
                             <h5>What are the financial requirements for sponsors? </h5>
                             <p class="mb-0 text-black">Sponsors must meet minimum income requirements and sign an agreement
@@ -747,7 +747,7 @@
                 <div class="col-lg-6 col-md-10">
                     <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up"
                         data-aos-delay="250">
-                        <!-- <span class="faq-icon me-3"><i class="fas fa-play-circle text-danger  text-dark"></i></span> -->
+                        <!-- <span class="faq-icon me-3"><i class="fas fa-play-circle dark-red"></i></span> -->
                         <div class="faq-info">
                             <h5>Are there any limitations on sponsoring multiple family members?</h5>
                             <p class="mb-0 text-black">Yes, there are specific guidelines and eligibility criteria for
@@ -758,7 +758,7 @@
                 <div class="col-lg-6 col-md-10">
                     <div class="faq-content-wrap d-flex mb-5 aos-init aos-animate" data-aos="fade-up"
                         data-aos-delay="300">
-                        <!-- <span class="faq-icon me-3"><i class="fas fa-code-branch text-danger  text-dark"></i></span> -->
+                        <!-- <span class="faq-icon me-3"><i class="fas fa-code-branch dark-red"></i></span> -->
                         <div class="faq-info">
                             <h5>Can parents and grandparents be sponsored under family sponsorship?</h5>
                             <p class="mb-0 text-black">Yes, permanent residents can sponsor their parents and grandparents
@@ -795,7 +795,7 @@
             <div class="row justify-content-center align-content-center">
                 <div class="col-md-10 col-lg-6">
                     <div class="section-heading text-center">
-                        <h4 class="h5 text-danger  text-dark text-dark">Testimonial</h4>
+                        <h4 class="h5 dark-red text-dark">Testimonial</h4>
                         <h2>What They Say About Us</h2>
                         <p>Uniquely promote adaptive quality vectors rather than stand-alone e-markets. pontificate
                             alternative architectures whereas iterate.</p>
@@ -1131,7 +1131,7 @@
             <div class="row justify-content-between">
                 <div class="col-xl-5 col-lg-5 col-md-12">
                     <div class="section-heading aos-init aos-animate" data-aos="fade-up">
-                        <h4 class="h5 text-danger  text-dark">Quick Support</h4>
+                        <h4 class="h5 dark-red">Quick Support</h4>
                         <h2>Get in Touch Today!</h2>
                         <p> Consultancy Contact for Career Opportunities and Migration Services.</p>
                     </div>
@@ -1139,25 +1139,25 @@
                         <div class="col-sm-6 mb-4 mb-md-0 mb-lg-0 aos-init aos-animate" data-aos="fade-up"
                             data-aos-delay="50">
                             <div class="icon-box d-inline-block rounded-circle bg-primary-soft">
-                                <i class="fas fa-phone fa-2x text-danger  text-dark"></i>
+                                <i class="fas fa-phone fa-2x dark-red"></i>
                             </div>
                             <div class="contact-info">
                                 <h5>Call Us</h5>
                                 <p>Questions about our product or pricing? Call for support</p>
-                                <a href="tel:+16464795816" class="read-more-link text-decoration-none text-danger  text-dark"><i
-                                        class="fas fa-phone me-2 text-danger  text-dark"></i>+1 (646)4795816</a>
+                                <a href="tel:+16464795816" class="read-more-link text-decoration-none dark-red"><i
+                                        class="fas fa-phone me-2 dark-red"></i>+1 (646)4795816</a>
                             </div>
                         </div>
                         <div class="col-sm-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                             <div class="icon-box d-inline-block rounded-circle bg-danger-soft">
-                                <i class="fas fa-headset fa-2x text-danger  text-dark"></i>
+                                <i class="fas fa-headset fa-2x dark-red"></i>
                             </div>
                             <div class="contact-info">
                                 <h5>Chat Us</h5>
                                 <p>Our support will help you from
                                     <strong>9am to 5pm EST.</strong>
                                 </p>
-                                <a href="#crisp-chatbox" class="read-more-link text-decoration-none text-danger  text-dark"><i
+                                <a href="#crisp-chatbox" class="read-more-link text-decoration-none dark-red"><i
                                         class="fas fa-comment me-2"></i> Live Chat Now</a>
                             </div>
                         </div>
@@ -1177,7 +1177,7 @@
                             <div class="row">
                                 <div class="col-sm-6">
                                     <label for="firstName" class="mb-1">First name <span
-                                            class="text-danger  text-dark">*</span></label>
+                                            class="dark-red">*</span></label>
                                     <div class="input-group mb-3">
                                         <input type="text" class="form-control" name="name" value=""
                                             id="firstName" required="" placeholder="First name"
@@ -1195,7 +1195,7 @@
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
-                                    <label for="phone" class="mb-1">Phone <span class="text-danger  text-dark">*</span></label>
+                                    <label for="phone" class="mb-1">Phone <span class="dark-red">*</span></label>
                                     <div class="input-group mb-3">
                                         <input type="tel" name="phone" class="form-control" value=""
                                             required="" placeholder="Phone" aria-label="Phone"
@@ -1206,7 +1206,7 @@
                                     @enderror
                                 </div>
                                 <div class="col-sm-6">
-                                    <label for="email" class="mb-1">Email<span class="text-danger  text-dark">*</span></label>
+                                    <label for="email" class="mb-1">Email<span class="dark-red">*</span></label>
                                     <div class="input-group mb-3">
                                         <input type="email" name="email" class="form-control" value=""
                                             required="" placeholder="Email" aria-label="Email"
@@ -1215,7 +1215,7 @@
                                 </div>
                                 <div class="col-12">
                                     <label for="yourMessage" class="mb-1">Message <span
-                                            class="text-danger  text-dark">*</span></label>
+                                            class="dark-red">*</span></label>
                                     <div class="input-group mb-3">
                                         <textarea name="message" class="form-control" placeholder="Message"></textarea>
                                     </div>
