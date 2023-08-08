@@ -13,7 +13,7 @@
                 <div class="row ">
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-primary-soft text-danger mb-4">
+                            <div class="feature-icon pb-5 rounded bg-primary-soft text-danger  text-dark mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-pencil-square" viewBox="0 0 16 16">
   <path d="M15.502 1.94a.5.5 0 0 1 0 .706L14.459 3.69l-2-2L13.502.646a.5.5 0 0 1 .707 0l1.293 1.293zm-1.75 2.456-2-2L4.939 9.21a.5.5 0 0 0-.121.196l-.805 2.414a.25.25 0 0 0 .316.316l2.414-.805a.5.5 0 0 0 .196-.12l6.813-6.814z"/>
   <path fill-rule="evenodd" d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5v11z"/>
@@ -31,7 +31,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-primary-soft text-danger mb-4">
+                            <div class="feature-icon pb-5 rounded bg-primary-soft text-danger  text-dark mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-people" viewBox="0 0 16 16">
   <path d="M15 14s1 0 1-1-1-4-5-4-5 3-5 4 1 1 1 1h8Zm-7.978-1A.261.261 0 0 1 7 12.996c.001-.264.167-1.03.76-1.72C8.312 10.629 9.282 10 11 10c1.717 0 2.687.63 3.24 1.276.593.69.758 1.457.76 1.72l-.008.002a.274.274 0 0 1-.014.002H7.022ZM11 7a2 2 0 1 0 0-4 2 2 0 0 0 0 4Zm3-2a3 3 0 1 1-6 0 3 3 0 0 1 6 0ZM6.936 9.28a5.88 5.88 0 0 0-1.23-.247A7.35 7.35 0 0 0 5 9c-4 0-5 3-5 4 0 .667.333 1 1 1h4.216A2.238 2.238 0 0 1 5 13c0-1.01.377-2.042 1.09-2.904.243-.294.526-.569.846-.816ZM4.92 10A5.493 5.493 0 0 0 4 13H1c0-.26.164-1.03.76-1.724.545-.636 1.492-1.256 3.16-1.275ZM1.5 5.5a3 3 0 1 1 6 0 3 3 0 0 1-6 0Zm3-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4Z"/>
 </svg>
@@ -47,7 +47,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-primary-soft text-danger mb-4">
+                            <div class="feature-icon pb-5 rounded bg-primary-soft text-danger  text-dark mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-cash-coin" viewBox="0 0 16 16">
   <path fill-rule="evenodd" d="M11 15a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm5-4a5 5 0 1 1-10 0 5 5 0 0 1 10 0z"/>
   <path d="M9.438 11.944c.047.596.518 1.06 1.363 1.116v.44h.375v-.443c.875-.061 1.386-.529 1.386-1.207 0-.618-.39-.936-1.09-1.1l-.296-.07v-1.2c.376.043.614.248.671.532h.658c-.047-.575-.54-1.024-1.329-1.073V8.5h-.375v.45c-.747.073-1.255.522-1.255 1.158 0 .562.378.92 1.007 1.066l.248.061v1.272c-.384-.058-.639-.27-.696-.563h-.668zm1.36-1.354c-.369-.085-.569-.26-.569-.522 0-.294.216-.514.572-.578v1.1h-.003zm.432.746c.449.104.655.272.655.569 0 .339-.257.571-.709.614v-1.195l.054.012z"/>
@@ -66,7 +66,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-primary-soft text-danger mb-4">
+                            <div class="feature-icon pb-5 rounded bg-primary-soft text-danger  text-dark mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-bar-up" viewBox="0 0 16 16">
   <path fill-rule="evenodd" d="M8 10a.5.5 0 0 0 .5-.5V3.707l2.146 2.147a.5.5 0 0 0 .708-.708l-3-3a.5.5 0 0 0-.708 0l-3 3a.5.5 0 1 0 .708.708L7.5 3.707V9.5a.5.5 0 0 0 .5.5zm-7 2.5a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 0 1h-13a.5.5 0 0 1-.5-.5z"/>
 </svg>
@@ -82,7 +82,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-primary-soft text-danger mb-4">
+                            <div class="feature-icon pb-5 rounded bg-primary-soft text-danger  text-dark mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-person-check-fill" viewBox="0 0 16 16">
   <path fill-rule="evenodd" d="M15.854 5.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 0 1 .708-.708L12.5 7.793l2.646-2.647a.5.5 0 0 1 .708 0z"/>
   <path d="M1 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H1zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
@@ -99,7 +99,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="cyber-single-service bg-white rounded-custom mb-30">
-                            <div class="feature-icon pb-5 rounded bg-primary-soft text-danger mb-4">
+                            <div class="feature-icon pb-5 rounded bg-primary-soft text-danger  text-dark mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-calendar-check" viewBox="0 0 16 16">
   <path d="M10.854 7.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 9.793l2.646-2.647a.5.5 0 0 1 .708 0z"/>
   <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM1 4v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4H1z"/>
@@ -136,7 +136,7 @@
 <!-- about service end -->
         <!--features grid section start--> 
         <section class="feature-promo  bg-light-subtle ">
-            <div class="container">
+            <div class="container ptb-20">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-10">
                         <div class="section-heading text-center">
@@ -152,7 +152,7 @@
                         <div class="position-relative d-flex flex-column h-100 flex-wrap bg-primary-soft p-5 rounded-custom">
                             <div class="cta-left-info mb-2">
                                 <h5>Nomination:</h5>
-                                <p1><span class="text-black">After the application is submitted and assessed by the province, successful candidates are nominated for permanent residence in Canada. This<span class="text-danger"> nomination adds additional points to the candidate's Express Entry CRS score</span>, significantly increasing their chances of receiving an ITA in the federal Express Entry draws.</span> </p1>
+                                <p1><span class="text-black">After the application is submitted and assessed by the province, successful candidates are nominated for permanent residence in Canada. This<span class="text-danger  text-dark"> nomination adds additional points to the candidate's Express Entry CRS score</span>, significantly increasing their chances of receiving an ITA in the federal Express Entry draws.</span> </p1>
                             </div>
                             
                             <div class="cta-img position-absolute right-0 bottom-0">
@@ -164,7 +164,7 @@
                         <div class="position-relative d-flex flex-column h-100 flex-wrap bg-danger-soft p-5 rounded-custom">
                             <div class="cta-left-info mb-2">
                                 <h5>Applying for Permanent Residence</h5>
-                                <p1><span class="text-black">Once nominated by the province, candidates <span class="text-danger">submit their application for permanent residence to Immigration, Refugees, and Citizenship Canada (IRCC)</span>. The federal government reviews the application for medical and security checks before issuing permanent resident visas</span>.</p1>
+                                <p1><span class="text-black">Once nominated by the province, candidates <span class="text-danger  text-dark">submit their application for permanent residence to Immigration, Refugees, and Citizenship Canada (IRCC)</span>. The federal government reviews the application for medical and security checks before issuing permanent resident visas</span>.</p1>
                             </div>
                             
                             <div class="cta-img position-absolute right-0 bottom-0">
@@ -240,9 +240,10 @@
                         <div class="tab-content">
                             <div class="tab-pane fade" id="webDesign" role="tabpanel">
                                 <div class="border border-red-clr rounded-4 padding-4">
-                                    <div class="social-media-content bgc-white rounded-4 section-space padding-x-2 padding-x-xsm-4 padding-x-sm-8 padding-x-md-12 padding-end-xxl-25">
+                                    <div class="social-media-c bgc-white rounded-4 section-space padding-x-2 padding-x-xsm-4 padding-x-sm-8 padding-x-md-12 padding-end-xxl-25">
                                         <div class="row">
                                             <div class="col-lg-5 col-xl-6 col-xxl-7 ms-lg-auto">
+                                            
                                                 <h5 class="heading-5 font-weight-semibold margin-bottom-5 clr-text">
                                                     Express Entry
                                                 </h5>
@@ -253,7 +254,7 @@
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle text-danger"></i>
+                                                                <i class="far fa-check-circle text-danger  text-dark"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Federal Skilled Worker Program.
@@ -263,7 +264,7 @@
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle text-danger"></i>
+                                                                <i class="far fa-check-circle text-danger  text-dark"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Federal Skilled Trades Program.
@@ -273,7 +274,7 @@
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle text-danger"></i>
+                                                                <i class="far fa-check-circle text-danger  text-dark"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Canadian Experience Class.
@@ -301,7 +302,7 @@
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle text-danger"></i>
+                                                                <i class="far fa-check-circle text-danger  text-dark"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Determine your eligibility
@@ -311,7 +312,7 @@
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle text-danger"></i>
+                                                                <i class="far fa-check-circle text-danger  text-dark"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Check processing times
@@ -321,7 +322,7 @@
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle text-danger"></i>
+                                                                <i class="far fa-check-circle text-danger  text-dark"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             After you apply: get next steps
@@ -331,7 +332,7 @@
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle text-danger"></i>
+                                                                <i class="far fa-check-circle text-danger  text-dark"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Prepare for arrival
@@ -364,7 +365,7 @@
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle text-danger"></i>
+                                                                <i class="far fa-check-circle text-danger  text-dark"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Sponsor your spouse, partner or dependent children
@@ -374,7 +375,7 @@
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle text-danger"></i>
+                                                                <i class="far fa-check-circle text-danger  text-dark"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black ">
                                                             Sponsor your parents and grandparents
@@ -384,7 +385,7 @@
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle text-danger"></i>
+                                                                <i class="far fa-check-circle text-danger  text-dark"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Parent and Grandparent Super Visa
@@ -412,7 +413,7 @@
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle text-danger"></i>
+                                                                <i class="far fa-check-circle text-danger  text-dark"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Apply for a PR card.
@@ -422,7 +423,7 @@
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle text-danger"></i>
+                                                                <i class="far fa-check-circle text-danger  text-dark"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Get a PR photo
@@ -432,9 +433,9 @@
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle text-danger"></i>
+                                                                <i class="far fa-check-circle text-danger  text-dark"></i>
                                                             </div>
-                                                            <p class="mb-0 flex-grow-1 text-black text-danger">
+                                                            <p class="mb-0 flex-grow-1 text-black text-danger  text-dark">
                                                             Permanent resident travel document
                                                             </p>
                                                         </div>
@@ -442,7 +443,7 @@
                                                     <li>
                                                         <div class="d-flex gap-2 align-items-center clr-paragraph">
                                                             <div class="flex-shrink-0">
-                                                                <i class="far fa-check-circle text-danger"></i>
+                                                                <i class="far fa-check-circle text-danger  text-dark"></i>
                                                             </div>
                                                             <p class="mb-0 flex-grow-1 text-black">
                                                             Check application status
@@ -473,7 +474,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="section-heading text-center aos-init aos-animate" data-aos="fade-up">
-                            <h4 class="h5 text-danger">FAQ</h4>
+                            <h4 class="h5 text-danger  text-dark">FAQ</h4>
                             <h2>Frequently Asked Questions</h2>
                             <p>Efficiently network cross-unit paradigms for premier technologies scale 24/7 paradigms for process-centric data interoperable.</p>
                         </div>
@@ -562,7 +563,7 @@
                     <div class="row justify-content-center align-content-center">
                         <div class="col-md-10 col-lg-6">
                             <div class="section-heading text-center">
-                                <h4 class="h5 text-primary">Testimonial</h4>
+                                <h4 class="h5 text-danger  text-dark">Testimonial</h4>
                                 <h2>What They Say About Us</h2>
                                 <p>Uniquely promote adaptive quality vectors rather than stand-alone e-markets. pontificate
                                     alternative architectures whereas iterate.</p>
@@ -863,7 +864,7 @@
         <div class="row justify-content-between">
             <div class="col-xl-5 col-lg-5 col-md-12">
                 <div class="section-heading aos-init aos-animate" data-aos="fade-up">
-                    <h4 class="h5 text-primary">Quick Support</h4>
+                    <h4 class="h5 text-danger  text-dark">Quick Support</h4>
                     <h2>Get in Touch Today!</h2>
                     <p> Consultancy Contact for Career Opportunities and Migration Services.</p>
                 </div>
@@ -871,25 +872,25 @@
                     <div class="col-sm-6 mb-4 mb-md-0 mb-lg-0 aos-init aos-animate" data-aos="fade-up"
                         data-aos-delay="50">
                         <div class="icon-box d-inline-block rounded-circle bg-primary-soft">
-                            <i class="fas fa-phone fa-2x text-primary"></i>
+                            <i class="fas fa-phone fa-2x text-danger  text-dark"></i>
                         </div>
                         <div class="contact-info">
                             <h5>Call Us</h5>
                             <p>Questions about our product or pricing? Call for support</p>
-                            <a href="tel:+16464795816" class="read-more-link text-decoration-none"><i
-                                    class="fas fa-phone me-2"></i>+1 (646)4795816</a>
+                            <a href="tel:+16464795816" class="read-more-link text-decoration-none text-danger  text-dark"><i
+                                    class="fas fa-phone me-2 text-danger  text-dark"></i>+1 (646)4795816</a>
                         </div>
                     </div>
                     <div class="col-sm-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                         <div class="icon-box d-inline-block rounded-circle bg-danger-soft">
-                            <i class="fas fa-headset fa-2x text-danger"></i>
+                            <i class="fas fa-headset fa-2x text-danger  text-dark"></i>
                         </div>
                         <div class="contact-info">
                             <h5>Chat Us</h5>
                             <p>Our support will help you from
                                 <strong>9am to 5pm EST.</strong>
                             </p>
-                            <a href="#crisp-chatbox" class="read-more-link text-decoration-none"><i
+                            <a href="#crisp-chatbox" class="read-more-link text-decoration-none text-danger  text-dark"><i
                                     class="fas fa-comment me-2"></i> Live Chat Now</a>
                         </div>
                     </div>
@@ -909,7 +910,7 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <label for="firstName" class="mb-1">First name <span
-                                        class="text-danger">*</span></label>
+                                        class="text-danger  text-dark">*</span></label>
                                 <div class="input-group mb-3">
                                     <input type="text" class="form-control" name="name" value=""
                                         id="firstName" required="" placeholder="First name"
@@ -927,7 +928,7 @@
                                 </div>
                             </div>
                             <div class="col-sm-6">
-                                <label for="phone" class="mb-1">Phone <span class="text-danger">*</span></label>
+                                <label for="phone" class="mb-1">Phone <span class="text-danger  text-dark">*</span></label>
                                 <div class="input-group mb-3">
                                     <input type="tel" name="phone" class="form-control" value=""
                                         required="" placeholder="Phone" aria-label="Phone"
@@ -938,7 +939,7 @@
                                 @enderror
                             </div>
                             <div class="col-sm-6">
-                                <label for="email" class="mb-1">Email<span class="text-danger">*</span></label>
+                                <label for="email" class="mb-1">Email<span class="text-danger  text-dark">*</span></label>
                                 <div class="input-group mb-3">
                                     <input type="email" name="email" class="form-control" value=""
                                         required="" placeholder="Email" aria-label="Email"
@@ -947,7 +948,7 @@
                             </div>
                             <div class="col-12">
                                 <label for="yourMessage" class="mb-1">Message <span
-                                        class="text-danger">*</span></label>
+                                        class="text-danger  text-dark">*</span></label>
                                 <div class="input-group mb-3">
                                     <textarea name="message" class="form-control" placeholder="Message"></textarea>
                                 </div>

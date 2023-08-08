@@ -18,7 +18,7 @@
                                 "Welcome to our comprehensive platform dedicated to guiding you on your journey to a new life in Canada and the USA. Whether you're seeking better career opportunities, world-class education, or a safe and welcoming environment, our team of immigration experts is here to help you navigate the complexities of immigration processes and make your dream of moving to Canada or the USA a reality."
                             </p>
                             <div class="action-btn mt-5 align-items-center d-block d-sm-flex d-lg-flex d-md-flex">
-                                <a href="{{ route('iot')}}" class="btn btn-primary me-3">Explore Solutions</a>
+                                <a href="{{ route('contact.index')}}" class="btn btn-primary me-3">Get Started</a>
                                 {{-- <a href="http://www.youtube.com/watch?v=hAP2QF--2Dg" class="text-decoration-none popup-youtube d-inline-flex align-items-center watch-now-btn mt-3 mt-lg-0 mt-md-0 text-primary">
                                     <i class="fas fa-play text-primary border-2 border-primary"></i>
                                     Watch Demo
@@ -71,7 +71,7 @@
             </section>
 
 <!-- services start -->
-<section class="services-icon ptb-80">
+   <section class="services-icon ptb-80">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-10">
